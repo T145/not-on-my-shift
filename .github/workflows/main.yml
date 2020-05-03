@@ -18,7 +18,9 @@ jobs:
             run: bash -e build.sh
 
           - name: Compress
-            run: .github/bin/brotli -Z build/domains.txt build/hosts.txt
+            run: |
+                chmod +x .github/bin/brotli
+                .github/bin/brotli -Z build/domains.txt build/hosts.txt
 
           - name: Publish
             run: |
