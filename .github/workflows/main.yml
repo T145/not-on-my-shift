@@ -24,11 +24,14 @@ jobs:
             run: brotli -Z build/domains.txt build/hosts.txt
 
           - name: Publish
-            uses: socram8888/ftp-hash-sync@v1
-            with:
-                host: ftp.cluster021.hosting.ovh.net
-                username: orcapetlmg
-                password: ${{ secrets.FTP_PASSWORD }}
-                source: build
-                destination: www/notonmyshift
-                hashfile: domains.sha256
+            run: |
+                mkdir -p ~/.ssh/
+                echo "|1|pqAYcGlAgWemTBdNr+eYL/BrYOc=|yC8+igyEU5ldFvLoYKujPTdEbKg= ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJSgweEQn216+sUrv4A0HwrnvJi03tu/LPeJ176yB29a" >~/.ssh/known_hosts
+                chmod 600 ~/.ssh/known_hosts
+                echo "${{ secrets.SSH_KEY }}" >~/.ssh/id_ed25519
+                sftp orcapetlmg@ftp.cluster021.hosting.ovh.net <<'EOF'
+                lcd build
+                cd www/notonmyshift
+                put domains.txt
+                put hosts.txt
+                EOF
