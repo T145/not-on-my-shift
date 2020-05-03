@@ -29,7 +29,7 @@ jobs:
                 echo "|1|pqAYcGlAgWemTBdNr+eYL/BrYOc=|yC8+igyEU5ldFvLoYKujPTdEbKg= ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJSgweEQn216+sUrv4A0HwrnvJi03tu/LPeJ176yB29a" >~/.ssh/known_hosts
                 chmod 600 ~/.ssh/known_hosts
                 echo "${{ secrets.SSH_KEY }}" >~/.ssh/id_ed25519
-                chmod 400 >~/.ssh/id_ed25519
+                chmod 400 ~/.ssh/id_ed25519
                 sftp orcapetlmg@ftp.cluster021.hosting.ovh.net <<'EOF'
                 lcd build
                 cd www/notonmyshift
