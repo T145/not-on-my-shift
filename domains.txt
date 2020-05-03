@@ -1,0 +1,226 @@
+# Title: Not on my shift!
+# Expires: 4h
+# Last update: {{timestamp}}
+
+#
+# PHISHING
+#
+
+# 2020-03-31 Alledged email verification
+# http://shinai.jp/dansou/akismett/index.php?i=i&0=the@email.com
+shinai.jp
+
+# 2020-04-04 BBVA malware
+# https://transaccion.r1-cz.storage.forpsicloud.cz/comprobante.html
+transaccion.r1-cz.storage.forpsicloud.cz
+
+# 2020-04-05 OVH phising
+# http://absr.es/fake.tld
+absr.es
+# https://pago.ovh.net.alessandrogiulianelli.com/es/?AUTH_TOKEN=906ebfb35d9f008f7e7ec04cf74018293013d059c4517e2166009c8a84eae4122fc15e94413f62bd50da2292f28b1efaff51fbbebd6d280c4d9e8070cff89e53&cur=home&page=welcome&code=098167e0a127daeac7ccafb6f53a069f079016a8d569f0940367d913ee0c74c01.
+pago.ovh.net.alessandrogiulianelli.com
+# https://www.alessandrogiulianelli.com/user/snd1.php
+alessandrogiulianelli.com
+
+# 2020-04-05 Bankia phishing
+# http://mem2020.ru/wp-content/uploads/2020/04/acesso.php?65we4f564f98f7wqe5f64wq1gh
+mem2020.ru
+# http://eversharpe.com/specialtyitems/acessos/
+eversharpe.com
+
+# 2020-04-28 Scam received by mail asking for OneDrive credentials
+# https://www.treelains.com/web/page.php
+treelains.com
+
+# 2020-05-01 Scam received by mail asking for Yahoo credentials
+leasingrepublic.com
+
+# Fake Microsoft website
+# https://www.scammer.info/d/34715-sky-broadband-shield-blocked-this-website-categorising-it-as-phishing
+552346870876.khuysadgvashgjcvjsgvch.xyz
+khuysadgvashgjcvjsgvch.xyz
+
+# SCAMS
+
+# 2020-05-01 Scam reported by Jim Browning
+# https://www.youtube.com/watch?v=xOw1vct-wHg
+contactaolhelp.com
+garmincommexpress.com
+garminsmapupdate.com
+garminupdatenow.online
+hpprintersupportservice.com
+mapinfosolutions.com
+mywifiextnet.net
+navman-gpsupdate.online
+navmanupdate.online
+navmanupdates.com
+printersupports.com
+tomtomgopre.online
+wifiextenderhelp.com
+
+# 2020-05-02 ExcelTechGuru
+# https://www.scammer.info/d/34695-exceltechguru-big-24-7-scam
+exceltechguru.com
+mygeolocate.com
+
+# 2020-05-02 Typo domain squatting
+# https://www.scammer.info/d/34675-currently-active-websites-that-allow-you-to-get-popups
+facebaak.com
+facebiik.com
+fac3book.com
+faceb00k.com
+afcebook.com
+faicebook.com
+fucebook.com
+facbeook.com
+faceboko.com
+fzcebook.com
+faceblok.com
+facebppk.com
+ftacebook.com
+gmaip.com
+gmai.com
+gmaol.com
+ggmail.com
+gmaii.com
+gmsail.com
+ygmail.com
+gfmail.com
+gmalil.com
+gmaiol.com
+gmaili.com
+gjmail.com
+gmailk.com
+gmaijl.com
+gmkail.com
+gmaqil.com
+gmqail.com
+gmajil.com
+googlo.com
+goorle.com
+googls.com
+ygoogle.com
+gopogle.com
+googpe.com
+gdoogle.com
+voovle.com
+goodgle.com
+googloe.com
+googlpe.com
+googlre.com
+goovgle.com
+yotube.com
+youutbe.com
+outube.com
+yautube.com
+youtubo.com
+yohtube.com
+youthbe.com
+yojutube.com
+twittre.com
+twltter.com
+twutter.com
+fwitter.com
+tsitter.com
+twiyter.com
+twittee.com
+tywitter.com
+twuitter.com
+twiutter.com
+twitfer.com
+twittet.com
+twiktter.com
+wikia.cm
+twwitter.com
+
+# Fake coronavirus snakeoil
+# https://www.scammer.info/d/34676-immune-boost-scam-corona-scam
+centroidessentialoils.com
+
+# Fake sex booster
+# https://www.scammer.info/d/34672-bluoxyn-keto-scam
+bluoxyn.com
+
+# Printer scammer active
+# https://www.scammer.info/d/34710-big-scam-on-printer-live
+printererrorsupport.com
+epsonprintersupport247.com
+canonprintersupport247.com
+
+# Fake blood booster
+# https://www.scammer.info/d/34723-blood-boost-pill-scam
+bloodboostformula.com
+
+#
+# ADS
+#
+
+# 2020-04-06 GamoVideo
+# http://servetean.site/des
+servetean.site
+
+# 2020-04-06 steamplay
+# https://centent.steamplay.me/apu.hh?n=&direct=1&zoneid=50
+centent.steamplay.me
+
+# 2020-04-13
+# Classic "you're the 100th visitor, free iPhone" ad
+hashvalue9.live
+
+# 2020-04-27 Classic "you're the 100th visitor, free iPhone" ad
+# https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+appsemento11.live
+bestprizesday2.life
+leadsandads.com
+linuxizeswap1.live
+linuxizeswap2.live
+linuxizeswap3.live
+linuxizeswap4.live
+linuxizeswap5.live
+linuxizeswap6.live
+linuxizeswap7.live
+linuxizeswap8.live
+linuxizeswap9.live
+linuxizeswap10.live
+linuxizeswap11.live
+linuxizeswap12.live
+linuxizeswap13.live
+linuxizeswap14.live
+linuxizeswap15.live
+linuxizeswap16.live
+linuxizeswap17.live
+linuxizeswap18.live
+linuxizeswap19.live
+linuxizeswap20.live
+linuxizeswap21.live
+linuxizeswap22.live
+linuxizeswap23.live
+linuxizeswap24.live
+linuxizeswap25.live
+irlwenfog1.live
+irlwenfog2.live
+irlwenfog3.live
+irlwenfog4.live
+irlwenfog5.live
+irlwenfog6.live
+irlwenfog7.live
+irlwenfog8.live
+irlwenfog9.live
+irlwenfog10.live
+irlwenfog11.live
+irlwenfog12.live
+irlwenfog13.live
+irlwenfog14.live
+irlwenfog15.live
+irlwenfog16.live
+irlwenfog17.live
+irlwenfog18.live
+irlwenfog19.live
+irlwenfog20.live
+mynightdeb14.live
+poppinyourbox.com
+siliconvalleyq8.live
+adtrk22.com
+
+# 2020-05-01 Found at https://freedownload14online17.blogspot.com/2013/09/wii-wii-fit-plus-pal-rfpp01.html
+freeebook45online.info

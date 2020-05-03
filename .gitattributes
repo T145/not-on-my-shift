@@ -1,0 +1,43 @@
+# Force all text files to be LF
+* text=lf
+
+# Project source files
+*.bat text=crlf
+*.c text diff=cpp
+*.conf text
+*.css text
+*.diff text
+*.h text diff=cpp
+*.html text
+*.ino text diff=cpp
+*.java text diff=java
+*.js text
+*.json text
+*.md text
+*.properties text
+*.ps1 text
+*.py text diff=python
+*.scss text
+*.sh text
+*.txt text
+*.xml text diff=html
+*.yml text
+.gitattributes text
+.gitignore text
+.htaccess text
+Dockerfile text
+LICENSE text
+README text
+
+# Images
+*.bmp binary
+*.jpg binary
+*.png binary
+*.svg text
+
+# Binaries
+*.dll binary
+*.dylib binary
+*.exe binary
+*.jnilib binary
+*.so binary
