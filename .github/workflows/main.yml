@@ -15,7 +15,7 @@ jobs:
                 fetch-depth: 0
 
           - name: Set up dependencies
-            run: sudo apt install -y brotli
+            run: sudo dpkg -i .github/brotli_1.0.7-6build1_amd64.deb
 
           - name: Build
             run: bash -e build.sh
