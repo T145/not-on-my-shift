@@ -14,14 +14,11 @@ jobs:
                 # Clone all history so timestamps are accurate
                 fetch-depth: 0
 
-          - name: Set up dependencies
-            run: sudo dpkg -i .github/brotli_1.0.7-2_amd64.deb
-
           - name: Build
             run: bash -e build.sh
 
           - name: Compress
-            run: brotli -Z build/domains.txt build/hosts.txt
+            run: .github/bin/brotli -Z build/domains.txt build/hosts.txt
 
           - name: Publish
             run: |
