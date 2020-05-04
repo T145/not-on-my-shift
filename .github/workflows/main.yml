@@ -33,5 +33,7 @@ jobs:
                 lcd build
                 cd www/notonmyshift
                 put domains.txt
+                put domains.txt.br
                 put hosts.txt
+                put hosts.txt.br
                 EOF
