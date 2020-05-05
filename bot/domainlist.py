@@ -1,3 +1,4 @@
+import re
 
 class DomainList:
 	def __init__(self, file):
@@ -5,8 +6,8 @@ class DomainList:
 			self.text = f.read()
 
 	def contains(self, domain):
-		domain_regex = r'(^|\n)(#WL:)?' + re.escape(ad_domain) + r'(\n|$)'
-		return re.search(ad_domain_regex, self.text) is not None
+		domain_regex = r'(^|\n)(#WL:)?' + re.escape(domain) + r'(\n|$)'
+		return re.search(domain_regex, self.text) is not None
 
 	def redirector_append(self, redir_domain, text):
 		# Find where the redir is listed
@@ -21,5 +22,4 @@ class DomainList:
 			insert_pos = len(self.text)
 
 		# Insert
-		insert_text = '# %s (auto)\n%s\n' % (ad_url, ad_domain)
-		self.text = self.text[:insert_pos] + insert_text + self.text[insert_pos:]
+		self.text = self.text[:insert_pos] + text + self.text[insert_pos:]

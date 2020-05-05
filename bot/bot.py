@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import re
+import traceback
 import http.cookiejar
 import lxml.html
 import requests
@@ -32,12 +32,21 @@ for cls in iter_classes('scripts'):
 	try:
 		new_domains = ''
 		for found in script.iterate():
+			if found.in_list is None:
+				found.in_list = domain_list.contains(found.domain)
+
+			if found.in_list:
+				print('%s already in list' % found.domain)
+				continue
+
+			print('New: %s' % found.domain)
 			if found.full_url:
 				new_domains += '# %s\n%s\n' % (found.full_url, found.domain)
 			else:
 				new_domains += '%s\n' % found.domain
 	except Exception as e:
-		print('Failed to run: %s' % e)
+		print('Failed to run')
+		traceback.print_exc()
 		continue
 
 	if new_domains != '':
@@ -45,4 +54,4 @@ for cls in iter_classes('scripts'):
 
 cookies.save()
 
-print(domain_list.text)
+#print(domain_list.text)
