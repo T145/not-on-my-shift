@@ -164,85 +164,90 @@ servetean.site
 centent.steamplay.me
 
 # 2020-04-27 Classic "you're the 100th visitor, free iPhone" ad
-# https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-# These are entry-point domains, which then redirect to others if passed
-# Generated with ./ip-to-dns.py 62.138.18.107
+#
+# These are the extremely annoying ads that pop up out of nowhere when clicking sometimes the
+# first result on Google, and then the second time the page just works fine. I am not sure if it's
+# because the pages are hacked or what, but I really want these gone.
+#
+# The page seems to be "whatever-prize.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch", and this
+# one redirects to one whose domain that changes every few hours, but (so far) always matches
+# ^[a-z-]{16,25}[0-9]+\.life$.
+#
+# I tried listing the redirected pages but seems useless as blocking the entry points seems to be
+# enough
+bestprizesday2.life
+# The following lists currently active entry points and is generated using
+# ./util/current-prizes-list.py
+#
+# IP 5.188.178.180
+your-best-prize-boxes.life
+your-prizes1.life
+your-realgrand-prize2.life
+# IP 5.188.178.120
+bestprizesinside1.life
+# IP 62.138.18.107
 adultdating-plan1.com
 best-datings-here.com
-best-prize-snow1.life
 bestbigprizes1.life
 bestprize-places-here.life
-bestprizes1.life
 bestprizes4u1.life
-bestprizesday2.life
 big-prizes-place7.life
-bigprizes-place1.life
-check-prize4you1.life
-choose-your-prize.life
-chooseyour-prizes.life
-claim-bestyour-prise.life
-claim-your-prise4.life
 claim-your-prizes-here.life
 dirty-fantasy-here3.com
-excava-gaming.com
 flirt-dating-girls1.com
 flirt-ladyhere.com
 flirtgirlsexx3.com
 free-sex-tonight2.com
-get-a-prize.life
 get-great-prizesnow7.life
 get-prizes-online1.life
-get-prizesnow2.life
 get-your-lady-here.com
-getbest-prize1.life
 getdatinglives1.com
-getmainprize1.life
 goodzone-forprize.life
-great-prizenow1.life
-helloyour-prizes.life
-hi-prize11.life
 hook2up8.com
 hookups11.com
 localchicks-here.com
-localsexxx11.com
 meet-me-nowhere2.com
-mega-prize-area4.life
-newyourprizeishere4.life
-onlybest-prizesnow.life
 powers4-men1.com
 prize-foryou2.life
 prizesplace.life
 real-best-girls3.com
-rejoice-andwin.life
 rejoice-andwin1.life
-super-prize4you5.life
-take-prizehere.life
 take-yourprize-here.life
 takeprizes-now.life
-takeyour-prizesnow.life
-the-best-prizes17.life
 thebest-dating-here.com
-thebig-prizebox2.life
-win-your-prizes2.life
 winprizes-now.life
-women-4-you1.com
 you-now-winners1.life
-youarewinnerofprize.life
-youarewinnerofprize1.life
-youarewinnerofprize2.life
 youget-prizes-here.life
-your-bestlady.com
 your-dating-space2.com
-your-day-win-prize.life
-your-day-win-prize1.life
 your-dream-girls2.com
 your-prize-now1.life
-your-prizes1.life
 your-sex-thirst2.com
-your-super-prizes-here.life
-yourprizebox-ishere1.life
 yoursexual-desire5.com
-zone-prizes2.life
+# IP 85.25.210.155
+amorahora.space
+amorebig.space
+amournow.space
+best-profitmethods.com
+date-contacts-store.com
+dating-scan1.com
+dating-superlabs.com
+datingchoice4.com
+first-vip-flirt-book1.com
+get-best-women1.com
+great-hookuponline2.com
+hookupsearch3.com
+hot-viplady-here.com
+hotdatings-foryou.com
+morelovemessenger.space
+myprofitmethods32.com
+new-male-power1.com
+the-best-profimethods.com
+winyour-bonus2.com
+your-sexualpattern1.com
+yourbig-prizenow2.life
+yourmainstream-zone1.life
+# Recently registered domains matching
+here-is-your-prize3.life
 
 # 2020-05-01 Found at https://freedownload14online17.blogspot.com/2013/09/wii-wii-fit-plus-pal-rfpp01.html
 freeebook45online.info
