@@ -8,10 +8,16 @@ from urllib.parse import urlsplit
 from domainlist import DomainList
 from moduleiterator import iter_classes
 
-domain_list = DomainList('../domains.txt')
+parser = argparse.ArgumentParser(description='Updates domain list.')
+parser.add_argument('--domains', help='Domains file', default='domains.txt')
+parser.add_argument('--cookies', help='Cookie jar', defaults='cookies.txt')
+
+args = parser.parse_args()
+
+domain_list = DomainList(args.domains)
 
 # Cookies are important as each calls returns a new one based on the last served
-cookies = http.cookiejar.LWPCookieJar('cookies.txt')
+cookies = http.cookiejar.LWPCookieJar(args.cookies)
 try:
 	cookies.load()
 except FileNotFoundError:
