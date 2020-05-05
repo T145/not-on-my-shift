@@ -53,5 +53,4 @@ for cls in iter_classes('scripts'):
 		domain_list.redirector_append(redir_domain, new_domains)
 
 cookies.save()
-
-#print(domain_list.text)
+domain_list.save()

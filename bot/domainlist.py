@@ -2,6 +2,7 @@ import re
 
 class DomainList:
 	def __init__(self, file):
+		self.file = file
 		with open(file, 'r') as f:
 			self.text = f.read()
 
@@ -23,3 +24,7 @@ class DomainList:
 
 		# Insert
 		self.text = self.text[:insert_pos] + text + self.text[insert_pos:]
+
+	def save(self):
+		with open(self.file, 'w') as f:
+			f.write(self.text)
