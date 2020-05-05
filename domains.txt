@@ -169,9 +169,112 @@ hashvalue9.live
 
 # 2020-04-27 Classic "you're the 100th visitor, free iPhone" ad
 # https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-appsemento11.live
 bestprizesday2.life
+# The following domains are all redirected from the above
+adtrk22.com
+poppinyourbox.com
 leadsandads.com
+# Expires 2021-04-19
+mynightdeb1.live
+mynightdeb2.live
+mynightdeb3.live
+mynightdeb4.live
+mynightdeb5.live
+mynightdeb6.live
+mynightdeb7.live
+mynightdeb8.live
+mynightdeb9.live
+mynightdeb10.live
+mynightdeb11.live
+mynightdeb12.live
+mynightdeb13.live
+mynightdeb14.live
+mynightdeb15.live
+mynightdeb16.live
+mynightdeb17.live
+mynightdeb18.live
+mynightdeb19.live
+mynightdeb20.live
+# Expires 2021-04-27
+appsemento1.live
+appsemento2.live
+appsemento3.live
+appsemento4.live
+appsemento5.live
+appsemento6.live
+appsemento7.live
+appsemento8.live
+appsemento9.live
+appsemento10.live
+appsemento11.live
+appsemento12.live
+appsemento13.live
+appsemento14.live
+appsemento15.live
+# Expires 2021-05-01
+monranlesd1.live
+monranlesd2.live
+monranlesd3.live
+monranlesd4.live
+monranlesd5.live
+monranlesd6.live
+monranlesd7.live
+monranlesd8.live
+monranlesd9.live
+monranlesd10.live
+monranlesd11.live
+monranlesd12.live
+monranlesd13.live
+monranlesd14.live
+monranlesd15.live
+monranlesd16.live
+monranlesd17.live
+monranlesd18.live
+monranlesd19.live
+monranlesd20.live
+# Expires 2021-05-01
+siliconvalleyq1.live
+siliconvalleyq2.live
+siliconvalleyq3.live
+siliconvalleyq4.live
+siliconvalleyq5.live
+siliconvalleyq6.live
+siliconvalleyq7.live
+siliconvalleyq8.live
+siliconvalleyq9.live
+siliconvalleyq10.live
+siliconvalleyq11.live
+siliconvalleyq12.live
+siliconvalleyq13.live
+siliconvalleyq14.live
+siliconvalleyq15.live
+# Expires 2021-05-02
+cousyalroine1.live
+cousyalroine2.live
+cousyalroine3.live
+cousyalroine4.live
+cousyalroine5.live
+cousyalroine6.live
+cousyalroine7.live
+cousyalroine8.live
+cousyalroine9.live
+cousyalroine10.live
+cousyalroine11.live
+cousyalroine12.live
+cousyalroine13.live
+cousyalroine14.live
+cousyalroine15.live
+cousyalroine16.live
+cousyalroine17.live
+cousyalroine18.live
+cousyalroine19.live
+cousyalroine20.live
+cousyalroine21.live
+cousyalroine22.live
+cousyalroine23.live
+cousyalroine24.live
+cousyalroine25.live
+# Expires 2021-05-02
 linuxizeswap1.live
 linuxizeswap2.live
 linuxizeswap3.live
@@ -197,6 +300,7 @@ linuxizeswap22.live
 linuxizeswap23.live
 linuxizeswap24.live
 linuxizeswap25.live
+# Expires 2021-05-03
 irlwenfog1.live
 irlwenfog2.live
 irlwenfog3.live
@@ -217,10 +321,7 @@ irlwenfog17.live
 irlwenfog18.live
 irlwenfog19.live
 irlwenfog20.live
-mynightdeb14.live
-poppinyourbox.com
-siliconvalleyq8.live
-adtrk22.com
+# Expires 2021-05-03
 heartofprofit1.live
 heartofprofit2.live
 heartofprofit3.live
@@ -241,8 +342,7 @@ heartofprofit17.live
 heartofprofit18.live
 heartofprofit19.live
 heartofprofit20.live
-monranlesd12.live
-cousyalroine9.live
+# Expires 2021-05-04
 coronatimeqwerty1.live
 coronatimeqwerty2.live
 coronatimeqwerty3.live
@@ -258,6 +358,7 @@ coronatimeqwerty12.live
 coronatimeqwerty13.live
 coronatimeqwerty14.live
 coronatimeqwerty15.live
+# Expires 2021-05-05
 medusexotro1.live
 medusexotro2.live
 medusexotro3.live
