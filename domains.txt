@@ -35,10 +35,16 @@ treelains.com
 # 2020-05-01 Scam received by mail asking for Yahoo credentials
 leasingrepublic.com
 
-# Fake Microsoft website
+# 2020-05-02 Fake Microsoft website
 # https://www.scammer.info/d/34715-sky-broadband-shield-blocked-this-website-categorising-it-as-phishing
-552346870876.khuysadgvashgjcvjsgvch.xyz
 khuysadgvashgjcvjsgvch.xyz
+72345679876.khuysadgvashgjcvjsgvch.xyz
+72345779876.khuysadgvashgjcvjsgvch.xyz
+72345879876.khuysadgvashgjcvjsgvch.xyz
+552346870876.khuysadgvashgjcvjsgvch.xyz
+552347890876.khuysadgvashgjcvjsgvch.xyz
+652347890876.khuysadgvashgjcvjsgvch.xyz
+652357890876.khuysadgvashgjcvjsgvch.xyz
 
 # SCAMS
 
