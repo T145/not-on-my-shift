@@ -6,6 +6,7 @@
 *.c text diff=cpp
 *.conf text
 *.css text
+*.csv text
 *.diff text
 *.h text diff=cpp
 *.html text
