@@ -65,6 +65,10 @@ notificationvocalmms.webnode.ro
 # https://profreelancefitness.com/login/index.html?email=fake@email.com
 profreelancefitness.com
 
+# 2020-05-13 DKB phising
+# https://n3plvwcpnl349341.prod.ams3.secureserver.net/~cloudkonto/ID/DBK/qMOZxjAXonrjjZKW4/binary_content.php
+n3plvwcpnl349341.prod.ams3.secureserver.net
+
 # SCAMS
 
 # 2020-05-01 Scam reported by Jim Browning
