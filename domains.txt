@@ -46,6 +46,12 @@ khuysadgvashgjcvjsgvch.xyz
 652347890876.khuysadgvashgjcvjsgvch.xyz
 652357890876.khuysadgvashgjcvjsgvch.xyz
 
+# 2020-05-13 Fake Netflix page
+# https://lavalite.org/htacess
+lavalite.org
+# https://calacamotores.com.br/wp-content/plugins/revslider/includes/e-alert.cs-intern/invoice.receipt-2020/
+calacamotores.com.br
+
 # SCAMS
 
 # 2020-05-01 Scam reported by Jim Browning
