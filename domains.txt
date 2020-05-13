@@ -69,6 +69,12 @@ profreelancefitness.com
 # https://n3plvwcpnl349341.prod.ams3.secureserver.net/~cloudkonto/ID/DBK/qMOZxjAXonrjjZKW4/binary_content.php
 n3plvwcpnl349341.prod.ams3.secureserver.net
 
+# 2020-05-13 Microsoft phising
+# https://objectstorage.us-phoenix-1.oraclecloud.com/n/axznyrdbyddh/b/bucket-20200505-1938gfddk/o/117-Crl.html#fake@email.com
+# The domain blocked is the C&C domain
+# https://gid.do/ztee/Azure2020/realm/send.php?user=fake@email.com&pass=datpassword
+gid.do
+
 # SCAMS
 
 # 2020-05-01 Scam reported by Jim Browning
