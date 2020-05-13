@@ -49,7 +49,7 @@ khuysadgvashgjcvjsgvch.xyz
 # 2020-05-13 Fake Netflix page
 # https://lavalite.org/htacess
 lavalite.org
-# https://calacamotores.com.br/wp-includes/SimplePie/Content/Type/e-alert.cs-intern/invoice.receipt-2020/86f2fbb60fb7b50c94009182fb4edcdd/Login.php?country=ES-Spain&lang=en
+# https://calacamotores.com.br/wp-content/plugins/revslider/includes/e-alert.cs-intern/invoice.receipt-2020/
 calacamotores.com.br
 
 # SCAMS
