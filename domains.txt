@@ -57,6 +57,14 @@ calacamotores.com.br
 # http://print88.com.hk/wp-admin/user/reportdh1.php
 print88.com.hk
 
+# 2020-05-13 Orange phising website
+identifiez-vous-avec-votre-compte.yolasite.com
+notificationvocalmms.webnode.ro
+
+# 2020-05-13 Phising for Microsoft, Google and GoDaddy credentials
+# https://profreelancefitness.com/login/index.html?email=fake@email.com
+profreelancefitness.com
+
 # SCAMS
 
 # 2020-05-01 Scam reported by Jim Browning
@@ -326,3 +334,7 @@ doubleadserve.com
 powhyptene.pro
 # http://xml.fastdln.com/click?i=MPH0UvFyL6Q_0
 xml.fastdln.com
+
+# 2020-05-13 Fake Amazon ad
+# https://ppc.kopiherba.com/rk?xy=ZH9wlG9ma2Kcla92k2ppaHZxYKCDomZkaWKjY31y/fake@email.com
+ppc.kopiherba.com
