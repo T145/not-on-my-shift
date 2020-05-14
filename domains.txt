@@ -10,10 +10,6 @@
 # http://shinai.jp/dansou/akismett/index.php?i=i&0=the@email.com
 shinai.jp
 
-# 2020-04-04 BBVA malware
-# https://transaccion.r1-cz.storage.forpsicloud.cz/comprobante.html
-transaccion.r1-cz.storage.forpsicloud.cz
-
 # 2020-04-05 OVH phising
 # http://absr.es/fake.tld
 absr.es
@@ -38,13 +34,6 @@ leasingrepublic.com
 # 2020-05-02 Fake Microsoft website
 # https://www.scammer.info/d/34715-sky-broadband-shield-blocked-this-website-categorising-it-as-phishing
 khuysadgvashgjcvjsgvch.xyz
-72345679876.khuysadgvashgjcvjsgvch.xyz
-72345779876.khuysadgvashgjcvjsgvch.xyz
-72345879876.khuysadgvashgjcvjsgvch.xyz
-552346870876.khuysadgvashgjcvjsgvch.xyz
-552347890876.khuysadgvashgjcvjsgvch.xyz
-652347890876.khuysadgvashgjcvjsgvch.xyz
-652357890876.khuysadgvashgjcvjsgvch.xyz
 
 # 2020-05-13 Fake Netflix page
 # https://lavalite.org/htacess
@@ -74,6 +63,63 @@ n3plvwcpnl349341.prod.ams3.secureserver.net
 # The domain blocked is the C&C domain
 # https://gid.do/ztee/Azure2020/realm/send.php?user=fake@email.com&pass=datpassword
 gid.do
+
+# 2020-05-14 OurTime.com phising
+# https://elccircuit.com/wp-content/themes/twentynineteen/fonts/verify/ourtime/ourtime123/ourtime.php
+elccircuit.com
+
+# 2020-05-14 Netflix phising
+# https://ferienmietedosagui.com/booking/img/firstdata/pes/moga/
+ferienmietedosagui.com
+# https://igmailcadastrandonline.joomla.com/cadastro/login/
+igmailcadastrandonline.joomla.com
+
+# 2020-05-14 FB phising
+# https://m.fb-account-page.realdumpspdf.com/login.php
+m.fb-account-page.realdumpspdf.com
+fb-account-page.realdumpspdf.com
+realdumpspdf.com
+setting-pengaturan-fb.webnode.com
+
+# 2020-05-14 Microsoft phising
+# https://microsoftcloud365.yolasite.com/
+microsoftcloud365.yolasite.com
+# https://web0aruportal0config.theworkpc.com/admsf_webpostalsrvce9038390/office-3D8/owa/?utm_medium=marketing&amp;_branch_match_id=788937047078474392
+web0aruportal0config.theworkpc.com
+# http://ubfamilypractice.com/.well-known/pki-validation/office/
+ubfamilypractice.com
+
+# 2020-04-14 Orange phising
+mms-sms0766645356.webnode.sk
+mms-sms0873432486.webnode.sk
+mms-swr07676566553.webnode.at
+pyhvt.weblium.site
+serviceassistanceclientmessagerieconnect.webnode.sk
+
+# 2020-04-14 Bank phising
+sucursalesvirutualbacolombia.com
+# http://u725933url.ha004.t.justns.ru/ca2/authentification/securi=433/
+u725933url.ha004.t.justns.ru
+
+# 2020-04-14 Email phising
+update-835840.uc.r.appspot.com
+# http://weblube.com.my/wp-admin/css/colors/blue/kor/Exitkorea/upload/en.php
+weblube.com.my
+web-maintain.moonfruit.com
+
+# 2020-04-14 Chase phising
+# https://www.helpcube.net/wp-content/themes/danfe/ch-log/chase/xwantedCHASE/onreviwer/dashboard
+helpcube.net
+
+# 2020-04-14 LinkedIn phising
+# https://www.popplanet.com.au/pdf/checkpoint/index.php?email=
+popplanet.com.au
+
+# 2020-04-14 Apple phising
+# http://www.autorizador5.com.br/wp-content/plugins/akismet/compte/verifier/Apple.fr/
+autorizador5.com.br
+# http://www.churrascariameinhaus.com.br/novosite/respondi/compte/verifier/Apple.fr/
+churrascariameinhaus.com.br
 
 # SCAMS
 
@@ -348,3 +394,7 @@ xml.fastdln.com
 # 2020-05-13 Fake Amazon ad
 # https://ppc.kopiherba.com/rk?xy=ZH9wlG9ma2Kcla92k2ppaHZxYKCDomZkaWKjY31y/fake@email.com
 ppc.kopiherba.com
+
+# 2020-05-14 Fake Amazon ad
+# https://shabx.focuspointdesign.com/o1d?pq=ZIFwlG9ma2Kcla92k2ppaHZxYKCDomZjbmKjY31y/support@rusty.com.au
+shabx.focuspointdesign.com
