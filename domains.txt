@@ -398,3 +398,23 @@ ppc.kopiherba.com
 # 2020-05-14 Fake Amazon ad
 # https://shabx.focuspointdesign.com/o1d?pq=ZIFwlG9ma2Kcla92k2ppaHZxYKCDomZjbmKjY31y/support@rusty.com.au
 shabx.focuspointdesign.com
+
+#
+# TRACKING
+#
+
+# 2020-05-14 Xiaomi mail beacon
+# http://url8807.global.passport.xiaomi.com/wf/open
+url8807.global.passport.xiaomi.com
+
+# 2020-05-14 Farnell mail beacon
+# http://email.farnell.com/trk
+email.farnell.com
+
+# 2020-05-14 Just-Eat Spain mail beacon
+# http://ablink.emails.just-eat.es/wf/open
+ablink.emails.just-eat.es
+
+# 2020-05-14 Danone mail beacon
+# https://push.danone.es/email/image.png
+push.danone.es
