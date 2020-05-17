@@ -33,3 +33,4 @@ jobs:
                 commit_message: 'Automatic build (Not on my shift)'
                 repository: orca.pet
                 branch: gh-pages
+                token: ${{ secrets.COMMIT_TOKEN }}
