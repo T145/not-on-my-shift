@@ -20,6 +20,7 @@ jobs:
                 repository: socram8888/orca.pet
                 ref: gh-pages
                 path: orca.pet
+                token: ${{ secrets.COMMIT_TOKEN }}
 
           - name: Build
             run: |
@@ -28,9 +29,8 @@ jobs:
                 cp build/hosts.txt orca.pet/notonmyshift/hosts.txt
 
           - name: Publish
-            uses: stefanzweifel/git-auto-commit-action@v4
+            uses: stefanzweifel/git-auto-commit-action@v4.3.0
             with:
                 commit_message: 'Automatic build (Not on my shift)'
                 repository: orca.pet
                 branch: gh-pages
-                token: ${{ secrets.COMMIT_TOKEN }}
