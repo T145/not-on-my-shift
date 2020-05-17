@@ -8,32 +8,28 @@ jobs:
     build:
         runs-on: ubuntu-18.04
         steps:
-          - name: Checkout
+          - name: Checkout source
             uses: actions/checkout@v2
             with:
-                # Clone all history so timestamps are accurate
-                fetch-depth: 0
+                # Clone just last ten which should be enough to have the hosts timestamp
+                fetch-depth: 10
+
+          - name: Checkout orca.pet
+            uses: actions/checkout@v2
+            with:
+                repository: socram8888/orca.pet
+                ref: gh-pages
+                path: orca.pet
 
           - name: Build
-            run: bash -e build.sh
-
-          - name: Compress
             run: |
-                chmod +x .github/bin/brotli
-                .github/bin/brotli -Z build/domains.txt build/hosts.txt
+                bash -e build.sh
+                cp build/domains.txt orca.pet/notonmyshift/domains.txt
+                cp build/hosts.txt orca.pet/notonmyshift/hosts.txt
 
           - name: Publish
-            run: |
-                mkdir -p ~/.ssh/
-                echo "|1|pqAYcGlAgWemTBdNr+eYL/BrYOc=|yC8+igyEU5ldFvLoYKujPTdEbKg= ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJSgweEQn216+sUrv4A0HwrnvJi03tu/LPeJ176yB29a" >~/.ssh/known_hosts
-                chmod 600 ~/.ssh/known_hosts
-                echo "${{ secrets.SSH_KEY }}" >~/.ssh/id_ed25519
-                chmod 400 ~/.ssh/id_ed25519
-                sftp orcapetlmg@ftp.cluster021.hosting.ovh.net <<'EOF'
-                lcd build
-                cd www/notonmyshift
-                put domains.txt
-                put domains.txt.br
-                put hosts.txt
-                put hosts.txt.br
-                EOF
+            uses: stefanzweifel/git-auto-commit-action@v4
+            with:
+                commit_message: 'Automatic build (Not on my shift)'
+                repository: orca.pet
+                branch: gh-pages
