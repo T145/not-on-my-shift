@@ -427,3 +427,7 @@ ablink.emails.just-eat.es
 # 2020-05-14 Danone mail beacon
 # https://push.danone.es/email/image.png
 push.danone.es
+
+# 2020-05-20 N26 mail beacon
+# https://click.email.n26.com/open.aspx
+click.email.n26.com
