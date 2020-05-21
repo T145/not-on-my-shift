@@ -124,7 +124,12 @@ churrascariameinhaus.com.br
 # 2020-05-21 Bankia phising
 es-cuentabankialogin.com
 
+# 2020-05-21 C&C for mail scam
+update-serviceq.cf
+
+#
 # SCAMS
+#
 
 # 2020-05-01 Scam reported by Jim Browning
 # https://www.youtube.com/watch?v=xOw1vct-wHg
