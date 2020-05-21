@@ -89,37 +89,40 @@ web0aruportal0config.theworkpc.com
 # http://ubfamilypractice.com/.well-known/pki-validation/office/
 ubfamilypractice.com
 
-# 2020-04-14 Orange phising
+# 2020-05-14 Orange phising
 mms-sms0766645356.webnode.sk
 mms-sms0873432486.webnode.sk
 mms-swr07676566553.webnode.at
 pyhvt.weblium.site
 serviceassistanceclientmessagerieconnect.webnode.sk
 
-# 2020-04-14 Bank phising
+# 2020-05-14 Bank phising
 sucursalesvirutualbacolombia.com
 # http://u725933url.ha004.t.justns.ru/ca2/authentification/securi=433/
 u725933url.ha004.t.justns.ru
 
-# 2020-04-14 Email phising
+# 2020-05-14 Email phising
 update-835840.uc.r.appspot.com
 # http://weblube.com.my/wp-admin/css/colors/blue/kor/Exitkorea/upload/en.php
 weblube.com.my
 web-maintain.moonfruit.com
 
-# 2020-04-14 Chase phising
+# 2020-05-14 Chase phising
 # https://www.helpcube.net/wp-content/themes/danfe/ch-log/chase/xwantedCHASE/onreviwer/dashboard
 helpcube.net
 
-# 2020-04-14 LinkedIn phising
+# 2020-05-14 LinkedIn phising
 # https://www.popplanet.com.au/pdf/checkpoint/index.php?email=
 popplanet.com.au
 
-# 2020-04-14 Apple phising
+# 2020-05-14 Apple phising
 # http://www.autorizador5.com.br/wp-content/plugins/akismet/compte/verifier/Apple.fr/
 autorizador5.com.br
 # http://www.churrascariameinhaus.com.br/novosite/respondi/compte/verifier/Apple.fr/
 churrascariameinhaus.com.br
+
+# 2020-05-21 Bankia phising
+es-cuentabankialogin.com
 
 # SCAMS
 
@@ -407,6 +410,9 @@ ppc.kopiherba.com
 # 2020-05-14 Fake Amazon ad
 # https://shabx.focuspointdesign.com/o1d?pq=ZIFwlG9ma2Kcla92k2ppaHZxYKCDomZjbmKjY31y/support@rusty.com.au
 shabx.focuspointdesign.com
+
+# 2020-05-20 Yandex Ads
+adsdk.yandex.ru
 
 #
 # TRACKING
