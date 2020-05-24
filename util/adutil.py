@@ -1,4 +1,5 @@
 
+import csv
 import glob
 import requests
 from zipfile import ZipFile
@@ -34,3 +35,15 @@ def is_prize_domain(domain):
 		return False
 
 	return True
+
+def load_ham_spam(filename):
+	domains = dict()
+
+	with open(filename, newline='') as file:
+		csvreader = csv.reader(file, dialect='unix')
+		for row in csvreader:
+			if len(row) != 2:
+				continue
+			domains[row[0]] = bool(int(row[1]))
+
+	return domains
