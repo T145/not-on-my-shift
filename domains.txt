@@ -446,3 +446,6 @@ click.email.n26.com
 # 2020-05-21 Minecraft telemetry
 minecraftprod.rtep.msgamestudios.com
 
+# 2020-05-24 eBay mail beacon
+# https://rover.ebay.com/roveropen/0/e11021/7
+rover.ebay.com
