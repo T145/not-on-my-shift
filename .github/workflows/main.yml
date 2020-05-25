@@ -33,12 +33,12 @@ jobs:
                 path: ~/.cache/pip
                 key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
                 restore-keys: |
-                  ${{ runner.os }}-pip-
+                    ${{ runner.os }}-pip-
 
           - name: Build
             run: |
                 pip install -r requirements.txt
-                ./build.py filters.yml --abp orca.pet/notonmyshift/abp.txt --domains orca.pet/notonmyshift/domains.txt --hosts orca.pet/notonmyshift/hosts.txt
+                python build.py filters.yml --abp orca.pet/notonmyshift/abp.txt --domains orca.pet/notonmyshift/domains.txt --hosts orca.pet/notonmyshift/hosts.txt
 
           - name: Publish
             uses: stefanzweifel/git-auto-commit-action@v4.3.0
