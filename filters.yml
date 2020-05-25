@@ -306,7 +306,7 @@ groups:
 
           - date: 2020-05-25
             desc: Ads on mail.yandex.ru
-            filter: '||mail.yandex.ru/u2709/'
+            filter: '||mail.yandex.ru/u2709/*$xhr'
 
     mail_beacons:
         header: |
@@ -349,3 +349,7 @@ groups:
             domain: minecraftprod.rtep.msgamestudios.com
             # Hosts-only entry, as this will not be accessed from a web browser
             filters: []
+
+          - date: 2020-05-25
+            desc: Yandex Mail telemetry
+            filter: '||mail.yandex.ru/monitoring_liza.txt'
