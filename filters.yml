@@ -1,323 +1,338 @@
 
 phising:
-  - date: 2020-05-13 
-    desc: Microsoft phising
-    sample: https://gid.do/ztee/Azure2020/realm/send.php?user=fake@email.com&pass=datpassword
+    header: |
+        === PHISING ===
+        These filters block pages that are not yet blocked by Google Safe Search
 
-  - date: 2020-05-13 
-    desc: Facebook phising
-    hosts:
-      - m.fb-account-page.realdumpspdf.com
-      - fb-account-page.realdumpspdf.com
-    filters:
-      - ||realdumpspdf.com
-    sample: https://m.fb-account-page.realdumpspdf.com/login.php
+    entries:
+      - date: 2020-05-13 
+        desc: Microsoft phising
+        sample: https://gid.do/ztee/Azure2020/realm/send.php?user=fake@email.com&pass=datpassword
+
+      - date: 2020-05-13 
+        desc: Facebook phising
+        domain: realdumpspdf.com
+        hosts:
+          - m.fb-account-page.realdumpspdf.com
+          - fb-account-page.realdumpspdf.com
+        sample: https://m.fb-account-page.realdumpspdf.com/login.php
 
 scams:
-  - date: 2020-05-01
-    desc: Scam reported by Jim Browning
-    source: https://www.youtube.com/watch?v=xOw1vct-wHg
-    domains:
-      - contactaolhelp.com
-      - garmincommexpress.com
-      - garminsmapupdate.com
-      - garminupdatenow.online
-      - hpprintersupportservice.com
-      - mapinfosolutions.com
-      - mywifiextnet.net
-      - navman-gpsupdate.online
-      - navmanupdate.online
-      - navmanupdates.com
-      - printersupports.com
-      - tomtomgopre.online
-      - wifiextenderhelp.com
+    header: |
+        === SCAMS ===
+        These filters block pages which are known to scam people for money or gift cards
 
-  - date: 2020-05-02
-    desc: ExcelTechGuru
-    source: https://www.scammer.info/d/34695-exceltechguru-big-24-7-scam
-    domains:
-      - exceltechguru.com
-      - mygeolocate.com
+    entries:
+      - date: 2020-05-01
+        desc: Scam reported by Jim Browning
+        source: https://www.youtube.com/watch?v=xOw1vct-wHg
+        domains:
+          - contactaolhelp.com
+          - garmincommexpress.com
+          - garminsmapupdate.com
+          - garminupdatenow.online
+          - hpprintersupportservice.com
+          - mapinfosolutions.com
+          - mywifiextnet.net
+          - navman-gpsupdate.online
+          - navmanupdate.online
+          - navmanupdates.com
+          - printersupports.com
+          - tomtomgopre.online
+          - wifiextenderhelp.com
 
-  - date: 2020-05-02
-    desc: Typo domain squatting
-    source: https://www.scammer.info/d/34675-currently-active-websites-that-allow-you-to-get-popups
-    domains:
-      - facebaak.com
-      - facebiik.com
-      - fac3book.com
-      - faceb00k.com
-      - afcebook.com
-      - faicebook.com
-      - fucebook.com
-      - facbeook.com
-      - faceboko.com
-      - fzcebook.com
-      - faceblok.com
-      - facebppk.com
-      - ftacebook.com
-      - gmaip.com
-      - gmai.com
-      - gmaol.com
-      - ggmail.com
-      - gmaii.com
-      - gmsail.com
-      - ygmail.com
-      - gfmail.com
-      - gmalil.com
-      - gmaiol.com
-      - gmaili.com
-      - gjmail.com
-      - gmailk.com
-      - gmaijl.com
-      - gmkail.com
-      - gmaqil.com
-      - gmqail.com
-      - gmajil.com
-      - googlo.com
-      - goorle.com
-      - googls.com
-      - ygoogle.com
-      - gopogle.com
-      - googpe.com
-      - gdoogle.com
-      - voovle.com
-      - goodgle.com
-      - googloe.com
-      - googlpe.com
-      - googlre.com
-      - goovgle.com
-      - yotube.com
-      - youutbe.com
-      - outube.com
-      - yautube.com
-      - youtubo.com
-      - yohtube.com
-      - youthbe.com
-      - yojutube.com
-      - twittre.com
-      - twltter.com
-      - twutter.com
-      - fwitter.com
-      - tsitter.com
-      - twiyter.com
-      - twittee.com
-      - tywitter.com
-      - twuitter.com
-      - twiutter.com
-      - twitfer.com
-      - twittet.com
-      - twiktter.com
-      - wikia.cm
-      - twwitter.com
+      - date: 2020-05-02
+        desc: ExcelTechGuru
+        source: https://www.scammer.info/d/34695-exceltechguru-big-24-7-scam
+        domains:
+          - exceltechguru.com
+          - mygeolocate.com
 
-  - date: 2020-05-02
-    desc: Coronavirus snakeoil
-    source: https://www.scammer.info/d/34676-immune-boost-scam-corona-scam
-    domains:
-      - centroidessentialoils.com
+      - date: 2020-05-02
+        desc: Typo domain squatting
+        source: https://www.scammer.info/d/34675-currently-active-websites-that-allow-you-to-get-popups
+        domains:
+          - facebaak.com
+          - facebiik.com
+          - fac3book.com
+          - faceb00k.com
+          - afcebook.com
+          - faicebook.com
+          - fucebook.com
+          - facbeook.com
+          - faceboko.com
+          - fzcebook.com
+          - faceblok.com
+          - facebppk.com
+          - ftacebook.com
+          - gmaip.com
+          - gmai.com
+          - gmaol.com
+          - ggmail.com
+          - gmaii.com
+          - gmsail.com
+          - ygmail.com
+          - gfmail.com
+          - gmalil.com
+          - gmaiol.com
+          - gmaili.com
+          - gjmail.com
+          - gmailk.com
+          - gmaijl.com
+          - gmkail.com
+          - gmaqil.com
+          - gmqail.com
+          - gmajil.com
+          - googlo.com
+          - goorle.com
+          - googls.com
+          - ygoogle.com
+          - gopogle.com
+          - googpe.com
+          - gdoogle.com
+          - voovle.com
+          - goodgle.com
+          - googloe.com
+          - googlpe.com
+          - googlre.com
+          - goovgle.com
+          - yotube.com
+          - youutbe.com
+          - outube.com
+          - yautube.com
+          - youtubo.com
+          - yohtube.com
+          - youthbe.com
+          - yojutube.com
+          - twittre.com
+          - twltter.com
+          - twutter.com
+          - fwitter.com
+          - tsitter.com
+          - twiyter.com
+          - twittee.com
+          - tywitter.com
+          - twuitter.com
+          - twiutter.com
+          - twitfer.com
+          - twittet.com
+          - twiktter.com
+          - wikia.cm
+          - twwitter.com
 
-  - date: 2020-05-02
-    desc: Fake sex booster
-    source: https://www.scammer.info/d/34672-bluoxyn-keto-scam
-    domains:
-      - bluoxyn.com
+      - date: 2020-05-02
+        desc: Coronavirus snakeoil
+        source: https://www.scammer.info/d/34676-immune-boost-scam-corona-scam
+        domain: centroidessentialoils.com
 
-  - date: 2020-05-02
-    desc: Printer scammer active
-    source: https://www.scammer.info/d/34710-big-scam-on-printer-live
-    domains:
-      - printererrorsupport.com
-      - epsonprintersupport247.com
-      - canonprintersupport247.com
+      - date: 2020-05-02
+        desc: Fake sex booster
+        source: https://www.scammer.info/d/34672-bluoxyn-keto-scam
+        domain: bluoxyn.com
 
-  - date: 2020-05-02
-    desc: Fake blood booster
-    source: https://www.scammer.info/d/34723-blood-boost-pill-scam
-    domains:
-      - bloodboostformula.com
+      - date: 2020-05-02
+        desc: Printer scammer active
+        source: https://www.scammer.info/d/34710-big-scam-on-printer-live
+        domains:
+          - printererrorsupport.com
+          - epsonprintersupport247.com
+          - canonprintersupport247.com
 
-  - date: 2020-05-04
-    desc: Just the average easy money scam
-    domains:
-      - formulavitali.com
-      - opportunemoney.com
-      - megamoneymarket.com
-      - trendinassets.com
+      - date: 2020-05-02
+        desc: Fake blood booster
+        source: https://www.scammer.info/d/34723-blood-boost-pill-scam
+        domain: bloodboostformula.com
+
+      - date: 2020-05-04
+        desc: Just the average easy money scam
+        domains:
+          - formulavitali.com
+          - opportunemoney.com
+          - megamoneymarket.com
+          - trendinassets.com
 
 ads:
-  - date: 2020-04-06
-    desc: GamoVideo
-    sample: https://servetean.site/des
+    header: |
+        === ADVERTISEMENTS ===
+        These entries block good old advertisements, which are annoying but pose no threat
 
-  - date: 2020-04-06
-    desc: steamplay
-    sample: https://centent.steamplay.me/apu.hh?n=&direct=1&zoneid=50
+    entries:
+      - date: 2020-04-06
+        desc: GamoVideo
+        sample: https://servetean.site/des
 
-  - date: 2020-04-27
-    desc: |
-        These are the extremely annoying ads that pop up out of nowhere when clicking sometimes the
-        first result on Google, and then the second time the page just works fine. I am not sure if it's
-        because the pages are hacked or what, but I really want these gone.
-        
-        The page seems to be "whatever-prize.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch", and this
-        one redirects to one whose domain that changes every few hours, but (so far) always matches
-        ^[a-z-]{16,25}[0-9]+\.life$.
-        
-        I tried listing the redirected pages but seems useless as blocking the entry points seems to be
-        enough.
-    domains:
-      - adultdating-plan1.com
-      - amorebig.space
-      - amournow.space
-      - best-dating-girls3.com
-      - best-dating-there2.com
-      - best-dating-you1.com
-      - best-datings-here.com
-      - best-datings-here1.com
-      - best-profitmethods.com
-      - bestbigprizes1.life
-      - besthot-ladyhere.com
-      - bestprize-places-here.life
-      - bestprizes4u1.life
-      - bestprizesday2.life
-      - bestprizesinside1.life
-      - big-prizes-place7.life
-      - bigprize-4you1.life
-      - claim-your-prizes-here.life
-      - date-contacts-store.com
-      - dating-clubs19.com
-      - dating-future19.com
-      - dating-hearts-today1.com
-      - dating-scan1.com
-      - dating-superlabs.com
-      - dating-tables-clubs1.com
-      - dating-tables-today1.com
-      - dating4-hearts-now1.com
-      - datingchoice4.com
-      - datings-for4you1.com
-      - dirty-fantasy-here3.com
-      - first-vip-flirt-book1.com
-      - flirt-dating-girls1.com
-      - flirt-ladyhere.com
-      - flirtgirlsexx3.com
-      - free-sex-tonight2.com
-      - get-best-women1.com
-      - get-great-prizesnow7.life
-      - get-prizes-online1.life
-      - get-your-lady-here.com
-      - getdatinglives1.com
-      - goodzone-forprize.life
-      - great-hookuponline2.com
-      - great-prize-area1.life
-      - here-is-your-prize3.life
-      - hook2up8.com
-      - hookups11.com
-      - hookupsearch3.com
-      - hot-datinghere3.com
-      - hot-viplady-here.com
-      - hotdatings-foryou.com
-      - localchicks-here.com
-      - loveplus.space
-      - meet-me-nowhere2.com
-      - megabonus-point5.life
-      - menandpowerpills3.com
-      - morelovemessenger.space
-      - myprofitmethods32.com
-      - new-dating-today1.com
-      - new-datings-realy1.com
-      - new-male-power1.com
-      - powers4-men1.com
-      - prize-foryou2.life
-      - prizesplace.life
-      - real-best-girls3.com
-      - rejoice-andwin1.life
-      - take-yourprize-here.life
-      - takeprizes-now.life
-      - the-best-profimethods.com
-      - thebest-dating-here.com
-      - winprizes-now.life
-      - winyour-bonus2.com
-      - you-now-winners1.life
-      - youget-prizes-here.life
-      - your-best-prize-boxes.life
-      - your-dating-space2.com
-      - your-dream-girls2.com
-      - your-prize-now1.life
-      - your-prizes1.life
-      - your-realgrand-prize2.life
-      - your-sex-thirst2.com
-      - your-sexualpattern1.com
-      - yourbig-prizenow2.life
-      - yourhot-casualdating1.com
-      - yourmainstream-zone1.life
-      - yoursexual-desire5.com
-    sample: https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+      - date: 2020-04-06
+        desc: steamplay
+        sample: https://centent.steamplay.me/apu.hh?n=&direct=1&zoneid=50
 
-  - date: 2020-05-04
-    domains:
-      - 3xp4e3kno6.top
-    hosts:
-      - free-movies.3xp4e3kno6.top
-    sample: https://free-movies.3xp4e3kno6.top/premiumstream/cinema/amazon/es/custom-survey/index.html
+      - date: 2020-04-27
+        desc: |
+            These are the extremely annoying ads that pop up out of nowhere when clicking sometimes the
+            first result on Google, and then the second time the page just works fine. I am not sure if it's
+            because the pages are hacked or what, but I really want these gone.
+            
+            The page seems to be "whatever-prize.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch", and this
+            one redirects to one whose domain that changes every few hours, but (so far) always matches
+            ^[a-z-]{16,25}[0-9]+\.life$.
+            
+            I tried listing the redirected pages but seems useless as blocking the entry points seems to be
+            enough.
+        domains:
+          - adultdating-plan1.com
+          - amorebig.space
+          - amournow.space
+          - best-dating-girls3.com
+          - best-dating-there2.com
+          - best-dating-you1.com
+          - best-datings-here.com
+          - best-datings-here1.com
+          - best-profitmethods.com
+          - bestbigprizes1.life
+          - besthot-ladyhere.com
+          - bestprize-places-here.life
+          - bestprizes4u1.life
+          - bestprizesday2.life
+          - bestprizesinside1.life
+          - big-prizes-place7.life
+          - bigprize-4you1.life
+          - claim-your-prizes-here.life
+          - date-contacts-store.com
+          - dating-clubs19.com
+          - dating-future19.com
+          - dating-hearts-today1.com
+          - dating-scan1.com
+          - dating-superlabs.com
+          - dating-tables-clubs1.com
+          - dating-tables-today1.com
+          - dating4-hearts-now1.com
+          - datingchoice4.com
+          - datings-for4you1.com
+          - dirty-fantasy-here3.com
+          - first-vip-flirt-book1.com
+          - flirt-dating-girls1.com
+          - flirt-ladyhere.com
+          - flirtgirlsexx3.com
+          - free-sex-tonight2.com
+          - get-best-women1.com
+          - get-great-prizesnow7.life
+          - get-prizes-online1.life
+          - get-your-lady-here.com
+          - getdatinglives1.com
+          - goodzone-forprize.life
+          - great-hookuponline2.com
+          - great-prize-area1.life
+          - here-is-your-prize3.life
+          - hook2up8.com
+          - hookups11.com
+          - hookupsearch3.com
+          - hot-datinghere3.com
+          - hot-viplady-here.com
+          - hotdatings-foryou.com
+          - localchicks-here.com
+          - loveplus.space
+          - meet-me-nowhere2.com
+          - megabonus-point5.life
+          - menandpowerpills3.com
+          - morelovemessenger.space
+          - myprofitmethods32.com
+          - new-dating-today1.com
+          - new-datings-realy1.com
+          - new-male-power1.com
+          - powers4-men1.com
+          - prize-foryou2.life
+          - prizesplace.life
+          - real-best-girls3.com
+          - rejoice-andwin1.life
+          - take-yourprize-here.life
+          - takeprizes-now.life
+          - the-best-profimethods.com
+          - thebest-dating-here.com
+          - winprizes-now.life
+          - winyour-bonus2.com
+          - you-now-winners1.life
+          - youget-prizes-here.life
+          - your-best-prize-boxes.life
+          - your-dating-space2.com
+          - your-dream-girls2.com
+          - your-prize-now1.life
+          - your-prizes1.life
+          - your-realgrand-prize2.life
+          - your-sex-thirst2.com
+          - your-sexualpattern1.com
+          - yourbig-prizenow2.life
+          - yourhot-casualdating1.com
+          - yourmainstream-zone1.life
+          - yoursexual-desire5.com
+        sample: https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 
-  - date: 2020-05-04
-    hosts:
-     - track1.surfthewave.xyz
-     - track2.surfthewave.xyz
-     - track3.surfthewave.xyz
-     - track4.surfthewave.xyz
-    filters:
-      - '/^https?\:\/\/track[0-9]+\.surfthewave\.xyz/'
-    sample: https://track4.surfthewave.xyz/l.php?trf=m&p=c:dvtupna21wp_uynl6&d=5ea02f085f5f901c972876ae
+      - date: 2020-05-04
+        domain: 3xp4e3kno6.top
+        hosts:
+          - free-movies.3xp4e3kno6.top
+        sample: https://free-movies.3xp4e3kno6.top/premiumstream/cinema/amazon/es/custom-survey/index.html
 
-  - date: 2020-05-04
-    samples:
-      - http://mta.vkrpep12.com/s/r?ridb=22&p=21b91oTbMTUbXnx8zMoKFjP1rZibofqpnfHphhnI9MKapSLfwSrYsOYSFkb2PatPodrUR2dRc7if3M9wL2GAZr938XWaZhfYQnl1gNrua2BnZQP5rZ
-      - https://go.exrtbsrv.com/r.php?i=70354323&p=p16090245&s=s3&c=S3V3aU9kSnZETTZvQ2xHR2h0eG0rQT09
-      - https://click.hooligapps.com/?pid=3&offer_id=2&land=156&sub1=pu_remnant
-      - http://click.expmediadirect.com/click?i=U3I9LFLMLk8_0
-      - http://r.mylot.com/go.ashx?w=cD1leHBsb3JhZHN3bCZrPXd3dy5ieW1lc3RldGljYS5jb20mYj0wLjAwMDUmcz0yMjEyOTM1
-      - https://doubleadserve.com/Redirect.eng
-      - http://xml.fastdln.com/click?i=MPH0UvFyL6Q_0
-      - https://z3dmbpl6309s.com/kcj93ej3j?key=0f22c1fd609f13cb7947c8cabfe1a90d&submetric=8025
+      - date: 2020-05-04
+        domains:
+         - track1.surfthewave.xyz
+         - track2.surfthewave.xyz
+         - track3.surfthewave.xyz
+         - track4.surfthewave.xyz
+        filter: '/^https?\:\/\/track[0-9]+\.surfthewave\.xyz/'
+        sample: https://track4.surfthewave.xyz/l.php?trf=m&p=c:dvtupna21wp_uynl6&d=5ea02f085f5f901c972876ae
 
-  - date: 2020-05-04
-    desc: Ads on Yandex Mail for Android
-    domains:
-      - adsdk.yandex.ru
+      - date: 2020-05-04
+        samples:
+          - http://mta.vkrpep12.com/s/r?ridb=22&p=21b91oTbMTUbXnx8zMoKFjP1rZibofqpnfHphhnI9MKapSLfwSrYsOYSFkb2PatPodrUR2dRc7if3M9wL2GAZr938XWaZhfYQnl1gNrua2BnZQP5rZ
+          - https://go.exrtbsrv.com/r.php?i=70354323&p=p16090245&s=s3&c=S3V3aU9kSnZETTZvQ2xHR2h0eG0rQT09
+          - https://click.hooligapps.com/?pid=3&offer_id=2&land=156&sub1=pu_remnant
+          - http://click.expmediadirect.com/click?i=U3I9LFLMLk8_0
+          - http://r.mylot.com/go.ashx?w=cD1leHBsb3JhZHN3bCZrPXd3dy5ieW1lc3RldGljYS5jb20mYj0wLjAwMDUmcz0yMjEyOTM1
+          - https://doubleadserve.com/Redirect.eng
+          - http://xml.fastdln.com/click?i=MPH0UvFyL6Q_0
+          - https://z3dmbpl6309s.com/kcj93ej3j?key=0f22c1fd609f13cb7947c8cabfe1a90d&submetric=8025
+
+      - date: 2020-05-04
+        desc: Ads on Yandex Mail for Android
+        domain: adsdk.yandex.ru
 
 mail_beacons:
-  - date: 2020-05-14
-    desc: Xiaomi mail beacon
-    sample: http://url8807.global.passport.xiaomi.com/wf/open
+    header: |
+        === MAIL BEACONS ===
+        These entries block beacons on mail which companies use to check if bulk email/spam is read for obvious privacy reasons
 
-  - date: 2020-05-14
-    desc: Farnell mail beacon
-    filters:
-      - ||email.farnell.com/trk
+    entries:
+      - date: 2020-05-14
+        desc: Xiaomi mail beacon
+        sample: http://url8807.global.passport.xiaomi.com/wf/open
 
-  - date: 2020-05-14
-    desc: Just-Eat Spain mail beacon
-    filters:
-      - ||ablink.emails.just-eat.es/wf/open
+      - date: 2020-05-14
+        desc: Farnell mail beacon
+        filter: '||email.farnell.com/trk'
 
-  - date: 2020-05-14
-    desc: Danone mail beacon
-    filters:
-      - ||push.danone.es/email/image.png
+      - date: 2020-05-14
+        desc: Just-Eat Spain mail beacon
+        filter: '||ablink.emails.just-eat.es/wf/open'
 
-  - date: 2020-05-20
-    desc: N26 mail beacon
-    filters:
-      - ||click.email.n26.com/open.aspx
+      - date: 2020-05-14
+        desc: Danone mail beacon
+        filter: '||push.danone.es/email/image.png'
 
-  - date: eBay mail beacon
-    filters:
-      - ||rover.ebay.com/roveropen/
+      - date: 2020-05-20
+        desc: N26 mail beacon
+        filter: '||click.email.n26.com/open.aspx'
+
+      - date: 2020-05-20
+        desc: eBay mail beacon
+        filter: '||rover.ebay.com/roveropen/'
 
 tracking:
-  - date: 2020-05-21
-    desc: Minecraft telemetry
-    domains:
-      - minecraftprod.rtep.msgamestudios.com
+    header: |
+        === TRACKING AND PRIVACY ===
+        These entries block web tracking and telemetry
+
+    entries:
+      - date: 2020-05-21
+        desc: Minecraft telemetry
+        domain: minecraftprod.rtep.msgamestudios.com
+        # Hosts-only entry, as this will not be accessed from a web browser
+        filters: []
