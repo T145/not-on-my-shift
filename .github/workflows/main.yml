@@ -22,11 +22,23 @@ jobs:
                 path: orca.pet
                 token: ${{ secrets.COMMIT_TOKEN }}
 
+          - name: Setup Python
+            uses: actions/setup-python@v1
+            with:
+                python-version: 3.7
+
+          - name: Setup Pip cache
+            uses: actions/cache@v1
+            with:
+                path: ~/.cache/pip
+                key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+                restore-keys: |
+                  ${{ runner.os }}-pip-
+
           - name: Build
             run: |
-                bash -e build.sh
-                cp build/domains.txt orca.pet/notonmyshift/domains.txt
-                cp build/hosts.txt orca.pet/notonmyshift/hosts.txt
+                pip install -r requirements.txt
+                ./build.py filters.yml --abp orca.pet/notonmyshift/abp.txt --domains orca.pet/notonmyshift/domains.txt --hosts orca.pet/notonmyshift/hosts.txt
 
           - name: Publish
             uses: stefanzweifel/git-auto-commit-action@v4.3.0
