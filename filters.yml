@@ -304,6 +304,10 @@ groups:
             desc: Ads on Yandex Mail for Android
             domain: adsdk.yandex.ru
 
+          - date: 2020-05-25
+            desc: Ads on mail.yandex.ru
+            filter: '||mail.yandex.ru/u2709/'
+
     mail_beacons:
         header: |
             === MAIL BEACONS ===
