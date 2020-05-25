@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import argparse
+from datetime import datetime
 from publicsuffixlist import PublicSuffixList
 import re
 import textwrap
@@ -15,7 +16,7 @@ parser.add_argument('--abp', type=argparse.FileType('w'), help='output ABP file'
 args = parser.parse_args()
 
 psl = PublicSuffixList()
-filters_by_type = yaml.safe_load(args.yaml)
+filter_list = yaml.safe_load(args.yaml)
 
 def get_plural(entry, singular, fallback=None):
 	plural = '%ss' % singular
@@ -30,7 +31,25 @@ def remove_prefix(text, prefix):
 		return text[len(prefix):]
 	return text
 
-for type_name, type_group in filters_by_type.items():
+now = datetime.utcnow()
+now = now.replace(microsecond=0)
+now = now.isoformat() + 'Z'
+
+list_header = filter_list['header'].format(timestamp=now)
+
+if args.hosts:
+	args.hosts.write(textwrap.indent(list_header, '# '))
+	args.hosts.write('\n')
+
+if args.domains:
+	args.domains.write(textwrap.indent(list_header, '# '))
+	args.domains.write('\n')
+
+if args.abp:
+	args.abp.write(textwrap.indent(list_header, '! '))
+	args.abp.write('\n')
+
+for type_name, type_group in filter_list['groups'].items():
 	group_header = type_group['header']
 	printed_abp_header = False
 	printed_domains_header = False
