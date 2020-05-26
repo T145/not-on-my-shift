@@ -5,7 +5,7 @@ from datetime import datetime
 from publicsuffixlist import PublicSuffixList
 import re
 import textwrap
-from urllib.parse import urlsplit
+from urllib.parse import urlsplit, quote as urlquote
 import yaml
 
 parser = argparse.ArgumentParser(description='Converts Yaml filters to hosts and ABP.')
@@ -86,9 +86,27 @@ for type_name, type_group in filter_list['groups'].items():
 				raise Exception('Entry has hosts but no domains: %s' % repr(entry))
 
 		# Step 3: autogenerate filters for mail beacons
-		if type_name == 'mail_beacons':
-			# TODO
-			pass
+		if 'filter_templates' in type_group:
+			extended_filters = list()
+			for filter in filters:
+				extended_filters.append(filter)
+
+				filter = filter.replace('^', '/')
+
+				if filter.startswith('||'):
+					cur_extended = [
+						'http://' + filter[2:],
+						'https://' + filter[2:]
+					]
+				else:
+					cur_extended = [filter]
+
+				for filter in cur_extended:
+					for pattern in type_group['filter_templates']:
+						parts = filter.split('$', 2)
+						parts[0] = pattern.format(filter=urlquote(parts[0], safe=''))
+						extended_filters.append('$'.join(parts))
+			filters = extended_filters
 
 		# Step 4: generate comment
 		comment = str(entry.get('date'))

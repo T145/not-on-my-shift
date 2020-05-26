@@ -313,6 +313,10 @@ groups:
             === MAIL BEACONS ===
             These entries block beacons on mail which companies use to check if bulk email/spam is read for obvious privacy reasons
 
+        filter_templates:
+            # Yandex mail resize
+          - '||resize.yandex.net/mailservice?url={filter}'
+
         entries:
           - date: 2020-05-14
             desc: Xiaomi mail beacon
@@ -338,9 +342,13 @@ groups:
             desc: eBay mail beacon
             filter: '||rover.ebay.com/roveropen/'
 
-          - date: 2020-05-20
+          - date: 2020-05-26
             desc: Game.es mail beacon
             filter: '||media.game.es:8011/control.bmp'
+
+          - date: 2020-05-26
+            desc: Mediamarkt.es mail beacon
+            filter: '||link.mediamarkt.es/mo/'
 
     tracking:
         header: |
@@ -356,4 +364,6 @@ groups:
 
           - date: 2020-05-25
             desc: Yandex Mail telemetry
-            filter: '||mail.yandex.ru/monitoring_liza.txt'
+            filters:
+              - '||mail.yandex.ru/monitoring_liza.txt'
+              - '||mail.yandex.com/monitoring_liza.txt'
