@@ -338,6 +338,10 @@ groups:
             desc: eBay mail beacon
             filter: '||rover.ebay.com/roveropen/'
 
+          - date: 2020-05-20
+            desc: Game.es mail beacon
+            filter: '||media.game.es:8011/control.bmp'
+
     tracking:
         header: |
             === TRACKING AND PRIVACY ===
