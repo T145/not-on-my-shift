@@ -350,6 +350,20 @@ groups:
             desc: Mediamarkt.es mail beacon
             filter: '||link.mediamarkt.es/mo/'
 
+          - date: 2020-05-27
+            desc: Wallapop beacon
+            sample: https://mandrillapp.com/track/open.php?u=30067168&id=bfafb8f014174220ae753d54c47ab9b3
+            filter: '||mandrillapp.com/track/'
+
+          - date: 2020-05-27
+            desc: Miles and more beacon
+            sample: https://t.mailing.milesandmore.com/r/?id=hf5bb671,3a605dcd,1
+            filter: '||t.mailing.milesandmore.com/r/$image'
+
+          - date: 2020-05-27
+            desc: PayPal mail beacon
+            sample: https://t.paypal.com/ts?v=1&ppid=PPX001066
+
     tracking:
         header: |
             === TRACKING AND PRIVACY ===
