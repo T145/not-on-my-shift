@@ -366,6 +366,10 @@ groups:
             desc: PayPal mail beacon
             sample: https://t.paypal.com/ts?v=1&ppid=PPX001066
 
+          - date: 2020-05-30
+            desc: Kickstarter mail beacon
+            sample: https://emails.kickstarter.com/mpss/o/JAE/6TYCAA/t.326/0pe5DH3wQ8yZq43wGiVsTQ/ho.gif
+
     tracking:
         header: |
             === TRACKING AND PRIVACY ===
