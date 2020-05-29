@@ -305,8 +305,10 @@ groups:
             domain: adsdk.yandex.ru
 
           - date: 2020-05-25
-            desc: Ads on mail.yandex.ru
-            filter: '||mail.yandex.ru/u2709/*$xhr'
+            desc: Ads on Yandex
+            filters:
+              - '||mail.yandex.ru/u2709/*$xhr'
+              - '||docviewer.yandex.com/ixmqo3603/'
 
     mail_beacons:
         header: |
@@ -377,7 +379,8 @@ groups:
             filters: []
 
           - date: 2020-05-25
-            desc: Yandex Mail telemetry
+            desc: Yandex telemetry
             filters:
+              - '||yandex.com/monitoring.txt'
               - '||mail.yandex.ru/monitoring_liza.txt'
               - '||mail.yandex.com/monitoring_liza.txt'
