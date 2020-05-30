@@ -179,13 +179,6 @@ groups:
                 These are the extremely annoying ads that pop up out of nowhere when clicking sometimes the
                 first result on Google, and then the second time the page just works fine. I am not sure if it's
                 because the pages are hacked or what, but I really want these gone.
-                
-                The page seems to be "whatever-prize.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch", and this
-                one redirects to one whose domain that changes every few hours, but (so far) always matches
-                ^[a-z-]{16,25}[0-9]+\.life$.
-                
-                I tried listing the redirected pages but seems useless as blocking the entry points seems to be
-                enough.
             domains:
               - adultdating-plan1.com
               - amorebig.space
@@ -273,6 +266,14 @@ groups:
               - yourmainstream-zone1.life
               - yoursexual-desire5.com
             sample: https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+
+
+          - date: 2020-04-27
+            desc: |
+                This is a regex filter to block redirected pages for above entry points.
+                
+                It changes every few hours so listing all domains is just not feasible.
+            filter: '/^https?\:\/\/[a-z-]{16,25}[0-9]+\.live/'
 
           - date: 2020-05-04
             domain: 3xp4e3kno6.top
