@@ -94,18 +94,15 @@ for type_name, type_group in filter_list['groups'].items():
 				filter = filter.replace('^', '/')
 
 				if filter.startswith('||'):
-					cur_extended = [
-						'http://' + filter[2:],
-						'https://' + filter[2:]
-					]
+					filter = '*' + filter[2:]
 				else:
-					cur_extended = [filter]
+					filter = '*' + filter
 
-				for filter in cur_extended:
-					for pattern in type_group['filter_templates']:
-						parts = filter.split('$', 2)
-						parts[0] = pattern.format(filter=urlquote(parts[0], safe=''))
-						extended_filters.append('$'.join(parts))
+				for pattern in type_group['filter_templates']:
+					parts = filter.split('$', 2)
+					escaped_filter = urlquote(parts[0], safe='*')
+					parts[0] = pattern.format(filter=escaped_filter)
+					extended_filters.append('$'.join(parts))
 			filters = extended_filters
 
 		# Step 4: generate comment
