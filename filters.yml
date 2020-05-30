@@ -379,6 +379,11 @@ groups:
             desc: El Corte Inglés mail beacon
             domain: tracker.elcorteingles.es
 
+          - date: 2020-05-30
+            desc: Sendgrid mail beacon
+            domain: ct.sendgrid.net
+            sample: https://u12224516.ct.sendgrid.net/wf/open
+
     tracking:
         header: |
             === TRACKING AND PRIVACY ===
