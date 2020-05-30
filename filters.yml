@@ -375,6 +375,10 @@ groups:
             sample: http://logc187.xiti.com/hit.xiti
             domain: xiti.com
 
+          - date: 2020-05-30
+            desc: El Corte Inglés mail beacon
+            domain: tracker.elcorteingles.es
+
     tracking:
         header: |
             === TRACKING AND PRIVACY ===
