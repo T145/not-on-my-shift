@@ -385,6 +385,10 @@ groups:
             domain: ct.sendgrid.net
             sample: https://u12224516.ct.sendgrid.net/wf/open
 
+          - date: 2020-06-01
+            desc: Uber mail beacon
+            sample: https://email.uber.com/wf/open
+
     tracking:
         header: |
             === TRACKING AND PRIVACY ===
