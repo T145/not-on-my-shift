@@ -61,6 +61,7 @@ for type_name, type_group in filter_list['groups'].items():
 		domains = get_plural(entry, 'domain')
 		filters = get_plural(entry, 'filter')
 		hosts = get_plural(entry, 'host')
+		extra_hosts = get_plural(entry, 'extra_host')
 		samples = get_plural(entry, 'sample', [])
 
 		# Step 1: extract domains from samples if no filters, hosts or domains have been specified
@@ -74,16 +75,16 @@ for type_name, type_group in filter_list['groups'].items():
 			filters = ['||%s^' % domain for domain in domains]
 
 		if domains is not None:
-			hosts = hosts or list()
-			for domain in domains:
-				hosts.append(domain)
+			if hosts is None:
+				hosts = extra_hosts or list()
+				for domain in domains:
+					hosts.append(domain)
 
-				# Add www if TLD
-				if psl.privatesuffix(domain) == domain:
-					hosts.append('www.%s' % domain)
-		else:
-			if hosts is not None:
-				raise Exception('Entry has hosts but no domains: %s' % repr(entry))
+					# Add www if TLD
+					if psl.privatesuffix(domain) == domain:
+						hosts.append('www.%s' % domain)
+		elif hosts is not None:
+			raise Exception('Entry has hosts but no domains: %s' % repr(entry))
 
 		# Step 3: autogenerate filters for mail beacons
 		if 'filter_templates' in type_group:

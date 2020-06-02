@@ -21,7 +21,7 @@ groups:
           - date: 2020-05-13 
             desc: Facebook phising
             domain: realdumpspdf.com
-            hosts:
+            extra_hosts:
               - m.fb-account-page.realdumpspdf.com
               - fb-account-page.realdumpspdf.com
             sample: https://m.fb-account-page.realdumpspdf.com/login.php
@@ -277,7 +277,7 @@ groups:
 
           - date: 2020-05-04
             domain: 3xp4e3kno6.top
-            hosts:
+            extra_hosts:
               - free-movies.3xp4e3kno6.top
             sample: https://free-movies.3xp4e3kno6.top/premiumstream/cinema/amazon/es/custom-survey/index.html
 
@@ -384,10 +384,19 @@ groups:
             desc: Sendgrid mail beacon
             domain: ct.sendgrid.net
             sample: https://u12224516.ct.sendgrid.net/wf/open
+            # Needs wildcard, so disable for hosts
+            hosts: []
 
           - date: 2020-06-01
             desc: Uber mail beacon
             sample: https://email.uber.com/wf/open
+
+          - date: 2020-06-02
+            desc: Infineon beacon
+            sample: https://s1968580696.t.en25.com/e/FooterImages/FooterImage1
+            domain: t.en25.com
+            # Needs wildcard, so disable for hosts
+            hosts: []
 
     tracking:
         header: |
