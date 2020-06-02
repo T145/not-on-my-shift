@@ -319,6 +319,8 @@ groups:
         filter_templates:
             # Yandex mail resize
           - '||resize.yandex.net/mailservice?url={filter}'
+            # Yahoo mail resize
+          - '||ecp.yusercontent.com/mail?url={filter}'
 
         entries:
           - date: 2020-05-14
