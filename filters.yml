@@ -398,6 +398,10 @@ groups:
             # Needs wildcard, so disable for hosts
             hosts: []
 
+          - date: 2020-06-02
+            desc: Simyo beacon
+            sample: https://simyo.zippingcare.com/beacon/5ed52b2ae21b840001fd9d35.gif
+
     tracking:
         header: |
             === TRACKING AND PRIVACY ===
