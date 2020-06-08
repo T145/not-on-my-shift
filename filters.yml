@@ -14,17 +14,28 @@ groups:
             These filters block pages that are not yet blocked by Google Safe Search
 
         entries:
-          - date: 2020-05-13 
+          - date: 2020-05-13
             desc: Microsoft phising
             sample: https://gid.do/ztee/Azure2020/realm/send.php?user=fake@email.com&pass=datpassword
 
-          - date: 2020-05-13 
+          - date: 2020-05-13
             desc: Facebook phising
             domain: realdumpspdf.com
             extra_hosts:
               - m.fb-account-page.realdumpspdf.com
               - fb-account-page.realdumpspdf.com
             sample: https://m.fb-account-page.realdumpspdf.com/login.php
+
+          - date: 2020-06-08
+            desc: Government of Spain CoVID-19 phising
+            domain: smsinformativo.com
+            extra_hosts:
+              - 01.smsinformativo.com
+              - 02.smsinformativo.com
+              - 03.smsinformativo.com
+              - 04.smsinformativo.com
+              - 05.smsinformativo.com
+            sample: https://04.smsinformativo.com/1.php
 
     scams:
         header: |
