@@ -37,6 +37,10 @@ groups:
               - 05.smsinformativo.com
             sample: https://04.smsinformativo.com/1.php
 
+          - date: 2020-06-15
+            desc: Bankia phishing
+            sample: http://bania-cuenca-particular.info/bankia2020/acceso-clientes.php
+
     scams:
         header: |
             === SCAMS ===
