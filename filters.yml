@@ -41,6 +41,10 @@ groups:
             desc: Bankia phishing
             sample: http://bania-cuenca-particular.info/bankia2020/acceso-clientes.php
 
+          - date: 2020-06-15
+            desc: Email Microsoft phishing
+            sample: http://richtech.co.th/wp-includes/css/dists/Docs/oracle.php
+
     scams:
         header: |
             === SCAMS ===
