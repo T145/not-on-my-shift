@@ -45,6 +45,12 @@ groups:
             desc: Email Microsoft phishing
             sample: http://richtech.co.th/wp-includes/css/dists/Docs/oracle.php
 
+          - date: 2020-06-17
+            desc: Bankia phishing
+            samples:
+              - http://www.brera13studio.com/siop30/
+              - https://www.all-in-company.com/siop30/
+
     scams:
         header: |
             === SCAMS ===
@@ -329,6 +335,15 @@ groups:
             filters:
               - '||mail.yandex.ru/u2709/*$xhr'
               - '||docviewer.yandex.com/ixmqo3603/'
+
+          - date: 2020-06-17
+            desc: Cannabis ads
+            sample: https://www.b85allecev.store/linvenon4/
+            domains:
+              - b85allecev.store
+              - cannabisoilnd.com
+            extra_hosts:
+              - es.cannabisoilnd.com
 
     mail_beacons:
         header: |
