@@ -442,6 +442,13 @@ groups:
             desc: JFrog beacon
             sample: http://mkto-lon040102.com/trk
 
+          - date: 2020-06-19
+            desc: Mailchip beacon
+            domain: list-manage.com
+            hosts:
+              - porkbun.us8.list-manage.com
+            filter: '||list-manage.com/track/open.php^$image'
+
     tracking:
         header: |
             === TRACKING AND PRIVACY ===
