@@ -51,6 +51,15 @@ groups:
               - http://www.brera13studio.com/siop30/
               - https://www.all-in-company.com/siop30/
 
+          - date: 2020-06-20
+            desc: Government of France phishing
+            samples:
+              - https://bcs-ionservice.ro/offers/
+              - https://impots.gouv.fr.remboursement.europe.finelook.shop/
+            domains:
+              - bcs-ionservice.ro
+              - finelook.shop
+
     scams:
         header: |
             === SCAMS ===
