@@ -55,10 +55,12 @@ groups:
             desc: Government of France phishing
             samples:
               - https://bcs-ionservice.ro/offers/
-              - https://impots.gouv.fr.remboursement.europe.finelook.shop/
             domains:
               - bcs-ionservice.ro
               - finelook.shop
+              - nikos-service.ro
+            extra_hosts:
+              - impots.gouv.fr.remboursement.nikos-service.ro
 
     scams:
         header: |
