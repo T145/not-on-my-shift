@@ -59,8 +59,10 @@ groups:
               - bcs-ionservice.ro
               - finelook.shop
               - nikos-service.ro
+              - dama-office.com
             extra_hosts:
               - impots.gouv.fr.remboursement.nikos-service.ro
+              - impots.gouv.fr.remboursement.dama-office.com
 
     scams:
         header: |
