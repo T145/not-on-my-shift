@@ -361,7 +361,7 @@ groups:
 
           - date: 2020-07-09
             desc: Kotaku ads container
-            filter: '||kotaku.com##.js_movable_ad_slot'
+            filter: 'kotaku.com##.movable-ad'
 
     mail_beacons:
         header: |
