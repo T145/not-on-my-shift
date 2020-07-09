@@ -359,6 +359,10 @@ groups:
             extra_hosts:
               - es.cannabisoilnd.com
 
+          - date: 2020-07-09
+            desc: Kotaku ads container
+            filter: '||kotaku.com##.js_movable_ad_slot'
+
     mail_beacons:
         header: |
             === MAIL BEACONS ===
