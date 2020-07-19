@@ -480,7 +480,15 @@ groups:
 
           - date: 2020-07-19
             desc: Booking beacon
-            filter: '||booking.com/emk_track_pixel.gif'
+            filter:
+              - '||booking.com/emk_track_pixel.gif'
+              - '||link.sg.booking.com^'
+            domains:
+              - link.sg.booking.com
+
+          - date: 2020-07-19
+            desc: Facebook beacon
+            filter: '||facebook.com/email_open_log_pic.php'
 
     tracking:
         header: |
