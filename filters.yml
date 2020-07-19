@@ -472,6 +472,10 @@ groups:
               - porkbun.us8.list-manage.com
             filter: '||list-manage.com/track/open.php^$image'
 
+          - date: 2020-07-19
+            desc: Booking beacon
+            filter: '||booking.com/emk_track_pixel.gif'
+
     tracking:
         header: |
             === TRACKING AND PRIVACY ===
