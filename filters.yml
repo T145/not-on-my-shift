@@ -368,6 +368,12 @@ groups:
               - '##.movable-ad'
               - '##.inline-ad-container'
 
+          - date: 2020-07-19
+            desc: Wololo ads containers
+            filters:
+              - '##.ezoic-ad'
+              - 'wololo.net###ezmobfooter'
+
     mail_beacons:
         header: |
             === MAIL BEACONS ===
