@@ -51,7 +51,7 @@ groups:
               - http://www.brera13studio.com/siop30/
               - https://www.all-in-company.com/siop30/
 
-          - date: 2020-06-20
+          - date: 2020-07-19
             desc: Government of France phishing
             samples:
               - https://bcs-ionservice.ro/offers/
@@ -60,9 +60,12 @@ groups:
               - finelook.shop
               - nikos-service.ro
               - dama-office.com
+              - jabra.id
+              - soflock.com
             extra_hosts:
               - impots.gouv.fr.remboursement.nikos-service.ro
               - impots.gouv.fr.remboursement.dama-office.com
+              - impots.gouv.fr.remboursement.jabra.id
 
     scams:
         header: |
