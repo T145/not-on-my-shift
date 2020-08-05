@@ -374,6 +374,10 @@ groups:
               - '##.ezoic-ad'
               - 'wololo.net###ezmobfooter'
 
+          - date: 2020-08-05
+            desc: Annoying YouTube banner
+            filter: 'youtube.com##.ytd-rich-section-renderer:has(#dismissable)'
+
     mail_beacons:
         header: |
             === MAIL BEACONS ===
