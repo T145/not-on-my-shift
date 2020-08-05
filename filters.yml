@@ -67,6 +67,10 @@ groups:
               - impots.gouv.fr.remboursement.dama-office.com
               - impots.gouv.fr.remboursement.jabra.id
 
+          - date: 2020-08-06
+            desc: Correos email phishing
+            sample: https://www.rioforpartiers.com/Correos
+
     scams:
         header: |
             === SCAMS ===
