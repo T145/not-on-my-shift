@@ -534,3 +534,18 @@ groups:
           - date: 2020-07-08
             desc: Vladan.fr antiadblock
             filter: 'vladan.fr##+js(aopr, daau_app)'
+
+    annoyances:
+        header: |
+            === ANNOYANCES ===
+            Minor quality-of-life improvements
+
+        entries:
+          - date: 2020-08-30
+            desc: |
+                Microsoft allows downloading of Windows 10 ISOs straight from their website, but they redirect you
+                to the media creation tool page if you're already using a Windows OS.
+                
+                This script disables that redirection so I can just download a ISO without running their
+                stupid tool.
+            filter: 'microsoft.com##+js(set, window.softwareDownload.redirection.redirect, noopFunc)'
