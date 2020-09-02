@@ -386,6 +386,10 @@ groups:
             desc: Annoying YouTube banner
             filter: 'youtube.com##.ytd-rich-section-renderer:has(#dismissable)'
 
+          - date: 2020-09-02
+            desc: Prisa ads filter
+            filter: '##.prisa_ad'
+
     mail_beacons:
         header: |
             === MAIL BEACONS ===
