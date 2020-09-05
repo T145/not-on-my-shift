@@ -554,3 +554,9 @@ groups:
                 This script disables that redirection so I can just download a ISO without running their
                 stupid tool.
             filter: 'microsoft.com##+js(set, window.softwareDownload.redirection.redirect, noopFunc)'
+
+          - date: 2020-09-05
+            desc: Quora signup wall bypass
+            filters:
+              - 'quora.com##[id*="signup_wall_wrapper"]'
+              - 'quora.com#$##root { filter: none !important; }'
