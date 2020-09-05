@@ -386,9 +386,10 @@ groups:
             desc: Annoying YouTube banner
             filter: 'youtube.com##.ytd-rich-section-renderer:has(#dismissable)'
 
-          - date: 2020-09-02
+          - date: 2020-09-05
             desc: Prisa ads filter
-            filter: '##.prisa_ad'
+            # Needs to be specific instead of generic because uBlock filters specifically disable generic hides for this domain
+            filter: 'elpais.com##.prisa_ad'
 
     mail_beacons:
         header: |
