@@ -560,3 +560,10 @@ groups:
             filters:
               - 'quora.com##[id*="signup_wall_wrapper"]'
               - 'quora.com#$##root { filter: none !important; }'
+
+          - date: 2020-09-06
+            desc: Reddit app popup
+            filters:
+              - 'reddit.com##.XPromoPopup'
+              - 'reddit.com#$#body.scroll-disabled { overflow: auto !important; height: auto !important; width: auto !important; position: inherit !important; }'
+
