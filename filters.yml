@@ -402,6 +402,10 @@ groups:
             desc: AliExpress top banner. This lazy loads and is really annoying me.
             filter: 'aliexpress.com##.top-banner-container'
 
+          - date: 2020-09-08
+            desc: Wallapop ad container
+            filter: 'wallapop.com##.container-ad'
+
     mail_beacons:
         header: |
             === MAIL BEACONS ===
