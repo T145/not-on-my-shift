@@ -391,6 +391,17 @@ groups:
             # Needs to be specific instead of generic because uBlock filters specifically disable generic hides for this domain
             filter: 'elpais.com##.prisa_ad'
 
+          - date: 2020-09-08
+            desc: Vocento ads
+            sample: https://www.eldiariomontanes.es/v/20110224/sociedad/destacados/resiste-llevarse-tierra-contaminada-20110224_amp.html
+            filters:
+              - '##.voc-adver'
+              - '##amp-embed[type="taboola"]'
+
+          - date: 2020-09-08
+            desc: AliExpress top banner. This lazy loads and is really annoying me.
+            filter: 'aliexpress.com##.top-banner-container'
+
     mail_beacons:
         header: |
             === MAIL BEACONS ===
