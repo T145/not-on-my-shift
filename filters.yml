@@ -335,13 +335,13 @@ groups:
               - yoursexual-desire5.com
             sample: https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 
-
           - date: 2020-04-27
             desc: |
                 This is a regex filter to block redirected pages for above entry points.
                 
                 It changes every few hours so listing all domains is just not feasible.
-            filter: '/^https?\:\/\/[a-z-]{16,25}[0-9]+\.live/'
+            sample: https://goldenfroggy15.live/6785626235/?utm_campaign=QPF8euu28II5lw7O2iHhCidoSOXmw5oLxD6bwphw43U1&t=main7d&f=1
+            filter: '/^https?\:\/\/[a-z-]{10,25}[0-9]+\.live/'
 
           - date: 2020-05-04
             domain: 3xp4e3kno6.top
