@@ -416,6 +416,8 @@ groups:
             filters:
               - '##.voc-adver'
               - '##amp-embed[type="taboola"]'
+              - 'abc.es##.publicidad'
+              - 'abc.es##amp-embed[type="taboola"]'
 
           - date: 2020-09-08
             desc: AliExpress top banner. This lazy loads and is really annoying me.
