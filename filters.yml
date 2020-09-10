@@ -22,7 +22,7 @@ groups:
                 unusual usage of these files, which 99.9% should be malware uploads.
             filters:
               - '/\/wp-(upload|content)\/.*\.php/$all'
-              - '/\/wp-includes\/$document'
+              - '/\/wp-includes\//$document'
 
           - date: 2020-05-13
             desc: Microsoft phising
