@@ -603,3 +603,7 @@ groups:
               - 'reddit.com##.XPromoPopup'
               - 'reddit.com#$#body.scroll-disabled { overflow: auto !important; height: auto !important; width: auto !important; position: inherit !important; }'
 
+
+          - date: 2020-09-11
+            desc: Enable Mercadona online store on mobile phones
+            filter: 'tienda.mercadona.es#$#+js(set, window.matchMedia, falseFunc)'
