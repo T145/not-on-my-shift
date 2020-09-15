@@ -93,6 +93,15 @@ groups:
             desc: PayPal phishing
             domain: supporttech-pay-com.preview-domain.com
 
+          - date: 2020-09-15
+            desc: Netflix phishing
+            sample: http://srvcsidsa.alslduoemdsjzd.com/Q4dxRnAX
+            domain: alslduoemdsjzd.com
+
+          - date: 2020-09-15
+            desc: Correos phishing
+            sample: https://lora-lutsk.site/wp-admin/rap/USERS/3387fbecd8e99e0/index.php?view=login&appIdKey=79.108.139.220&country=ES
+
     scams:
         header: |
             === SCAMS ===
