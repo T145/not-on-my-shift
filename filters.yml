@@ -616,3 +616,7 @@ groups:
           - date: 2020-09-11
             desc: Enable Mercadona online store on mobile phones
             filter: 'tienda.mercadona.es#$#+js(set, window.matchMedia, falseFunc)'
+
+          - date: 2020-09-16
+            desc: Disable notification requests for AdFly
+            filter: 'bethanyharrell.pro,rudyvalencia.pro,michellehardin.pro,samcunningham.pro##+js(aopr, Notification)'
