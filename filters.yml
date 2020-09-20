@@ -612,7 +612,6 @@ groups:
               - 'reddit.com##.XPromoPopup'
               - 'reddit.com#$#body.scroll-disabled { overflow: auto !important; height: auto !important; width: auto !important; position: inherit !important; }'
 
-
           - date: 2020-09-11
             desc: Enable Mercadona online store on mobile phones
             filter: 'tienda.mercadona.es#$#+js(set, window.matchMedia, falseFunc)'
@@ -620,3 +619,13 @@ groups:
           - date: 2020-09-16
             desc: Disable notification requests for AdFly
             filter: 'bethanyharrell.pro,rudyvalencia.pro,michellehardin.pro,samcunningham.pro##+js(aopr, Notification)'
+
+    fixes:
+        header: |
+            === FIXES ===
+            Fixes for 3rd party filter lists which block too much
+
+        entries:
+          - date: 2020-09-20
+            desc: Fix Peter Lowe's filter blocking MediaMarkt.es customer reviewing
+            filter: '@@||mpsnare.iesnare.com^$domain=mediamarkt.es'
