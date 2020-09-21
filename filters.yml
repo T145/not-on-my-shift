@@ -102,6 +102,12 @@ groups:
             desc: Correos phishing
             sample: https://lora-lutsk.site/wp-admin/rap/USERS/3387fbecd8e99e0/index.php?view=login&appIdKey=79.108.139.220&country=ES
 
+          - date: 2020-09-21
+            desc: AEAT phishing
+            samples:
+              - https://metalcarpenteriedalfovo.it/prova/index.php?web=bWVAcjJkMnJpZ28uZXM=
+              - https://agenciatributaria.email/?web=bWVAcjJkMnJpZ28uZXM=
+
     scams:
         header: |
             === SCAMS ===
