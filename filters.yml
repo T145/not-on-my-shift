@@ -108,6 +108,10 @@ groups:
               - https://metalcarpenteriedalfovo.it/prova/index.php?web=bWVAcjJkMnJpZ28uZXM=
               - https://agenciatributaria.email/?web=bWVAcjJkMnJpZ28uZXM=
 
+          - date: 2020-09-29
+            desc: Correos phishing
+            sample: https://correosrastreos.com/
+
     scams:
         header: |
             === SCAMS ===
