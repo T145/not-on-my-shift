@@ -112,6 +112,14 @@ groups:
             desc: Correos phishing
             sample: https://correosrastreos.com/
 
+          - date: 2020-09-29
+            desc: EDF phishing
+            sample: https://www.m-esage.com/fr/info.php?&_signin_id=a6ade3da9bc7b88efdc59f16e8994099
+
+          - date: 2020-09-29
+            desc: Santander phishing
+            sample: https://www.s-banco.es/
+
     scams:
         header: |
             === SCAMS ===
