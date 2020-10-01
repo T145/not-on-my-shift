@@ -120,6 +120,12 @@ groups:
             desc: Santander phishing
             sample: https://www.s-banco.es/
 
+          - date: 2020-10-01
+            desc: Email phishing
+            samples:
+              - https://mciegroup.ru/muhammadwalii2sep/login.html
+              - https://seatwave.ru/nathy11aug/next.php
+
     scams:
         header: |
             === SCAMS ===
