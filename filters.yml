@@ -609,6 +609,12 @@ groups:
             desc: Vladan.fr antiadblock
             filter: 'vladan.fr##+js(aopr, daau_app)'
 
+          - date: 2020-10-10
+            desc: Positren
+            filters:
+              - 'positren.nebulacodex.com#@#.adpane'
+              - '@@||positren.nebulacodex.com/js.php'
+
     annoyances:
         header: |
             === ANNOYANCES ===
