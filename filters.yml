@@ -447,10 +447,9 @@ groups:
             desc: Vocento ads
             sample: https://www.eldiariomontanes.es/v/20110224/sociedad/destacados/resiste-llevarse-tierra-contaminada-20110224_amp.html
             filters:
-              - '##.voc-adver'
-              - '##amp-embed[type="taboola"]'
-              - 'abc.es##.publicidad'
-              - 'abc.es##amp-embed[type="taboola"]'
+              - 'abc.es,eldiariomontanes.es##.publicidad'
+              - 'abc.es,eldiariomontanes.es##.voc-adver'
+              - 'abc.es,eldiariomontanes.es##amp-embed[type="taboola"]'
 
           - date: 2020-09-08
             desc: AliExpress top banner. This lazy loads and is really annoying me.
@@ -459,6 +458,10 @@ groups:
           - date: 2020-09-08
             desc: Wallapop ad container
             filter: 'wallapop.com##.container-ad'
+
+          - date: 2020-10-10
+            desc: jalopnik.com ad container
+            filter: '##.js_movable_ad_slot'
 
     mail_beacons:
         header: |
