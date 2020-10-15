@@ -1,0 +1,36 @@
+name: CI
+
+on:
+    push:
+        branches: [ master ]
+
+jobs:
+    build:
+        runs-on: ubuntu-18.04
+        steps:
+          - name: Checkout
+            uses: actions/checkout@v2
+            with:
+                # Clone only latest 10, which should contain enough information to get the timestamp for the filter file
+                fetch-depth: 10
+
+          - name: Build
+            run: |
+                python3 -m pip install -r requirements.txt
+                mkdir built
+                python3 build.py filters.yml --hosts built/hosts.txt --abp built/abp.txt --domains built/domains.txt
+
+          - name: Publish
+            run: |
+                mkdir -p ~/.ssh/
+                echo "|1|40RGWMsg0FNOPYd+x4ZLEosg4zQ=|EAyRl4G9+69a9dq0SUQpWimmpNk= ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK+v6Lr/30gISPJk8ViZ/esm/PYi97Bqxhr5Fn9Yt1kI" >~/.ssh/known_hosts
+                chmod 600 ~/.ssh/known_hosts
+                echo "${{ secrets.SSH_KEY }}" >~/.ssh/id_ed25519
+                chmod 400 ~/.ssh/id_ed25519
+                sftp bmnjpbf@ftp.cluster030.hosting.ovh.net <<'EOF'
+                lcd built
+                cd orcapet/notonmyshift
+                put domains.txt
+                put hosts.txt
+                put abp.txt
+                EOF
