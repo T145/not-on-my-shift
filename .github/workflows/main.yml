@@ -21,6 +21,12 @@ jobs:
                 mkdir built
                 python3 build.py filters.yml --hosts built/hosts.txt --abp built/abp.txt --domains built/domains.txt
 
+          - name: Compress
+            run: |
+                brotli built/domains.txt -o built/domains.txt.br
+                brotli built/hosts.txt -o built/hosts.txt.br
+                brotli built/abp.txt -o built/abp.txt.br
+
           - name: Publish
             run: |
                 mkdir -p ~/.ssh/
@@ -31,7 +37,5 @@ jobs:
                 sftp bmnjpbf@ftp.cluster030.hosting.ovh.net <<'EOF'
                 lcd built
                 cd orcapet/notonmyshift
-                put domains.txt
-                put hosts.txt
-                put abp.txt
+                put built/*
                 EOF
