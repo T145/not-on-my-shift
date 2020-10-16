@@ -18,12 +18,7 @@ jobs:
             run: |
                 mkdir built
                 python3 build.py filters.yml --hosts built/hosts.txt --abp built/abp.txt --domains built/domains.txt
-
-          - name: Compress
-            run: |
-                brotli built/domains.txt -o built/domains.txt.br
-                brotli built/hosts.txt -o built/hosts.txt.br
-                brotli built/abp.txt -o built/abp.txt.br
+                brotli built/*
 
           - name: Publish
             if: github.ref == 'refs/heads/master'
