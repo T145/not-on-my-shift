@@ -1,3 +1,4 @@
-build/
+built/
 __pycache__/
 cookies.txt
+venv/
