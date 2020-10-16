@@ -11,9 +11,11 @@ jobs:
                 # Clone only latest 10, which should contain enough information to get the timestamp for the filter file
                 fetch-depth: 10
 
+          - name: Install deps
+            run: python3 -m pip install -r requirements.txt --no-warn-script-location
+
           - name: Build
             run: |
-                python3 -m pip install -r requirements.txt --no-warn-script-location
                 mkdir built
                 python3 build.py filters.yml --hosts built/hosts.txt --abp built/abp.txt --domains built/domains.txt
 
