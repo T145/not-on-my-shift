@@ -13,7 +13,6 @@ from requests.exceptions import ConnectionError
 noms_path = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
 print('Project root: %s' % noms_path)
 
-known_ips = set()
 with open(os.path.join(noms_path, 'util', 'prizes-ips.txt')) as f:
 	pending_ips = [x.strip() for x in f.read().strip().split()]
 
@@ -46,6 +45,7 @@ pending_domains = set(adutil.list_new_domains())
 pending_domains = set(filter(matches_ad_pattern, pending_domains))
 pending_domains.update(known_domains)
 tested_domains = set(known_domains)
+known_ips = set(pending_ips)
 
 while len(pending_ips) > 0 or len(pending_domains) > 0:
 	print('=== NEW ITERATION ===')
