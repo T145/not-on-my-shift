@@ -9,7 +9,10 @@ def list_new_domains():
 
 	for file in glob.iglob('new-domains/*.zip'):
 		with ZipFile(file) as zip:
-			domains = zip.read('domain-names.txt')
+			try:
+				domains = zip.read('domain-names.txt')
+			except KeyError:
+				domains = zip.read('whoisds.com.txt')
 			domains = domains.decode('ascii')
 			domains = domains.replace('\r', '')
 			domains = domains.split()
@@ -29,21 +32,9 @@ def is_prize_domain(domain):
 		return False
 
 	# They emit a redirect in JS if passed these arguments
-	text_page = requests.get('https://%s/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch' % domain, headers=headers).text
+	text_page = requests.get('https://%s/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch' % domain, headers=headers, timeout=3).text
 
 	if 'redirDomain' not in text_page:
 		return False
 
 	return True
-
-def load_ham_spam(filename):
-	domains = dict()
-
-	with open(filename, newline='') as file:
-		csvreader = csv.reader(file, dialect='unix')
-		for row in csvreader:
-			if len(row) != 2:
-				continue
-			domains[row[0]] = bool(int(row[1]))
-
-	return domains
