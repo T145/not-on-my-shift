@@ -126,6 +126,21 @@ groups:
               - https://mciegroup.ru/muhammadwalii2sep/login.html
               - https://seatwave.ru/nathy11aug/next.php
 
+          - date: 2020-10-23
+            desc: Ministerio de Trabajo phishing with trojan
+            sample: http://www.ocmwr.com/stlinter?117840615_292336938732339_7623365132391156747_n.png
+
+          - date: 2020-10-23
+            desc: Ruralvia phishing
+            sample: https://skylarstetten.com/pop
+
+          - date: 2020-10-23
+            desc: Correos phishing
+            sample: http://oficinadecorreos.eastus.cloudapp.azure.com/
+
+          - date: 2020-10-23
+            desc: DGT phishing
+            sample: http://multaprev.eastus.cloudapp.azure.com/
     scams:
         header: |
             === SCAMS ===
