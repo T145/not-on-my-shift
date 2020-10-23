@@ -708,6 +708,10 @@ groups:
             desc: Facebook beacon
             filter: '||facebook.com/email_open_log_pic.php'
 
+          - date: 2020-10-23
+            desc: TravelClub beacon
+            filter: '||click.l.s-travelclub.es/open.aspx^$image'
+
     tracking:
         header: |
             === TRACKING AND PRIVACY ===
