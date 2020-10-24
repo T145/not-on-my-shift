@@ -36,7 +36,7 @@ def matches_ad_pattern(x):
 	if re.match(r'^[a-z-]{15,30}[0-9]+\.life$', x):
 		return True
 
-	if re.search(r'(?:date|dating).*[1-9]+', x) and '-' in x and 'update' not in x:
+	if re.search(r'(?:date|dating|prize|bonus).*[1-9-]+', x) and '-' in x and 'update' not in x:
 		return True
 
 	return False
