@@ -14,7 +14,7 @@ noms_path = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
 print('Project root: %s' % noms_path)
 
 with open(os.path.join(noms_path, 'util', 'prizes-ips.txt')) as f:
-	pending_ips = [x.strip() for x in f.read().strip().split()]
+	known_ips = {x.strip() for x in f.read().strip().split()}
 
 prizesdomains = None
 with open(os.path.join(noms_path, 'filters.yml')) as f:
@@ -36,16 +36,20 @@ def matches_ad_pattern(x):
 	if re.match(r'^[a-z-]{15,30}[0-9]+\.life$', x):
 		return True
 
-	if re.search(r'(?:date|dating|prize|bonus).*[1-9-]+', x) and '-' in x and 'update' not in x:
+	if re.search(r'(?:date|dating|prize|bonus).*[1-9-]+', x) and 'update' not in x:
 		return True
 
 	return False
 
 pending_domains = set(adutil.list_new_domains())
+print('New domains: %d' % len(pending_domains))
 pending_domains = set(filter(matches_ad_pattern, pending_domains))
-pending_domains.update(known_domains)
 tested_domains = set(known_domains)
-known_ips = set(pending_ips)
+
+if True:
+	pending_ips = set(known_ips)
+else:
+	pending_ips = set()
 
 while len(pending_ips) > 0 or len(pending_domains) > 0:
 	print('=== NEW ITERATION ===')
@@ -70,7 +74,7 @@ while len(pending_ips) > 0 or len(pending_domains) > 0:
 			print('Test %s' % hostname)
 			if adutil.is_prize_domain(hostname):
 				known_domains.add(hostname)
-				print(hostname)
+				print('NEW: %s' % hostname)
 				for ip in socket.gethostbyname_ex(hostname)[2]:
 					if ip not in known_ips:
 						print('Adding new IP: %s' % ip)

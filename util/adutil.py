@@ -3,11 +3,14 @@ import csv
 import glob
 import requests
 from zipfile import ZipFile
+from kill_timeout import kill_timeout
+import os
 
 def list_new_domains():
 	all = set()
 
-	for file in glob.iglob('new-domains/*.zip'):
+	domains_filter = os.path.join(os.path.dirname(__file__), 'new-domains', '*.zip')
+	for file in glob.iglob(domains_filter):
 		with ZipFile(file) as zip:
 			try:
 				domains = zip.read('domain-names.txt')
@@ -20,7 +23,8 @@ def list_new_domains():
 
 	return all
 
-def is_prize_domain(domain):
+@kill_timeout(5)
+def _limited_is_prize_domain(domain):
 	headers = {
 		'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0'
 	}
@@ -38,3 +42,9 @@ def is_prize_domain(domain):
 		return False
 
 	return True
+
+def is_prize_domain(domain):
+	try:
+		return _limited_is_prize_domain(domain)
+	except TimeoutError:
+		return False

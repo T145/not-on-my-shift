@@ -141,6 +141,15 @@ groups:
           - date: 2020-10-23
             desc: DGT phishing
             sample: http://multaprev.eastus.cloudapp.azure.com/
+
+          - date: 2020-10-24
+            desc: Amazon phishing and BTC bullshit
+            samples:
+              - http://365abcd.net/r.php?t=c&d=47763&l=8299&c=60356
+              - https://totsclicks.com/0/2/3140/944d4df0748969cdc3c968f877713200/8299/47763/60356/11
+              - https://mediarowntech.com/?724f4f13b397be82a4c9d966e970259e
+              - https://todaypeaks.com/es-btcn-3/?47149fd6cd0f3b098d517e72fa34ff2d
+
     scams:
         header: |
             === SCAMS ===
@@ -299,9 +308,11 @@ groups:
               - adultdating-plan1.com
               - amorebig.space
               - amournow.space
+              - best-dating-finder1.com
               - best-dating-girls3.com
               - best-dating-there2.com
               - best-dating-you1.com
+              - best-datingclubs1.com
               - best-datinghere.com
               - best-datings-here.com
               - best-datings-here1.com
@@ -309,6 +320,7 @@ groups:
               - best-horny-girl-here1.com
               - best-prize-snow2.life
               - best-prizes-4you1.life
+              - best-prizes-house.life
               - best-profitmethods.com
               - bestbigprizes1.life
               - bestbonusesfinder1.life
@@ -318,7 +330,9 @@ groups:
               - bestprizes4u1.life
               - bestprizesday2.life
               - bestprizesinside1.life
+              - bestxxxclubforhookup3.com
               - big-prizes-place7.life
+              - biglovers5.com
               - bigprize-4you1.life
               - bigspaces-forsuperkiss2.com
               - bonus-house.life
@@ -333,10 +347,16 @@ groups:
               - claimyourprizes1.life
               - cool-finderssex.com
               - daily-profitmethod1.life
+              - date-4-u-today4.com
               - date-contacts-store.com
+              - date-here-now3.com
               - dating-clubs19.com
               - dating-future19.com
               - dating-hearts-today1.com
+              - dating-hot-lady.com
+              - dating-hotfantasies1.com
+              - dating-markets2.com
+              - dating-river3.com
               - dating-scan1.com
               - dating-superlabs.com
               - dating-tables-clubs1.com
@@ -347,11 +367,16 @@ groups:
               - datinglives-19.com
               - datings-for4you1.com
               - dirty-fantasy-here3.com
+              - dirty-loca1-hookups2.com
               - elitehookupshere3.com
               - enhancement-methods4.com
+              - find-dating-here.com
               - find-prize-zone.life
+              - find-your-men12.com
               - find-yourman1.com
+              - finddatinglives2.com
               - findprize-inbox.life
+              - fireprizes-here.life
               - first-vip-flirt-book1.com
               - flirt-dateshere4.com
               - flirt-dating-girls1.com
@@ -361,24 +386,31 @@ groups:
               - foreignme.space
               - free-cheaters-dating3.com
               - free-sex-tonight2.com
+              - free-sex-tonight3.com
+              - free4localhookup.com
+              - freedatehookup5.com
               - fromthenight.space
               - gdamour.space
               - get-best-women1.com
               - get-great-prizesnow7.life
+              - get-prize-here.life
               - get-prizes-online1.life
               - get-your-lady-here.com
               - get-your-prize-com.life
               - get4sexnewcontact.com
               - getdatinglives1.com
               - getnew-prizeshere2.life
+              - getyour-bestdatings1.com
               - getyour-newprize.life
               - gmchicks.space
+              - godatingsnow.com
               - goodheavy-prize.life
               - goodzone-forprize.life
               - great-hookuponline2.com
               - great-local4hookup5.com
               - great-prize-area1.life
               - great-prizenow2.life
+              - great3matchmaker.com
               - haveanaffairx4.com
               - helloyour-prizes1.life
               - here-is-your-prize3.life
@@ -391,26 +423,42 @@ groups:
               - hot-affectionzone.com
               - hot-dating-here.com
               - hot-datinghere3.com
+              - hot-girls-here13.com
+              - hot-hookup-chicks2.com
               - hot-ladies-zones.com
+              - hot-sweetheart.com
               - hot-viplady-here.com
+              - hotdatenight10.com
               - hotdatings-foryou.com
               - insta-hookups.com
               - instasexcontacts3.com
               - internal-powerenhance.life
               - jgirls.space
+              - ladies-4you2.com
+              - lets-dating2.com
               - libaliba.space
               - lilloves.space
               - livedatingsforyou.com
+              - local-secretlocators.com
               - localchicks-here.com
+              - localdating-space.com
               - localhookups4.com
+              - locallchickshere2.com
+              - lovedating-spot.com
               - loveplanets.space
               - loveplus.space
               - mainstream-area.life
+              - mainstream-spot-here.life
+              - mainstreamspot-now.life
               - mband.space
               - meet-date-sex-find.com
               - meet-me-nowhere2.com
+              - meet-you-here2.com
+              - meet-your-lady2.top
+              - meetsexlady2.com
               - megabonus-point5.life
               - megahookup13.com
+              - megainstahookup6.com
               - menandpowerpills3.com
               - milanovas.space
               - miogrog.space
@@ -418,12 +466,17 @@ groups:
               - mloves.space
               - mobile-global-apps-store.life
               - mobilesexfinder3.com
+              - mobilesexlocator1.com
               - morehotvibes.space
               - morelovemessenger.space
               - moreloveplus.space
               - morningsex.space
+              - my-sweet-sexfinder.com
+              - my18sexsearcher.com
+              - myhorny-sexcontact1.com
               - myprofitmethods32.com
               - mysinglesradars.com
+              - new-dates-now.com
               - new-dating-today1.com
               - new-datings-realy1.com
               - new-grandwinner.life
@@ -432,49 +485,73 @@ groups:
               - new-lady-here12.com
               - new-male-power1.com
               - newgirlstiti.space
+              - night-timedate.com
               - nightdating-today.life
               - nine-realdating.com
+              - on-hook-ups.com
+              - only-hot-girls-here2.com
+              - onlyhot-girls2.com
               - onlylovetyt.space
               - placeof-bigprizes.life
               - powers-4-men.life
               - powers4-men1.com
               - prize-foryou2.life
               - prize-right-now.life
+              - prizes4you.life
               - prizesplace.life
               - real-best-girls3.com
+              - real-datingand-sex.com
               - real-prizeszone3.life
               - realdate-here1.com
               - realprizesday.life
+              - realyour-dating13.com
               - rejoice-andwin1.life
+              - secret-flirtcontact.com
               - sex-right-now1.com
+              - sex-thirsthere1.com
               - sexviplocators3.com
+              - sunprizes-here.life
               - super-date-rightnow1.com
+              - superdatehere-now1.com
               - take-big-prize.life
+              - take-main-prize.life
               - take-yourprize-here.life
               - takeprizes-now.life
               - takes-your-prize.life
               - the-best-ladies1.com
               - the-best-profimethods.com
               - thebest-dating-here.com
+              - thebig-prizebox4.life
               - thebiggest-prizebox.life
               - timefordatings.com
               - today-prizes-best.life
+              - top-prizes-now.life
+              - vip-flirt-books12.com
               - vipgetlaid1.com
               - win-bigbonus-here.life
               - win-prizes-rightnow.life
               - win-prizes-rightnow1.life
               - win-silverbox.life
+              - win-your-prize-here.life
+              - win-yourprize-today.life
               - winprize-today.life
               - winprizes-now.life
               - winyour-bonus2.com
               - winyour-newgift.life
+              - worldof-adults12.com
               - worldof-sweetadults1.com
+              - x-get-laid-tonight6.com
+              - xxx-hot-dating1.com
               - you-now-winners1.life
               - youget-prizes-here.life
               - your-best-prize-boxes.life
               - your-dating-space2.com
               - your-dream-girls2.com
+              - your-dreamgirls12.com
+              - your-hot-date.com
               - your-lucky1.life
+              - your-mainstream-here.life
+              - your-mainstream-superzone.life
               - your-prize-now1.life
               - your-prizes1.life
               - your-profit-case3.com
@@ -488,16 +565,20 @@ groups:
               - youradultfriend.space
               - yourbest-bonus-zone4.life
               - yourbest-dating1.com
+              - yourbest-dating33.life
               - yourbest-profitmethods.life
               - yourbest-profits3.com
               - yourbig-prizenow2.life
               - yourbigdating.com
               - yourbonuses-finder1.life
+              - yourdating-finder5.com
               - yourglobal-profit.life
               - yourhot-casualdating1.com
               - yourmainstream-zone1.life
               - yournew-claimprize.life
+              - yours-sexy-dreams1.com
               - yoursexual-desire5.com
+              - zone4your-prizes.life
             sample: https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 
           - date: 2020-04-27
