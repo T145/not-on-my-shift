@@ -681,6 +681,12 @@ groups:
             desc: jalopnik.com ad container
             filter: '##.js_movable_ad_slot'
 
+          - date: 2020-10-25
+            desc: elDiario.es ads
+            filters:
+              - '##.edi-advertising'
+              - '##.news-sponsored-content'
+
     mail_beacons:
         header: |
             === MAIL BEACONS ===
