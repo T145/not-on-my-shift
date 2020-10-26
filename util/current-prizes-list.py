@@ -10,7 +10,7 @@ import socket
 from requests.exceptions import ConnectionError
 
 # Root path of the project
-noms_path = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
+noms_path = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
 print('Project root: %s' % noms_path)
 
 with open(os.path.join(noms_path, 'util', 'prizes-ips.txt')) as f:
