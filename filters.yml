@@ -150,6 +150,10 @@ groups:
               - https://mediarowntech.com/?724f4f13b397be82a4c9d966e970259e
               - https://todaypeaks.com/es-btcn-3/?47149fd6cd0f3b098d517e72fa34ff2d
 
+          - date: 2020-10-27
+            desc: Amazon phishing. The link currently redirects to Google, but was received on an Amazon "billing issue" email.
+            sample: https://purajaibngenskuy.com/RWTJnih
+
     scams:
         header: |
             === SCAMS ===
