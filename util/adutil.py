@@ -23,7 +23,7 @@ def list_new_domains():
 
 	return all
 
-@kill_timeout(5)
+@kill_timeout(10)
 def _limited_is_prize_domain(domain):
 	headers = {
 		'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0'
@@ -36,7 +36,7 @@ def _limited_is_prize_domain(domain):
 		return False
 
 	# They emit a redirect in JS if passed these arguments
-	text_page = requests.get('https://%s/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch' % domain, headers=headers, timeout=3).text
+	text_page = requests.get('http://%s/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch' % domain, headers=headers, timeout=3).text
 
 	if 'redirDomain' not in text_page:
 		return False

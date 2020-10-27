@@ -7,7 +7,7 @@ import os
 import sys
 import yaml
 import socket
-from requests.exceptions import ConnectionError
+from requests.exceptions import ConnectionError, TooManyRedirects
 
 # Root path of the project
 noms_path = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
@@ -58,7 +58,10 @@ while len(pending_ips) > 0 or len(pending_domains) > 0:
 		print(' - IP %s' % ip)
 		vault_reply = requests.get('https://otx.alienvault.com/otxapi/indicator/IPv4/passive_dns/%s' % ip).json()
 		for entry in vault_reply['passive_dns']:
-			pending_domains.add(entry['hostname'])
+			hostname = entry['hostname']
+			if hostname.startswith('www.'):
+				hostname = hostname[4:]
+			pending_domains.add(hostname)
 	pending_ips = set()
 
 	# Remove redirection targets
@@ -80,7 +83,7 @@ while len(pending_ips) > 0 or len(pending_domains) > 0:
 						print('Adding new IP: %s' % ip)
 						pending_ips.add(ip)
 						known_ips.add(ip)
-		except ConnectionError:
+		except (ConnectionError, TooManyRedirects):
 			pass
 
 	pending_domains = set()
