@@ -14,15 +14,16 @@ groups:
             These filters block pages that are not yet blocked by Google Safe Search
 
         entries:
-          - date: 2020-08-07
+          - date: 2020-10-27
             desc: |
                 Generic filters against hacked WordPress.
                 
                 Most hacked installations of WordPress use the wp-* folders to stay stealth, so I'll block
                 unusual usage of these files, which 99.9% should be malware uploads.
             filters:
-              - '/\/wp-(upload|content)\/.*\.php/$all'
-              - '/\/wp-includes\//$document'
+              - '/wp-content/*.php^$all'
+              - '/wp-upload/*.php^$all'
+              - '/wp-includes/$document'
 
           - date: 2020-05-13
             desc: Microsoft phising
