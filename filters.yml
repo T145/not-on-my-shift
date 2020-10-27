@@ -751,7 +751,7 @@ groups:
 
           - date: 2020-05-30
             desc: Kickstarter mail beacon
-            sample: https://emails.kickstarter.com/mpss/o/JAE/6TYCAA/t.326/0pe5DH3wQ8yZq43wGiVsTQ/ho.gif
+            filter: '||emails.kickstarter.com/*/ho.gif$image'
 
           - date: 2020-05-30
             desc: Xiti beacons
