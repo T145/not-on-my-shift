@@ -23,7 +23,7 @@ groups:
             filters:
               - '/wp-content/*.php^$all'
               - '/wp-upload/*.php^$all'
-              - '/wp-includes/$document'
+              - '/wp-includes/*$document'
 
           - date: 2020-05-13
             desc: Microsoft phising
@@ -310,12 +310,14 @@ groups:
                 first result on Google, and then the second time the page just works fine. I am not sure if it's
                 because the pages are hacked or what, but I really want these gone.
             domains:
+              - adult-games-here.com
               - adultdating-plan1.com
               - amorebig.space
               - amournow.space
               - best-dating-finder1.com
               - best-dating-for-you2.com
               - best-dating-girls3.com
+              - best-dating-spot-here1.com
               - best-dating-there2.com
               - best-dating-you1.com
               - best-datingclubs1.com
@@ -326,12 +328,14 @@ groups:
               - best-datings-here1.com
               - best-datingsnow1.com
               - best-horny-girl-here1.com
+              - best-lovelady.com
               - best-prize-snow2.life
               - best-prizes-4you1.life
               - best-prizes-house.life
               - best-profitmethods.com
               - bestbigprizes1.life
               - bestbonusesfinder1.life
+              - bestdatings-4you2.com
               - bestdatingsnow1.com
               - besthot-ladyhere.com
               - bestprize-places-here.life
@@ -359,7 +363,9 @@ groups:
               - date-4-u-today4.com
               - date-contacts-store.com
               - date-here-now3.com
+              - dating-4-sex.com
               - dating-clubs19.com
+              - dating-for-all.com
               - dating-future19.com
               - dating-hearts-today1.com
               - dating-hot-lady.com
@@ -367,6 +373,7 @@ groups:
               - dating-markets2.com
               - dating-river3.com
               - dating-scan1.com
+              - dating-spots.com
               - dating-superlabs.com
               - dating-tables-clubs1.com
               - dating-tables-today1.com
@@ -382,10 +389,12 @@ groups:
               - enhancement-methods4.com
               - find-dating-here.com
               - find-prize-zone.life
+              - find-sexy-girl-now1.com
               - find-your-men12.com
               - find-yourman1.com
               - finddatinglives2.com
               - findprize-inbox.life
+              - findprizes4u.life
               - fireprizes-here.life
               - first-vip-flirt-book1.com
               - flirt-dateshere4.com
@@ -399,6 +408,8 @@ groups:
               - free-sex-tonight3.com
               - free4localhookup.com
               - freedatehookup5.com
+              - freehot-datehookup.com
+              - freehot-datehookup1.com
               - fromthenight.space
               - gdamour.space
               - get-best-women1.com
@@ -423,6 +434,7 @@ groups:
               - great3matchmaker.com
               - haveanaffairx4.com
               - helloyour-prizes1.life
+              - here-best-dating2.com
               - here-is-your-prize3.life
               - heylove.space
               - highprofit-foryou.life
@@ -449,6 +461,7 @@ groups:
               - libaliba.space
               - lilloves.space
               - livedatingsforyou.com
+              - local-datings-space.com
               - local-secretlocators.com
               - localchicks-here.com
               - localdating-space.com
@@ -465,10 +478,12 @@ groups:
               - meet-me-nowhere2.com
               - meet-you-here2.com
               - meet-your-lady2.top
+              - meeting4you-here.com
               - meetsexlady2.com
               - megabonus-point5.life
               - megahookup13.com
               - megainstahookup6.com
+              - members-formeets.com
               - menandpowerpills3.com
               - milanovas.space
               - miogrog.space
@@ -481,6 +496,7 @@ groups:
               - morelovemessenger.space
               - moreloveplus.space
               - morningsex.space
+              - my-flirt-contacts1.com
               - my-sweet-sexfinder.com
               - my18sexsearcher.com
               - myhorny-sexcontact1.com
@@ -495,9 +511,12 @@ groups:
               - new-lady-here12.com
               - new-male-power1.com
               - newgirlstiti.space
+              - night-call-dates12.com
+              - night-dirtydreams.com
               - night-timedate.com
               - nightdating-today.life
               - nine-realdating.com
+              - now-profit-here2.life
               - on-hook-ups.com
               - only-hot-girls-here2.com
               - onlyhot-girls2.com
@@ -510,6 +529,7 @@ groups:
               - prizes4you.life
               - prizesplace.life
               - real-best-girls3.com
+              - real-dating-now1.com
               - real-datingand-sex.com
               - real-prizeszone3.life
               - realdate-here1.com
@@ -517,9 +537,12 @@ groups:
               - realyour-dating13.com
               - rejoice-andwin1.life
               - secret-flirtcontact.com
+              - select-yourdate.com
               - sex-right-now1.com
               - sex-thirsthere1.com
               - sexviplocators3.com
+              - space-formeets.com
+              - startdating-here.com
               - sunprizes-here.life
               - super-date-rightnow1.com
               - superdatehere-now1.com
@@ -549,6 +572,7 @@ groups:
               - winprizes-now.life
               - winyour-bonus2.com
               - winyour-newgift.life
+              - women-4-dating2.com
               - worldof-adults12.com
               - worldof-sweetadults1.com
               - x-get-laid-tonight6.com
