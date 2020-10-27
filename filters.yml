@@ -728,6 +728,11 @@ groups:
           - '||ecp.yusercontent.com/mail?url={filter}'
 
         entries:
+          - date: 2020-10-27
+            desc: Generic email rules
+            filters:
+              - '^email*/wf/open?$image'
+
           - date: 2020-05-14
             desc: Xiaomi mail beacon
             sample: http://url8807.global.passport.xiaomi.com/wf/open
@@ -735,10 +740,6 @@ groups:
           - date: 2020-05-14
             desc: Farnell mail beacon
             filter: '||email.farnell.com/trk'
-
-          - date: 2020-05-14
-            desc: Just-Eat Spain mail beacon
-            filter: '||ablink.emails.just-eat.es/wf/open'
 
           - date: 2020-05-14
             desc: Danone mail beacon
@@ -756,9 +757,9 @@ groups:
             desc: Game.es mail beacon
             filter: '||media.game.es:8011/control.bmp'
 
-          - date: 2020-05-26
+          - date: 2020-10-27
             desc: Mediamarkt.es mail beacon
-            filter: '||link.mediamarkt.es/mo/'
+            filter: '||link.mediamarkt.es/mo/$image'
 
           - date: 2020-05-27
             desc: Wallapop beacon
