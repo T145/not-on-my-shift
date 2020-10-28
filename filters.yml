@@ -855,6 +855,10 @@ groups:
               - '##.edi-advertising'
               - '##.news-sponsored-content'
 
+          - date: 2020-10-27
+            desc: Expired domain hijacking
+            sample: https://bnmjjwinf292.com/kr683tjxkd?key=0f22c1fd609f13cb7947c8cabfe1a90d&submetric=14892298
+
     mail_beacons:
         header: |
             === MAIL BEACONS ===
@@ -953,11 +957,8 @@ groups:
             desc: JFrog beacon
             sample: http://mkto-lon040102.com/trk
 
-          - date: 2020-06-19
-            desc: Mailchip beacon
-            domain: list-manage.com
-            hosts:
-              - porkbun.us8.list-manage.com
+          - date: 2020-10-28
+            desc: List-manage beacons
             filter: '||list-manage.com/track/open.php^$image'
 
           - date: 2020-07-19
