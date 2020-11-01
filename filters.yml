@@ -155,6 +155,10 @@ groups:
             desc: Amazon phishing. The link currently redirects to Google, but was received on an Amazon "billing issue" email.
             sample: https://purajaibngenskuy.com/RWTJnih
 
+          - date: 2020-11-01
+            desc: Fake USA Covid relief fund
+            sample: http://pandemic-reliefnygov.net/?labor_department
+
     scams:
         header: |
             === SCAMS ===
