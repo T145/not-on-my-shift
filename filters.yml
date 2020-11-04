@@ -289,7 +289,7 @@ groups:
             source: https://www.scammer.info/d/34723-blood-boost-pill-scam
             domain: bloodboostformula.com
 
-          - date: 2020-10-29
+          - date: 2020-11-04
             desc: Bitcoin ponzi schemes
             domains:
               - formulavitali.com
@@ -297,6 +297,7 @@ groups:
               - megamoneymarket.com
               - trendinassets.com
               - worldnewstoday.site
+              - multicoinscapitals.com
 
     ads:
         header: |
