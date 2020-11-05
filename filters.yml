@@ -163,6 +163,12 @@ groups:
             desc: Email login phishing
             sample: https://investfactapi.cloud/kiwj3anderson39kd/post.php
 
+          - date: 2020-11-05
+            desc: CaixaBank phishing
+            samples:
+              - http://stammtisch-design.de/ONQ70ZV4HHONQ70ZV4HHONQ70ZV4HH.html
+              - http://u9147751m0.ha004.t.justns.ru/caID815601/AToo80465/
+
     scams:
         header: |
             === SCAMS ===
