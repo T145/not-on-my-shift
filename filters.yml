@@ -175,6 +175,19 @@ groups:
               - http://www.congreso-hidalgo.gob.mx/urls/hallomatefak
               - https://skacuhrilalauhccrikal.com/JSsLgFv
 
+          - date: 2020-11-18
+            desc: Amazon phishing
+            samples:
+              - http://vivarrq324.mama92901.com/ScJfk5gt
+              - https://thienlongcnc.com/vendor/composer/killbot.php/ScJfk5gt
+              - https://amzon-serviceaccountunsualacitiviteam.com/?recovery234
+
+          - date: 2020-11-18
+            desc: Apple ID phishing
+            samples:
+              - https://ausculti.org/
+              - https://thienlongcnc.com/vendor/composer/killbot.php/ScJfk5gt
+
     scams:
         header: |
             === SCAMS ===
