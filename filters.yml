@@ -1186,6 +1186,12 @@ groups:
             desc: Disable notification requests for AdFly
             filter: 'bethanyharrell.pro,rudyvalencia.pro,michellehardin.pro,samcunningham.pro##+js(aopr, Notification)'
 
+          - date: 2020-11-21
+            desc: Disable AliExpress popups
+            filters:
+              - 'aliexpress.com##.next-overlay-wrapper:has(.newuser-container)'
+              - 'aliexpress.com#$#body { overflow-y: auto !important; }'
+
     fixes:
         header: |
             === FIXES ===
