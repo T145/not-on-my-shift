@@ -188,6 +188,15 @@ groups:
               - https://ausculti.org/
               - https://thienlongcnc.com/vendor/composer/killbot.php/ScJfk5gt
 
+          - date: 2020-11-22
+            desc: PayPal phishing
+            samples:
+              - http://mysupply.beforese.com/
+              - https://deringanbangnada.tevkhkoztp.com/?sign
+            domains:
+              - mysupply.beforese.com
+              - tevkhkoztp.com
+
     scams:
         header: |
             === SCAMS ===
