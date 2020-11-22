@@ -197,6 +197,15 @@ groups:
               - mysupply.beforese.com
               - tevkhkoztp.com
 
+          - date: 2020-11-22
+            desc: Amazon phishing
+            samples:
+              - https://xn--80aav2af4c.co.jp.bfcp111.com/
+              - https://xn--80aav2af4c.api.yhty7.com/
+            domains:
+              - bfcp111.com
+              - yhty7.com
+
     scams:
         header: |
             === SCAMS ===
