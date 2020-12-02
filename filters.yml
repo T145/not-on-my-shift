@@ -121,11 +121,13 @@ groups:
             desc: Santander phishing
             sample: https://www.s-banco.es/
 
-          - date: 2020-10-01
+          - date: 2020-12-03
             desc: Email phishing
             samples:
               - https://mciegroup.ru/muhammadwalii2sep/login.html
               - https://seatwave.ru/nathy11aug/next.php
+              - https://investfactapi.cloud/kiwj3anderson39kd/post.php
+              - https://virtualbox.work/defdonwilly39jkfhkdhf/post.php
 
           - date: 2020-10-23
             desc: Ministerio de Trabajo phishing with trojan
@@ -158,10 +160,6 @@ groups:
           - date: 2020-11-01
             desc: Fake USA Covid relief fund
             sample: http://pandemic-reliefnygov.net/?labor_department
-
-          - date: 2020-11-02
-            desc: Email login phishing
-            sample: https://investfactapi.cloud/kiwj3anderson39kd/post.php
 
           - date: 2020-11-05
             desc: CaixaBank phishing
