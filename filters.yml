@@ -1142,9 +1142,9 @@ groups:
             desc: Vocento ads
             sample: https://www.eldiariomontanes.es/v/20110224/sociedad/destacados/resiste-llevarse-tierra-contaminada-20110224_amp.html
             filters:
-              - 'abc.es,eldiariomontanes.es##.publicidad'
-              - 'abc.es,eldiariomontanes.es##.voc-adver'
-              - 'abc.es,eldiariomontanes.es##amp-embed[type="taboola"]'
+              - 'abc.es,eldiariomontanes.es,lasprovincias.es##.publicidad'
+              - 'abc.es,eldiariomontanes.es,lasprovincias.es##.voc-adver'
+              - 'abc.es,eldiariomontanes.es,lasprovincias.es##amp-embed[type="taboola"]'
 
           - date: 2020-09-08
             desc: AliExpress top banner. This lazy loads and is really annoying me.
