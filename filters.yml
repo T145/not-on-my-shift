@@ -203,6 +203,12 @@ groups:
               - bfcp111.com
               - yhty7.com
 
+          - date: 2021-01-02
+            desc: Amazon phishing
+            sample: http://akepolsa.hiabaik.alexwasiwo.com/FPWKZUPZUT
+            domain: alexwasiwo.com
+            extra_host: akepolsa.hiabaik.alexwasiwo.com
+
     scams:
         header: |
             === SCAMS ===
