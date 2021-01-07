@@ -1325,6 +1325,11 @@ groups:
               - 'positren.nebulacodex.com#@#.adpane'
               - '@@||positren.nebulacodex.com/js.php'
 
+          - date: 2021-01-07
+            desc: Scripts that check for FuckAdBlock presence
+            sample: https://emu-games.com/
+            filter: '##^script:has-text("undefined"!=typeof fuckAdBlock)'
+
     annoyances:
         header: |
             === ANNOYANCES ===
