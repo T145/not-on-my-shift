@@ -1371,6 +1371,13 @@ groups:
               - 'aliexpress.com##.next-overlay-wrapper:has(.newuser-container)'
               - 'aliexpress.com#$#body { overflow-y: auto !important; }'
 
+          - date: 2021-01-16
+            desc: Bloomberg paywall
+            filters:
+              - 'bloomberg.com##.fence-rendered'
+              - 'bloomberg.com##graphics-paywall-overlay'
+              - 'bloomberg.com#$#body { overflow: auto !important; }'
+
     fixes:
         header: |
             === FIXES ===
