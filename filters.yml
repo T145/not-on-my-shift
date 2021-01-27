@@ -347,7 +347,7 @@ groups:
 
           - date: 2020-01-28
             desc: More Bitcoin bullshit
-            example: https://elongives.space/btc/index.php
+            sample: https://elongives.space/btc/index.php
 
     ads:
         header: |
