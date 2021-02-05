@@ -345,9 +345,12 @@ groups:
               - worldnewstoday.site
               - multicoinscapitals.com
 
-          - date: 2020-01-28
-            desc: More Bitcoin bullshit
-            sample: https://elongives.space/btc/index.php
+          - date: 2021-02-05
+            desc: Elon Musk crypto scams
+            samples:
+              - https://elongives.space/btc/index.php
+              - https://dropmuskx.ir/eth/index.html
+              - https://tweetelonmusk.ir/
 
     ads:
         header: |
