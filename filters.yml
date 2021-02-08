@@ -1370,7 +1370,7 @@ groups:
 
           - date: 2020-09-16
             desc: Disable notification requests for AdFly
-            filter: 'bethanyharrell.pro,rudyvalencia.pro,michellehardin.pro,samcunningham.pro##+js(aopr, Notification)'
+            filter: 'bethanyharrell.pro,rudyvalencia.pro,michellehardin.pro,samcunningham.pro,elbaestes.pro##+js(aopr, Notification)'
 
           - date: 2020-11-21
             desc: Disable AliExpress popups
