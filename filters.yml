@@ -49,10 +49,6 @@ groups:
             sample: https://04.smsinformativo.com/1.php
 
           - date: 2020-06-15
-            desc: Bankia phishing
-            sample: http://bania-cuenca-particular.info/bankia2020/acceso-clientes.php
-
-          - date: 2020-06-15
             desc: Email Microsoft phishing
             sample: http://richtech.co.th/wp-includes/css/dists/Docs/oracle.php
 
@@ -137,10 +133,6 @@ groups:
             desc: Correos phishing
             sample: http://oficinadecorreos.eastus.cloudapp.azure.com/
 
-          - date: 2020-10-23
-            desc: DGT phishing
-            sample: http://multaprev.eastus.cloudapp.azure.com/
-
           - date: 2020-10-24
             desc: Amazon phishing and BTC bullshit
             samples:
@@ -161,7 +153,6 @@ groups:
             desc: CaixaBank phishing
             samples:
               - http://stammtisch-design.de/ONQ70ZV4HHONQ70ZV4HHONQ70ZV4HH.html
-              - http://u9147751m0.ha004.t.justns.ru/caID815601/AToo80465/
 
           - date: 2020-11-08
             desc: Amazon phishing
@@ -193,15 +184,6 @@ groups:
               - tevkhkoztp.com
               - supporttech-pay-com.preview-domain.com
               - resolution-centre-id1212.com
-
-          - date: 2020-11-22
-            desc: Amazon phishing
-            samples:
-              - https://xn--80aav2af4c.co.jp.bfcp111.com/
-              - https://xn--80aav2af4c.api.yhty7.com/
-            domains:
-              - bfcp111.com
-              - yhty7.com
 
           - date: 2021-01-02
             desc: Amazon phishing
@@ -373,7 +355,6 @@ groups:
                 first result on Google, and then the second time the page just works fine. I am not sure if it's
                 because the pages are hacked or what, but I really want these gone.
             domains:
-              - 11-20-1sasas.fun
               - 12-12-1a.fun
               - 12-12-2a.fun
               - 18-12-5.fun
@@ -402,7 +383,6 @@ groups:
               - adult-dating-finder1.com
               - adult-games-here.com
               - adult-games-here1.com
-              - adultdating-plan1.com
               - adultdating-plan2.com
               - aeviqgkiwre.fun
               - all-best-prize2020.com
@@ -547,7 +527,6 @@ groups:
               - date-4-u-today4.com
               - date-contacts-store.com
               - date-here-now3.com
-              - date-herenow5.com
               - date-herenow6.com
               - date-ladydreams.com
               - date-this-supergirl4.com
