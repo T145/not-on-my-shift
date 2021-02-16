@@ -193,9 +193,13 @@ groups:
 
           - date: 2021-02-16
             desc: Fedex phishing, received via SMS
-            samples:
-              - https://geeklevi.com/fedex/
-              - https://nogdec.com/fedex/
+            sample: https://geeklevi.com/fedex/
+            domains:
+              - geeklevi.com
+              - nogdec.com
+              - update.fbsbx.com
+            extra_hosts:
+              - s.update.fbsbx.com
 
     scams:
         header: |
