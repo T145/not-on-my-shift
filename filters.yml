@@ -195,8 +195,13 @@ groups:
             desc: Fedex phishing, received via SMS
             sample: https://geeklevi.com/fedex/
             domains:
+              # Landing page
               - geeklevi.com
+              # Hacked Wordpress hosting the APK
               - nogdec.com
+              - redlog.cl
+              - photomag.bg
+              # C&C domain
               - update.fbsbx.com
             extra_hosts:
               - s.update.fbsbx.com
