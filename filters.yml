@@ -204,9 +204,12 @@ groups:
               - brokenbootstraps.com
               - creatiste.com
               - haatura.com
+              - healthylifeamazingdays.com
               - magicbalm.co.uk
               - marincr.com
+              - miflebalarts.com
               - monroe.attorney
+              - nbkfinance.ru
               - nogdec.com
               - nsoft.fr
               - photomag.bg
@@ -220,6 +223,7 @@ groups:
               - update.fbsbx.com
             extra_hosts:
               - s.update.fbsbx.com
+            fedex_domains: true
 
     scams:
         header: |
