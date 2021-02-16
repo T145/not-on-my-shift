@@ -198,9 +198,11 @@ groups:
               # Landing page
               - geeklevi.com
               # Hacked Wordpress hosting the APK
+              - avantas.org
+              - marincr.com
               - nogdec.com
-              - redlog.cl
               - photomag.bg
+              - redlog.cl
               # C&C domain
               - update.fbsbx.com
             extra_hosts:
