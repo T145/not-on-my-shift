@@ -207,6 +207,7 @@ groups:
               - photomag.bg
               - redlog.cl
               - safemarkglobal.com
+              - ubirecruit.com
               # C&C domain
               - update.fbsbx.com
             extra_hosts:
