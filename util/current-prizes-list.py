@@ -5,27 +5,16 @@ import requests
 import re
 import os
 import sys
-import yaml
 import socket
 from requests.exceptions import ConnectionError, TooManyRedirects
 
 # Root path of the project
-noms_path = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
-print('Project root: %s' % noms_path)
+print('Project root: %s' % adutil.project_path)
 
-with open(os.path.join(noms_path, 'util', 'prizes-ips.txt')) as f:
+with open(os.path.join(adutil.project_path, 'util', 'prizes-ips.txt')) as f:
 	known_ips = {x.strip() for x in f.read().strip().split()}
 
-prizesdomains = None
-with open(os.path.join(noms_path, 'filters.yml')) as f:
-	filter_list = yaml.safe_load(f)
-
-known_domains = None
-for group in filter_list['groups'].values():
-	for entry in group['entries']:
-		if entry.get('prizesdomains'):
-			known_domains = set(entry['domains'])
-
+known_domains = adutil.get_domain_group('prizedomains')
 if not known_domains:
 	print('Could not find current prize domain list', file=sys.stderr)
 	sys.exit(1)
@@ -92,6 +81,6 @@ print('=== FINAL LIST OF DOMAINS ===')
 for domain in sorted(known_domains):
 	print('              - %s' % domain)
 
-with open(os.path.join(noms_path, 'util', 'prizes-ips.txt'), 'w') as f:
+with open(os.path.join(adutil.project_path, 'util', 'prizes-ips.txt'), 'w') as f:
 	for ip in sorted(known_ips):
 		print(ip, file=f)
