@@ -206,6 +206,7 @@ groups:
               - nogdec.com
               - photomag.bg
               - redlog.cl
+              - safemarkglobal.com
               # C&C domain
               - update.fbsbx.com
             extra_hosts:
