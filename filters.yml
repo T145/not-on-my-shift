@@ -191,6 +191,12 @@ groups:
             domain: alexwasiwo.com
             extra_host: akepolsa.hiabaik.alexwasiwo.com
 
+          - date: 2021-02-16
+            desc: Fedex phishing, received via SMS
+            samples:
+              - https://geeklevi.com/fedex/
+              - https://nogdec.com/fedex/
+
     scams:
         header: |
             === SCAMS ===
