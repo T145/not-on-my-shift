@@ -428,7 +428,7 @@ groups:
             source: https://www.scammer.info/d/34723-blood-boost-pill-scam
             domain: bloodboostformula.com
 
-          - date: 2020-11-04
+          - date: 2021-02-17
             desc: Bitcoin ponzi schemes
             domains:
               - formulavitali.com
@@ -437,6 +437,7 @@ groups:
               - trendinassets.com
               - worldnewstoday.site
               - multicoinscapitals.com
+              - heygamersnort.at
 
           - date: 2021-02-05
             desc: Elon Musk crypto scams
