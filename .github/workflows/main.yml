@@ -7,9 +7,6 @@ jobs:
         steps:
           - name: Checkout
             uses: actions/checkout@v2
-            with:
-                # Clone only latest 10, which should contain enough information to get the timestamp for the filter file
-                fetch-depth: 10
 
           - name: Install deps
             run: python3 -m pip install -r tools/requirements.txt --no-warn-script-location
