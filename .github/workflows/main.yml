@@ -12,13 +12,19 @@ jobs:
                 fetch-depth: 10
 
           - name: Install deps
-            run: python3 -m pip install -r requirements.txt --no-warn-script-location
+            run: python3 -m pip install -r tools/requirements.txt --no-warn-script-location
 
           - name: Build
             run: |
                 mkdir built
-                python3 build.py filters.yml --hosts built/hosts.txt --abp built/abp.txt --domains built/domains.txt
+                python3 tools/build.py filters/main.yml --hosts built/hosts.txt --abp built/abp.txt --domains built/domains.txt
                 brotli built/*
+
+          - name: Ensure files have contents
+            run: |
+                [ $(wc -l < built/hosts.txt) -gt 100 ]
+                [ $(wc -l < built/abp.txt) -gt 100 ]
+                [ $(wc -l < built/domains.txt) -gt 100 ]
 
           - name: Publish
             if: github.ref == 'refs/heads/master'
