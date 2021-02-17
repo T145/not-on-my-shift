@@ -7,16 +7,18 @@ import re
 import textwrap
 from urllib.parse import urlsplit, quote as urlquote
 import yaml
+import os
 
 parser = argparse.ArgumentParser(description='Converts Yaml filters to hosts and ABP.')
-parser.add_argument('yaml', type=argparse.FileType('r'), help='input Yaml file')
+parser.add_argument('yaml', type=str, help='input Yaml file')
 parser.add_argument('--hosts', type=argparse.FileType('w'), help='output hosts file')
 parser.add_argument('--domains', type=argparse.FileType('w'), help='output domains file')
 parser.add_argument('--abp', type=argparse.FileType('w'), help='output ABP file')
 args = parser.parse_args()
 
 psl = PublicSuffixList()
-filter_list = yaml.safe_load(args.yaml)
+with open(args.yaml, 'r') as f:
+	filter_list = yaml.safe_load(f)
 
 def get_plural(entry, singular, fallback=None):
 	plural = '%ss' % singular
@@ -56,6 +58,10 @@ for type_name, type_group in filter_list['groups'].items():
 	printed_hosts_header = False
 
 	for entry in type_group['entries']:
+		if 'include' in entry:
+			with open(os.path.join(os.path.dirname(args.yaml), entry['include']), 'r') as f:
+				entry.update(yaml.safe_load(f))
+
 		date = entry.get('date', '????-??-??')
 		description = entry.get('desc', '').strip()
 		domains = get_plural(entry, 'domain')

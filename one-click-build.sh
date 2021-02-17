@@ -9,16 +9,16 @@ if [ ! -d venv ]; then
 
 	# Activate it
 	source venv/bin/activate
-
-	# Install requirements
-	pip install -r requirements.txt
 else
 	# If it exists, just activate it
 	source venv/bin/activate
 fi
 
+# Install requirements
+pip install -r tools/requirements.txt
+
 # Create build directory
 [ -d built ] || mkdir built
 
 # Finally build it
-python build.py filters.yml --hosts built/hosts.txt --domains built/domains.txt --abp built/abp.txt
+python tools/build.py filters/main.yml --hosts built/hosts.txt --domains built/domains.txt --abp built/abp.txt

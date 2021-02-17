@@ -5,7 +5,7 @@ set -o pipefail
 
 cd "$(dirname "$0")"
 
-git add filters.yml
+git add filters/*.yml
 if git diff-index --cached --quiet HEAD; then
 	echo "Nothing to do"
 else

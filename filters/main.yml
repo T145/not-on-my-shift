@@ -1,0 +1,797 @@
+
+header: |
+    Title: Not on my shift!
+    Description: filter list made with <3 by Socram
+    Homepage: https://orca.pet/notonmyshift/
+    Licence: https://orca.pet/#license
+    Expires: 4h
+    Last update: {timestamp}
+
+groups:
+    phising:
+        header: |
+            === PHISING ===
+            These filters block pages that are not yet blocked by Google Safe Search
+
+        entries:
+          - date: 2020-10-27
+            desc: |
+                Generic filters against hacked WordPress.
+                
+                Most hacked installations of WordPress use the wp-* folders to stay stealth, so I'll block
+                unusual usage of these files, which 99.9% should be malware uploads.
+            filters:
+              - '/wp-content/*.php^$all'
+              - '/wp-upload/*.php^$all'
+              - '/wp-includes/*$document'
+
+          - date: 2020-05-13
+            desc: Microsoft phising
+            sample: https://gid.do/ztee/Azure2020/realm/send.php?user=fake@email.com&pass=datpassword
+
+          - date: 2020-05-13
+            desc: Facebook phising
+            domain: realdumpspdf.com
+            extra_hosts:
+              - m.fb-account-page.realdumpspdf.com
+              - fb-account-page.realdumpspdf.com
+            sample: https://m.fb-account-page.realdumpspdf.com/login.php
+
+          - date: 2020-06-08
+            desc: Government of Spain CoVID-19 phising
+            domain: smsinformativo.com
+            extra_hosts:
+              - 01.smsinformativo.com
+              - 02.smsinformativo.com
+              - 03.smsinformativo.com
+              - 04.smsinformativo.com
+              - 05.smsinformativo.com
+            sample: https://04.smsinformativo.com/1.php
+
+          - date: 2020-06-15
+            desc: Email Microsoft phishing
+            sample: http://richtech.co.th/wp-includes/css/dists/Docs/oracle.php
+
+          - date: 2020-06-17
+            desc: Bankia phishing
+            samples:
+              - http://www.brera13studio.com/siop30/
+              - https://www.all-in-company.com/siop30/
+
+          - date: 2020-07-19
+            desc: Government of France phishing
+            samples:
+              - https://bcs-ionservice.ro/offers/
+            domains:
+              - bcs-ionservice.ro
+              - finelook.shop
+              - nikos-service.ro
+              - dama-office.com
+              - jabra.id
+              - soflock.com
+            extra_hosts:
+              - impots.gouv.fr.remboursement.nikos-service.ro
+              - impots.gouv.fr.remboursement.dama-office.com
+              - impots.gouv.fr.remboursement.jabra.id
+
+          - date: 2020-08-06
+            desc: Correos email phishing
+            sample: https://www.rioforpartiers.com/Correos
+
+          - date: 2020-08-06
+            desc: Hacked website
+            sample: https://litocen.com/wp-includes/js/exe/upxls.php
+
+          - date: 2020-08-07
+            desc: Another hacked website
+            sample: https://peveyhack.com/wp-upload/lacoolj/post.php
+
+          - date: 2020-09-15
+            desc: Netflix phishing
+            sample: http://srvcsidsa.alslduoemdsjzd.com/Q4dxRnAX
+            domain: alslduoemdsjzd.com
+
+          - date: 2020-09-15
+            desc: Correos phishing
+            sample: https://lora-lutsk.site/wp-admin/rap/USERS/3387fbecd8e99e0/index.php?view=login&appIdKey=79.108.139.220&country=ES
+
+          - date: 2020-09-21
+            desc: AEAT phishing
+            samples:
+              - https://metalcarpenteriedalfovo.it/prova/index.php?web=bWVAcjJkMnJpZ28uZXM=
+              - https://agenciatributaria.email/?web=bWVAcjJkMnJpZ28uZXM=
+
+          - date: 2020-09-29
+            desc: Correos phishing
+            sample: https://correosrastreos.com/
+
+          - date: 2020-09-29
+            desc: EDF phishing
+            sample: https://www.m-esage.com/fr/info.php?&_signin_id=a6ade3da9bc7b88efdc59f16e8994099
+
+          - date: 2020-09-29
+            desc: Santander phishing
+            sample: https://www.s-banco.es/
+
+          - date: 2020-12-03
+            desc: Email phishing
+            samples:
+              - https://mciegroup.ru/muhammadwalii2sep/login.html
+              - https://seatwave.ru/nathy11aug/next.php
+              - https://investfactapi.cloud/kiwj3anderson39kd/post.php
+              - https://virtualbox.work/defdonwilly39jkfhkdhf/post.php
+
+          - date: 2020-10-23
+            desc: Ministerio de Trabajo phishing with trojan
+            sample: http://www.ocmwr.com/stlinter?117840615_292336938732339_7623365132391156747_n.png
+
+          - date: 2020-10-23
+            desc: Ruralvia phishing
+            sample: https://skylarstetten.com/pop
+
+          - date: 2020-10-23
+            desc: Correos phishing
+            sample: http://oficinadecorreos.eastus.cloudapp.azure.com/
+
+          - date: 2020-10-24
+            desc: Amazon phishing and BTC bullshit
+            samples:
+              - http://365abcd.net/r.php?t=c&d=47763&l=8299&c=60356
+              - https://totsclicks.com/0/2/3140/944d4df0748969cdc3c968f877713200/8299/47763/60356/11
+              - https://mediarowntech.com/?724f4f13b397be82a4c9d966e970259e
+              - https://todaypeaks.com/es-btcn-3/?47149fd6cd0f3b098d517e72fa34ff2d
+
+          - date: 2020-10-27
+            desc: Amazon phishing. The link currently redirects to Google, but was received on an Amazon "billing issue" email.
+            sample: https://purajaibngenskuy.com/RWTJnih
+
+          - date: 2020-11-01
+            desc: Fake USA Covid relief fund
+            sample: http://pandemic-reliefnygov.net/?labor_department
+
+          - date: 2020-11-05
+            desc: CaixaBank phishing
+            samples:
+              - http://stammtisch-design.de/ONQ70ZV4HHONQ70ZV4HHONQ70ZV4HH.html
+
+          - date: 2020-11-08
+            desc: Amazon phishing
+            samples:
+              - http://www.congreso-hidalgo.gob.mx/urls/hallomatefak
+              - https://skacuhrilalauhccrikal.com/JSsLgFv
+
+          - date: 2020-11-18
+            desc: Amazon phishing
+            samples:
+              - http://vivarrq324.mama92901.com/ScJfk5gt
+              - https://thienlongcnc.com/vendor/composer/killbot.php/ScJfk5gt
+              - https://amzon-serviceaccountunsualacitiviteam.com/?recovery234
+
+          - date: 2020-11-18
+            desc: Apple ID phishing
+            samples:
+              - https://ausculti.org/
+              - https://thienlongcnc.com/vendor/composer/killbot.php/ScJfk5gt
+
+          - date: 2020-11-22
+            desc: PayPal phishing
+            samples:
+              - http://mysupply.beforese.com/
+              - https://deringanbangnada.tevkhkoztp.com/?sign
+              - http://resolution-centre-id1212.com/?p=4
+            domains:
+              - mysupply.beforese.com
+              - tevkhkoztp.com
+              - supporttech-pay-com.preview-domain.com
+              - resolution-centre-id1212.com
+
+          - date: 2021-01-02
+            desc: Amazon phishing
+            sample: http://akepolsa.hiabaik.alexwasiwo.com/FPWKZUPZUT
+            domain: alexwasiwo.com
+            extra_host: akepolsa.hiabaik.alexwasiwo.com
+
+          - date: 2021-02-16
+            desc: Fedex phishing, received via SMS
+            sample: https://geeklevi.com/fedex/
+            domains:
+              # Hacked Wordpress hosting the APK
+              - 212sennakliyat.com
+              - afedgh.org
+              - apartmentsinklaipeda.lt
+              - aqua-by.com
+              - asfand.fahadmarketing.com
+              - avacoper.com
+              - avantas.org
+              - bestgoldenretrieverbreeder.com
+              - bilgelerhuzurevi.com.tr
+              - bks.tv
+              - blog.envision.agency
+              - bonanzanvan.com
+              - brokenbootstraps.com
+              - bxc.net.au
+              - canopusbd.com
+              - castllypay.com
+              - childofthesouth.co.za
+              - cliffcb.com
+              - creatiste.com
+              - dclifechanging.com
+              - demirayasansor.com.tr
+              - don-diesell.ru
+              - dostavka.gruzinskie-istorii.ru
+              - eigrealty.net
+              - esarengineering.com
+              - eutopia.cl
+              - fallenjewellery.com
+              - fbfolheados.com.br
+              - femalevoiceclub.com
+              - frizzyhub.net
+              - gardendeur.site
+              - geeklevi.com
+              - grandprov.com
+              - haatura.com
+              - habulex.com
+              - hackersweb.org
+              - healthylifeamazingdays.com
+              - hencoder.com
+              - hopech.net
+              - illuminaticult.org
+              - investisho.com
+              - kakagems.com
+              - lavazzem.com
+              - lgklgklgk.com
+              - lova.network
+              - magicbalm.co.uk
+              - marincr.com
+              - metalsur.cl
+              - miflebalarts.com
+              - miggster.net
+              - monroe.attorney
+              - nbkfinance.ru
+              - newsancai.com
+              - nextgearup.com
+              - nguen.net
+              - nightlifenn.ru
+              - njzmfcls.com
+              - nogdec.com
+              - nsoft.fr
+              - openpaytestandtrain.com.au
+              - padangbulan.co.id
+              - pbzaimu.co.jp
+              - persianwoodkitchen.com
+              - photomag.bg
+              - poddonof.ru
+              - pornvillla.com
+              - prinzip.ru
+              - redlog.cl
+              - rengwuxian.com
+              - riverdell.org.au
+              - rsdesentupidora.com.br
+              - saavetamedico.com
+              - safemarkglobal.com
+              - shopontario.ca
+              - slymeletronicos.com.br
+              - smcsme.com
+              - socialfact.in
+              - sonema.holiday
+              - soundwavesprodjs.com
+              - sourmet.com
+              - spotify-upgrade.co.uk
+              - sprintintercom.com.au
+              - store.fursa-tech.com
+              - store.matriztica.org
+              - superztechnoz.com
+              - svgart.org
+              - thevixenslair.com
+              - thietkelq.com
+              - topbullybreeders.com
+              - tshirtworld.co.za
+              - ubirecruit.com
+              - vb4free.co
+              - veljko.id
+              - videoout.ca
+              - viralfeeds.net
+              - whistlebranding.com
+              - wickedsuga.com
+              - wowfollowers.com
+              - zelinaworld.com
+              # C&C domain
+              - update.fbsbx.com
+            extra_hosts:
+              - s.update.fbsbx.com
+              - k.hencoder.com
+            fedex_domains: true
+
+    scams:
+        header: |
+            === SCAMS ===
+            These filters block pages which are known to scam people for money or gift cards
+
+        entries:
+          - date: 2020-05-01
+            desc: Scam reported by Jim Browning
+            source: https://www.youtube.com/watch?v=xOw1vct-wHg
+            domains:
+              - contactaolhelp.com
+              - garmincommexpress.com
+              - garminsmapupdate.com
+              - garminupdatenow.online
+              - hpprintersupportservice.com
+              - mapinfosolutions.com
+              - mywifiextnet.net
+              - navman-gpsupdate.online
+              - navmanupdate.online
+              - navmanupdates.com
+              - printersupports.com
+              - tomtomgopre.online
+              - wifiextenderhelp.com
+
+          - date: 2020-05-02
+            desc: ExcelTechGuru
+            source: https://www.scammer.info/d/34695-exceltechguru-big-24-7-scam
+            domains:
+              - exceltechguru.com
+              - mygeolocate.com
+
+          - date: 2020-05-02
+            desc: Typo domain squatting
+            source: https://www.scammer.info/d/34675-currently-active-websites-that-allow-you-to-get-popups
+            domains:
+              - facebaak.com
+              - facebiik.com
+              - fac3book.com
+              - faceb00k.com
+              - afcebook.com
+              - faicebook.com
+              - fucebook.com
+              - facbeook.com
+              - faceboko.com
+              - fzcebook.com
+              - faceblok.com
+              - facebppk.com
+              - ftacebook.com
+              - gmaip.com
+              - gmai.com
+              - gmaol.com
+              - ggmail.com
+              - gmaii.com
+              - gmsail.com
+              - ygmail.com
+              - gfmail.com
+              - gmalil.com
+              - gmaiol.com
+              - gmaili.com
+              - gjmail.com
+              - gmailk.com
+              - gmaijl.com
+              - gmkail.com
+              - gmaqil.com
+              - gmqail.com
+              - gmajil.com
+              - googlo.com
+              - goorle.com
+              - googls.com
+              - ygoogle.com
+              - gopogle.com
+              - googpe.com
+              - gdoogle.com
+              - voovle.com
+              - goodgle.com
+              - googloe.com
+              - googlpe.com
+              - googlre.com
+              - goovgle.com
+              - yotube.com
+              - youutbe.com
+              - outube.com
+              - yautube.com
+              - youtubo.com
+              - yohtube.com
+              - youthbe.com
+              - yojutube.com
+              - twittre.com
+              - twltter.com
+              - twutter.com
+              - fwitter.com
+              - tsitter.com
+              - twiyter.com
+              - twittee.com
+              - tywitter.com
+              - twuitter.com
+              - twiutter.com
+              - twitfer.com
+              - twittet.com
+              - twiktter.com
+              - wikia.cm
+              - twwitter.com
+
+          - date: 2020-05-02
+            desc: Coronavirus snakeoil
+            source: https://www.scammer.info/d/34676-immune-boost-scam-corona-scam
+            domain: centroidessentialoils.com
+
+          - date: 2020-05-02
+            desc: Fake sex booster
+            source: https://www.scammer.info/d/34672-bluoxyn-keto-scam
+            domain: bluoxyn.com
+
+          - date: 2020-05-02
+            desc: Printer scammer active
+            source: https://www.scammer.info/d/34710-big-scam-on-printer-live
+            domains:
+              - printererrorsupport.com
+              - epsonprintersupport247.com
+              - canonprintersupport247.com
+
+          - date: 2020-05-02
+            desc: Fake blood booster
+            source: https://www.scammer.info/d/34723-blood-boost-pill-scam
+            domain: bloodboostformula.com
+
+          - date: 2021-02-17
+            desc: Bitcoin ponzi schemes
+            domains:
+              - formulavitali.com
+              - opportunemoney.com
+              - megamoneymarket.com
+              - trendinassets.com
+              - worldnewstoday.site
+              - multicoinscapitals.com
+              - heygamersnort.at
+
+          - date: 2021-02-05
+            desc: Elon Musk crypto scams
+            samples:
+              - https://elongives.space/btc/index.php
+              - https://dropmuskx.ir/eth/index.html
+              - https://tweetelonmusk.ir/
+
+    ads:
+        header: |
+            === ADVERTISEMENTS ===
+            These entries block good old advertisements, which are annoying but pose no threat
+
+        entries:
+          - date: 2020-04-06
+            desc: GamoVideo
+            sample: https://servetean.site/des
+
+          - date: 2020-04-06
+            desc: steamplay
+            sample: https://centent.steamplay.me/apu.hh?n=&direct=1&zoneid=50
+
+          - date: 2020-04-27
+            desc: |
+                These are the extremely annoying ads that pop up out of nowhere when clicking sometimes the
+                first result on Google, and then the second time the page just works fine. I am not sure if it's
+                because the pages are hacked or what, but I really want these gone.
+            include: prizes.yml
+            sample: https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+
+          - date: 2021-02-17
+            desc: An advertising company that tricks users into allowing notifications "for confirming they are not robots".
+            include: mono.yml
+
+          - date: 2020-04-27
+            desc: |
+                This is a regex filter to block redirected pages for above entry points.
+                
+                It changes every few hours so listing all domains is just not feasible.
+            sample: https://goldenfroggy15.live/6785626235/?utm_campaign=QPF8euu28II5lw7O2iHhCidoSOXmw5oLxD6bwphw43U1&t=main7d&f=1
+            filter: '/^https?\:\/\/[a-z-]{10,25}[0-9]+\.live/'
+
+          - date: 2020-05-04
+            domain: 3xp4e3kno6.top
+            extra_hosts:
+              - free-movies.3xp4e3kno6.top
+            sample: https://free-movies.3xp4e3kno6.top/premiumstream/cinema/amazon/es/custom-survey/index.html
+
+          - date: 2020-05-04
+            domains:
+             - track1.surfthewave.xyz
+             - track2.surfthewave.xyz
+             - track3.surfthewave.xyz
+             - track4.surfthewave.xyz
+            filter: '/^https?\:\/\/track[0-9]+\.surfthewave\.xyz/'
+            sample: https://track4.surfthewave.xyz/l.php?trf=m&p=c:dvtupna21wp_uynl6&d=5ea02f085f5f901c972876ae
+
+          - date: 2020-05-04
+            samples:
+              - http://mta.vkrpep12.com/s/r?ridb=22&p=21b91oTbMTUbXnx8zMoKFjP1rZibofqpnfHphhnI9MKapSLfwSrYsOYSFkb2PatPodrUR2dRc7if3M9wL2GAZr938XWaZhfYQnl1gNrua2BnZQP5rZ
+              - https://go.exrtbsrv.com/r.php?i=70354323&p=p16090245&s=s3&c=S3V3aU9kSnZETTZvQ2xHR2h0eG0rQT09
+              - https://click.hooligapps.com/?pid=3&offer_id=2&land=156&sub1=pu_remnant
+              - http://click.expmediadirect.com/click?i=U3I9LFLMLk8_0
+              - http://r.mylot.com/go.ashx?w=cD1leHBsb3JhZHN3bCZrPXd3dy5ieW1lc3RldGljYS5jb20mYj0wLjAwMDUmcz0yMjEyOTM1
+              - https://doubleadserve.com/Redirect.eng
+              - http://xml.fastdln.com/click?i=MPH0UvFyL6Q_0
+              - https://z3dmbpl6309s.com/kcj93ej3j?key=0f22c1fd609f13cb7947c8cabfe1a90d&submetric=8025
+
+          - date: 2020-05-04
+            desc: Ads on Yandex Mail for Android
+            domain: adsdk.yandex.ru
+
+          - date: 2020-05-25
+            desc: Ads on Yandex
+            filters:
+              - '||mail.yandex.ru/u2709/*$xhr'
+              - '||docviewer.yandex.com/ixmqo3603/'
+
+          - date: 2020-06-17
+            desc: Cannabis ads
+            sample: https://www.b85allecev.store/linvenon4/
+            domains:
+              - b85allecev.store
+              - cannabisoilnd.com
+            extra_hosts:
+              - es.cannabisoilnd.com
+
+          - date: 2020-07-09
+            desc: Kotaku ads container
+            filters:
+              - '##.movable-ad'
+              - '##.inline-ad-container'
+
+          - date: 2020-07-19
+            desc: Wololo ads containers
+            filters:
+              - '##.ezoic-ad'
+              - 'wololo.net###ezmobfooter'
+
+          - date: 2020-08-05
+            desc: Annoying YouTube banner
+            filter: 'youtube.com##.ytd-rich-section-renderer:has(#dismissable)'
+
+          - date: 2020-09-05
+            desc: Prisa ads filter
+            # Needs to be specific instead of generic because uBlock filters specifically disable generic hides for this domain
+            filter: 'elpais.com##.prisa_ad'
+
+          - date: 2020-09-08
+            desc: Vocento ads
+            sample: https://www.eldiariomontanes.es/v/20110224/sociedad/destacados/resiste-llevarse-tierra-contaminada-20110224_amp.html
+            filters:
+              - 'abc.es,eldiariomontanes.es,lasprovincias.es##.publicidad'
+              - 'abc.es,eldiariomontanes.es,lasprovincias.es##.voc-adver'
+              - 'abc.es,eldiariomontanes.es,lasprovincias.es##amp-embed[type="taboola"]'
+
+          - date: 2020-09-08
+            desc: AliExpress top banner. This lazy loads and is really annoying me.
+            filter: 'aliexpress.com##.top-banner-container'
+
+          - date: 2020-09-08
+            desc: Wallapop ad container
+            filter: 'wallapop.com##.container-ad'
+
+          - date: 2020-10-10
+            desc: jalopnik.com ad container
+            filter: '##.js_movable_ad_slot'
+
+          - date: 2020-10-25
+            desc: elDiario.es ads
+            filters:
+              - '##.edi-advertising'
+              - '##.news-sponsored-content'
+
+          - date: 2020-10-27
+            desc: Expired domain hijacking
+            sample: https://bnmjjwinf292.com/kr683tjxkd?key=0f22c1fd609f13cb7947c8cabfe1a90d&submetric=14892298
+
+    mail_beacons:
+        header: |
+            === MAIL BEACONS ===
+            These entries block beacons on mail which companies use to check if bulk email/spam is read for obvious privacy reasons
+
+        filter_templates:
+            # Yandex mail resize
+          - '||resize.yandex.net/mailservice?url={filter}'
+            # Yahoo mail resize
+          - '||ecp.yusercontent.com/mail?url={filter}'
+
+        entries:
+          - date: 2020-10-27
+            desc: Generic email rules
+            filters:
+              - '^email*/wf/open?$image'
+
+          - date: 2020-05-14
+            desc: Xiaomi mail beacon
+            sample: http://url8807.global.passport.xiaomi.com/wf/open
+
+          - date: 2020-05-14
+            desc: Farnell mail beacon
+            filter: '||email.farnell.com/trk'
+
+          - date: 2020-05-14
+            desc: Danone mail beacon
+            filter: '||push.danone.es/email/image.png'
+
+          - date: 2020-05-20
+            desc: N26 mail beacon
+            filter: '||click.email.n26.com/open.aspx'
+
+          - date: 2020-05-20
+            desc: eBay mail beacon
+            filter: '||rover.ebay.com/roveropen/'
+
+          - date: 2020-05-26
+            desc: Game.es mail beacon
+            filter: '||media.game.es:8011/control.bmp'
+
+          - date: 2020-10-27
+            desc: Mediamarkt.es mail beacon
+            filter: '||link.mediamarkt.es/mo/$image'
+
+          - date: 2020-05-27
+            desc: Wallapop beacon
+            sample: https://mandrillapp.com/track/open.php?u=30067168&id=bfafb8f014174220ae753d54c47ab9b3
+            filter: '||mandrillapp.com/track/'
+
+          - date: 2020-05-27
+            desc: Miles and more beacon
+            sample: https://t.mailing.milesandmore.com/r/?id=hf5bb671,3a605dcd,1
+            filter: '||t.mailing.milesandmore.com/r/$image'
+
+          - date: 2020-05-27
+            desc: PayPal mail beacon
+            sample: https://t.paypal.com/ts?v=1&ppid=PPX001066
+
+          - date: 2020-05-30
+            desc: Kickstarter mail beacon
+            filter: '||emails.kickstarter.com/*/ho.gif$image'
+
+          - date: 2020-05-30
+            desc: Xiti beacons
+            sample: http://logc187.xiti.com/hit.xiti
+            domain: xiti.com
+
+          - date: 2020-05-30
+            desc: El Corte Inglés mail beacon
+            domain: tracker.elcorteingles.es
+
+          - date: 2020-05-30
+            desc: Sendgrid mail beacon
+            domain: ct.sendgrid.net
+            sample: https://u12224516.ct.sendgrid.net/wf/open
+            # Needs wildcard, so disable for hosts
+            hosts: []
+
+          - date: 2020-06-01
+            desc: Uber mail beacon
+            sample: https://email.uber.com/wf/open
+
+          - date: 2020-06-02
+            desc: Infineon beacon
+            sample: https://s1968580696.t.en25.com/e/FooterImages/FooterImage1
+            domain: t.en25.com
+            # Needs wildcard, so disable for hosts
+            hosts: []
+
+          - date: 2020-06-02
+            desc: Simyo beacon
+            sample: https://simyo.zippingcare.com/beacon/5ed52b2ae21b840001fd9d35.gif
+
+          - date: 2020-06-03
+            desc: JFrog beacon
+            sample: http://mkto-lon040102.com/trk
+
+          - date: 2020-10-28
+            desc: List-manage beacons
+            filter: '||list-manage.com/track/open.php^$image'
+
+          - date: 2020-07-19
+            desc: Booking beacon
+            filters:
+              - '||booking.com/emk_track_pixel.gif'
+              - '||link.sg.booking.com^'
+            domains:
+              - link.sg.booking.com
+
+          - date: 2020-07-19
+            desc: Facebook beacon
+            filter: '||facebook.com/email_open_log_pic.php'
+
+          - date: 2020-10-23
+            desc: TravelClub beacon
+            filter: '||click.l.s-travelclub.es/open.aspx^$image'
+
+    tracking:
+        header: |
+            === TRACKING AND PRIVACY ===
+            These entries block web tracking and telemetry
+
+        entries:
+          - date: 2020-05-21
+            desc: Minecraft telemetry
+            domain: minecraftprod.rtep.msgamestudios.com
+            # Hosts-only entry, as this will not be accessed from a web browser
+            filters: []
+
+          - date: 2020-05-25
+            desc: Yandex telemetry
+            filters:
+              - '||yandex.com/monitoring.txt'
+              - '||mail.yandex.ru/monitoring_liza.txt'
+              - '||mail.yandex.com/monitoring_liza.txt'
+
+    antiadblock:
+        header: |
+            === ANTI-ADBLOCK ===
+            These entries defuse anti-adblock scripts
+
+        entries:
+          - date: 2020-06-14
+            desc: ElGoles anti-adblock. Match is part of the anti-adblock b64-encoded image.
+            filter: 'elgoles.me##+js(noeval-if, ejIzabW26SkqgMDA7HByRAADoM7kjAAAAInRSTlM6ACT4xhkPtY5iNiAI9PLv6drSpqGYclpM5bengkQ8NDAnsGiGMwAABetJREFUWMPN2GdTE1EYhmFQ7L339rwngV2IiRJNIGAg1SQkFAHpgnQpKnZBAXvvvXf9mb5nsxuTqDN)'
+
+          - date: 2020-07-08
+            desc: Vladan.fr antiadblock
+            filter: 'vladan.fr##+js(aopr, daau_app)'
+
+          - date: 2020-10-10
+            desc: Positren
+            filters:
+              - 'positren.nebulacodex.com#@#.adpane'
+              - '@@||positren.nebulacodex.com/js.php'
+
+          - date: 2021-01-07
+            desc: Scripts that check for FuckAdBlock presence
+            sample: https://emu-games.com/
+            filter: '##^script:has-text("undefined"!=typeof fuckAdBlock)'
+
+    annoyances:
+        header: |
+            === ANNOYANCES ===
+            Minor quality-of-life improvements
+
+        entries:
+          - date: 2020-08-30
+            desc: |
+                Microsoft allows downloading of Windows 10 ISOs straight from their website, but they redirect you
+                to the media creation tool page if you're already using a Windows OS.
+                
+                This script disables that redirection so I can just download a ISO without running their
+                stupid tool.
+            filter: 'microsoft.com##+js(set, window.softwareDownload.redirection.redirect, noopFunc)'
+
+          - date: 2020-09-05
+            desc: Quora signup wall bypass
+            filters:
+              - 'quora.com##[id*="signup_wall_wrapper"]'
+              - 'quora.com#$##root { filter: none !important; }'
+
+          - date: 2020-09-06
+            desc: Reddit app popup
+            filters:
+              - 'reddit.com##.XPromoPopup'
+              - 'reddit.com#$#body.scroll-disabled { overflow: auto !important; height: auto !important; width: auto !important; position: inherit !important; }'
+
+          - date: 2020-09-11
+            desc: Enable Mercadona online store on mobile phones
+            filter: 'tienda.mercadona.es#$#+js(set, window.matchMedia, falseFunc)'
+
+          - date: 2020-09-16
+            desc: Disable notification requests for AdFly
+            filter: 'bethanyharrell.pro,rudyvalencia.pro,michellehardin.pro,samcunningham.pro,elbaestes.pro##+js(aopr, Notification)'
+
+          - date: 2020-11-21
+            desc: Disable AliExpress popups
+            filters:
+              - 'aliexpress.com##.next-overlay-wrapper:has(.newuser-container)'
+              - 'aliexpress.com#$#body { overflow-y: auto !important; }'
+
+          - date: 2021-01-16
+            desc: Bloomberg paywall
+            filters:
+              - 'bloomberg.com##.fence-rendered'
+              - 'bloomberg.com##graphics-paywall-overlay'
+              - 'bloomberg.com#$#body { overflow: auto !important; }'
+
+    fixes:
+        header: |
+            === FIXES ===
+            Fixes for 3rd party filter lists which block too much
+
+        entries:
+          - date: 2020-09-20
+            desc: Fix Peter Lowe's filter blocking MediaMarkt.es customer reviewing
+            filter: '@@||mpsnare.iesnare.com^$domain=mediamarkt.es'

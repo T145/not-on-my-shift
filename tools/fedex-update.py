@@ -20,17 +20,23 @@ client.headers['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleW
 
 while True:
 	try:
-		domain = random.choice(host_valid)
-		reply = client.get('http://' + domain + '/fedex/').text
+		prev_domain = random.choice(host_valid)
+		reply = client.get('http://' + prev_domain + '/fedex/').text
 		reply = lxml.html.fromstring(reply)
 		link = reply.xpath("//a[starts-with(@href, 'http')]")[0].attrib['href']
 		parsed_link = urlsplit(link)
-		if parsed_link.netloc not in apkhost:
-			print(parsed_link.netloc)
-			apkhost.add(parsed_link.netloc)
-			host_valid.append(parsed_link.netloc)
+
+		new_domain = parsed_link.netloc
+		if new_domain.startswith('www.'):
+			new_domain = new_domain[4:]
+
+		if new_domain not in apkhost:
+			print(new_domain)
+			apkhost.add(new_domain)
+			host_valid.append(new_domain)
+
 	except Exception as e:
-		print('Failed using ' + domain + ': ' + str(e))
-		host_valid.remove(domain)
+		print('Failed using ' + prev_domain + ': ' + str(e))
+		host_valid.remove(prev_domain)
 
 	time.sleep(10)

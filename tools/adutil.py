@@ -9,16 +9,6 @@ import os
 
 project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
 
-def get_domain_group(tag):
-	with open(os.path.join(project_root, 'filters.yml')) as f:
-		filter_list = yaml.safe_load(f)
-
-	for group in filter_list['groups'].values():
-		for entry in group['entries']:
-			if entry.get(tag):
-				return set(entry['domains'])
-	return None
-
 def list_new_domains():
 	all = set()
 

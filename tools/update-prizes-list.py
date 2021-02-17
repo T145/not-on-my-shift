@@ -6,15 +6,17 @@ import re
 import os
 import sys
 import socket
+import yaml
 from requests.exceptions import ConnectionError, TooManyRedirects
 
 # Root path of the project
-print('Project root: %s' % adutil.project_path)
+print('Project root: %s' % adutil.project_root)
 
-with open(os.path.join(adutil.project_path, 'util', 'prizes-ips.txt')) as f:
-	known_ips = {x.strip() for x in f.read().strip().split()}
+with open(os.path.join(adutil.project_root, 'filters', 'prizes.yml')) as f:
+	saved_data = yaml.safe_load(f)
+	known_domains = set(saved_data['domains'])
+	known_ips = set(saved_data['ips'])
 
-known_domains = adutil.get_domain_group('prizedomains')
 if not known_domains:
 	print('Could not find current prize domain list', file=sys.stderr)
 	sys.exit(1)
@@ -40,7 +42,7 @@ if True:
 else:
 	pending_ips = set()
 
-while len(pending_ips) > 0 or len(pending_domains) > 0:
+while False and len(pending_ips) > 0 or len(pending_domains) > 0:
 	print('=== NEW ITERATION ===')
 	print('--- Pending IPs: %d' % len(pending_ips))
 	for ip in pending_ips:
@@ -77,10 +79,7 @@ while len(pending_ips) > 0 or len(pending_domains) > 0:
 
 	pending_domains = set()
 
-print('=== FINAL LIST OF DOMAINS ===')
-for domain in sorted(known_domains):
-	print('              - %s' % domain)
-
-with open(os.path.join(adutil.project_path, 'util', 'prizes-ips.txt'), 'w') as f:
-	for ip in sorted(known_ips):
-		print(ip, file=f)
+with open(os.path.join(adutil.project_root, 'filters', 'prizedomains.yml'), 'w') as f:
+	f.write("# Don't bother manually updating this file.\n")
+	f.write("# It is automatically updated with the tools/update-prizes-list.py script.\n")
+	yaml.dump({'domains': sorted(known_domains), 'ips': sorted(known_ips)}, f)
