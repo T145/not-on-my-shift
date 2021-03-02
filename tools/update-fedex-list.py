@@ -10,18 +10,21 @@ import os
 import yaml
 from urllib.parse import urlsplit
 
+print('Begin')
+
 with open(os.path.join(adutil.project_root, 'filters', 'fedex.yml')) as f:
 	saved_data = yaml.safe_load(f)
 	apkhost = set(saved_data['domains'])
 
-host_valid = list(apkhost)
+host_valid = ['amirapache.ir', 'contornosdesign.pt']
 client = requests.Session()
 client.headers['User-Agent'] = 'Mozilla/5.0 (Android 10; Mobile; rv:85.0) Gecko/85.0 Firefox/85.0'
 
 try:
-	while True:
+	while len(host_valid) > 0:
 		try:
 			prev_domain = random.choice(host_valid)
+			print('Trying with ' + prev_domain)
 			reply = client.get('http://' + prev_domain + '/pkg/').text
 			reply = lxml.html.fromstring(reply)
 			link = reply.xpath("//a[starts-with(@href, 'http')]")[0].attrib['href']
@@ -36,7 +39,7 @@ try:
 				apkhost.add(new_domain)
 				host_valid.append(new_domain)
 
-				with open(os.path.join(adutil.project_root, 'filters', 'prizedomains.yml'), 'w') as f:
+				with open(os.path.join(adutil.project_root, 'filters', 'fedex.yml'), 'w') as f:
 					f.write("# Don't bother manually updating this file.\n")
 					f.write("# It is automatically updated with the tools/update-fedex-list.py script.\n")
 					yaml.dump({'domains': sorted(apkhost)}, f)
