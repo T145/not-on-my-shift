@@ -20,7 +20,7 @@ with open(os.path.join(adutil.project_root, 'filters', 'fedex.yml')) as f:
 	saved_data = yaml.safe_load(f)
 	apkhost = saved_data['domains']
 
-suffixes = ['web', 'pkg', 'app', 'fedex']
+suffixes = ['web', 'pkg', 'app', 'fedex', 'pack', 'info', 'www']
 client = requests.Session()
 client.timeout = 5
 client.headers['User-Agent'] = 'Mozilla/5.0 (Android 10; Mobile; rv:85.0) Gecko/85.0 Firefox/85.0'
@@ -45,7 +45,10 @@ def get_link_for_domain(prev_domain):
 def run_iter(prev_domain):
 	download_link = get_link_for_domain(prev_domain)
 	if download_link is None:
-		raise NotHostingException('Domain ' + prev_domain + ' no longer hosting')
+		print('No longer using ' + prev_domain)
+		#apkhost.remove(prev_domain)
+		#return True
+		return False
 
 	parsed_link = urlsplit(download_link)
 
@@ -58,21 +61,24 @@ def run_iter(prev_domain):
 		if link_get.status_code == 200:
 			print('New link: ' + download_link)
 			apkhost.append(new_domain)
+			return True
 		else:
 			print('Resolved nonworking link: ' + download_link)
+			return False
 	else:
 		print('Nothing new')
+		return False
 
 try:
 	while len(apkhost) > 0:
 		prev_domain = random.choice(apkhost)
+
 		try:
-			run_iter(prev_domain)
-
-		except NotHostingException as e:
-			print('No longer using ' + prev_domain)
-			apkhost.remove(prev_domain)
-
+			if run_iter(prev_domain):
+				with open(os.path.join(adutil.project_root, 'filters', 'fedex.yml'), 'w') as f:
+					f.write("# Don't bother manually updating this file.\n")
+					f.write("# It is automatically updated with the tools/update-fedex-list.py script.\n")
+					yaml.dump({'domains': sorted(apkhost)}, f)
 		except Exception as e:
 			print('Failed using ' + prev_domain + ': ' + str(e))
 
