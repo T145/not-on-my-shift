@@ -141,10 +141,6 @@ groups:
               - https://mediarowntech.com/?724f4f13b397be82a4c9d966e970259e
               - https://todaypeaks.com/es-btcn-3/?47149fd6cd0f3b098d517e72fa34ff2d
 
-          - date: 2020-10-27
-            desc: Amazon phishing. The link currently redirects to Google, but was received on an Amazon "billing issue" email.
-            sample: https://purajaibngenskuy.com/RWTJnih
-
           - date: 2020-11-01
             desc: Fake USA Covid relief fund
             sample: http://pandemic-reliefnygov.net/?labor_department
@@ -154,18 +150,19 @@ groups:
             samples:
               - http://stammtisch-design.de/ONQ70ZV4HHONQ70ZV4HHONQ70ZV4HH.html
 
-          - date: 2020-11-08
+          - date: 2021-03-03
             desc: Amazon phishing
             samples:
-              - http://www.congreso-hidalgo.gob.mx/urls/hallomatefak
-              - https://skacuhrilalauhccrikal.com/JSsLgFv
-
-          - date: 2020-11-18
-            desc: Amazon phishing
-            samples:
+              - http://findout.eu.com
               - http://vivarrq324.mama92901.com/ScJfk5gt
-              - https://thienlongcnc.com/vendor/composer/killbot.php/ScJfk5gt
+              - http://www.congreso-hidalgo.gob.mx/urls/hallomatefak
               - https://amzon-serviceaccountunsualacitiviteam.com/?recovery234
+              - https://classiclimb.com
+              - https://daddygangz.com
+              - https://einfoxfunds.com
+              - https://purajaibngenskuy.com/RWTJnih
+              - https://skacuhrilalauhccrikal.com/JSsLgFv
+              - https://thienlongcnc.com/vendor/composer/killbot.php/ScJfk5gt
 
           - date: 2020-11-18
             desc: Apple ID phishing
@@ -191,13 +188,20 @@ groups:
             domain: alexwasiwo.com
             extra_host: akepolsa.hiabaik.alexwasiwo.com
 
-          - date: 2021-02-16
+          - date: 2021-03-02
             desc: Fedex phishing, received via SMS
             include: fedex.yml
             sample: https://geeklevi.com/fedex/
             extra_hosts:
               - s.update.fbsbx.com
               - k.hencoder.com
+
+          - date: 2021-03-02
+            desc: Fedex phishing, manual domains
+            domains:
+              - update.fbsbx.com
+            extra_hosts:
+              - s.update.fbsbx.com
 
     scams:
         header: |
