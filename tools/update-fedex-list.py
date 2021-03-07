@@ -20,13 +20,17 @@ with open(os.path.join(adutil.project_root, 'filters', 'fedex.yml')) as f:
 	saved_data = yaml.safe_load(f)
 	apkhost = saved_data['domains']
 
-suffixes = ['web', 'pkg', 'app', 'fedex', 'pack', 'info', 'www']
+checkhosts = set(apkhost)
+
+suffixes = ['web', 'pkg', 'app', 'fedex', 'pack', 'info', 'www', 'url', 'go']
 client = requests.Session()
 client.timeout = 5
 client.headers['User-Agent'] = 'Mozilla/5.0 (Android 10; Mobile; rv:85.0) Gecko/85.0 Firefox/85.0'
 
 @kill_timeout(20)
 def get_link_for_domain(prev_domain):
+	random.shuffle(suffixes)
+
 	for suffix in suffixes:
 		print('Trying %s suffix %s' % (prev_domain, suffix))
 		reply = client.get('http://' + prev_domain + '/' + suffix + '/?sdeasdefsa').text
@@ -46,8 +50,7 @@ def run_iter(prev_domain):
 	download_link = get_link_for_domain(prev_domain)
 	if download_link is None:
 		print('No longer using ' + prev_domain)
-		#apkhost.remove(prev_domain)
-		#return True
+		checkhosts.remove(prev_domain)
 		return False
 
 	parsed_link = urlsplit(download_link)
@@ -61,6 +64,7 @@ def run_iter(prev_domain):
 		if link_get.status_code == 200:
 			print('New link: ' + download_link)
 			apkhost.append(new_domain)
+			checkhosts.add(new_domain)
 			return True
 		else:
 			print('Resolved nonworking link: ' + download_link)
@@ -70,8 +74,8 @@ def run_iter(prev_domain):
 		return False
 
 try:
-	while len(apkhost) > 0:
-		prev_domain = random.choice(apkhost)
+	while len(checkhosts) > 0:
+		prev_domain = random.choice(list(checkhosts))
 
 		try:
 			if run_iter(prev_domain):
@@ -81,6 +85,7 @@ try:
 					yaml.dump({'domains': sorted(apkhost)}, f)
 		except Exception as e:
 			print('Failed using ' + prev_domain + ': ' + str(e))
+			checkhosts.remove(prev_domain)
 
 		time.sleep(10)
 except KeyboardInterrupt:

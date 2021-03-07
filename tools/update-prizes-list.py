@@ -42,7 +42,7 @@ if True:
 else:
 	pending_ips = set()
 
-while False and len(pending_ips) > 0 or len(pending_domains) > 0:
+while len(pending_ips) > 0 or len(pending_domains) > 0:
 	print('=== NEW ITERATION ===')
 	print('--- Pending IPs: %d' % len(pending_ips))
 	for ip in pending_ips:
@@ -79,7 +79,7 @@ while False and len(pending_ips) > 0 or len(pending_domains) > 0:
 
 	pending_domains = set()
 
-with open(os.path.join(adutil.project_root, 'filters', 'prizedomains.yml'), 'w') as f:
+with open(os.path.join(adutil.project_root, 'filters', 'prizes.yml'), 'w') as f:
 	f.write("# Don't bother manually updating this file.\n")
 	f.write("# It is automatically updated with the tools/update-prizes-list.py script.\n")
 	yaml.dump({'domains': sorted(known_domains), 'ips': sorted(known_ips)}, f)
