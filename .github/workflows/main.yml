@@ -1,38 +1,35 @@
 name: CI
 
-on: push
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions: read-all
+
 jobs:
-    build:
-        runs-on: ubuntu-20.04
-        steps:
-          - name: Checkout
-            uses: actions/checkout@v2
-
-          - name: Install deps
-            run: python3 -m pip install -r tools/requirements.txt --no-warn-script-location
-
-          - name: Build
-            run: |
-                mkdir built
-                python3 tools/build.py filters/main.yml --hosts built/hosts.txt --abp built/abp.txt --domains built/domains.txt
-                brotli built/*
-
-          - name: Ensure files have contents
-            run: |
-                [ $(wc -l < built/hosts.txt) -gt 100 ]
-                [ $(wc -l < built/abp.txt) -gt 100 ]
-                [ $(wc -l < built/domains.txt) -gt 100 ]
-
-          - name: Publish
-            if: github.ref == 'refs/heads/master'
-            run: |
-                mkdir -p ~/.ssh/
-                echo "|1|40RGWMsg0FNOPYd+x4ZLEosg4zQ=|EAyRl4G9+69a9dq0SUQpWimmpNk= ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK+v6Lr/30gISPJk8ViZ/esm/PYi97Bqxhr5Fn9Yt1kI" >~/.ssh/known_hosts
-                chmod 600 ~/.ssh/known_hosts
-                echo "${{ secrets.SSH_KEY }}" >~/.ssh/id_ed25519
-                chmod 400 ~/.ssh/id_ed25519
-                sftp bmnjpbf@ftp.cluster030.hosting.ovh.net <<'EOF'
-                lcd built
-                cd orcapet/notonmyshift
-                put *
-                EOF
+  build:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Install deps
+        run: python3 -m pip install -r tools/requirements.txt --no-warn-script-location
+      - name: Build
+        run: |
+            mkdir built
+            python3 tools/build.py filters/main.yml --hosts built/hosts.txt --abp built/abp.txt --domains built/domains.txt
+            brotli built/*
+      - name: Ensure files have contents
+        run: |
+            [ $(wc -l < built/hosts.txt) -gt 100 ]
+            [ $(wc -l < built/abp.txt) -gt 100 ]
+            [ $(wc -l < built/domains.txt) -gt 100 ]
+      - name: Publish
+        if: github.ref == 'refs/heads/master'
+        run: |
+          git config --global --add safe.directory /__w/not-on-my-shift/not-on-my-shift
+          chmod +x commit.bash
+          bash commit.bash
