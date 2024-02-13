@@ -20,7 +20,6 @@ jobs:
         run: |
             mkdir built
             python3 tools/build.py filters/main.yml --hosts built/hosts.txt --abp built/abp.txt --domains built/domains.txt
-            brotli built/*
       - name: Ensure files have contents
         run: |
             [ $(wc -l < built/hosts.txt) -gt 100 ]
@@ -30,3 +29,5 @@ jobs:
         run: git config --global --add safe.directory /__w/not-on-my-shift/not-on-my-shift
       - name: Publish
         uses: stefanzweifel/git-auto-commit-action@4d160c5e4d67c62e67f03ae49aa38359e964139a
+        with:
+          commit_message: "Updated filters"
