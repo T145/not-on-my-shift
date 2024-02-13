@@ -10,8 +10,7 @@ permissions: read-all
 jobs:
   build:
     runs-on: ubuntu-22.04
-    permissions:
-      contents: write
+    permissions: write-all
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -27,9 +26,7 @@ jobs:
             [ $(wc -l < built/hosts.txt) -gt 100 ]
             [ $(wc -l < built/abp.txt) -gt 100 ]
             [ $(wc -l < built/domains.txt) -gt 100 ]
+      - name: Make the working tree safe
+        run: git config --global --add safe.directory /__w/not-on-my-shift/not-on-my-shift
       - name: Publish
-        if: github.ref == 'refs/heads/master'
-        run: |
-          git config --global --add safe.directory /__w/not-on-my-shift/not-on-my-shift
-          chmod +x commit.bash
-          bash commit.bash
+        uses: stefanzweifel/git-auto-commit-action@4d160c5e4d67c62e67f03ae49aa38359e964139a
