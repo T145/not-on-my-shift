@@ -14,6 +14,11 @@ groups:
             These filters block pages that are not yet blocked by Google Safe Search
 
         entries:
+          - date: 2021-03-09
+            desc: Royalmail phising
+            domain: royaimaii.com
+            sample: https://royaimaii.com/schedule-delivery/?GV656872065GB
+
           - date: 2020-10-27
             desc: |
                 Generic filters against hacked WordPress.
