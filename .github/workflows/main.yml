@@ -14,12 +14,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Install deps
-        run: python3 -m pip install -r tools/requirements.txt --no-warn-script-location
       - name: Build
         run: |
-            mkdir built
-            python3 tools/build.py filters/main.yml --hosts built/hosts.txt --abp built/abp.txt --domains built/domains.txt
+            chmod +x build.bash
+            bash build.bash
       - name: Ensure files have contents
         run: |
             [ $(wc -l < built/hosts.txt) -gt 100 ]
