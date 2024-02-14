@@ -1,10 +1,10 @@
 
 header: |
-    Title: Not on my shift!
-    Description: filter list made with <3 by Socram
-    Homepage: https://orca.pet/notonmyshift/
+    Title: Not on my Shift!
+    Description: Filter list made with <3 by Socram: Maintained by T145
+    Homepage: https://github.com/T145/not-on-my-shift/
     Licence: https://orca.pet/#license
-    Expires: 4h
+    Expires: 24h
     Last update: {timestamp}
 
 groups:
