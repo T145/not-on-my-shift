@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 
-import adutil
 import requests
 import re
 import os
 import sys
 import socket
 import yaml
+import csv
+import glob
+from zipfile import ZipFile
 from requests.exceptions import ConnectionError, TooManyRedirects
 
 def matches_ad_pattern(x):
@@ -17,6 +19,48 @@ def matches_ad_pattern(x):
 		return True
 
 	return False
+
+def list_new_domains():
+	all = set()
+
+	domains_filter = os.path.join(os.path.dirname(__file__), 'new-domains', '*.zip')
+	for file in glob.iglob(domains_filter):
+		with ZipFile(file) as zip:
+			try:
+				domains = zip.read('domain-names.txt')
+			except KeyError:
+				domains = zip.read('whoisds.com.txt')
+			domains = domains.decode('ascii')
+			domains = domains.replace('\r', '')
+			domains = domains.split()
+			yield from domains
+
+	return all
+
+def _limited_is_prize_domain(domain):
+	headers = {
+		'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0'
+	}
+
+	# All these domains have a "Under construction" text on the main page, let's use that for fingerprinting
+	text_page = requests.get('http://%s/' % domain, headers=headers).text
+
+	if 'Under construction' not in text_page:
+		return False
+
+	# They emit a redirect in JS if passed these arguments
+	text_page = requests.get('http://%s/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch' % domain, headers=headers, timeout=3).text
+
+	if 'redirDomain' not in text_page:
+		return False
+
+	return True
+
+def is_prize_domain(domain):
+	try:
+		return _limited_is_prize_domain(domain)
+	except TimeoutError:
+		return False
 
 if __name__ == '__main__':
 	with open(os.path.join(os.getcwd(), 'filters', 'prizes.yml')) as f:
@@ -30,15 +74,10 @@ if __name__ == '__main__':
 
 	print('Previously known: %d' % len(known_domains))
 
-	pending_domains = set(adutil.list_new_domains())
+	pending_domains = set(list_new_domains())
 	print('New domains: %d' % len(pending_domains))
 	pending_domains = set(filter(matches_ad_pattern, pending_domains))
-	tested_domains = set(known_domains)
-
-	if True:
-		pending_ips = set(known_ips)
-	else:
-		pending_ips = set()
+	pending_ips = set(known_ips)
 
 	while len(pending_ips) > 0 or len(pending_domains) > 0:
 		print('=== NEW ITERATION ===')
@@ -58,13 +97,10 @@ if __name__ == '__main__':
 		hostnames = [x for x in sorted(pending_domains) if not x.endswith('.live')]
 		for hostname in hostnames:
 			hostname = hostname.strip()
-			if hostname in tested_domains:
-				continue
-			tested_domains.add(hostname)
-
+			
 			try:
 				print('Test %s' % hostname)
-				if adutil.is_prize_domain(hostname):
+				if is_prize_domain(hostname):
 					known_domains.add(hostname)
 					print('NEW: %s' % hostname)
 					for ip in socket.gethostbyname_ex(hostname)[2]:
