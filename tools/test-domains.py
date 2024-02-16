@@ -8,21 +8,6 @@ import re
 import multiprocessing.pool
 import subprocess
 
-parser = argparse.ArgumentParser(description='Tests which domains in the list exist.')
-parser.add_argument('--file', type=argparse.FileType('r'), default=sys.stdin, help='domain list')
-parser.add_argument('--threads', type=int, default=4, help='domain querying threads')
-
-args = parser.parse_args()
-
-domains = set()
-for line in args.file:
-	line = line.strip().lower()
-	if re.match(r'^([a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)*[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$', line):
-		domains.add(line)
-
-registered = []
-unregistered = []
-
 FREE_MARKERS = [
 	'no match for',
 	'status: free',
@@ -50,23 +35,39 @@ def domain_exists(domain):
 	print('Whois for %s tested true but A did not' % domain)
 	return domain, True
 
-with multiprocessing.pool.ThreadPool(args.threads) as pool:
-	with tqdm(total=len(domains)) as pbar:
-		for domain, result in pool.imap_unordered(domain_exists, domains):
-			if result:
-				registered.append(domain)
-			else:
-				unregistered.append(domain)
-			pbar.update()
+if __name__ == '__main__':
+	parser = argparse.ArgumentParser(description='Tests which domains in the list exist.')
+	parser.add_argument('--file', type=argparse.FileType('r'), default=sys.stdin, help='domain list')
+	parser.add_argument('--threads', type=int, default=4, help='domain querying threads')
 
-registered.sort()
-unregistered.sort()
+	args = parser.parse_args()
 
-print('### REGISTERED ###')
-for domain in registered:
-	print(domain)
+	domains = set()
+	for line in args.file:
+		line = line.strip().lower()
+		if re.match(r'^([a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)*[a-z0-9](?:[a-z0-9-]*[a-z0-9])?$', line):
+			domains.add(line)
 
-print()
-print('### UNREGISTERED ###')
-for domain in unregistered:
-	print(domain)
+	registered = []
+	unregistered = []
+
+	with multiprocessing.pool.ThreadPool(args.threads) as pool:
+		with tqdm(total=len(domains)) as pbar:
+			for domain, result in pool.imap_unordered(domain_exists, domains):
+				if result:
+					registered.append(domain)
+				else:
+					unregistered.append(domain)
+				pbar.update()
+
+	registered.sort()
+	unregistered.sort()
+
+	print('### REGISTERED ###')
+	for domain in registered:
+		print(domain)
+
+	print()
+	print('### UNREGISTERED ###')
+	for domain in unregistered:
+		print(domain)

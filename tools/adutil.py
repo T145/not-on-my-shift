@@ -4,10 +4,7 @@ import csv
 import glob
 import requests
 from zipfile import ZipFile
-from kill_timeout import kill_timeout
 import os
-
-project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
 
 def list_new_domains():
 	all = set()
@@ -26,7 +23,6 @@ def list_new_domains():
 
 	return all
 
-@kill_timeout(10)
 def _limited_is_prize_domain(domain):
 	headers = {
 		'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0'

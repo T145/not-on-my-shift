@@ -1,6 +1,5 @@
 publicsuffixlist==0.*
 PyYAML==5.*
-kill-timeout==0.0.3
 requests==2.*
 six==1.*
 tqdm==4.*

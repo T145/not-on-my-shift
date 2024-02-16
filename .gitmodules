@@ -1,0 +1,3 @@
+[submodule "nrd-list-downloader"]
+	path = nrd-list-downloader
+	url = https://github.com/PeterDaveHello/nrd-list-downloader.git

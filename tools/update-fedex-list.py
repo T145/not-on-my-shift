@@ -10,14 +10,13 @@ import os
 import yaml
 import re
 from urllib.parse import urlsplit
-from kill_timeout import kill_timeout
 
 print('Begin')
 
 class NotHostingException(Exception):
 	pass
 
-with open(os.path.join(adutil.project_root, 'filters', 'fedex.yml')) as f:
+with open(os.path.join(os.getcwd(), 'filters', 'fedex.yml')) as f:
 	saved_data = yaml.safe_load(f)
 	apkhost = saved_data['domains']
 	suffixes = saved_data['fedex-suffixes']
@@ -28,7 +27,6 @@ client = requests.Session()
 client.timeout = 5
 client.headers['User-Agent'] = 'Mozilla/5.0 (Android 10; Mobile; rv:85.0) Gecko/85.0 Firefox/85.0'
 
-@kill_timeout(30)
 def get_link_for_domain(prev_domain):
 	random.shuffle(suffixes)
 
@@ -88,20 +86,21 @@ def run_iter(prev_domain):
 		print('Nothing new')
 		return False
 
-try:
-	while len(checkhosts) > 0:
-		prev_domain = random.choice(list(checkhosts))
+if __name__ == '__main__':
+	try:
+		while len(checkhosts) > 0:
+			prev_domain = random.choice(list(checkhosts))
 
-		try:
-			if run_iter(prev_domain):
-				with open(os.path.join(adutil.project_root, 'filters', 'fedex.yml'), 'w') as f:
-					f.write("# Don't bother manually updating this file.\n")
-					f.write("# It is automatically updated with the tools/update-fedex-list.py script.\n")
-					yaml.dump({'domains': sorted(apkhost), 'fedex-suffixes': sorted(suffixes)}, f)
-		except Exception as e:
-			print('Failed using ' + prev_domain + ': ' + str(e))
-			checkhosts.remove(prev_domain)
+			try:
+				if run_iter(prev_domain):
+					with open(os.path.join(os.getcwd(), 'filters', 'fedex.yml'), 'w') as f:
+						f.write("# Don't bother manually updating this file.\n")
+						f.write("# It is automatically updated with the tools/update-fedex-list.py script.\n")
+						yaml.dump({'domains': sorted(apkhost), 'fedex-suffixes': sorted(suffixes)}, f)
+			except Exception as e:
+				print('Failed using ' + prev_domain + ': ' + str(e))
+				checkhosts.remove(prev_domain)
 
-		time.sleep(10)
-except KeyboardInterrupt:
-	pass
+			time.sleep(10)
+	except KeyboardInterrupt:
+		pass
