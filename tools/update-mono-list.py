@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-import adutil
 import requests
 import yaml
 from publicsuffixlist import PublicSuffixList

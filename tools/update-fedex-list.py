@@ -5,7 +5,6 @@ import time
 import lxml.html
 import random
 import sys
-import adutil
 import os
 import yaml
 import re
