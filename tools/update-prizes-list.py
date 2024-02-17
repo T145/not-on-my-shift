@@ -23,9 +23,8 @@ def matches_ad_pattern(x):
 def list_new_domains():
 	with open('nrd-list-downloader/nrd-1days-free.txt') as text:
 		domains = text.readlines()
-		domains = domains.decode('ascii')
-		domains = domains.replace('\r', '')
-		domains = domains.split()
+		for i, domain in enumerate(domains):
+			domains[i] = domain.strip()
 		yield from domains
 	return list()
 
