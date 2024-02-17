@@ -25,7 +25,7 @@ def list_new_domains():
 		domains = text.readlines()
 		for i, domain in enumerate(domains):
 			domains[i] = domain.strip()
-		yield from domains
+		return domains
 	return list()
 
 def _limited_is_prize_domain(domain):
