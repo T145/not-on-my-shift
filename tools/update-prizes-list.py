@@ -21,21 +21,13 @@ def matches_ad_pattern(x):
 	return False
 
 def list_new_domains():
-	all = set()
-
-	domains_filter = os.path.join(os.path.dirname(__file__), 'new-domains', '*.zip')
-	for file in glob.iglob(domains_filter):
-		with ZipFile(file) as zip:
-			try:
-				domains = zip.read('domain-names.txt')
-			except KeyError:
-				domains = zip.read('whoisds.com.txt')
-			domains = domains.decode('ascii')
-			domains = domains.replace('\r', '')
-			domains = domains.split()
-			yield from domains
-
-	return all
+	with open('nrd-list-downloader/nrd-1days-free.txt') as text:
+		domains = text.readlines()
+		domains = domains.decode('ascii')
+		domains = domains.replace('\r', '')
+		domains = domains.split()
+		yield from domains
+	return list()
 
 def _limited_is_prize_domain(domain):
 	headers = {

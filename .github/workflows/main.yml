@@ -14,15 +14,17 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          submodules: true
       - name: Build
         run: |
-            chmod +x build.bash
-            bash build.bash
+          chmod +x build.bash
+          bash build.bash
       - name: Ensure files have contents
         run: |
-            [ $(wc -l < built/hosts.txt) -gt 100 ]
-            [ $(wc -l < built/abp.txt) -gt 100 ]
-            [ $(wc -l < built/domains.txt) -gt 100 ]
+          [ $(wc -l < built/hosts.txt) -gt 100 ]
+          [ $(wc -l < built/abp.txt) -gt 100 ]
+          [ $(wc -l < built/domains.txt) -gt 100 ]
       - name: Make the working tree safe
         run: git config --global --add safe.directory /__w/not-on-my-shift/not-on-my-shift
       - name: Publish
