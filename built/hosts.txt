@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # Licence: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-02-16T12:03:21Z
+# Last update: 2024-02-17T02:50:50Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -2832,6 +2832,16 @@
 0.0.0.0 7.mono9.biz
 0.0.0.0 8.mono9.biz
 0.0.0.0 9.mono9.biz
+0.0.0.0 0.mykola.space
+0.0.0.0 1.mykola.space
+0.0.0.0 2.mykola.space
+0.0.0.0 3.mykola.space
+0.0.0.0 4.mykola.space
+0.0.0.0 5.mykola.space
+0.0.0.0 6.mykola.space
+0.0.0.0 7.mykola.space
+0.0.0.0 8.mykola.space
+0.0.0.0 9.mykola.space
 0.0.0.0 0.net02.biz
 0.0.0.0 1.net02.biz
 0.0.0.0 2.net02.biz
@@ -2962,6 +2972,16 @@
 0.0.0.0 7.news20.biz
 0.0.0.0 8.news20.biz
 0.0.0.0 9.news20.biz
+0.0.0.0 0.romanow-alex.ru
+0.0.0.0 1.romanow-alex.ru
+0.0.0.0 2.romanow-alex.ru
+0.0.0.0 3.romanow-alex.ru
+0.0.0.0 4.romanow-alex.ru
+0.0.0.0 5.romanow-alex.ru
+0.0.0.0 6.romanow-alex.ru
+0.0.0.0 7.romanow-alex.ru
+0.0.0.0 8.romanow-alex.ru
+0.0.0.0 9.romanow-alex.ru
 0.0.0.0 0.wwserch43.biz
 0.0.0.0 1.wwserch43.biz
 0.0.0.0 2.wwserch43.biz
@@ -3052,6 +3072,8 @@
 0.0.0.0 www.mono7.biz
 0.0.0.0 mono9.biz
 0.0.0.0 www.mono9.biz
+0.0.0.0 mykola.space
+0.0.0.0 www.mykola.space
 0.0.0.0 net02.biz
 0.0.0.0 www.net02.biz
 0.0.0.0 net04.biz
@@ -3078,6 +3100,8 @@
 0.0.0.0 www.news17.biz
 0.0.0.0 news20.biz
 0.0.0.0 www.news20.biz
+0.0.0.0 romanow-alex.ru
+0.0.0.0 www.romanow-alex.ru
 0.0.0.0 wwserch43.biz
 0.0.0.0 www.wwserch43.biz
 

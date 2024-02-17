@@ -41,6 +41,7 @@ domains:
 - mono6.biz
 - mono7.biz
 - mono9.biz
+- mykola.space
 - net02.biz
 - net04.biz
 - net07.biz
@@ -54,6 +55,7 @@ domains:
 - news13.biz
 - news17.biz
 - news20.biz
+- romanow-alex.ru
 - wwserch43.biz
 extra_hosts:
 - 0.1mono.biz
@@ -456,6 +458,16 @@ extra_hosts:
 - 7.mono9.biz
 - 8.mono9.biz
 - 9.mono9.biz
+- 0.mykola.space
+- 1.mykola.space
+- 2.mykola.space
+- 3.mykola.space
+- 4.mykola.space
+- 5.mykola.space
+- 6.mykola.space
+- 7.mykola.space
+- 8.mykola.space
+- 9.mykola.space
 - 0.net02.biz
 - 1.net02.biz
 - 2.net02.biz
@@ -586,6 +598,16 @@ extra_hosts:
 - 7.news20.biz
 - 8.news20.biz
 - 9.news20.biz
+- 0.romanow-alex.ru
+- 1.romanow-alex.ru
+- 2.romanow-alex.ru
+- 3.romanow-alex.ru
+- 4.romanow-alex.ru
+- 5.romanow-alex.ru
+- 6.romanow-alex.ru
+- 7.romanow-alex.ru
+- 8.romanow-alex.ru
+- 9.romanow-alex.ru
 - 0.wwserch43.biz
 - 1.wwserch43.biz
 - 2.wwserch43.biz

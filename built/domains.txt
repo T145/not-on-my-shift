@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # Licence: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-02-16T12:03:21Z
+# Last update: 2024-02-17T02:50:50Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -1338,6 +1338,7 @@ mono4.biz
 mono6.biz
 mono7.biz
 mono9.biz
+mykola.space
 net02.biz
 net04.biz
 net07.biz
@@ -1351,6 +1352,7 @@ news11.biz
 news13.biz
 news17.biz
 news20.biz
+romanow-alex.ru
 wwserch43.biz
 
 # 2020-05-04
