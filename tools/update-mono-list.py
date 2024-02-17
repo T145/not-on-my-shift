@@ -7,8 +7,8 @@ import os
 
 if __name__ == '__main__':
 	psl = PublicSuffixList()
-
 	filter_file = os.path.join(os.getcwd(), 'filters', 'mono.yml')
+
 	with open(filter_file) as f:
 		saved_data = yaml.safe_load(f)
 		known_domains = set(saved_data['domains'])

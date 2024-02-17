@@ -97,7 +97,7 @@ if __name__ == '__main__':
 		hostnames = [x for x in sorted(pending_domains) if not x.endswith('.live')]
 		for hostname in hostnames:
 			hostname = hostname.strip()
-			
+
 			try:
 				print('Test %s' % hostname)
 				if is_prize_domain(hostname):
