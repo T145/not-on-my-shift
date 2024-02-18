@@ -53,7 +53,7 @@ def matches_ad_pattern(x):
 
 def list_new_domains():
 	with open('nrd-list-downloader/nrd-1days-free.txt') as text:
-		return [domain.strip for domain in text.readlines()]
+		return [domain.strip() for domain in text.readlines()]
 	return list()
 
 
