@@ -29,7 +29,7 @@ def list_new_domains():
 		return domains
 	return list()
 
-def _limited_is_prize_domain(domain):
+def is_prize_domain(domain):
 	headers = {
 		'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0'
 	}
@@ -39,12 +39,6 @@ def _limited_is_prize_domain(domain):
 	resp = requests.get('http://%s/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch' % domain, headers=headers).text
 
 	return 'under construction' in resp.lower() or 'redirDomain' in resp
-
-def is_prize_domain(domain):
-	try:
-		return _limited_is_prize_domain(domain)
-	except:
-		return False
 
 if __name__ == '__main__':
 	with open(os.path.join(os.getcwd(), 'filters', 'prizes.yml')) as f:
