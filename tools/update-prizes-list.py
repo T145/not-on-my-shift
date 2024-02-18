@@ -36,7 +36,7 @@ def is_prize_domain(domain):
 
 	# Prize domains have "Under construction" text on the main page, so let's use that for fingerprinting
 	# They can emit a redirect in JS if passed the given arguments
-	resp = requests.get('http://%s/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch' % domain, headers=headers).text
+	resp = requests.get('http://%s/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch' % domain, headers=headers, timeout=3).text
 
 	return 'under construction' in resp.lower() or 'redirDomain' in resp
 
