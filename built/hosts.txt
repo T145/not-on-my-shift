@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # Licence: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-02-17T19:30:53Z
+# Last update: 2024-02-18T17:28:38Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -1893,6 +1893,8 @@
 0.0.0.0 www.onlysexydate1.com
 0.0.0.0 oursecret-flirt.com
 0.0.0.0 www.oursecret-flirt.com
+0.0.0.0 paymetcreditusa.com
+0.0.0.0 www.paymetcreditusa.com
 0.0.0.0 perfect-hottiest.com
 0.0.0.0 www.perfect-hottiest.com
 0.0.0.0 perfect-hottiest1.com
