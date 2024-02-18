@@ -1,15 +1,16 @@
 #!/usr/bin/env python3
 
+import sys
+sys.dont_write_bytecode = True
+
 import requests
 import re
 import os
-import sys
 import socket
 import yaml
 import csv
 import glob
 from zipfile import ZipFile
-from requests.exceptions import ConnectionError, TooManyRedirects
 
 def matches_ad_pattern(x):
 	if re.match(r'^[a-z-]{15,30}[0-9]+\.life$', x):
@@ -50,7 +51,7 @@ def _limited_is_prize_domain(domain):
 def is_prize_domain(domain):
 	try:
 		return _limited_is_prize_domain(domain)
-	except TimeoutError:
+	except:
 		return False
 
 if __name__ == '__main__':
@@ -99,7 +100,7 @@ if __name__ == '__main__':
 							print('Adding new IP: %s' % ip)
 							pending_ips.add(ip)
 							known_ips.add(ip)
-			except (ConnectionError, TooManyRedirects):
+			except:
 				pass
 
 		pending_domains = set()
