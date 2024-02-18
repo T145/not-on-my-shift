@@ -8,10 +8,10 @@ import re
 import os
 import socket
 import yaml
-import csv
 import glob
 import asyncio
 import aiohttp
+import time
 
 
 HEADERS = {
@@ -37,7 +37,6 @@ async def main(domains):
 	timeout = aiohttp.ClientTimeout(total=60)
 	async with aiohttp.ClientSession(timeout=timeout) as session:
 		ret = await asyncio.gather(*(get(domain, session) for domain in domains))
-	print("Finalized all. Return is a list of len {} outputs.".format(len(ret)))
 	return [r for r in ret if r is not None]
 
 
