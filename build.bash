@@ -2,6 +2,7 @@
 set -euo pipefail
 
 DAY_RANGE=1 ./nrd-list-downloader/nrd-list-downloader.sh
+pip install aiohttp[speedups]
 pip install -r tools/requirements.txt
 #python tools/update-fedex-list.py
 python tools/update-mono-list.py
