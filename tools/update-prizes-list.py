@@ -29,7 +29,7 @@ async def get(domain, session):
 				print(f'NEW: {domain}')
 				return domain
 	except Exception as e:
-		print("Unable to get {} due to {}.".format(url, e.__class__))
+		print("Unable to get {} due to {}.".format(domain, e.__class__))
 		return None
 
 
