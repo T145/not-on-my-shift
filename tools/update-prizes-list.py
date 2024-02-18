@@ -91,6 +91,7 @@ if __name__ == '__main__':
 
 		start = time.time()
 		hostnames = asyncio.run(main(hostnames))
+		known_domains.extend(hostnames)
 		end = time.time()
 
 		print("Took {} seconds to check {} domains.".format(end - start, len(hostnames)))
