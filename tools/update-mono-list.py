@@ -8,6 +8,7 @@ import os
 if __name__ == '__main__':
 	psl = PublicSuffixList()
 	filter_file = os.path.join(os.getcwd(), 'filters', 'mono.yml')
+	extra_hosts = set()
 
 	with open(filter_file) as f:
 		saved_data = yaml.safe_load(f)
@@ -16,17 +17,12 @@ if __name__ == '__main__':
 	vault_reply = requests.get('https://otx.alienvault.com/otxapi/indicator/IPv4/passive_dns/134.209.136.68').json()
 
 	for entry in vault_reply['passive_dns']:
-		hostname = psl.privatesuffix(entry['hostname'])
-		known_domains.add(hostname)
-
-	known_domains = sorted(known_domains)
-	extra_hosts = []
-
-	for domain in known_domains:
-		for i in range(10):
-			extra_hosts.append('%d.%s' % (i, domain))
+		if not entry['whitelisted']:
+			hostname = entry['hostname']
+			extra_hosts.add(hostname)
+			known_domains.add(psl.privatesuffix(hostname))
 
 	with open(filter_file, 'w') as f:
 		f.write("# Don't bother manually updating this file.\n")
 		f.write("# It is automatically updated with the tools/update-mono-list.py script.\n")
-		yaml.dump({'domains': known_domains, 'extra_hosts': extra_hosts}, f)
+		yaml.dump({'domains': sorted(known_domains), 'extra_hosts': sorted(extra_hosts)}, f)
