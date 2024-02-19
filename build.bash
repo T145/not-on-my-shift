@@ -12,5 +12,5 @@ if git diff-index --cached --quiet HEAD; then
 	echo "Nothing to do!"
 else
 	mkdir -p built
-    python tools/build.py filters/main.yml --hosts built/hosts.txt --abp built/abp.txt --domains built/domains.txt
+	python tools/build.py filters/main.yml --hosts built/hosts.txt --abp built/abp.txt --domains built/domains.txt
 fi
