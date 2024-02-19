@@ -12,6 +12,7 @@ import glob
 import asyncio
 import aiohttp
 import time
+from aiohttp.client_exceptions import ClientConnectorError
 
 
 HEADERS = {
@@ -19,32 +20,46 @@ HEADERS = {
 }
 
 
-async def get(domain, session):
+async def _check_host(domain, session):
 	print('Testing %s' % domain)
 	try:
 		async with session.get(url=f'http://{domain}/', params={'u': 'tqck80z', 'o': 'zdqr96x', 't': 'DESKuniqANDsearch'}, headers=HEADERS) as response:
 			resp = await response.text()
-			#print("Successfully got url {} with resp of length {}.".format(url, len(resp)))
+
 			if 'under construction' in resp.lower() or 'redirDomain' in resp:
 				print(f'NEW: {domain}')
 				return domain
+	except ClientConnectorError as e:
+		print("Unable to get {} due to {}: it will be recorded as dead.".format(domain, e.__class__))
+		return f'-{domain}'
 	except Exception as e:
 		print("Unable to get {} due to {}.".format(domain, e.__class__))
 		return None
 
 
-async def main(domains):
+async def check_hosts(domains):
 	timeout = aiohttp.ClientTimeout(total=60)
+
 	async with aiohttp.ClientSession(timeout=timeout) as session:
-		ret = await asyncio.gather(*(get(domain, session) for domain in domains))
-	return [r for r in ret if r is not None]
+		ret = await asyncio.gather(*(_check_host(domain, session) for domain in domains))
+
+	active, inactive = list(), list()
+
+	for host in ret:
+		if host:
+			if host.startswith('-'):
+				inactive.append(host[1:])
+			else:
+				active.append(host)
+
+	return active, inactive
 
 
 def matches_ad_pattern(x):
 	if re.match(r'^[a-z-]{15,30}[0-9]+\.life$', x):
 		return True
 
-	if re.search(r'(?:date|dating|prize|bonus).*[1-9-]+', x) and 'update' not in x:
+	if 'update' not in x and re.search(r'(?:date|dating|prize|bonus).*[1-9-]+', x):
 		return True
 
 	return False
@@ -59,56 +74,29 @@ def list_new_domains():
 if __name__ == '__main__':
 	with open(os.path.join(os.getcwd(), 'filters', 'prizes.yml')) as f:
 		data = yaml.safe_load(f)
-		known_domains = data['domains']
-		known_ips = data['ips']
+		active_domains = data['active_domains']
+		inactive_domains = data['inactive_domains']
 
-	if not known_domains:
-		print('Could not find current prize domain list', file=sys.stderr)
-		sys.exit(1)
-
-	print(f'Previously known: {len(known_domains)}')
+	print(f'Previously known: {len(active_domains)}')
 	pending_domains = set(filter(matches_ad_pattern, set(list_new_domains())))
-	print(f'Recent domains: {len(pending_domains)}')
-	pending_ips = set(known_ips)
 
-	while len(pending_ips) > 0 or len(pending_domains) > 0:
-		print('=== NEW ITERATION ===')
-		print('--- Pending IPs: %d' % len(pending_ips))
-		for ip in pending_ips:
-			print(' - IP %s' % ip)
-			vault_reply = requests.get('https://otx.alienvault.com/otxapi/indicator/IPv4/passive_dns/%s' % ip).json()
-			for entry in vault_reply['passive_dns']:
-				hostname = entry['hostname']
-				if hostname.startswith('www.'):
-					hostname = hostname[4:]
-				pending_domains.add(hostname.strip())
-		pending_ips = set()
+	if len(pending_domains) > 0:
+		hostnames = [x for x in pending_domains if not x.endswith('.live')]
 
-		# Remove redirection targets
-		print(f'--- Pending domains: {len(pending_domains)}')
+		print(f'Pending domains: {len(hostnames)}')
 
-		hostnames = [x for x in sorted(pending_domains) if not x.endswith('.live')]
+		hostnames.extend(active_domains)
+		hostnames.extend(inactive_domains)
 
 		start = time.time()
-		hostnames = asyncio.run(main(hostnames))
-		known_domains.extend(hostnames)
+		active_hosts, inactive_hosts = asyncio.run(check_hosts(hostnames))
+		active_domains.extend(active_hosts)
+		inactive_domains.extend(inactive_hosts)
 		end = time.time()
 
 		print("Took {} seconds to check {} domains.".format(end - start, len(hostnames)))
 
-		for hostname in hostnames:
-			try:
-				for ip in socket.gethostbyname_ex(hostname)[2]:
-					if ip not in known_ips:
-						print('Adding new IP: %s' % ip)
-						pending_ips.add(ip)
-						known_ips.add(ip)
-			except:
-				pass
-
-		pending_domains = set()
-
 	with open(os.path.join(os.getcwd(), 'filters', 'prizes.yml'), 'w') as f:
 		f.write("# Don't bother manually updating this file.\n")
 		f.write("# It is automatically updated with the tools/update-prizes-list.py script.\n")
-		yaml.dump({'domains': sorted(known_domains), 'ips': sorted(known_ips)}, f)
+		yaml.dump({'active_domains': sorted(active_domains), 'inactive_domains': sorted(inactive_domains)}, f)
