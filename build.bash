@@ -8,7 +8,7 @@ pip install -r tools/requirements.txt
 python tools/update-mono-list.py
 python tools/update-prizes-list.py
 
-if git diff-index --cached --quiet HEAD; then
+if git diff-index --quiet HEAD; then
 	echo "Nothing to do!"
 else
 	mkdir -p built

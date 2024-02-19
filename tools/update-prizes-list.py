@@ -33,8 +33,8 @@ async def _check_host(domain, session):
 		print("Unable to get {} due to {}: it will be recorded as dead.".format(domain, e.__class__))
 		return f'-{domain}'
 	except Exception as e:
-		print("Unable to get {} due to {}.".format(domain, e.__class__))
-		return None
+		print("Got recorded offender {} with error {}.".format(domain, e.__class__))
+		return domain
 
 
 async def check_hosts(domains):
@@ -90,13 +90,14 @@ if __name__ == '__main__':
 
 		start = time.time()
 		active_hosts, inactive_hosts = asyncio.run(check_hosts(hostnames))
-		active_domains.extend(active_hosts)
-		inactive_domains.extend(inactive_hosts)
 		end = time.time()
 
 		print("Took {} seconds to check {} domains.".format(end - start, len(hostnames)))
 
+		active_domains = active_hosts
+		inactive_domains = inactive_hosts
+
 	with open(os.path.join(os.getcwd(), 'filters', 'prizes.yml'), 'w') as f:
 		f.write("# Don't bother manually updating this file.\n")
 		f.write("# It is automatically updated with the tools/update-prizes-list.py script.\n")
-		yaml.dump({'active_domains': sorted(active_domains), 'inactive_domains': sorted(inactive_domains)}, f)
+		yaml.dump({'active_domains': sorted(set(active_domains)), 'inactive_domains': sorted(set(inactive_domains))}, f)
