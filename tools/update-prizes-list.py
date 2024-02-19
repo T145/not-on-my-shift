@@ -75,7 +75,7 @@ if __name__ == '__main__':
 	with open(os.path.join(os.getcwd(), 'filters', 'prizes.yml')) as f:
 		data = yaml.safe_load(f)
 		active_domains = data['active_domains']
-		inactive_domains = data['inactive_domains']
+		inactive_domains = data['inactive_domains'] or list()
 
 	print(f'Previously known: {len(active_domains)}')
 	pending_domains = set(filter(matches_ad_pattern, set(list_new_domains())))
