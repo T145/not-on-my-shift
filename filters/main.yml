@@ -22,7 +22,7 @@ groups:
           - date: 2020-10-27
             desc: |
                 Generic filters against hacked WordPress.
-                
+
                 Most hacked installations of WordPress use the wp-* folders to stay stealth, so I'll block
                 unusual usage of these files, which 99.9% should be malware uploads.
             filters:
@@ -194,19 +194,12 @@ groups:
             extra_host: akepolsa.hiabaik.alexwasiwo.com
 
           - date: 2021-03-02
-            desc: Fedex phishing, received via SMS
+            desc: Fedex phishing
             include: fedex.yml
             sample: https://geeklevi.com/fedex/
             extra_hosts:
               - s.update.fbsbx.com
               - k.hencoder.com
-
-          - date: 2021-03-02
-            desc: Fedex phishing, manual domains
-            domains:
-              - update.fbsbx.com
-            extra_hosts:
-              - s.update.fbsbx.com
 
     scams:
         header: |
@@ -381,7 +374,7 @@ groups:
           - date: 2020-04-27
             desc: |
                 This is a regex filter to block redirected pages for above entry points.
-                
+
                 It changes every few hours so listing all domains is just not feasible.
             sample: https://goldenfroggy15.live/6785626235/?utm_campaign=QPF8euu28II5lw7O2iHhCidoSOXmw5oLxD6bwphw43U1&t=main7d&f=1
             filter: '/^https?\:\/\/[a-z-]{10,25}[0-9]+\.live/'
@@ -654,7 +647,7 @@ groups:
             desc: |
                 Microsoft allows downloading of Windows 10 ISOs straight from their website, but they redirect you
                 to the media creation tool page if you're already using a Windows OS.
-                
+
                 This script disables that redirection so I can just download a ISO without running their
                 stupid tool.
             filter: 'microsoft.com##+js(set, window.softwareDownload.redirection.redirect, noopFunc)'

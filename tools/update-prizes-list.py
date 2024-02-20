@@ -74,7 +74,7 @@ def list_new_domains():
 if __name__ == '__main__':
 	with open(os.path.join(os.getcwd(), 'filters', 'prizes.yml')) as f:
 		data = yaml.safe_load(f)
-		active_domains = data['active_domains']
+		active_domains = data['domains']
 		inactive_domains = data['inactive_domains'] or list()
 
 	print(f'Previously known: {len(active_domains)}')
@@ -100,4 +100,4 @@ if __name__ == '__main__':
 	with open(os.path.join(os.getcwd(), 'filters', 'prizes.yml'), 'w') as f:
 		f.write("# Don't bother manually updating this file.\n")
 		f.write("# It is automatically updated with the tools/update-prizes-list.py script.\n")
-		yaml.dump({'active_domains': sorted(set(active_domains)), 'inactive_domains': sorted(set(inactive_domains))}, f)
+		yaml.dump({'domains': sorted(set(active_domains)), 'inactive_domains': sorted(set(inactive_domains))}, f)
