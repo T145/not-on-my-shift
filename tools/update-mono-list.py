@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
 
+import sys
+sys.dont_write_bytecode = True
+
 import requests
 import yaml
 from publicsuffixlist import PublicSuffixList
 import os
+
 
 if __name__ == '__main__':
 	psl = PublicSuffixList()

@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 
+import sys
+sys.dont_write_bytecode = True
+
 import requests
 import time
 import lxml.html
 import random
-import sys
 import os
 import yaml
 import re
 from urllib.parse import urlsplit
 
-class NotHostingException(Exception):
-	pass
 
 def get_link_for_domain(prev_domain):
 	random.shuffle(suffixes)
@@ -30,6 +30,7 @@ def get_link_for_domain(prev_domain):
 		return link.attrib['href']
 
 	return None
+
 
 if __name__ == '__main__':
 	with open(os.path.join(os.getcwd(), 'filters', 'fedex.yml')) as f:

@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 
+import sys
+sys.dont_write_bytecode = True
+
 import argparse
 from tqdm import tqdm
 import socket
-import sys
 import re
 import multiprocessing.pool
 import subprocess
+
 
 FREE_MARKERS = [
 	'no match for',
@@ -18,6 +21,7 @@ FREE_MARKERS = [
 	'registration status: available',
 	'no object found'
 ]
+
 
 def domain_exists(domain):
 	try:
@@ -34,6 +38,7 @@ def domain_exists(domain):
 
 	print('Whois for %s tested true but A did not' % domain)
 	return domain, True
+
 
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser(description='Tests which domains in the list exist.')

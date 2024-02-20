@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+import sys
+sys.dont_write_bytecode = True
+
 import argparse
 from datetime import datetime
 from publicsuffixlist import PublicSuffixList
@@ -8,6 +11,7 @@ import textwrap
 from urllib.parse import urlsplit, quote as urlquote
 import yaml
 import os
+
 
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser(description='Converts YAML filters to hosts and ABP formats.')
