@@ -59,16 +59,10 @@ async def check_hosts(domains):
 
 
 def matches_ad_pattern(x):
-	if x.endswith('.live'):
+	if 'update' in x or x.endswith('.live'):
 		return False
 
-	if re.match(r'^[a-z-]{15,30}[0-9]+\.life$', x):
-		return True
-
-	if 'update' not in x and re.search(r'(?:date|dating|prize|bonus).*[1-9-]+', x):
-		return True
-
-	return False
+	return re.match(r'^[a-z-]{15,30}[0-9]+\.life$', x) or re.search(r'(?:date|dating|prize|bonus).*[1-9-]+', x)
 
 
 if __name__ == '__main__':
