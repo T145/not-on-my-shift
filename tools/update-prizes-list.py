@@ -69,7 +69,7 @@ if __name__ == '__main__':
 	with open(os.path.join(os.getcwd(), 'filters', 'prizes.yml')) as f:
 		data = yaml.safe_load(f)
 		active_domains = set(data['domains'])
-		inactive_domains = set(data['inactive_domains']) or set()
+		inactive_domains = set(data['inactive_domains'] or list())
 
 	print(f'Previously known: {len(active_domains)}')
 
