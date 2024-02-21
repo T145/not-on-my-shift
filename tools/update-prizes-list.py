@@ -12,7 +12,7 @@ import glob
 import asyncio
 import aiohttp
 import time
-from aiohttp.client_exceptions import ClientResponseError
+from aiohttp.client_exceptions import ClientConnectorError
 from itertools import chain
 
 
@@ -32,13 +32,12 @@ async def _check_host(domain, session):
 				return domain
 
 			return None
+	except ClientConnectorError as e:
+		print("Unable to get {} due to {}: it will be recorded as dead.".format(domain, e.__class__))
+		return f'-{domain}'
 	except Exception as e:
-		if isinstance(e, ClientResponseError) and (e.status == 400 or e.status == 404):
-			print(f'Unable to get {domain}: it will be recorded as dead.')
-			return f'-{domain}'
-		else:
-			print(f'Got recorded offender {domain} with error {e.__class__}.')
-			return domain
+		print("Got recorded offender {} with error {}.".format(domain, e.__class__))
+		return domain
 
 
 async def check_hosts(domains):
