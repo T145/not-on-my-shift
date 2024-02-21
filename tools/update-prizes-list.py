@@ -13,6 +13,7 @@ import asyncio
 import aiohttp
 import time
 from aiohttp.client_exceptions import ClientResponseError
+from itertools import chain
 
 
 HEADERS = {
@@ -59,10 +60,10 @@ async def check_hosts(domains):
 
 
 def matches_ad_pattern(x):
-	if 'update' in x or x.endswith('.live'):
+	if x.endswith('.live'):
 		return False
 
-	return re.match(r'^[a-z-]{15,30}[0-9]+\.life$', x) or re.search(r'(?:date|dating|prize|bonus).*[1-9-]+', x)
+	return re.match(r'^[a-z-]{15,30}[0-9]+\.life$', x) or ('update' not in x and re.search(r'(?:date|dating|prize|bonus).*[1-9-]+', x))
 
 
 def load_data(data):
@@ -83,8 +84,8 @@ if __name__ == '__main__':
 	if len(pending_domains) > 0:
 		print(f'Pending domains: {len(pending_domains)}')
 
-		pending_domains.union(active_domains)
-		pending_domains.union(inactive_domains)
+		pending_domains.update(active_domains)
+		pending_domains.update(inactive_domains)
 
 		start = time.time()
 		active_hosts, inactive_hosts = asyncio.run(check_hosts(pending_domains))
