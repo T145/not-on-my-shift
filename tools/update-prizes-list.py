@@ -65,11 +65,15 @@ def matches_ad_pattern(x):
 	return re.match(r'^[a-z-]{15,30}[0-9]+\.life$', x) or re.search(r'(?:date|dating|prize|bonus).*[1-9-]+', x)
 
 
+def load_data(data):
+	return set(data) if data else set()
+
+
 if __name__ == '__main__':
 	with open(os.path.join(os.getcwd(), 'filters', 'prizes.yml')) as f:
 		data = yaml.safe_load(f)
-		active_domains = set(data['domains'])
-		inactive_domains = set(data['inactive_domains'] or list())
+		active_domains = load_data(data['domains'])
+		inactive_domains = load_data(data['inactive_domains'])
 
 	print(f'Previously known: {len(active_domains)}')
 
