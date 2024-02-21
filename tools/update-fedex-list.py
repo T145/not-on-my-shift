@@ -5,100 +5,82 @@ sys.dont_write_bytecode = True
 
 import requests
 import time
-import lxml.html
+from lxml import html
 import random
 import os
 import yaml
 import re
 from urllib.parse import urlsplit
+import asyncio
+import aiohttp
 
 
-def get_link_for_domain(prev_domain):
+HEADERS = {
+	'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0'
+}
+
+
+async def _check_host(domain, suffixes, session):
+	print(f'Testing {domain}')
 	random.shuffle(suffixes)
 
 	for suffix in suffixes:
-		print('Trying %s suffix %s' % (prev_domain, suffix))
-		reply = client.get('http://' + prev_domain + '/' + suffix + '/?sdeasdefsa').text
-		if 'rastrear su paquete' not in reply:
-			continue
+		try:
+			async with session.get(url=f'http://{domain}/{suffix}/?sdeasdefsa', headers=HEADERS) as response:
+				resp = await response.text()
 
-		reply = lxml.html.fromstring(reply)
-		link = reply.xpath("//a[starts-with(@href, 'http')]")[0]
-		if 'Descargar aplicación' not in link.text_content():
-			continue
+				if 'rastrear su paquete' in resp.lower() or 'Descargar aplicación' in resp:
+					break
 
-		return link.attrib['href']
+				reply = html.fromstring(reply)
+				link = reply.xpath("//a[starts-with(@href, 'http')]")[0]
 
+				return link.attrib['href']
+		except Exception as e:
+			pass
+
+	print(f'Ignoring {domain}')
 	return None
+
+
+async def check_hosts(domains, suffixes):
+	timeout = aiohttp.ClientTimeout(total=60)
+
+	async with aiohttp.ClientSession(timeout=timeout) as session:
+		ret = await asyncio.gather(*(_check_host(domain, suffixes, session) for domain in domains))
+
+	return [r for r in ret if ret]
 
 
 if __name__ == '__main__':
 	with open(os.path.join(os.getcwd(), 'filters', 'fedex.yml')) as f:
-		saved_data = yaml.safe_load(f)
-		apkhost = saved_data['domains']
-		suffixes = saved_data['fedex-suffixes']
+		data = yaml.safe_load(f)
+		domains = data['domains']
+		suffixes = data['fedex_suffixes']
 
-	checkhosts = set(apkhost)
+	start = time.time()
+	links = asyncio.run(check_hosts(domains, suffixes))
+	end = time.time()
 
-	client = requests.Session()
-	client.timeout = 5
-	client.headers['User-Agent'] = 'Mozilla/5.0 (Android 10; Mobile; rv:85.0) Gecko/85.0 Firefox/85.0'
+	print("Took {} seconds to check {} domains.".format(end - start, len(domains)))
 
-	def run_iter(prev_domain):
-		download_link = get_link_for_domain(prev_domain)
-		if download_link is None:
-			print('No longer using ' + prev_domain)
-			checkhosts.remove(prev_domain)
-			return False
+	# for link in links:
+	# 	parsed_link = urlsplit(link)
 
-		parsed_link = urlsplit(download_link)
-		if not re.match(r'^[a-z0-9]{80,}$', parsed_link.query):
-			print('WARNING - NEW LINK FORMAT!?: ' + download_link)
-			return False
+	# 	if not re.match(r'^[a-z0-9]{80,}$', parsed_link.query):
+	# 		print('WARNING - NEW LINK FORMAT!?: ' + link)
+	# 		continue
 
-		new_domain = parsed_link.netloc
-		if new_domain.startswith('www.'):
-			new_domain = new_domain[4:]
+	# 	new_domain = parsed_link.netloc
+	# 	if new_domain.startswith('www.'):
+	# 		new_domain = new_domain[4:]
 
-		if new_domain not in apkhost:
-			link_get = client.get(download_link)
-			if link_get.status_code == 200:
-				print('New link: ' + download_link)
+	# 	if new_domain in domains:
+	# 		print('Nothing new!')
+	# 	else:
+	# 		print('yay')
 
-				suffix_match = re.match(r'^/([a-z]+)/$', parsed_link.path)
-
-				if not suffix_match:
-					print('WARNING - NEW SUFFIX FORMAT - NOT ADDING TO LIST: ' + download_link)
-					return False
-
-				if suffix_match.group(1) not in suffixes:
-					print('NEW SUFFIX!: ' + suffix_match.group(1))
-					suffixes.append(suffix_match.group(1))
-
-				apkhost.append(new_domain)
-				checkhosts.add(new_domain)
-				return True
-			else:
-				print('Resolved nonworking link: ' + download_link)
-				return False
-		else:
-			print('Nothing new')
-			return False
-
-	try:
-		while len(checkhosts) > 0:
-			prev_domain = random.choice(list(checkhosts))
-
-			try:
-				if run_iter(prev_domain):
-					with open(os.path.join(os.getcwd(), 'filters', 'fedex.yml'), 'w') as f:
-						f.write("# Don't bother manually updating this file.\n")
-						f.write("# It is automatically updated with the tools/update-fedex-list.py script.\n")
-						yaml.dump({'domains': sorted(apkhost), 'fedex-suffixes': sorted(suffixes)}, f)
-			except Exception as e:
-				print('Failed using ' + prev_domain + ': ' + str(e))
-				checkhosts.remove(prev_domain)
-
-			time.sleep(10)
-	except KeyboardInterrupt:
-		pass
+	with open(os.path.join(os.getcwd(), 'filters', 'fedex.yml'), 'w') as f:
+		f.write("# Don't bother manually updating this file.\n")
+		f.write("# It is automatically updated with the tools/update-fedex-list.py script.\n")
+		yaml.dump({'domains': sorted(domains), 'fedex-suffixes': sorted(suffixes)}, f)

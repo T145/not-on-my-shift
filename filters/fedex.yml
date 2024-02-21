@@ -146,7 +146,7 @@ domains:
 - xn--thvitstore-c7a.com
 - ylem222.com
 - yuanant.com
-fedex-suffixes:
+fedex_suffixes:
 - app
 - fedex
 - go
