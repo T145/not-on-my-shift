@@ -23,8 +23,10 @@ if __name__ == '__main__':
 	for entry in vault_reply['passive_dns']:
 		if not entry['whitelisted']:
 			hostname = entry['hostname']
-			extra_hosts.add(hostname)
 			known_domains.add(psl.privatesuffix(hostname))
+
+			if hostname not in known_domains:
+				extra_hosts.add(hostname)
 
 	with open(filter_file, 'w') as f:
 		f.write("# Don't bother manually updating this file.\n")
