@@ -32,15 +32,25 @@ async def _check_host(domain, suffixes, session):
 				if 'rastrear su paquete' in resp.lower() or 'Descargar aplicación' in resp:
 					break
 
-				reply = html.fromstring(reply)
-				link = reply.xpath("//a[starts-with(@href, 'http')]")[0]
+				resp = html.fromstring(resp)
+				link = resp.xpath("//a[starts-with(@href, 'http')]")[0]
+				link = link.attrib['href']
 
-				return link.attrib['href']
+				if link:
+					parsed_link = urlsplit(link)
+
+					if re.match(r'^[a-z0-9]{80,}$', parsed_link.query):
+						domain = parsed_link.netloc
+
+						if domain.startswith('www.'):
+							domain = domain[4:]
+
+						return domain
 		except Exception as e:
 			pass
 
 	print(f'Ignoring {domain}')
-	return None
+	return f'-{domain}'
 
 
 async def check_hosts(domains, suffixes):
@@ -49,38 +59,36 @@ async def check_hosts(domains, suffixes):
 	async with aiohttp.ClientSession(timeout=timeout) as session:
 		ret = await asyncio.gather(*(_check_host(domain, suffixes, session) for domain in domains))
 
-	return [r for r in ret if ret]
+	active, inactive = set(), set()
+
+	for host in ret:
+		if host:
+			if host.startswith('-'):
+				inactive.add(host[1:])
+			else:
+				active.add(host)
+
+	return active, inactive
+
+
+def load_data(data):
+	return set(data) if data else set()
 
 
 if __name__ == '__main__':
 	with open(os.path.join(os.getcwd(), 'filters', 'fedex.yml')) as f:
 		data = yaml.safe_load(f)
-		domains = data['domains']
-		suffixes = data['fedex_suffixes']
+		domains = load_data(data['domains'])
+		suffixes = load_data(data['fedex_suffixes'])
+		ignored = load_data(data['ignored_domains'])
 
 	start = time.time()
-	links = asyncio.run(check_hosts(domains, suffixes))
+	domains, ignored = asyncio.run(check_hosts(domains.union(ignored), suffixes))
 	end = time.time()
 
 	print("Took {} seconds to check {} domains.".format(end - start, len(domains)))
 
-	# for link in links:
-	# 	parsed_link = urlsplit(link)
-
-	# 	if not re.match(r'^[a-z0-9]{80,}$', parsed_link.query):
-	# 		print('WARNING - NEW LINK FORMAT!?: ' + link)
-	# 		continue
-
-	# 	new_domain = parsed_link.netloc
-	# 	if new_domain.startswith('www.'):
-	# 		new_domain = new_domain[4:]
-
-	# 	if new_domain in domains:
-	# 		print('Nothing new!')
-	# 	else:
-	# 		print('yay')
-
 	with open(os.path.join(os.getcwd(), 'filters', 'fedex.yml'), 'w') as f:
 		f.write("# Don't bother manually updating this file.\n")
 		f.write("# It is automatically updated with the tools/update-fedex-list.py script.\n")
-		yaml.dump({'domains': sorted(domains), 'fedex-suffixes': sorted(suffixes)}, f)
+		yaml.dump({'domains': sorted(domains), 'fedex_suffixes': sorted(suffixes), 'ignored_domains': sorted(ignored_domains)}, f)

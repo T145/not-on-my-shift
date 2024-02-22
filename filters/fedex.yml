@@ -157,3 +157,4 @@ fedex_suffixes:
 - url
 - web
 - www
+ignored_domains:
