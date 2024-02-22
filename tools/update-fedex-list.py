@@ -6,7 +6,6 @@ sys.dont_write_bytecode = True
 import requests
 import time
 from lxml import html
-import random
 import os
 import yaml
 import re
@@ -22,7 +21,6 @@ HEADERS = {
 
 async def _check_host(domain, suffixes, session):
 	print(f'Testing {domain}')
-	random.shuffle(suffixes)
 
 	for suffix in suffixes:
 		try:
