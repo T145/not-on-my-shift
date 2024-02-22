@@ -26,16 +26,19 @@ async def _check_host(domain, suffixes, session):
 
 	for suffix in suffixes:
 		try:
-			async with session.get(url=f'http://{domain}/{suffix}/?sdeasdefsa', headers=HEADERS) as response:
+			async with session.get(url=f'http://{domain}/{suffix}/?sdeasdefsa', headers=HEADERS, allow_redirects=True) as response:
 				resp = await response.text()
 
 				if 'rastrear su paquete' in resp.lower() or 'Descargar aplicación' in resp:
-					break
+					continue
 
 				resp = html.fromstring(resp)
 				link = resp.xpath("//a[starts-with(@href, 'http')]")[0]
 				link = link.attrib['href']
 
+				# The logic from the original script removed domains:
+				# 1) That had no valid link route
+				# 2) Whose link query doesn't match the regex r'^[a-z0-9]{80,}$'
 				if link:
 					parsed_link = urlsplit(link)
 
