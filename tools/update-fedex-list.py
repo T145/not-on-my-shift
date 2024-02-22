@@ -92,4 +92,4 @@ if __name__ == '__main__':
 	with open(os.path.join(os.getcwd(), 'filters', 'fedex.yml'), 'w') as f:
 		f.write("# Don't bother manually updating this file.\n")
 		f.write("# It is automatically updated with the tools/update-fedex-list.py script.\n")
-		yaml.dump({'domains': sorted(domains), 'fedex_suffixes': sorted(suffixes), 'ignored_domains': sorted(ignored_domains)}, f)
+		yaml.dump({'domains': sorted(domains), 'fedex_suffixes': sorted(suffixes), 'ignored_domains': sorted(ignored)}, f)
