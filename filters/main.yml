@@ -3,7 +3,7 @@ header: |
     Title: Not on my Shift!
     Description: Filter list made with <3 by Socram: Maintained by T145
     Homepage: https://github.com/T145/not-on-my-shift/
-    Licence: https://orca.pet/#license
+    License: https://orca.pet/#license
     Expires: 24h
     Last update: {timestamp}
 
@@ -14,6 +14,25 @@ groups:
             These filters block pages that are not yet blocked by Google Safe Search
 
         entries:
+          - date: 2024-02-23
+            desc: NetSkope report - "FedEx Phishing Campaign Abusing TrustedForm and PAAY"
+            source: https://www.netskope.com/blog/fedex-phishing-campaign-abusing-trustedform-and-paay
+            domains:
+              - biriata.com
+              - entfernza.com
+              - giggingge.com
+              - obtrusiho.com
+              - crisplyoo.com
+              - zoonosisdewlap.com
+              - caducitymatroclinic.com
+              - turriferouscouloir.com
+              - diphysitismphotophile.com
+            extra_hosts:
+              - vod-7.zoonosisdewlap.com
+              - v2-check.caducitymatroclinic.com
+              - v2-check.turriferouscouloir.com
+              - v2-check.diphysitismphotophile.com
+
           - date: 2021-03-09
             desc: Royalmail phising
             domain: royaimaii.com
