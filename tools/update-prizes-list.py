@@ -22,7 +22,6 @@ HEADERS = {
 
 
 async def _check_host(domain, session):
-	print(f'Testing {domain}')
 	try:
 		async with session.get(url=f'http://{domain}/', params={'u': 'tqck80z', 'o': 'zdqr96x', 't': 'DESKuniqANDsearch'}, headers=HEADERS) as response:
 			resp = await response.text()
@@ -70,6 +69,8 @@ def load_data(data):
 
 
 if __name__ == '__main__':
+	print('--- UPDATING PRIZE LIST ---')
+
 	with open(os.path.join(os.getcwd(), 'filters', 'prizes.yml')) as f:
 		data = yaml.safe_load(f)
 		active_domains = load_data(data['domains'])

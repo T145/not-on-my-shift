@@ -20,8 +20,6 @@ HEADERS = {
 
 
 async def _check_host(domain, suffixes, session):
-	print(f'Testing {domain}')
-
 	for suffix in suffixes:
 		try:
 			async with session.get(url=f'http://{domain}/{suffix}/?sdeasdefsa', headers=HEADERS, allow_redirects=True) as response:
@@ -80,6 +78,8 @@ def load_data(data):
 
 
 if __name__ == '__main__':
+	print('--- UPDATING FEDEX LIST ---')
+
 	with open(os.path.join(os.getcwd(), 'filters', 'fedex.yml')) as f:
 		data = yaml.safe_load(f)
 		domains = load_data(data['domains'])

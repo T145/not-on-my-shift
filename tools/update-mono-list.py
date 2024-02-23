@@ -10,6 +10,8 @@ import os
 
 
 if __name__ == '__main__':
+	print('--- UPDATING MONO LIST ---')
+
 	psl = PublicSuffixList()
 	filter_file = os.path.join(os.getcwd(), 'filters', 'mono.yml')
 	extra_hosts = set()
