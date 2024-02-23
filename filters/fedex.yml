@@ -1,7 +1,18 @@
 # Don't bother manually updating this file.
 # It is automatically updated with the tools/update-fedex-list.py script.
-domains:
-- update.fbsbx.com
+domains: []
+fedex_suffixes:
+- app
+- fedex
+- go
+- info
+- out
+- pack
+- pkg
+- url
+- web
+- www
+ignored_domains:
 - 42sf.net
 - 51tunan.com
 - 84blog.xyz
@@ -134,6 +145,7 @@ domains:
 - tuyennvtb.com
 - twospoonsfleet.co.uk
 - ultimatepreneur.com
+- update.fbsbx.com
 - vanguardacademy-ng.com
 - veljko.id
 - visotka.in
@@ -146,15 +158,3 @@ domains:
 - xn--thvitstore-c7a.com
 - ylem222.com
 - yuanant.com
-fedex_suffixes:
-- app
-- fedex
-- go
-- info
-- out
-- pack
-- pkg
-- url
-- web
-- www
-ignored_domains:
