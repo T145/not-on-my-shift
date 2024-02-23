@@ -47,6 +47,9 @@ async def _check_host(domain, suffixes, session):
 							domain = domain[4:]
 
 						return domain
+
+				print(f'Active offender: {domain}')
+				return domain
 		except Exception as e:
 			pass
 
