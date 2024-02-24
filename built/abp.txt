@@ -1,12 +1,23 @@
 ! Title: Not on my Shift!
 ! Description: Filter list made with <3 by Socram: Maintained by T145
 ! Homepage: https://github.com/T145/not-on-my-shift/
-! Licence: https://orca.pet/#license
+! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-02-23T12:14:52Z
+! Last update: 2024-02-24T12:14:23Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
+
+! 2024-02-23 NetSkope report - "FedEx Phishing Campaign Abusing TrustedForm and PAAY"
+||biriata.com^
+||entfernza.com^
+||giggingge.com^
+||obtrusiho.com^
+||crisplyoo.com^
+||zoonosisdewlap.com^
+||caducitymatroclinic.com^
+||turriferouscouloir.com^
+||diphysitismphotophile.com^
 
 ! 2021-03-09 Royalmail phising
 !  - https://royaimaii.com/schedule-delivery/?GV656872065GB
@@ -171,6 +182,60 @@
 !  - http://akepolsa.hiabaik.alexwasiwo.com/FPWKZUPZUT
 ||alexwasiwo.com^
 
+! 2021-03-02 Fedex phishing
+!  - https://geeklevi.com/fedex/
+||42sf.net^
+||ailnoir.com^
+||amzstudy.com^
+||bamperbolspb.ru^
+||blog.sidmach.com^
+||cancervants.org^
+||castllypay.com^
+||clickedgesolutions.com^
+||clone.app.home-cost.com^
+||comptoncymru.com^
+||defencelover.in^
+||dexil.ru^
+||eurosystemsrl.eu^
+||fraternitykerala.org^
+||galaxyfunbowl.gr^
+||galerihana.com^
+||godynamo.co^
+||guzelbil.com^
+||hatyailandscape.com^
+||homzbasix.com^
+||imrt.ac.in^
+||klinikmetamorf.com^
+||kmtks.org.tw^
+||loanglide.com^
+||lova.network^
+||machupicchutraveling.com^
+||magicboximportados.com.br^
+||mistc.es^
+||mouwz.nl^
+||mucc.com.au^
+||nectartrust.org.uk^
+||new.deso.cz^
+||nqtxk.com^
+||parikhinfosolutions.in^
+||redlog.cl^
+||rees.games^
+||robbreport.com.my^
+||sky-scout.com^
+||sm-projekt.si^
+||socialfact.in^
+||soundwavesprodjs.com^
+||synoviz.com^
+||tacloban.gov.ph^
+||teamder.org^
+||thozhilvarthalatest.com^
+||trashstation.com^
+||twospoonsfleet.co.uk^
+||ultimatepreneur.com^
+||vanguardacademy-ng.com^
+||vladimirherzog.org^
+||weboyal.com^
+
 ! === SCAMS ===
 ! These filters block pages which are known to scam people for money or gift cards
 
@@ -311,8 +376,6 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||best-lovelady.com^
-||bonus-apyeth.com^
-||bonus-paxos.com^
 ||candidates-navigator.com^
 ||date37.com^
 ||dating-pass.com^
