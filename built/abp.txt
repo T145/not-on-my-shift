@@ -3,12 +3,39 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-02-24T12:14:23Z
+! Last update: 2024-02-25T12:14:38Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
 
-! 2024-02-23 NetSkope report - "FedEx Phishing Campaign Abusing TrustedForm and PAAY"
+! 2023-10-09 Krebson Security - "Phishers Spoof USPS, 12 Other Natl' Postal Services"
+||usps.receivepost.com^
+||usps.informedtrck.com^
+||usps.trckspost.com^
+||postreceive.com^
+||usps.trckpackages.com^
+||usps.infortrck.com^
+||usps.quicktpos.com^
+||usps.postreceive].]com^
+||usps.revepost.com^
+||trackingusps.infortrck.com^
+||usps.receivepost.com^
+||usps.trckmybusi.com^
+||postreceive.com^
+||tackingpos.com^
+||usps.trckstamp.com^
+||usa-usps.shop^
+||usps.infortrck.com^
+||unlistedstampreceive.com^
+||usps.stampreceive.com^
+||usps.stamppos.com^
+||usps.stampspos.com^
+||usps.trckmypost.com^
+||usps.trckintern.com^
+||usps.tackingpos.com^
+||usps.posinformed.com^
+
+! 2023-04-24 NetSkope report - "FedEx Phishing Campaign Abusing TrustedForm and PAAY"
 ||biriata.com^
 ||entfernza.com^
 ||giggingge.com^
@@ -375,6 +402,7 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+||asian-dating-97553.bond^
 ||best-lovelady.com^
 ||candidates-navigator.com^
 ||date37.com^

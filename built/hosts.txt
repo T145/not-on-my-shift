@@ -3,12 +3,44 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-02-24T12:14:23Z
+# Last update: 2024-02-25T12:14:38Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
 
-# 2024-02-23 NetSkope report - "FedEx Phishing Campaign Abusing TrustedForm and PAAY"
+# 2023-10-09 Krebson Security - "Phishers Spoof USPS, 12 Other Natl' Postal Services"
+0.0.0.0 usps.receivepost.com
+0.0.0.0 usps.informedtrck.com
+0.0.0.0 usps.trckspost.com
+0.0.0.0 postreceive.com
+0.0.0.0 www.postreceive.com
+0.0.0.0 usps.trckpackages.com
+0.0.0.0 usps.infortrck.com
+0.0.0.0 usps.quicktpos.com
+0.0.0.0 usps.postreceive].]com
+0.0.0.0 usps.revepost.com
+0.0.0.0 trackingusps.infortrck.com
+0.0.0.0 usps.receivepost.com
+0.0.0.0 usps.trckmybusi.com
+0.0.0.0 postreceive.com
+0.0.0.0 www.postreceive.com
+0.0.0.0 tackingpos.com
+0.0.0.0 www.tackingpos.com
+0.0.0.0 usps.trckstamp.com
+0.0.0.0 usa-usps.shop
+0.0.0.0 www.usa-usps.shop
+0.0.0.0 usps.infortrck.com
+0.0.0.0 unlistedstampreceive.com
+0.0.0.0 www.unlistedstampreceive.com
+0.0.0.0 usps.stampreceive.com
+0.0.0.0 usps.stamppos.com
+0.0.0.0 usps.stampspos.com
+0.0.0.0 usps.trckmypost.com
+0.0.0.0 usps.trckintern.com
+0.0.0.0 usps.tackingpos.com
+0.0.0.0 usps.posinformed.com
+
+# 2023-04-24 NetSkope report - "FedEx Phishing Campaign Abusing TrustedForm and PAAY"
 0.0.0.0 vod-7.zoonosisdewlap.com
 0.0.0.0 v2-check.caducitymatroclinic.com
 0.0.0.0 v2-check.turriferouscouloir.com
@@ -589,6 +621,8 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+0.0.0.0 asian-dating-97553.bond
+0.0.0.0 www.asian-dating-97553.bond
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 candidates-navigator.com
