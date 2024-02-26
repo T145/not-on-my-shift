@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-02-25T12:14:38Z
+# Last update: 2024-02-26T12:14:39Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -621,16 +621,12 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 asian-dating-97553.bond
-0.0.0.0 www.asian-dating-97553.bond
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 candidates-navigator.com
 0.0.0.0 www.candidates-navigator.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
-0.0.0.0 dating-pass.com
-0.0.0.0 www.dating-pass.com
 0.0.0.0 dating-spot.com
 0.0.0.0 www.dating-spot.com
 0.0.0.0 online-dating.top

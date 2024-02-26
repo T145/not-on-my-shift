@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-02-25T12:14:38Z
+# Last update: 2024-02-26T12:14:39Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -393,11 +393,9 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-asian-dating-97553.bond
 best-lovelady.com
 candidates-navigator.com
 date37.com
-dating-pass.com
 dating-spot.com
 online-dating.top
 
