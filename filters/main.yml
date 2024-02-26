@@ -25,7 +25,7 @@ groups:
               - usps.trckpackages.com
               - usps.infortrck.com
               - usps.quicktpos.com
-              - usps.postreceive].]com
+              - usps.postreceive.com
               - usps.revepost.com
               - trackingusps.infortrck.com
               - usps.receivepost.com
