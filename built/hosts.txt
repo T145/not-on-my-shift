@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-02-26T12:14:39Z
+# Last update: 2024-02-27T12:14:34Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -17,7 +17,7 @@
 0.0.0.0 usps.trckpackages.com
 0.0.0.0 usps.infortrck.com
 0.0.0.0 usps.quicktpos.com
-0.0.0.0 usps.postreceive].]com
+0.0.0.0 usps.postreceive.com
 0.0.0.0 usps.revepost.com
 0.0.0.0 trackingusps.infortrck.com
 0.0.0.0 usps.receivepost.com
@@ -627,6 +627,8 @@
 0.0.0.0 www.candidates-navigator.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
+0.0.0.0 dating-pass.com
+0.0.0.0 www.dating-pass.com
 0.0.0.0 dating-spot.com
 0.0.0.0 www.dating-spot.com
 0.0.0.0 online-dating.top
