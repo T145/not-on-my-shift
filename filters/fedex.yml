@@ -49,7 +49,6 @@ domains:
 - trashstation.com
 - twospoonsfleet.co.uk
 - ultimatepreneur.com
-- vanguardacademy-ng.com
 - vladimirherzog.org
 - weboyal.com
 fedex_suffixes:
@@ -149,6 +148,7 @@ ignored_domains:
 - tubies.com
 - tuyennvtb.com
 - update.fbsbx.com
+- vanguardacademy-ng.com
 - veljko.id
 - visotka.in
 - wordpress.mrcentertainment.com
