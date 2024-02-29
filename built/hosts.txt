@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-02-28T12:14:39Z
+# Last update: 2024-02-29T12:15:18Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -354,8 +354,6 @@
 0.0.0.0 www.rees.games
 0.0.0.0 robbreport.com.my
 0.0.0.0 www.robbreport.com.my
-0.0.0.0 sky-scout.com
-0.0.0.0 www.sky-scout.com
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 socialfact.in
@@ -623,8 +621,6 @@
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
-0.0.0.0 dating-italia.com
-0.0.0.0 www.dating-italia.com
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating-spot.com
@@ -633,8 +629,8 @@
 0.0.0.0 www.local-dating-app.com
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
-0.0.0.0 secretdate69.com
-0.0.0.0 www.secretdate69.com
+0.0.0.0 welcome-bonus-stake.com
+0.0.0.0 www.welcome-bonus-stake.com
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
