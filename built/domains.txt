@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-03-24T12:14:04Z
+# Last update: 2024-03-25T12:14:46Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -223,7 +223,6 @@ hatyailandscape.com
 homzbasix.com
 imrt.ac.in
 klinikmetamorf.com
-kmtks.org.tw
 loanglide.com
 lova.network
 machupicchutraveling.com
@@ -243,7 +242,6 @@ sm-projekt.si
 socialfact.in
 soundwavesprodjs.com
 synoviz.com
-tacloban.gov.ph
 teamder.org
 thozhilvarthalatest.com
 trashstation.com
@@ -393,6 +391,7 @@ centent.steamplay.me
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 best-lovelady.com
+bonus365pustahan.win
 casinobonusdelisi-10.com
 date37.com
 dating-pass.com

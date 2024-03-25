@@ -22,7 +22,6 @@ domains:
 - homzbasix.com
 - imrt.ac.in
 - klinikmetamorf.com
-- kmtks.org.tw
 - loanglide.com
 - lova.network
 - machupicchutraveling.com
@@ -42,7 +41,6 @@ domains:
 - socialfact.in
 - soundwavesprodjs.com
 - synoviz.com
-- tacloban.gov.ph
 - teamder.org
 - thozhilvarthalatest.com
 - trashstation.com
@@ -113,6 +111,7 @@ ignored_domains:
 - joliveer.com
 - justparty.com.br
 - kidimy.org
+- kmtks.org.tw
 - latesttechnologyz.com
 - mahigifts.com
 - marincr.com
@@ -141,6 +140,7 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
+- tacloban.gov.ph
 - testargames.cl
 - thaircy.redcross.or.th
 - thietkelq.com
