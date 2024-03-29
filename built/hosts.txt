@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-03-27T12:14:45Z
+# Last update: 2024-03-29T12:14:28Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -197,7 +197,6 @@
 # 2020-10-23 Correos phishing
 #  - http://oficinadecorreos.eastus.cloudapp.azure.com/
 0.0.0.0 oficinadecorreos.eastus.cloudapp.azure.com
-0.0.0.0 www.oficinadecorreos.eastus.cloudapp.azure.com
 
 # 2020-10-24 Amazon phishing and BTC bullshit
 #  - http://365abcd.net/r.php?t=c&d=47763&l=8299&c=60356
@@ -315,12 +314,12 @@
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
 0.0.0.0 www.guzelbil.com
+0.0.0.0 hatyailandscape.com
+0.0.0.0 www.hatyailandscape.com
 0.0.0.0 homzbasix.com
 0.0.0.0 www.homzbasix.com
 0.0.0.0 imrt.ac.in
 0.0.0.0 www.imrt.ac.in
-0.0.0.0 klinikmetamorf.com
-0.0.0.0 www.klinikmetamorf.com
 0.0.0.0 kmtks.org.tw
 0.0.0.0 www.kmtks.org.tw
 0.0.0.0 loanglide.com
@@ -368,8 +367,6 @@
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
 0.0.0.0 www.trashstation.com
-0.0.0.0 twospoonsfleet.co.uk
-0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vanguardacademy-ng.com
@@ -623,6 +620,8 @@
 0.0.0.0 www.casinobonusdelisi-10.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
+0.0.0.0 datenschutz-denker.com
+0.0.0.0 www.datenschutz-denker.com
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 hakodatemoto7.com
