@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-03-29T12:14:28Z
+# Last update: 2024-03-30T12:14:13Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -320,6 +320,8 @@
 0.0.0.0 www.homzbasix.com
 0.0.0.0 imrt.ac.in
 0.0.0.0 www.imrt.ac.in
+0.0.0.0 klinikmetamorf.com
+0.0.0.0 www.klinikmetamorf.com
 0.0.0.0 kmtks.org.tw
 0.0.0.0 www.kmtks.org.tw
 0.0.0.0 loanglide.com
@@ -367,6 +369,8 @@
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
 0.0.0.0 www.trashstation.com
+0.0.0.0 twospoonsfleet.co.uk
+0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vanguardacademy-ng.com
