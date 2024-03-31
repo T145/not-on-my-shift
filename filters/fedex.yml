@@ -19,7 +19,6 @@ domains:
 - godynamo.co
 - guzelbil.com
 - hatyailandscape.com
-- homzbasix.com
 - imrt.ac.in
 - klinikmetamorf.com
 - kmtks.org.tw
@@ -107,6 +106,7 @@ ignored_domains:
 - hackersweb.org
 - hmsounds.com.br
 - hnacare.objectsdev.com
+- homzbasix.com
 - hongqiqujiu.com
 - industrial-land.vn
 - jiaosuba.cn
