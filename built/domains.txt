@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-04-06T12:14:28Z
+# Last update: 2024-04-07T12:14:18Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -202,7 +202,6 @@ alexwasiwo.com
 
 # 2021-03-02 Fedex phishing
 #  - https://geeklevi.com/fedex/
-ailnoir.com
 amzstudy.com
 bamperbolspb.ru
 blog.sidmach.com
@@ -216,6 +215,7 @@ dexil.ru
 eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
+galerihana.com
 godynamo.co
 guzelbil.com
 hatyailandscape.com
@@ -247,7 +247,6 @@ thozhilvarthalatest.com
 trashstation.com
 twospoonsfleet.co.uk
 ultimatepreneur.com
-vanguardacademy-ng.com
 vladimirherzog.org
 weboyal.com
 
@@ -390,16 +389,62 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+10dates1night.online
+18-12-6.fun
+7kcasino-bonus3.online
+8-12-1a.fun
+amarabetbonus3.com
+asedlescige.cf
 best-lovelady.com
+bestdatings.life
+bestprize-claims1.life
+bonus-action.com
+bonus-g.site
+bonus-if.icu
+bonus-xo.online
+bonus365batobatopick.win
+britgehanutvo.ga
+cam-me.ru
+carrosfiatmenorvalor258649.life
 casinobonusdelisi-10.com
+checkyour-prizenow1.life
+coworkingofficespacetorent825347.life
+coworkingspacesmexico917662.life
 date37.com
 datenschutz-denker.com
-dating-nearby-us-tk4008583.zone
+dates-here-now22.com
 dating-pass.com
+diabeticsugarmonitor996223.life
+findsexy-girl-now.com
+flirthere-andnow.com
+globalrevenue-method.me
+grantsfordisabledveterans064864.life
+greeninacegte.gq
 hakodatemoto7.com
 hongkongdating2021.com
+instalocal-hookup.com
+landscapingcompaniesnearby926639.life
+leadershiptraining893364.life
+myloved-ch1ck1.com
+nextlover.space
+onedate888.com
+online-dating-89863.bond
+online-dating-93739.bond
 online-dating.top
+plasticmoldingchina929828.life
+portfoliomanagement229663.life
 prize-claimer.site
+profitisher.life
+realprizesday.life
+sunprizes-here.life
+trend2020.xyz
+trodelvyurothelialcancer870999.life
+umbilicalhernioplastymexico314465.life
+vestidosdenoviasencillos547491.life
+vipgetlaid1.com
+warehouseinventorymanagement126509.life
+windowreplacement097937.life
+you-now-winners1.life
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 1mono.biz

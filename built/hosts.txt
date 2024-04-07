@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-04-06T12:14:28Z
+# Last update: 2024-04-07T12:14:18Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -282,8 +282,6 @@
 #  - https://geeklevi.com/fedex/
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 k.hencoder.com
-0.0.0.0 ailnoir.com
-0.0.0.0 www.ailnoir.com
 0.0.0.0 amzstudy.com
 0.0.0.0 www.amzstudy.com
 0.0.0.0 bamperbolspb.ru
@@ -308,6 +306,8 @@
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
+0.0.0.0 galerihana.com
+0.0.0.0 www.galerihana.com
 0.0.0.0 godynamo.co
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
@@ -369,8 +369,6 @@
 0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
-0.0.0.0 vanguardacademy-ng.com
-0.0.0.0 www.vanguardacademy-ng.com
 0.0.0.0 vladimirherzog.org
 0.0.0.0 www.vladimirherzog.org
 0.0.0.0 weboyal.com
@@ -614,26 +612,118 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+0.0.0.0 10dates1night.online
+0.0.0.0 www.10dates1night.online
+0.0.0.0 18-12-6.fun
+0.0.0.0 www.18-12-6.fun
+0.0.0.0 7kcasino-bonus3.online
+0.0.0.0 www.7kcasino-bonus3.online
+0.0.0.0 8-12-1a.fun
+0.0.0.0 www.8-12-1a.fun
+0.0.0.0 amarabetbonus3.com
+0.0.0.0 www.amarabetbonus3.com
+0.0.0.0 asedlescige.cf
+0.0.0.0 www.asedlescige.cf
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
+0.0.0.0 bestdatings.life
+0.0.0.0 www.bestdatings.life
+0.0.0.0 bestprize-claims1.life
+0.0.0.0 www.bestprize-claims1.life
+0.0.0.0 bonus-action.com
+0.0.0.0 www.bonus-action.com
+0.0.0.0 bonus-g.site
+0.0.0.0 www.bonus-g.site
+0.0.0.0 bonus-if.icu
+0.0.0.0 www.bonus-if.icu
+0.0.0.0 bonus-xo.online
+0.0.0.0 www.bonus-xo.online
+0.0.0.0 bonus365batobatopick.win
+0.0.0.0 www.bonus365batobatopick.win
+0.0.0.0 britgehanutvo.ga
+0.0.0.0 www.britgehanutvo.ga
+0.0.0.0 cam-me.ru
+0.0.0.0 www.cam-me.ru
+0.0.0.0 carrosfiatmenorvalor258649.life
+0.0.0.0 www.carrosfiatmenorvalor258649.life
 0.0.0.0 casinobonusdelisi-10.com
 0.0.0.0 www.casinobonusdelisi-10.com
+0.0.0.0 checkyour-prizenow1.life
+0.0.0.0 www.checkyour-prizenow1.life
+0.0.0.0 coworkingofficespacetorent825347.life
+0.0.0.0 www.coworkingofficespacetorent825347.life
+0.0.0.0 coworkingspacesmexico917662.life
+0.0.0.0 www.coworkingspacesmexico917662.life
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
 0.0.0.0 datenschutz-denker.com
 0.0.0.0 www.datenschutz-denker.com
-0.0.0.0 dating-nearby-us-tk4008583.zone
-0.0.0.0 www.dating-nearby-us-tk4008583.zone
+0.0.0.0 dates-here-now22.com
+0.0.0.0 www.dates-here-now22.com
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
+0.0.0.0 diabeticsugarmonitor996223.life
+0.0.0.0 www.diabeticsugarmonitor996223.life
+0.0.0.0 findsexy-girl-now.com
+0.0.0.0 www.findsexy-girl-now.com
+0.0.0.0 flirthere-andnow.com
+0.0.0.0 www.flirthere-andnow.com
+0.0.0.0 globalrevenue-method.me
+0.0.0.0 www.globalrevenue-method.me
+0.0.0.0 grantsfordisabledveterans064864.life
+0.0.0.0 www.grantsfordisabledveterans064864.life
+0.0.0.0 greeninacegte.gq
+0.0.0.0 www.greeninacegte.gq
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 hongkongdating2021.com
 0.0.0.0 www.hongkongdating2021.com
+0.0.0.0 instalocal-hookup.com
+0.0.0.0 www.instalocal-hookup.com
+0.0.0.0 landscapingcompaniesnearby926639.life
+0.0.0.0 www.landscapingcompaniesnearby926639.life
+0.0.0.0 leadershiptraining893364.life
+0.0.0.0 www.leadershiptraining893364.life
+0.0.0.0 myloved-ch1ck1.com
+0.0.0.0 www.myloved-ch1ck1.com
+0.0.0.0 nextlover.space
+0.0.0.0 www.nextlover.space
+0.0.0.0 onedate888.com
+0.0.0.0 www.onedate888.com
+0.0.0.0 online-dating-89863.bond
+0.0.0.0 www.online-dating-89863.bond
+0.0.0.0 online-dating-93739.bond
+0.0.0.0 www.online-dating-93739.bond
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
+0.0.0.0 plasticmoldingchina929828.life
+0.0.0.0 www.plasticmoldingchina929828.life
+0.0.0.0 portfoliomanagement229663.life
+0.0.0.0 www.portfoliomanagement229663.life
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
+0.0.0.0 profitisher.life
+0.0.0.0 www.profitisher.life
+0.0.0.0 realprizesday.life
+0.0.0.0 www.realprizesday.life
+0.0.0.0 sunprizes-here.life
+0.0.0.0 www.sunprizes-here.life
+0.0.0.0 trend2020.xyz
+0.0.0.0 www.trend2020.xyz
+0.0.0.0 trodelvyurothelialcancer870999.life
+0.0.0.0 www.trodelvyurothelialcancer870999.life
+0.0.0.0 umbilicalhernioplastymexico314465.life
+0.0.0.0 www.umbilicalhernioplastymexico314465.life
+0.0.0.0 vestidosdenoviasencillos547491.life
+0.0.0.0 www.vestidosdenoviasencillos547491.life
+0.0.0.0 vipgetlaid1.com
+0.0.0.0 www.vipgetlaid1.com
+0.0.0.0 warehouseinventorymanagement126509.life
+0.0.0.0 www.warehouseinventorymanagement126509.life
+0.0.0.0 windowreplacement097937.life
+0.0.0.0 www.windowreplacement097937.life
+0.0.0.0 you-now-winners1.life
+0.0.0.0 www.you-now-winners1.life
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
