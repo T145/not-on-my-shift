@@ -1,6 +1,7 @@
 # Don't bother manually updating this file.
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
+- ailnoir.com
 - amzstudy.com
 - bamperbolspb.ru
 - blog.sidmach.com
@@ -19,7 +20,6 @@ domains:
 - guzelbil.com
 - hatyailandscape.com
 - imrt.ac.in
-- klinikmetamorf.com
 - kmtks.org.tw
 - loanglide.com
 - lova.network
@@ -46,6 +46,7 @@ domains:
 - trashstation.com
 - twospoonsfleet.co.uk
 - ultimatepreneur.com
+- vanguardacademy-ng.com
 - vladimirherzog.org
 - weboyal.com
 fedex_suffixes:
@@ -66,7 +67,6 @@ ignored_domains:
 - 918kiss.newworld88.com
 - 99bkx.com
 - afedgh.org
-- ailnoir.com
 - alercehistorico.cl
 - amirapache.ir
 - app.crconsultoriacontable.com
@@ -112,6 +112,7 @@ ignored_domains:
 - joliveer.com
 - justparty.com.br
 - kidimy.org
+- klinikmetamorf.com
 - latesttechnologyz.com
 - mahigifts.com
 - marincr.com
@@ -148,7 +149,6 @@ ignored_domains:
 - tubies.com
 - tuyennvtb.com
 - update.fbsbx.com
-- vanguardacademy-ng.com
 - veljko.id
 - visotka.in
 - wordpress.mrcentertainment.com
