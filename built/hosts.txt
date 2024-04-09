@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-04-08T12:14:38Z
+# Last update: 2024-04-09T12:15:15Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -286,8 +286,6 @@
 0.0.0.0 www.ailnoir.com
 0.0.0.0 amzstudy.com
 0.0.0.0 www.amzstudy.com
-0.0.0.0 bamperbolspb.ru
-0.0.0.0 www.bamperbolspb.ru
 0.0.0.0 blog.sidmach.com
 0.0.0.0 cancervants.org
 0.0.0.0 www.cancervants.org
@@ -318,6 +316,8 @@
 0.0.0.0 www.hatyailandscape.com
 0.0.0.0 imrt.ac.in
 0.0.0.0 www.imrt.ac.in
+0.0.0.0 klinikmetamorf.com
+0.0.0.0 www.klinikmetamorf.com
 0.0.0.0 kmtks.org.tw
 0.0.0.0 www.kmtks.org.tw
 0.0.0.0 loanglide.com
@@ -626,8 +626,8 @@
 0.0.0.0 www.datenschutz-denker.com
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
-0.0.0.0 foggieforamerica2024.life
-0.0.0.0 www.foggieforamerica2024.life
+0.0.0.0 datinggirl11.online
+0.0.0.0 www.datinggirl11.online
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 hongkongdating2021.com
