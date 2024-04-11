@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-04-10T12:14:28Z
+# Last update: 2024-04-11T12:14:32Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -369,8 +369,6 @@
 0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
-0.0.0.0 vanguardacademy-ng.com
-0.0.0.0 www.vanguardacademy-ng.com
 0.0.0.0 vladimirherzog.org
 0.0.0.0 www.vladimirherzog.org
 0.0.0.0 weboyal.com
@@ -622,8 +620,6 @@
 0.0.0.0 www.casinobonusdelisi-10.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
-0.0.0.0 datenschutz-denker.com
-0.0.0.0 www.datenschutz-denker.com
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 datinggirl11.online
