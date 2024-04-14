@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-04-13T12:13:59Z
+# Last update: 2024-04-14T14:17:04Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -202,6 +202,7 @@ alexwasiwo.com
 
 # 2021-03-02 Fedex phishing
 #  - https://geeklevi.com/fedex/
+ailnoir.com
 amzstudy.com
 blog.sidmach.com
 cancervants.org
@@ -219,6 +220,7 @@ godynamo.co
 guzelbil.com
 hatyailandscape.com
 imrt.ac.in
+klinikmetamorf.com
 kmtks.org.tw
 loanglide.com
 lova.network
@@ -236,7 +238,6 @@ rees.games
 robbreport.com.my
 sky-scout.com
 sm-projekt.si
-socialfact.in
 soundwavesprodjs.com
 synoviz.com
 tacloban.gov.ph

@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-04-13T12:13:59Z
+# Last update: 2024-04-14T14:17:04Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -282,6 +282,8 @@
 #  - https://geeklevi.com/fedex/
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 k.hencoder.com
+0.0.0.0 ailnoir.com
+0.0.0.0 www.ailnoir.com
 0.0.0.0 amzstudy.com
 0.0.0.0 www.amzstudy.com
 0.0.0.0 blog.sidmach.com
@@ -314,6 +316,8 @@
 0.0.0.0 www.hatyailandscape.com
 0.0.0.0 imrt.ac.in
 0.0.0.0 www.imrt.ac.in
+0.0.0.0 klinikmetamorf.com
+0.0.0.0 www.klinikmetamorf.com
 0.0.0.0 kmtks.org.tw
 0.0.0.0 www.kmtks.org.tw
 0.0.0.0 loanglide.com
@@ -347,8 +351,6 @@
 0.0.0.0 www.sky-scout.com
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
-0.0.0.0 socialfact.in
-0.0.0.0 www.socialfact.in
 0.0.0.0 soundwavesprodjs.com
 0.0.0.0 www.soundwavesprodjs.com
 0.0.0.0 synoviz.com
