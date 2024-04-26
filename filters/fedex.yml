@@ -17,6 +17,7 @@ domains:
 - galerihana.com
 - godynamo.co
 - guzelbil.com
+- hatyailandscape.com
 - imrt.ac.in
 - klinikmetamorf.com
 - kmtks.org.tw
@@ -28,7 +29,6 @@ domains:
 - mouwz.nl
 - mucc.com.au
 - nectartrust.org.uk
-- new.deso.cz
 - nqtxk.com
 - parikhinfosolutions.in
 - redlog.cl
@@ -102,7 +102,6 @@ ignored_domains:
 - grandprov.com
 - habulex.com
 - hackersweb.org
-- hatyailandscape.com
 - hmsounds.com.br
 - hnacare.objectsdev.com
 - homzbasix.com
@@ -119,6 +118,7 @@ ignored_domains:
 - myphamnganbinh.com
 - nbkangxi.com
 - nen.vacad.net
+- new.deso.cz
 - nextgearup.com
 - nguen.net
 - njzmfcls.com
