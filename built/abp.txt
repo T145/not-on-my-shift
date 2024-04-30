@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-04-29T12:14:36Z
+! Last update: 2024-04-30T12:14:32Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -400,6 +400,7 @@
 ||10dates1night.online^
 ||2019releasedate2018.com^
 ||best-lovelady.com^
+||bonus-opt.com^
 ||casinobonusdelisi-10.com^
 ||date2loveafilipina.com^
 ||date37.com^
