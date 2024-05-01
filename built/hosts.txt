@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-04-30T12:14:32Z
+# Last update: 2024-05-01T12:14:47Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
