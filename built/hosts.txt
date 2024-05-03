@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-05-02T12:15:15Z
+# Last update: 2024-05-03T12:14:38Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -616,8 +616,12 @@
 0.0.0.0 www.2019releasedate2018.com
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
+0.0.0.0 bonus-mostbet-fr.com
+0.0.0.0 www.bonus-mostbet-fr.com
 0.0.0.0 bonus-opt.com
 0.0.0.0 www.bonus-opt.com
+0.0.0.0 casino-bonus-online.com
+0.0.0.0 www.casino-bonus-online.com
 0.0.0.0 casinobonusdelisi-10.com
 0.0.0.0 www.casinobonusdelisi-10.com
 0.0.0.0 date2loveafilipina.com
@@ -632,6 +636,8 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datinggirl11.online
 0.0.0.0 www.datinggirl11.online
+0.0.0.0 espacefondateur5.org
+0.0.0.0 www.espacefondateur5.org
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 online-dating.top
