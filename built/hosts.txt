@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-05-04T12:14:10Z
+# Last update: 2024-05-05T12:14:33Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -310,8 +310,6 @@
 0.0.0.0 www.galerihana.com
 0.0.0.0 godynamo.co
 0.0.0.0 www.godynamo.co
-0.0.0.0 guzelbil.com
-0.0.0.0 www.guzelbil.com
 0.0.0.0 hatyailandscape.com
 0.0.0.0 www.hatyailandscape.com
 0.0.0.0 imrt.ac.in
@@ -620,6 +618,8 @@
 0.0.0.0 www.bonus-mostbet-fr.com
 0.0.0.0 bonus-opt.com
 0.0.0.0 www.bonus-opt.com
+0.0.0.0 bonus1.at
+0.0.0.0 www.bonus1.at
 0.0.0.0 casino-bonus-online.com
 0.0.0.0 www.casino-bonus-online.com
 0.0.0.0 casinobonusdelisi-10.com
@@ -638,12 +638,12 @@
 0.0.0.0 www.datinggirl11.online
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
+0.0.0.0 no-deposit-bonus-casino.com
+0.0.0.0 www.no-deposit-bonus-casino.com
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
-0.0.0.0 stake-bonus-cas.com
-0.0.0.0 www.stake-bonus-cas.com
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
