@@ -35,7 +35,6 @@ domains:
 - redlog.cl
 - rees.games
 - robbreport.com.my
-- sky-scout.com
 - sm-projekt.si
 - soundwavesprodjs.com
 - synoviz.com
@@ -47,6 +46,7 @@ domains:
 - ultimatepreneur.com
 - vanguardacademy-ng.com
 - vladimirherzog.org
+- weboyal.com
 fedex_suffixes:
 - app
 - fedex
@@ -134,6 +134,7 @@ ignored_domains:
 - ryansa.com
 - sekolahalmunasemarang.sch.id
 - share-bnb.com
+- sky-scout.com
 - smcsme.com
 - smecom.it
 - socialfact.in
@@ -150,7 +151,6 @@ ignored_domains:
 - update.fbsbx.com
 - veljko.id
 - visotka.in
-- weboyal.com
 - wordpress.mrcentertainment.com
 - wowfollowers.com
 - wp.up118.cn
