@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-05-09T12:14:55Z
+# Last update: 2024-05-10T12:14:32Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -302,8 +302,6 @@
 0.0.0.0 www.dexil.ru
 0.0.0.0 eurosystemsrl.eu
 0.0.0.0 www.eurosystemsrl.eu
-0.0.0.0 fraternitykerala.org
-0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
 0.0.0.0 galerihana.com
@@ -616,10 +614,10 @@
 0.0.0.0 www.2019releasedate2018.com
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
+0.0.0.0 bestprize-placeshere.life
+0.0.0.0 www.bestprize-placeshere.life
 0.0.0.0 bonus-mostbet-fr.com
 0.0.0.0 www.bonus-mostbet-fr.com
-0.0.0.0 bonus-opt.com
-0.0.0.0 www.bonus-opt.com
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
 0.0.0.0 casinobonusdelisi-10.com
@@ -628,24 +626,40 @@
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
-0.0.0.0 datesheet4u.com
-0.0.0.0 www.datesheet4u.com
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datinggirl11.online
 0.0.0.0 www.datinggirl11.online
+0.0.0.0 extraprize-place.life
+0.0.0.0 www.extraprize-place.life
+0.0.0.0 goodzone-forprize1.life
+0.0.0.0 www.goodzone-forprize1.life
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
+0.0.0.0 new-prize-now3.life
+0.0.0.0 www.new-prize-now3.life
 0.0.0.0 no-deposit-bonus-casino.com
 0.0.0.0 www.no-deposit-bonus-casino.com
-0.0.0.0 onedate888.com
-0.0.0.0 www.onedate888.com
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
+0.0.0.0 russian-dating-26234.bond
+0.0.0.0 www.russian-dating-26234.bond
+0.0.0.0 takeyourbigprizes2.life
+0.0.0.0 www.takeyourbigprizes2.life
+0.0.0.0 takeyourprize1.life
+0.0.0.0 www.takeyourprize1.life
+0.0.0.0 the-best-prize-here.life
+0.0.0.0 www.the-best-prize-here.life
+0.0.0.0 todayprizes1.life
+0.0.0.0 www.todayprizes1.life
+0.0.0.0 winyour-prizehere1.life
+0.0.0.0 www.winyour-prizehere1.life
+0.0.0.0 your-super-prizes-here.life
+0.0.0.0 www.your-super-prizes-here.life
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
