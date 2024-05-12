@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-05-11T12:14:35Z
+# Last update: 2024-05-12T12:14:35Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -614,16 +614,12 @@
 0.0.0.0 www.10dates1night.online
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
-0.0.0.0 asian-dating-45710.bond
-0.0.0.0 www.asian-dating-45710.bond
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bestprize-placeshere.life
 0.0.0.0 www.bestprize-placeshere.life
 0.0.0.0 bonus-mostbet-fr.com
 0.0.0.0 www.bonus-mostbet-fr.com
-0.0.0.0 bonus-spiele.de
-0.0.0.0 www.bonus-spiele.de
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
 0.0.0.0 casino-bonus-4u.com
@@ -636,8 +632,6 @@
 0.0.0.0 www.date37.com
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
-0.0.0.0 dating-regeln.de
-0.0.0.0 www.dating-regeln.de
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datinggirl11.online
@@ -648,8 +642,6 @@
 0.0.0.0 www.goodzone-forprize1.life
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 klimabonus-fonds.de
-0.0.0.0 www.klimabonus-fonds.de
 0.0.0.0 new-prize-now3.life
 0.0.0.0 www.new-prize-now3.life
 0.0.0.0 no-deposit-bonus-casino.com
@@ -668,8 +660,6 @@
 0.0.0.0 www.todayprizes1.life
 0.0.0.0 winyour-prizehere1.life
 0.0.0.0 www.winyour-prizehere1.life
-0.0.0.0 xn--brgergeldbonus-gsb.de
-0.0.0.0 www.xn--brgergeldbonus-gsb.de
 0.0.0.0 your-super-prizes-here.life
 0.0.0.0 www.your-super-prizes-here.life
 
