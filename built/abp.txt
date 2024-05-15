@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-05-13T12:14:51Z
+! Last update: 2024-05-15T12:15:48Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -254,6 +254,7 @@
 ||trashstation.com^
 ||twospoonsfleet.co.uk^
 ||ultimatepreneur.com^
+||vanguardacademy-ng.com^
 ||vladimirherzog.org^
 ||weboyal.com^
 
@@ -399,7 +400,6 @@
 ||10dates1night.online^
 ||2019releasedate2018.com^
 ||best-lovelady.com^
-||bestprize-placeshere.life^
 ||bonus-mostbet-fr.com^
 ||bonus1.at^
 ||casino-bonus-4u.com^
@@ -409,19 +409,11 @@
 ||dating-pass.com^
 ||dating24hour.com^
 ||datinggirl11.online^
-||extraprize-place.life^
-||goodzone-forprize1.life^
 ||hakodatemoto7.com^
-||new-prize-now3.life^
-||no-deposit-bonus-casino.com^
 ||online-dating.top^
 ||prize-claimer.site^
-||takeyourbigprizes2.life^
-||takeyourprize1.life^
-||the-best-prize-here.life^
-||todayprizes1.life^
-||winyour-prizehere1.life^
-||your-super-prizes-here.life^
+||prizes-x.com^
+||t-arebonus-top-2018.info^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
