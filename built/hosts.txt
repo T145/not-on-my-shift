@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-05-15T12:15:48Z
+# Last update: 2024-05-16T12:14:50Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -628,6 +628,8 @@
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
+0.0.0.0 dates-ton.org
+0.0.0.0 www.dates-ton.org
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
@@ -640,10 +642,10 @@
 0.0.0.0 www.online-dating.top
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
-0.0.0.0 prizes-x.com
-0.0.0.0 www.prizes-x.com
 0.0.0.0 t-arebonus-top-2018.info
 0.0.0.0 www.t-arebonus-top-2018.info
+0.0.0.0 winprizes135.digital
+0.0.0.0 www.winprizes135.digital
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
