@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-05-17T12:14:45Z
+# Last update: 2024-05-18T12:15:07Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -316,8 +316,6 @@
 0.0.0.0 www.hatyailandscape.com
 0.0.0.0 imrt.ac.in
 0.0.0.0 www.imrt.ac.in
-0.0.0.0 klinikmetamorf.com
-0.0.0.0 www.klinikmetamorf.com
 0.0.0.0 kmtks.org.tw
 0.0.0.0 www.kmtks.org.tw
 0.0.0.0 loanglide.com
@@ -614,16 +612,12 @@
 0.0.0.0 www.10dates1night.online
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
-0.0.0.0 amarabetbonus5.com
-0.0.0.0 www.amarabetbonus5.com
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-mostbet-fr.com
 0.0.0.0 www.bonus-mostbet-fr.com
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
-0.0.0.0 bonusi-za-telefon.ru
-0.0.0.0 www.bonusi-za-telefon.ru
 0.0.0.0 casino-bonus-4u.com
 0.0.0.0 www.casino-bonus-4u.com
 0.0.0.0 casinobonusdelisi-10.com
@@ -632,6 +626,8 @@
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
+0.0.0.0 datemate-app.com
+0.0.0.0 www.datemate-app.com
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
@@ -640,6 +636,8 @@
 0.0.0.0 www.datinggirl11.online
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
+0.0.0.0 melbetbonus-somalia.site
+0.0.0.0 www.melbetbonus-somalia.site
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 prize-claimer.site

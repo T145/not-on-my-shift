@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-05-17T12:14:45Z
+# Last update: 2024-05-18T12:15:07Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -220,7 +220,6 @@ godynamo.co
 guzelbil.com
 hatyailandscape.com
 imrt.ac.in
-klinikmetamorf.com
 kmtks.org.tw
 loanglide.com
 lova.network
@@ -390,19 +389,19 @@ centent.steamplay.me
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 10dates1night.online
 2019releasedate2018.com
-amarabetbonus5.com
 best-lovelady.com
 bonus-mostbet-fr.com
 bonus1.at
-bonusi-za-telefon.ru
 casino-bonus-4u.com
 casinobonusdelisi-10.com
 date2loveafilipina.com
 date37.com
+datemate-app.com
 dating-pass.com
 dating24hour.com
 datinggirl11.online
 hakodatemoto7.com
+melbetbonus-somalia.site
 online-dating.top
 prize-claimer.site
 t-arebonus-top-2018.info
