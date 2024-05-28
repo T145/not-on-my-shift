@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-05-27T12:14:51Z
+# Last update: 2024-05-28T12:14:56Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -308,8 +308,6 @@
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
-0.0.0.0 galerihana.com
-0.0.0.0 www.galerihana.com
 0.0.0.0 godynamo.co
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
@@ -618,6 +616,10 @@
 0.0.0.0 www.bonus-mostbet-fr.com
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
+0.0.0.0 bonus69slot.net
+0.0.0.0 www.bonus69slot.net
+0.0.0.0 bonus888slot.net
+0.0.0.0 www.bonus888slot.net
 0.0.0.0 casino-bonus-4u.com
 0.0.0.0 www.casino-bonus-4u.com
 0.0.0.0 casinobonusdelisi-10.com
@@ -626,8 +628,6 @@
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
-0.0.0.0 datemate-app.com
-0.0.0.0 www.datemate-app.com
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
