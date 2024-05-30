@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-05-29T12:15:01Z
+! Last update: 2024-05-30T12:14:55Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -227,7 +227,6 @@
 ||galaxyfunbowl.gr^
 ||galerihana.com^
 ||godynamo.co^
-||guzelbil.com^
 ||hatyailandscape.com^
 ||imrt.ac.in^
 ||klinikmetamorf.com^
@@ -255,6 +254,7 @@
 ||trashstation.com^
 ||twospoonsfleet.co.uk^
 ||ultimatepreneur.com^
+||vanguardacademy-ng.com^
 ||vladimirherzog.org^
 ||weboyal.com^
 
@@ -412,6 +412,7 @@
 ||online-dating.top^
 ||prize-claimer.site^
 ||ro-yal-ba-nk-up-date-portal.info^
+||stardate1440.com^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^

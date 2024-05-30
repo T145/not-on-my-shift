@@ -17,7 +17,6 @@ domains:
 - galaxyfunbowl.gr
 - galerihana.com
 - godynamo.co
-- guzelbil.com
 - hatyailandscape.com
 - imrt.ac.in
 - klinikmetamorf.com
@@ -45,6 +44,7 @@ domains:
 - trashstation.com
 - twospoonsfleet.co.uk
 - ultimatepreneur.com
+- vanguardacademy-ng.com
 - vladimirherzog.org
 - weboyal.com
 fedex_suffixes:
@@ -99,6 +99,7 @@ ignored_domains:
 - gladiadoresdevendas.com.br
 - gojordanbusiness.com
 - grandprov.com
+- guzelbil.com
 - habulex.com
 - hackersweb.org
 - hmsounds.com.br
@@ -148,7 +149,6 @@ ignored_domains:
 - tubies.com
 - tuyennvtb.com
 - update.fbsbx.com
-- vanguardacademy-ng.com
 - veljko.id
 - visotka.in
 - wordpress.mrcentertainment.com
