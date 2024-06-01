@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-05-31T12:15:07Z
+# Last update: 2024-06-01T12:14:35Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -390,21 +390,43 @@ centent.steamplay.me
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 2019releasedate2018.com
+asian-dating-35556.bond
 best-lovelady.com
 bonus-mostbet-fr.com
 bonus1.at
 casino-bonus-4u.com
+casino-bonus-utan-svensk-licens.com
 casinobonusdelisi-10.com
+claimyourprizes1.life
 date2loveafilipina.com
 date37.com
 dating-pass.com
 dating24hour.com
 datinggirl11.online
+deaconry.buzz
+depressiontesttaker746625.life
+get-prizes-online1.life
+getbigprize.life
+gpsmachineinmexico670272.life
 hakodatemoto7.com
+hardshiploansforsinglemothers245285.life
+importersofyarninspain686568.life
+kosodate-network.com
+luxurywatchesbahamas470537.life
+new-dates-now1.com
+new-datings-now2.com
 online-dating.top
+onlineweightlossclinic507409.life
+panneauxsolaires986190.life
+portugalhotelsforwedding298449.life
 prize-claimer.site
+radiantheaterinmexico352105.life
 ro-yal-ba-nk-up-date-portal.info
 stardate1440.com
+takenew-prizeaway.life
+takes-your-prize.life
+tiguanamexicocarrental470394.life
+youget-prizes-here.life
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 1mono.biz

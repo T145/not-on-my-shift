@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-05-31T12:15:07Z
+# Last update: 2024-06-01T12:14:35Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -614,6 +614,8 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
+0.0.0.0 asian-dating-35556.bond
+0.0.0.0 www.asian-dating-35556.bond
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-mostbet-fr.com
@@ -622,8 +624,12 @@
 0.0.0.0 www.bonus1.at
 0.0.0.0 casino-bonus-4u.com
 0.0.0.0 www.casino-bonus-4u.com
+0.0.0.0 casino-bonus-utan-svensk-licens.com
+0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casinobonusdelisi-10.com
 0.0.0.0 www.casinobonusdelisi-10.com
+0.0.0.0 claimyourprizes1.life
+0.0.0.0 www.claimyourprizes1.life
 0.0.0.0 date2loveafilipina.com
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
@@ -634,16 +640,54 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datinggirl11.online
 0.0.0.0 www.datinggirl11.online
+0.0.0.0 deaconry.buzz
+0.0.0.0 www.deaconry.buzz
+0.0.0.0 depressiontesttaker746625.life
+0.0.0.0 www.depressiontesttaker746625.life
+0.0.0.0 get-prizes-online1.life
+0.0.0.0 www.get-prizes-online1.life
+0.0.0.0 getbigprize.life
+0.0.0.0 www.getbigprize.life
+0.0.0.0 gpsmachineinmexico670272.life
+0.0.0.0 www.gpsmachineinmexico670272.life
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
+0.0.0.0 hardshiploansforsinglemothers245285.life
+0.0.0.0 www.hardshiploansforsinglemothers245285.life
+0.0.0.0 importersofyarninspain686568.life
+0.0.0.0 www.importersofyarninspain686568.life
+0.0.0.0 kosodate-network.com
+0.0.0.0 www.kosodate-network.com
+0.0.0.0 luxurywatchesbahamas470537.life
+0.0.0.0 www.luxurywatchesbahamas470537.life
+0.0.0.0 new-dates-now1.com
+0.0.0.0 www.new-dates-now1.com
+0.0.0.0 new-datings-now2.com
+0.0.0.0 www.new-datings-now2.com
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
+0.0.0.0 onlineweightlossclinic507409.life
+0.0.0.0 www.onlineweightlossclinic507409.life
+0.0.0.0 panneauxsolaires986190.life
+0.0.0.0 www.panneauxsolaires986190.life
+0.0.0.0 portugalhotelsforwedding298449.life
+0.0.0.0 www.portugalhotelsforwedding298449.life
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
+0.0.0.0 radiantheaterinmexico352105.life
+0.0.0.0 www.radiantheaterinmexico352105.life
 0.0.0.0 ro-yal-ba-nk-up-date-portal.info
 0.0.0.0 www.ro-yal-ba-nk-up-date-portal.info
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
+0.0.0.0 takenew-prizeaway.life
+0.0.0.0 www.takenew-prizeaway.life
+0.0.0.0 takes-your-prize.life
+0.0.0.0 www.takes-your-prize.life
+0.0.0.0 tiguanamexicocarrental470394.life
+0.0.0.0 www.tiguanamexicocarrental470394.life
+0.0.0.0 youget-prizes-here.life
+0.0.0.0 www.youget-prizes-here.life
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
