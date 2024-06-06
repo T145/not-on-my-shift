@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-06-05T12:14:58Z
+# Last update: 2024-06-06T12:15:22Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -308,8 +308,6 @@
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
-0.0.0.0 galerihana.com
-0.0.0.0 www.galerihana.com
 0.0.0.0 godynamo.co
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
@@ -339,8 +337,6 @@
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 new.deso.cz
-0.0.0.0 nqtxk.com
-0.0.0.0 www.nqtxk.com
 0.0.0.0 parikhinfosolutions.in
 0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
@@ -367,8 +363,6 @@
 0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
-0.0.0.0 vanguardacademy-ng.com
-0.0.0.0 www.vanguardacademy-ng.com
 0.0.0.0 vladimirherzog.org
 0.0.0.0 www.vladimirherzog.org
 0.0.0.0 weboyal.com
@@ -620,6 +614,8 @@
 0.0.0.0 www.bonus-mostbet-fr.com
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
+0.0.0.0 bonusbygnk-willkommenswitzerlanndd.info
+0.0.0.0 www.bonusbygnk-willkommenswitzerlanndd.info
 0.0.0.0 casino-bonus-4u.com
 0.0.0.0 www.casino-bonus-4u.com
 0.0.0.0 casinobonusdelisi-10.com
@@ -638,14 +634,10 @@
 0.0.0.0 www.datinggirl11.online
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 online-dating-63412.bond
-0.0.0.0 www.online-dating-63412.bond
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
-0.0.0.0 ro-yal-ba-nk-up-date-portal.info
-0.0.0.0 www.ro-yal-ba-nk-up-date-portal.info
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
 0.0.0.0 validate08.com
