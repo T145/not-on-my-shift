@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-06-06T12:15:22Z
+! Last update: 2024-06-07T12:15:51Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -225,10 +225,10 @@
 ||eurosystemsrl.eu^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
+||galerihana.com^
 ||godynamo.co^
 ||guzelbil.com^
 ||hatyailandscape.com^
-||imrt.ac.in^
 ||klinikmetamorf.com^
 ||kmtks.org.tw^
 ||loanglide.com^
@@ -240,6 +240,7 @@
 ||mucc.com.au^
 ||nectartrust.org.uk^
 ||new.deso.cz^
+||nqtxk.com^
 ||parikhinfosolutions.in^
 ||redlog.cl^
 ||rees.games^
@@ -253,6 +254,7 @@
 ||trashstation.com^
 ||twospoonsfleet.co.uk^
 ||ultimatepreneur.com^
+||vanguardacademy-ng.com^
 ||vladimirherzog.org^
 ||weboyal.com^
 
@@ -399,7 +401,6 @@
 ||best-lovelady.com^
 ||bonus-mostbet-fr.com^
 ||bonus1.at^
-||bonusbygnk-willkommenswitzerlanndd.info^
 ||casino-bonus-4u.com^
 ||casinobonusdelisi-10.com^
 ||date-jason.com^
@@ -411,8 +412,10 @@
 ||hakodatemoto7.com^
 ||online-dating.top^
 ||prize-claimer.site^
+||prize-defer.com^
 ||stardate1440.com^
 ||validate08.com^
+||votre-bonus-exclusif.com^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
