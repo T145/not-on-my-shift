@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-06-09T12:15:04Z
+# Last update: 2024-06-10T12:14:53Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -216,7 +216,6 @@ dexil.ru
 eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
-galerihana.com
 godynamo.co
 guzelbil.com
 hatyailandscape.com
@@ -403,8 +402,10 @@ dating24hour.com
 datinggirl11.online
 hakodatemoto7.com
 online-dating.top
+prize-bitter.com
 prize-claimer.site
 prize-defer.com
+senior-dating-77438.bond
 stardate1440.com
 validate08.com
 votre-bonus-exclusif.com
