@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-06-12T12:14:55Z
+# Last update: 2024-06-13T12:14:54Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -614,6 +614,8 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
+0.0.0.0 asian-dating-96616.bond
+0.0.0.0 www.asian-dating-96616.bond
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-mostbet-fr.com
@@ -642,18 +644,20 @@
 0.0.0.0 www.datinggirl11.online
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
+0.0.0.0 muslim-dating-38989.bond
+0.0.0.0 www.muslim-dating-38989.bond
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
-0.0.0.0 prize-bitter.com
-0.0.0.0 www.prize-bitter.com
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
 0.0.0.0 prize-defer.com
 0.0.0.0 www.prize-defer.com
+0.0.0.0 s-personen-daten-aktivieren.com
+0.0.0.0 www.s-personen-daten-aktivieren.com
+0.0.0.0 s-personendaten-reaktivieren.com
+0.0.0.0 www.s-personendaten-reaktivieren.com
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
-0.0.0.0 validate08.com
-0.0.0.0 www.validate08.com
 0.0.0.0 votre-bonus-exclusif.com
 0.0.0.0 www.votre-bonus-exclusif.com
 

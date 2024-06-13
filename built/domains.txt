@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-06-12T12:14:55Z
+# Last update: 2024-06-13T12:14:54Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -390,6 +390,7 @@ centent.steamplay.me
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 2019releasedate2018.com
+asian-dating-96616.bond
 best-lovelady.com
 bonus-mostbet-fr.com
 bonus-scrd.top
@@ -404,12 +405,13 @@ dating-pass.com
 dating24hour.com
 datinggirl11.online
 hakodatemoto7.com
+muslim-dating-38989.bond
 online-dating.top
-prize-bitter.com
 prize-claimer.site
 prize-defer.com
+s-personen-daten-aktivieren.com
+s-personendaten-reaktivieren.com
 stardate1440.com
-validate08.com
 votre-bonus-exclusif.com
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
