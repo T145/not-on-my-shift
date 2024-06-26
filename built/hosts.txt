@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-06-25T12:14:45Z
+# Last update: 2024-06-26T12:14:49Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -630,12 +630,16 @@
 0.0.0.0 www.date37.com
 0.0.0.0 date43.com
 0.0.0.0 www.date43.com
+0.0.0.0 dates822a29eix.com
+0.0.0.0 www.dates822a29eix.com
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datinggirl11.online
 0.0.0.0 www.datinggirl11.online
+0.0.0.0 garantibonus-firsatlari.com
+0.0.0.0 www.garantibonus-firsatlari.com
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
@@ -646,6 +650,8 @@
 0.0.0.0 www.prize-claimer.site
 0.0.0.0 prize-defer.com
 0.0.0.0 www.prize-defer.com
+0.0.0.0 prize-nights.com
+0.0.0.0 www.prize-nights.com
 0.0.0.0 rtpjuragantogel88.life
 0.0.0.0 www.rtpjuragantogel88.life
 0.0.0.0 s-personen-daten-erneuern.com
