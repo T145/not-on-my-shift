@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-07-01T12:15:18Z
+# Last update: 2024-07-02T12:15:03Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -312,12 +312,12 @@
 0.0.0.0 www.galerihana.com
 0.0.0.0 godynamo.co
 0.0.0.0 www.godynamo.co
+0.0.0.0 guzelbil.com
+0.0.0.0 www.guzelbil.com
 0.0.0.0 hatyailandscape.com
 0.0.0.0 www.hatyailandscape.com
 0.0.0.0 imrt.ac.in
 0.0.0.0 www.imrt.ac.in
-0.0.0.0 klinikmetamorf.com
-0.0.0.0 www.klinikmetamorf.com
 0.0.0.0 kmtks.org.tw
 0.0.0.0 www.kmtks.org.tw
 0.0.0.0 loanglide.com
@@ -337,8 +337,6 @@
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 new.deso.cz
-0.0.0.0 nqtxk.com
-0.0.0.0 www.nqtxk.com
 0.0.0.0 parikhinfosolutions.in
 0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
@@ -616,14 +614,14 @@
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-1win.kr
 0.0.0.0 www.bonus-1win.kr
-0.0.0.0 bonus-poker.org
-0.0.0.0 www.bonus-poker.org
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
 0.0.0.0 casinobonusdelisi-10.com
 0.0.0.0 www.casinobonusdelisi-10.com
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
+0.0.0.0 date-reform.com
+0.0.0.0 www.date-reform.com
 0.0.0.0 date2loveafilipina.com
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
@@ -652,10 +650,10 @@
 0.0.0.0 www.prize-nights.com
 0.0.0.0 rtpjuragantogel88.life
 0.0.0.0 www.rtpjuragantogel88.life
-0.0.0.0 s-personen-daten-erneuern.com
-0.0.0.0 www.s-personen-daten-erneuern.com
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
+0.0.0.0 votedate4.buzz
+0.0.0.0 www.votedate4.buzz
 0.0.0.0 votre-bonus-exclusif.com
 0.0.0.0 www.votre-bonus-exclusif.com
 0.0.0.0 winprizes147.digital
