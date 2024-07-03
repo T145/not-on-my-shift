@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-07-02T12:15:03Z
+! Last update: 2024-07-03T12:15:02Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -230,6 +230,7 @@
 ||guzelbil.com^
 ||hatyailandscape.com^
 ||imrt.ac.in^
+||klinikmetamorf.com^
 ||kmtks.org.tw^
 ||loanglide.com^
 ||lova.network^
@@ -240,6 +241,7 @@
 ||mucc.com.au^
 ||nectartrust.org.uk^
 ||new.deso.cz^
+||nqtxk.com^
 ||parikhinfosolutions.in^
 ||redlog.cl^
 ||rees.games^
@@ -397,30 +399,73 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||2019releasedate2018.com^
+||all-best-prize2020.com^
 ||best-lovelady.com^
 ||bonus-1win.kr^
 ||bonus1.at^
+||bonus365mahjong.win^
+||bonusug181.com^
 ||casinobonusdelisi-10.com^
+||cheaters-dating-place4.com^
 ||date-jason.com^
 ||date-reform.com^
 ||date2loveafilipina.com^
 ||date37.com^
+||daten-aktualisierung.net^
 ||daten-loesungen.com^
 ||daten-loesungen.online^
+||dates-delight-fever.life^
 ||dating-pass.com^
+||dating-teen-model.life^
+||dating16us.space^
 ||dating24hour.com^
 ||datinggirl11.online^
+||enhancement-methods4.com^
+||findprizesforyou.life^
+||get-prize-here.life^
+||get-your-prize-com.life^
+||girlsex24.site^
+||great-prizenow2.life^
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
+||iguyf.site^
+||ih-wan-ryan-p-ran-at-a-29.life^
+||ihwanryanpranata29.life^
+||liveincome-method1.life^
+||locallchickshere2.com^
+||lucky-prize-giveaway-congrats.top^
+||lwomens.space^
+||meet4love.xyz^
+||megabonus-point5.life^
+||members-formeets.com^
+||mlove.space^
+||mobile-unlock-er247.life^
+||mysweethoney.ru^
+||new-ladies-4you3.com^
+||oaoiqwhodbfkwe.fun^
+||online-dating-57978.bond^
+||online-dating-65437.bond^
 ||online-dating.top^
+||prize-all-happy.com^
 ||prize-claimer.site^
 ||prize-defer.com^
+||prize-giving-real-win.top^
+||prize-mintech.com^
 ||prize-nights.com^
+||profitis-her1.life^
+||red-sweetlady1.com^
 ||rtpjuragantogel88.life^
+||search-sexlady.com^
+||sexualdating.site^
 ||stardate1440.com^
+||thebest-dating-here.com^
+||time-4-dating2.com^
+||validate-info.online^
+||vip-flirt-books12.com^
 ||votedate4.buzz^
 ||votre-bonus-exclusif.com^
 ||winprizes147.digital^
+||yourbest-profits-there1.life^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
