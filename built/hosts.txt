@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-07-05T12:15:30Z
+# Last update: 2024-07-06T12:14:40Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -302,8 +302,6 @@
 0.0.0.0 www.defencelover.in
 0.0.0.0 dexil.ru
 0.0.0.0 www.dexil.ru
-0.0.0.0 eurosystemsrl.eu
-0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -616,6 +614,8 @@
 0.0.0.0 www.2019releasedate2018.com
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
+0.0.0.0 bigprizes777.com
+0.0.0.0 www.bigprizes777.com
 0.0.0.0 bonus-1win.kr
 0.0.0.0 www.bonus-1win.kr
 0.0.0.0 bonus1.at
@@ -624,6 +624,8 @@
 0.0.0.0 www.bonus888.net
 0.0.0.0 casinobonusdelisi-10.com
 0.0.0.0 www.casinobonusdelisi-10.com
+0.0.0.0 chance-congrats-prize-draw.top
+0.0.0.0 www.chance-congrats-prize-draw.top
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-reform.com
@@ -634,6 +636,8 @@
 0.0.0.0 www.date37.com
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
+0.0.0.0 dating-russian-women.com
+0.0.0.0 www.dating-russian-women.com
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datinggirl11.online
@@ -654,8 +658,6 @@
 0.0.0.0 www.rtpjuragantogel88.life
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
-0.0.0.0 votedate4.buzz
-0.0.0.0 www.votedate4.buzz
 0.0.0.0 votre-bonus-exclusif.com
 0.0.0.0 www.votre-bonus-exclusif.com
 0.0.0.0 winprizes147.digital
