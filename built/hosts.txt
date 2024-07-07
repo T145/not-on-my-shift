@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-07-06T12:14:40Z
+# Last update: 2024-07-07T12:14:29Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -612,10 +612,10 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
+0.0.0.0 asian-dating-72491.bond
+0.0.0.0 www.asian-dating-72491.bond
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
-0.0.0.0 bigprizes777.com
-0.0.0.0 www.bigprizes777.com
 0.0.0.0 bonus-1win.kr
 0.0.0.0 www.bonus-1win.kr
 0.0.0.0 bonus1.at
@@ -624,8 +624,6 @@
 0.0.0.0 www.bonus888.net
 0.0.0.0 casinobonusdelisi-10.com
 0.0.0.0 www.casinobonusdelisi-10.com
-0.0.0.0 chance-congrats-prize-draw.top
-0.0.0.0 www.chance-congrats-prize-draw.top
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-reform.com
@@ -660,8 +658,6 @@
 0.0.0.0 www.stardate1440.com
 0.0.0.0 votre-bonus-exclusif.com
 0.0.0.0 www.votre-bonus-exclusif.com
-0.0.0.0 winprizes147.digital
-0.0.0.0 www.winprizes147.digital
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz

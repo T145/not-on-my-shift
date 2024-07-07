@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-07-06T12:14:40Z
+! Last update: 2024-07-07T12:14:29Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -398,13 +398,12 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||2019releasedate2018.com^
+||asian-dating-72491.bond^
 ||best-lovelady.com^
-||bigprizes777.com^
 ||bonus-1win.kr^
 ||bonus1.at^
 ||bonus888.net^
 ||casinobonusdelisi-10.com^
-||chance-congrats-prize-draw.top^
 ||date-jason.com^
 ||date-reform.com^
 ||date2loveafilipina.com^
@@ -422,7 +421,6 @@
 ||rtpjuragantogel88.life^
 ||stardate1440.com^
 ||votre-bonus-exclusif.com^
-||winprizes147.digital^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
