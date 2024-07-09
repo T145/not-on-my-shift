@@ -14,11 +14,11 @@ domains:
 - dexil.ru
 - fraternitykerala.org
 - galaxyfunbowl.gr
-- galerihana.com
 - godynamo.co
 - guzelbil.com
 - hatyailandscape.com
 - imrt.ac.in
+- klinikmetamorf.com
 - kmtks.org.tw
 - loanglide.com
 - lova.network
@@ -92,6 +92,7 @@ ignored_domains:
 - fallenjewellery.com
 - feelmore.site
 - funtrade.land
+- galerihana.com
 - gardendeur.site
 - garveylibertyhall.com
 - geeklevi.com
@@ -110,7 +111,6 @@ ignored_domains:
 - joliveer.com
 - justparty.com.br
 - kidimy.org
-- klinikmetamorf.com
 - latesttechnologyz.com
 - mahigifts.com
 - marincr.com
