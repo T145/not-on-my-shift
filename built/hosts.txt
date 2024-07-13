@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-07-12T12:15:03Z
+# Last update: 2024-07-13T12:14:24Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -306,8 +306,6 @@
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
-0.0.0.0 galerihana.com
-0.0.0.0 www.galerihana.com
 0.0.0.0 godynamo.co
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
@@ -612,36 +610,16 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
-0.0.0.0 adultdate18.com
-0.0.0.0 www.adultdate18.com
-0.0.0.0 asian-dating-75941.com
-0.0.0.0 www.asian-dating-75941.com
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
-0.0.0.0 best-profitmethods.com
-0.0.0.0 www.best-profitmethods.com
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
-0.0.0.0 bonusbuy2.xyz
-0.0.0.0 www.bonusbuy2.xyz
-0.0.0.0 bonusclub-forme.life
-0.0.0.0 www.bonusclub-forme.life
-0.0.0.0 bonuskazani64.com
-0.0.0.0 www.bonuskazani64.com
-0.0.0.0 cancroid.buzz
-0.0.0.0 www.cancroid.buzz
 0.0.0.0 casinobonusdelisi-10.com
 0.0.0.0 www.casinobonusdelisi-10.com
-0.0.0.0 clopincuumami.ml
-0.0.0.0 www.clopincuumami.ml
-0.0.0.0 cname-blk2.com
-0.0.0.0 www.cname-blk2.com
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-reform.com
 0.0.0.0 www.date-reform.com
-0.0.0.0 date-tv.app
-0.0.0.0 www.date-tv.app
 0.0.0.0 date2loveafilipina.com
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
@@ -654,24 +632,16 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datinggirl11.online
 0.0.0.0 www.datinggirl11.online
-0.0.0.0 deposit25bonus25.com
-0.0.0.0 www.deposit25bonus25.com
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
-0.0.0.0 onlydate-avis.com
-0.0.0.0 www.onlydate-avis.com
-0.0.0.0 onlynew-prizesnow1.life
-0.0.0.0 www.onlynew-prizesnow1.life
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
 0.0.0.0 prize-defer.com
 0.0.0.0 www.prize-defer.com
-0.0.0.0 prize-giving-real-win.top
-0.0.0.0 www.prize-giving-real-win.top
 0.0.0.0 prize-nights.com
 0.0.0.0 www.prize-nights.com
 0.0.0.0 rtpjuragantogel88.life
@@ -680,10 +650,6 @@
 0.0.0.0 www.stardate1440.com
 0.0.0.0 votre-bonus-exclusif.com
 0.0.0.0 www.votre-bonus-exclusif.com
-0.0.0.0 youronline-profits2.life
-0.0.0.0 www.youronline-profits2.life
-0.0.0.0 zone-of-profit.life
-0.0.0.0 www.zone-of-profit.life
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz

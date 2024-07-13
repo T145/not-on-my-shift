@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-07-12T12:15:03Z
+! Last update: 2024-07-13T12:14:24Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -224,7 +224,6 @@
 ||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
-||galerihana.com^
 ||godynamo.co^
 ||guzelbil.com^
 ||hatyailandscape.com^
@@ -398,42 +397,26 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||2019releasedate2018.com^
-||adultdate18.com^
-||asian-dating-75941.com^
 ||best-lovelady.com^
-||best-profitmethods.com^
 ||bonus1.at^
-||bonusbuy2.xyz^
-||bonusclub-forme.life^
-||bonuskazani64.com^
-||cancroid.buzz^
 ||casinobonusdelisi-10.com^
-||clopincuumami.ml^
-||cname-blk2.com^
 ||date-jason.com^
 ||date-reform.com^
-||date-tv.app^
 ||date2loveafilipina.com^
 ||date37.com^
 ||dating-pass.com^
 ||dating-russian-women.com^
 ||dating24hour.com^
 ||datinggirl11.online^
-||deposit25bonus25.com^
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
 ||online-dating.top^
-||onlydate-avis.com^
-||onlynew-prizesnow1.life^
 ||prize-claimer.site^
 ||prize-defer.com^
-||prize-giving-real-win.top^
 ||prize-nights.com^
 ||rtpjuragantogel88.life^
 ||stardate1440.com^
 ||votre-bonus-exclusif.com^
-||youronline-profits2.life^
-||zone-of-profit.life^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
