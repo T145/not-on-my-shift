@@ -30,7 +30,6 @@ domains:
 - mucc.com.au
 - nectartrust.org.uk
 - new.deso.cz
-- nqtxk.com
 - parikhinfosolutions.in
 - redlog.cl
 - rees.games
@@ -38,7 +37,6 @@ domains:
 - sm-projekt.si
 - soundwavesprodjs.com
 - synoviz.com
-- tacloban.gov.ph
 - teamder.org
 - thozhilvarthalatest.com
 - trashstation.com
@@ -122,6 +120,7 @@ ignored_domains:
 - nguen.net
 - njzmfcls.com
 - nogdec.com
+- nqtxk.com
 - patisserievanbarneveld.nl
 - perfect-blinds.com.au
 - persianwoodkitchen.com
@@ -141,6 +140,7 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
+- tacloban.gov.ph
 - testargames.cl
 - thaircy.redcross.or.th
 - thietkelq.com
