@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-07-23T12:15:13Z
+# Last update: 2024-07-24T12:15:12Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -312,8 +312,6 @@
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
 0.0.0.0 www.guzelbil.com
-0.0.0.0 hatyailandscape.com
-0.0.0.0 www.hatyailandscape.com
 0.0.0.0 imrt.ac.in
 0.0.0.0 www.imrt.ac.in
 0.0.0.0 klinikmetamorf.com
@@ -614,22 +612,16 @@
 0.0.0.0 www.2019releasedate2018.com
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
-0.0.0.0 bonus-spins4.site
-0.0.0.0 www.bonus-spins4.site
-0.0.0.0 bonus-spins5.site
-0.0.0.0 www.bonus-spins5.site
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
-0.0.0.0 bonusbet-casino.com
-0.0.0.0 www.bonusbet-casino.com
 0.0.0.0 casinobonusdelisi-10.com
 0.0.0.0 www.casinobonusdelisi-10.com
+0.0.0.0 date-jason.com
+0.0.0.0 www.date-jason.com
 0.0.0.0 date-reform.com
 0.0.0.0 www.date-reform.com
 0.0.0.0 date2loveafilipina.com
 0.0.0.0 www.date2loveafilipina.com
-0.0.0.0 date2romance.com
-0.0.0.0 www.date2romance.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
 0.0.0.0 dating-pass.com
@@ -638,8 +630,14 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datinggirl11.online
 0.0.0.0 www.datinggirl11.online
+0.0.0.0 hakodate-wq.com
+0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
+0.0.0.0 jointbonus-llc.online
+0.0.0.0 www.jointbonus-llc.online
+0.0.0.0 online-dating-66300.bond
+0.0.0.0 www.online-dating-66300.bond
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 prize-claimer.site
@@ -650,8 +648,8 @@
 0.0.0.0 www.prize-nights.com
 0.0.0.0 rtpjuragantogel88.life
 0.0.0.0 www.rtpjuragantogel88.life
-0.0.0.0 vavadabonuses-bazz2.xyz
-0.0.0.0 www.vavadabonuses-bazz2.xyz
+0.0.0.0 stardate1440.com
+0.0.0.0 www.stardate1440.com
 0.0.0.0 votre-bonus-exclusif.com
 0.0.0.0 www.votre-bonus-exclusif.com
 0.0.0.0 wdate8.xyz
