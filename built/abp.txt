@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-07-27T12:15:25Z
+! Last update: 2024-07-28T12:14:52Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -406,12 +406,14 @@
 ||date-reform.com^
 ||date2loveafilipina.com^
 ||date37.com^
+||date4girls.ru^
 ||dating-pass.com^
 ||dating24hour.com^
 ||datinggirl11.online^
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
 ||jointbonus-llc.online^
+||online-dating-51507.bond^
 ||online-dating.top^
 ||prize-claimer.site^
 ||prize-defer.com^
