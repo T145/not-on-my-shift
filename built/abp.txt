@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-08-01T12:15:13Z
+! Last update: 2024-08-02T12:14:58Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -227,6 +227,7 @@
 ||galerihana.com^
 ||godynamo.co^
 ||guzelbil.com^
+||hatyailandscape.com^
 ||imrt.ac.in^
 ||klinikmetamorf.com^
 ||kmtks.org.tw^
@@ -397,12 +398,13 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||2019releasedate2018.com^
+||adultdate18.com^
 ||best-lovelady.com^
-||bonus-spins4.site^
 ||bonus1.at^
 ||casino-bonus-utan-svensk-licens.com^
 ||casinobonusdelisi-10.com^
 ||champion-instantwin-prize-weekly.top^
+||chance-congrats-prize-draw.top^
 ||chance-prize-smart-instant.top^
 ||cname-blk2.com^
 ||date-gabrielle.com^
@@ -419,14 +421,16 @@
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
 ||hotdating4you.online^
+||jandatersesat1047.shop^
 ||jointbonus-bigsale.online^
 ||jointbonus-llc.online^
+||linkbonus33.pro^
 ||lucky-prize-giveaway-congrats.top^
+||maako-kosodate-diary.net^
 ||meine-daten-aktuell.com^
 ||onedate888.com^
 ||online-dating.top^
 ||prize-claimer.site^
-||prize-defer.com^
 ||prize-foryou-weekly-champion.top^
 ||prize-giving-real-win.top^
 ||prize-nights.com^
@@ -435,7 +439,6 @@
 ||supplychangedate4.buzz^
 ||validate-blakely.com^
 ||validate-order.info^
-||vavadabonuses-bazz3.xyz^
 ||votre-bonus-exclusif.com^
 ||wdate8.xyz^
 
