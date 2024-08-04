@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-08-03T12:14:30Z
+# Last update: 2024-08-04T12:14:37Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -314,8 +314,6 @@
 0.0.0.0 www.guzelbil.com
 0.0.0.0 hatyailandscape.com
 0.0.0.0 www.hatyailandscape.com
-0.0.0.0 imrt.ac.in
-0.0.0.0 www.imrt.ac.in
 0.0.0.0 klinikmetamorf.com
 0.0.0.0 www.klinikmetamorf.com
 0.0.0.0 kmtks.org.tw
@@ -646,6 +644,8 @@
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
+0.0.0.0 dating391816.art
+0.0.0.0 www.dating391816.art
 0.0.0.0 datinggirl11.online
 0.0.0.0 www.datinggirl11.online
 0.0.0.0 giveaway-real-prize-congrats.top
@@ -668,8 +668,6 @@
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
 0.0.0.0 www.maako-kosodate-diary.net
-0.0.0.0 meine-daten-aktuell.com
-0.0.0.0 www.meine-daten-aktuell.com
 0.0.0.0 onedate888.com
 0.0.0.0 www.onedate888.com
 0.0.0.0 online-dating.top
@@ -686,12 +684,12 @@
 0.0.0.0 www.rtpjuragantogel88.life
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
+0.0.0.0 supplychangedate4.buzz
+0.0.0.0 www.supplychangedate4.buzz
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
 0.0.0.0 validate-order.info
 0.0.0.0 www.validate-order.info
-0.0.0.0 vavadabonuses-bazz3.xyz
-0.0.0.0 www.vavadabonuses-bazz3.xyz
 0.0.0.0 votre-bonus-exclusif.com
 0.0.0.0 www.votre-bonus-exclusif.com
 0.0.0.0 wdate8.xyz
