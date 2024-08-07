@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-08-06T12:15:19Z
+# Last update: 2024-08-07T12:15:20Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -610,18 +610,20 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
-0.0.0.0 azino777bonus531.win
-0.0.0.0 www.azino777bonus531.win
-0.0.0.0 azino777bonus864.win
-0.0.0.0 www.azino777bonus864.win
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
+0.0.0.0 bonus-spins4.site
+0.0.0.0 www.bonus-spins4.site
+0.0.0.0 bonus-spins5.site
+0.0.0.0 www.bonus-spins5.site
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
 0.0.0.0 casino-bonus-utan-svensk-licens.com
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casinobonusdelisi-10.com
 0.0.0.0 www.casinobonusdelisi-10.com
+0.0.0.0 champion-instantwin-prize-weekly.top
+0.0.0.0 www.champion-instantwin-prize-weekly.top
 0.0.0.0 chance-congrats-prize-draw.top
 0.0.0.0 www.chance-congrats-prize-draw.top
 0.0.0.0 cname-blk2.com
@@ -638,28 +640,38 @@
 0.0.0.0 www.date37.com
 0.0.0.0 date4girls.ru
 0.0.0.0 www.date4girls.ru
+0.0.0.0 dating-mypage.store
+0.0.0.0 www.dating-mypage.store
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datinggirl11.online
 0.0.0.0 www.datinggirl11.online
+0.0.0.0 giveaway-real-prize-congrats.top
+0.0.0.0 www.giveaway-real-prize-congrats.top
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 hotdating4you.online
 0.0.0.0 www.hotdating4you.online
+0.0.0.0 jandatersesat1047.shop
+0.0.0.0 www.jandatersesat1047.shop
 0.0.0.0 jointbonus-bigsale.online
 0.0.0.0 www.jointbonus-bigsale.online
 0.0.0.0 jointbonus-llc.online
 0.0.0.0 www.jointbonus-llc.online
+0.0.0.0 linkbonus33.pro
+0.0.0.0 www.linkbonus33.pro
 0.0.0.0 lucky-prize-giveaway-congrats.top
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
 0.0.0.0 www.maako-kosodate-diary.net
-0.0.0.0 online-dating-de-7.bond
-0.0.0.0 www.online-dating-de-7.bond
+0.0.0.0 meine-daten-aktuell.com
+0.0.0.0 www.meine-daten-aktuell.com
+0.0.0.0 onedate888.com
+0.0.0.0 www.onedate888.com
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 prize-claimer.site
@@ -674,10 +686,14 @@
 0.0.0.0 www.rtpjuragantogel88.life
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
+0.0.0.0 supplychangedate4.buzz
+0.0.0.0 www.supplychangedate4.buzz
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
 0.0.0.0 validate-order.info
 0.0.0.0 www.validate-order.info
+0.0.0.0 vavadabonuses-bazz3.xyz
+0.0.0.0 www.vavadabonuses-bazz3.xyz
 0.0.0.0 votre-bonus-exclusif.com
 0.0.0.0 www.votre-bonus-exclusif.com
 0.0.0.0 wdate8.xyz
