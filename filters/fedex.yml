@@ -18,7 +18,6 @@ domains:
 - godynamo.co
 - guzelbil.com
 - hatyailandscape.com
-- imrt.ac.in
 - klinikmetamorf.com
 - kmtks.org.tw
 - loanglide.com
@@ -30,7 +29,6 @@ domains:
 - mucc.com.au
 - nectartrust.org.uk
 - new.deso.cz
-- nqtxk.com
 - parikhinfosolutions.in
 - redlog.cl
 - robbreport.com.my
@@ -106,6 +104,7 @@ ignored_domains:
 - hnacare.objectsdev.com
 - homzbasix.com
 - hongqiqujiu.com
+- imrt.ac.in
 - industrial-land.vn
 - jiaosuba.cn
 - joliveer.com
@@ -122,6 +121,7 @@ ignored_domains:
 - nguen.net
 - njzmfcls.com
 - nogdec.com
+- nqtxk.com
 - patisserievanbarneveld.nl
 - perfect-blinds.com.au
 - persianwoodkitchen.com

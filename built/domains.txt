@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-08-12T12:16:05Z
+# Last update: 2024-08-14T12:15:26Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -219,7 +219,6 @@ galerihana.com
 godynamo.co
 guzelbil.com
 hatyailandscape.com
-imrt.ac.in
 klinikmetamorf.com
 kmtks.org.tw
 loanglide.com
@@ -231,7 +230,6 @@ mouwz.nl
 mucc.com.au
 nectartrust.org.uk
 new.deso.cz
-nqtxk.com
 parikhinfosolutions.in
 redlog.cl
 robbreport.com.my
@@ -389,7 +387,9 @@ centent.steamplay.me
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 2019releasedate2018.com
+adultdate18.com
 best-lovelady.com
+bonus-de-casino.net
 bonus1.at
 casino-bonus-utan-svensk-licens.com
 casinobonusdelisi-10.com
@@ -397,6 +397,7 @@ champion-instantwin-prize-weekly.top
 chance-congrats-prize-draw.top
 chance-prize-smart-instant.top
 cname-blk2.com
+date-gabrielle.com
 date-jason.com
 date-reform.com
 date2loveafilipina.com
@@ -425,10 +426,8 @@ prize-giving-real-win.top
 prize-nights.com
 rtpjuragantogel88.life
 stardate1440.com
-supplychangedate4.buzz
 validate-blakely.com
 validate-order.info
-vavadabonuses-bazz3.xyz
 votre-bonus-exclusif.com
 wdate8.xyz
 
