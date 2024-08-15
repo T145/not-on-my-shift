@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-08-14T12:15:26Z
+# Last update: 2024-08-15T12:16:09Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -306,8 +306,6 @@
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
-0.0.0.0 galerihana.com
-0.0.0.0 www.galerihana.com
 0.0.0.0 godynamo.co
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
@@ -335,6 +333,8 @@
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 new.deso.cz
+0.0.0.0 nqtxk.com
+0.0.0.0 www.nqtxk.com
 0.0.0.0 parikhinfosolutions.in
 0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
@@ -608,12 +608,8 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
-0.0.0.0 adultdate18.com
-0.0.0.0 www.adultdate18.com
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
-0.0.0.0 bonus-de-casino.net
-0.0.0.0 www.bonus-de-casino.net
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
 0.0.0.0 casino-bonus-utan-svensk-licens.com
@@ -640,8 +636,6 @@
 0.0.0.0 www.date37.com
 0.0.0.0 date4girls.ru
 0.0.0.0 www.date4girls.ru
-0.0.0.0 dating-mypage.store
-0.0.0.0 www.dating-mypage.store
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
@@ -654,8 +648,6 @@
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 hotdating4you.online
-0.0.0.0 www.hotdating4you.online
 0.0.0.0 jandatersesat1047.shop
 0.0.0.0 www.jandatersesat1047.shop
 0.0.0.0 jointbonus-bigsale.online
@@ -668,10 +660,10 @@
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
 0.0.0.0 www.maako-kosodate-diary.net
-0.0.0.0 meine-daten-aktuell.com
-0.0.0.0 www.meine-daten-aktuell.com
 0.0.0.0 onedate888.com
 0.0.0.0 www.onedate888.com
+0.0.0.0 online-dating-68356.bond
+0.0.0.0 www.online-dating-68356.bond
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 prize-claimer.site
@@ -686,6 +678,8 @@
 0.0.0.0 www.rtpjuragantogel88.life
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
+0.0.0.0 supplychangedate4.buzz
+0.0.0.0 www.supplychangedate4.buzz
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
 0.0.0.0 validate-order.info
