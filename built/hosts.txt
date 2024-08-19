@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-08-18T12:16:22Z
+# Last update: 2024-08-19T12:15:02Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -335,8 +335,6 @@
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 new.deso.cz
-0.0.0.0 nqtxk.com
-0.0.0.0 www.nqtxk.com
 0.0.0.0 parikhinfosolutions.in
 0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
@@ -610,8 +608,6 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
-0.0.0.0 adultdate18.com
-0.0.0.0 www.adultdate18.com
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-de-casino.net
@@ -670,10 +666,12 @@
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
 0.0.0.0 www.maako-kosodate-diary.net
+0.0.0.0 meine-daten-aktuell.com
+0.0.0.0 www.meine-daten-aktuell.com
 0.0.0.0 onedate888.com
 0.0.0.0 www.onedate888.com
-0.0.0.0 online-dating-86107.bond
-0.0.0.0 www.online-dating-86107.bond
+0.0.0.0 online-dating-86385.bond
+0.0.0.0 www.online-dating-86385.bond
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 prize-claimer.site
@@ -686,8 +684,6 @@
 0.0.0.0 www.prize-nights.com
 0.0.0.0 rtpjuragantogel88.life
 0.0.0.0 www.rtpjuragantogel88.life
-0.0.0.0 russian-dating-54369.bond
-0.0.0.0 www.russian-dating-54369.bond
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
 0.0.0.0 supplychangedate4.buzz
