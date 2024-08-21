@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-08-20T12:15:31Z
+# Last update: 2024-08-21T12:15:08Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -314,8 +314,6 @@
 0.0.0.0 www.guzelbil.com
 0.0.0.0 hatyailandscape.com
 0.0.0.0 www.hatyailandscape.com
-0.0.0.0 klinikmetamorf.com
-0.0.0.0 www.klinikmetamorf.com
 0.0.0.0 kmtks.org.tw
 0.0.0.0 www.kmtks.org.tw
 0.0.0.0 loanglide.com
@@ -367,8 +365,6 @@
 0.0.0.0 www.vanguardacademy-ng.com
 0.0.0.0 vladimirherzog.org
 0.0.0.0 www.vladimirherzog.org
-0.0.0.0 weboyal.com
-0.0.0.0 www.weboyal.com
 
 # === SCAMS ===
 # These filters block pages which are known to scam people for money or gift cards
@@ -610,6 +606,8 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
+0.0.0.0 adultdate18.com
+0.0.0.0 www.adultdate18.com
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-de-casino.net
@@ -670,20 +668,26 @@
 0.0.0.0 www.maako-kosodate-diary.net
 0.0.0.0 onedate888.com
 0.0.0.0 www.onedate888.com
+0.0.0.0 online-dating-22148.bond
+0.0.0.0 www.online-dating-22148.bond
+0.0.0.0 online-dating-52340.bond
+0.0.0.0 www.online-dating-52340.bond
+0.0.0.0 online-dating-75418.bond
+0.0.0.0 www.online-dating-75418.bond
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
 0.0.0.0 prize-foryou-weekly-champion.top
 0.0.0.0 www.prize-foryou-weekly-champion.top
-0.0.0.0 prize-giving-real-win.top
-0.0.0.0 www.prize-giving-real-win.top
 0.0.0.0 prize-nights.com
 0.0.0.0 www.prize-nights.com
 0.0.0.0 rtpjuragantogel88.life
 0.0.0.0 www.rtpjuragantogel88.life
 0.0.0.0 search-weekly-prize-giveaway.top
 0.0.0.0 www.search-weekly-prize-giveaway.top
+0.0.0.0 senior-dating-65803.bond
+0.0.0.0 www.senior-dating-65803.bond
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
 0.0.0.0 supplychangedate4.buzz
