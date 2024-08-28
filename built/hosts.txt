@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-08-27T12:15:08Z
+# Last update: 2024-08-28T12:15:32Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -312,6 +312,8 @@
 0.0.0.0 www.guzelbil.com
 0.0.0.0 hatyailandscape.com
 0.0.0.0 www.hatyailandscape.com
+0.0.0.0 klinikmetamorf.com
+0.0.0.0 www.klinikmetamorf.com
 0.0.0.0 kmtks.org.tw
 0.0.0.0 www.kmtks.org.tw
 0.0.0.0 loanglide.com
@@ -650,6 +652,8 @@
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 hotdating4you.online
 0.0.0.0 www.hotdating4you.online
+0.0.0.0 jandatersesat1047.shop
+0.0.0.0 www.jandatersesat1047.shop
 0.0.0.0 jointbonus-bigsale.online
 0.0.0.0 www.jointbonus-bigsale.online
 0.0.0.0 jointbonus-llc.online
@@ -684,6 +688,8 @@
 0.0.0.0 www.supplychangedate4.buzz
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
+0.0.0.0 validate-order.info
+0.0.0.0 www.validate-order.info
 0.0.0.0 votre-bonus-exclusif.com
 0.0.0.0 www.votre-bonus-exclusif.com
 0.0.0.0 wdate8.xyz
