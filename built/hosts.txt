@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-08-28T12:15:32Z
+# Last update: 2024-08-29T12:14:57Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -606,6 +606,8 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
+0.0.0.0 adultdate18.com
+0.0.0.0 www.adultdate18.com
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-de-casino.net
@@ -620,8 +622,6 @@
 0.0.0.0 www.champion-instantwin-prize-weekly.top
 0.0.0.0 chance-congrats-prize-draw.top
 0.0.0.0 www.chance-congrats-prize-draw.top
-0.0.0.0 chance-prize-smart-instant.top
-0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
 0.0.0.0 date-gabrielle.com
