@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-08-29T12:14:57Z
+# Last update: 2024-08-30T12:15:00Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -622,6 +622,8 @@
 0.0.0.0 www.champion-instantwin-prize-weekly.top
 0.0.0.0 chance-congrats-prize-draw.top
 0.0.0.0 www.chance-congrats-prize-draw.top
+0.0.0.0 chance-prize-smart-instant.top
+0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
 0.0.0.0 date-gabrielle.com
