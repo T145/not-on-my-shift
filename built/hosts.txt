@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-09-04T12:15:56Z
+# Last update: 2024-09-05T12:15:05Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -640,6 +640,8 @@
 0.0.0.0 www.date37.com
 0.0.0.0 dating-mypage.store
 0.0.0.0 www.dating-mypage.store
+0.0.0.0 dating-online-easy.bond
+0.0.0.0 www.dating-online-easy.bond
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
@@ -676,6 +678,8 @@
 0.0.0.0 www.online-dating.top
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
+0.0.0.0 prize-foryou-weekly-champion.top
+0.0.0.0 www.prize-foryou-weekly-champion.top
 0.0.0.0 prize-giving-real-win.top
 0.0.0.0 www.prize-giving-real-win.top
 0.0.0.0 prize-nights.com
@@ -684,12 +688,18 @@
 0.0.0.0 www.prizes-world.one
 0.0.0.0 rtpjuragantogel88.life
 0.0.0.0 www.rtpjuragantogel88.life
+0.0.0.0 russian-dating-29648.bond
+0.0.0.0 www.russian-dating-29648.bond
 0.0.0.0 search-weekly-prize-giveaway.top
 0.0.0.0 www.search-weekly-prize-giveaway.top
+0.0.0.0 senior-dating-63872.bond
+0.0.0.0 www.senior-dating-63872.bond
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
 0.0.0.0 supplychangedate4.buzz
 0.0.0.0 www.supplychangedate4.buzz
+0.0.0.0 unlimcasino-bonus-2.fun
+0.0.0.0 www.unlimcasino-bonus-2.fun
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
 0.0.0.0 validate-order.info
