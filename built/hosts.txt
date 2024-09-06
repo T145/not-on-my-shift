@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-09-05T12:15:05Z
+# Last update: 2024-09-06T12:15:10Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -628,8 +628,6 @@
 0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
-0.0.0.0 date-gabrielle.com
-0.0.0.0 www.date-gabrielle.com
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-reform.com
@@ -640,8 +638,6 @@
 0.0.0.0 www.date37.com
 0.0.0.0 dating-mypage.store
 0.0.0.0 www.dating-mypage.store
-0.0.0.0 dating-online-easy.bond
-0.0.0.0 www.dating-online-easy.bond
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
@@ -666,8 +662,6 @@
 0.0.0.0 www.jointbonus-bigsale.online
 0.0.0.0 jointbonus-llc.online
 0.0.0.0 www.jointbonus-llc.online
-0.0.0.0 linkbonus33.pro
-0.0.0.0 www.linkbonus33.pro
 0.0.0.0 lucky-prize-giveaway-congrats.top
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
@@ -688,12 +682,8 @@
 0.0.0.0 www.prizes-world.one
 0.0.0.0 rtpjuragantogel88.life
 0.0.0.0 www.rtpjuragantogel88.life
-0.0.0.0 russian-dating-29648.bond
-0.0.0.0 www.russian-dating-29648.bond
 0.0.0.0 search-weekly-prize-giveaway.top
 0.0.0.0 www.search-weekly-prize-giveaway.top
-0.0.0.0 senior-dating-63872.bond
-0.0.0.0 www.senior-dating-63872.bond
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
 0.0.0.0 supplychangedate4.buzz
