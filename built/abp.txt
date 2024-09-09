@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-09-08T12:14:43Z
+! Last update: 2024-09-09T12:15:10Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -223,6 +223,7 @@
 ||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
+||galerihana.com^
 ||godynamo.co^
 ||guzelbil.com^
 ||hatyailandscape.com^
@@ -237,7 +238,6 @@
 ||mucc.com.au^
 ||nectartrust.org.uk^
 ||new.deso.cz^
-||nqtxk.com^
 ||parikhinfosolutions.in^
 ||redlog.cl^
 ||robbreport.com.my^
@@ -249,6 +249,7 @@
 ||thozhilvarthalatest.com^
 ||trashstation.com^
 ||tubies.com^
+||twospoonsfleet.co.uk^
 ||ultimatepreneur.com^
 ||vanguardacademy-ng.com^
 ||vladimirherzog.org^
@@ -396,22 +397,21 @@
 ||2019releasedate2018.com^
 ||azinobonus777.top^
 ||best-lovelady.com^
-||bonus-de-casino.net^
 ||bonus1.at^
 ||casino-bonus-utan-svensk-licens.com^
 ||casinobonusdelisi-10.com^
-||champion-instantwin-prize-weekly.top^
-||chance-congrats-prize-draw.top^
 ||chance-prize-smart-instant.top^
+||cname-blk2.com^
+||date-gabrielle.com^
 ||date-jason.com^
 ||date-reform.com^
 ||date2loveafilipina.com^
 ||date37.com^
-||dating-mypage.store^
 ||dating-pass.com^
 ||dating24hour.com^
 ||datinggirl11.online^
 ||foryou-specialoffer-prize-congrats.top^
+||giveaway-prize-foryou-search.top^
 ||giveaway-real-prize-congrats.top^
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
@@ -422,29 +422,18 @@
 ||jointbonus-bigsale.online^
 ||jointbonus-llc.online^
 ||linkbonus33.pro^
-||lucky-prize-giveaway-congrats.top^
 ||maako-kosodate-diary.net^
-||onedate888.com^
-||online-dating-22354.bond^
-||online-dating-52540.bond^
-||online-dating-80896.bond^
-||online-dating-88189.bond^
-||online-dating-91673.bond^
-||online-dating-99123.bond^
+||online-dating-48058.bond^
 ||online-dating.top^
 ||prize-claimer.site^
 ||prize-foryou-weekly-champion.top^
+||prize-giving-real-win.top^
 ||prize-nights.com^
 ||prizes-world.one^
 ||rtpjuragantogel88.life^
-||search-weekly-prize-giveaway.top^
-||senior-dating-72043.bond^
-||senior-dating-76878.bond^
 ||stardate1440.com^
 ||supplychangedate4.buzz^
-||unlimcasino-bonus-2.fun^
 ||validate-blakely.com^
-||validate-order.info^
 ||votre-bonus-exclusif.com^
 ||wdate8.xyz^
 
