@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-09-09T12:15:10Z
+# Last update: 2024-09-10T12:15:30Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -287,8 +287,6 @@
 0.0.0.0 amzstudy.com
 0.0.0.0 www.amzstudy.com
 0.0.0.0 blog.sidmach.com
-0.0.0.0 cancervants.org
-0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
 0.0.0.0 www.castllypay.com
 0.0.0.0 clickedgesolutions.com
@@ -333,6 +331,8 @@
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 new.deso.cz
+0.0.0.0 nqtxk.com
+0.0.0.0 www.nqtxk.com
 0.0.0.0 parikhinfosolutions.in
 0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
@@ -606,16 +606,26 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
+0.0.0.0 adultdate18.com
+0.0.0.0 www.adultdate18.com
 0.0.0.0 azinobonus777.top
 0.0.0.0 www.azinobonus777.top
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
+0.0.0.0 bonus-de-casino.net
+0.0.0.0 www.bonus-de-casino.net
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
+0.0.0.0 bonusrp-pay.click
+0.0.0.0 www.bonusrp-pay.click
 0.0.0.0 casino-bonus-utan-svensk-licens.com
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casinobonusdelisi-10.com
 0.0.0.0 www.casinobonusdelisi-10.com
+0.0.0.0 champion-instantwin-prize-weekly.top
+0.0.0.0 www.champion-instantwin-prize-weekly.top
+0.0.0.0 chance-congrats-prize-draw.top
+0.0.0.0 www.chance-congrats-prize-draw.top
 0.0.0.0 chance-prize-smart-instant.top
 0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
@@ -630,6 +640,8 @@
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
+0.0.0.0 dating-mypage.store
+0.0.0.0 www.dating-mypage.store
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
@@ -660,10 +672,14 @@
 0.0.0.0 www.jointbonus-llc.online
 0.0.0.0 linkbonus33.pro
 0.0.0.0 www.linkbonus33.pro
+0.0.0.0 lucky-prize-giveaway-congrats.top
+0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
 0.0.0.0 www.maako-kosodate-diary.net
-0.0.0.0 online-dating-48058.bond
-0.0.0.0 www.online-dating-48058.bond
+0.0.0.0 onedate888.com
+0.0.0.0 www.onedate888.com
+0.0.0.0 online-dating-79195.bond
+0.0.0.0 www.online-dating-79195.bond
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 prize-claimer.site
@@ -678,12 +694,20 @@
 0.0.0.0 www.prizes-world.one
 0.0.0.0 rtpjuragantogel88.life
 0.0.0.0 www.rtpjuragantogel88.life
+0.0.0.0 search-weekly-prize-giveaway.top
+0.0.0.0 www.search-weekly-prize-giveaway.top
+0.0.0.0 senior-dating-59431.bond
+0.0.0.0 www.senior-dating-59431.bond
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
 0.0.0.0 supplychangedate4.buzz
 0.0.0.0 www.supplychangedate4.buzz
+0.0.0.0 unlimcasino-bonus-2.fun
+0.0.0.0 www.unlimcasino-bonus-2.fun
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
+0.0.0.0 validate-order.info
+0.0.0.0 www.validate-order.info
 0.0.0.0 votre-bonus-exclusif.com
 0.0.0.0 www.votre-bonus-exclusif.com
 0.0.0.0 wdate8.xyz

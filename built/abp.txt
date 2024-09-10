@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-09-09T12:15:10Z
+! Last update: 2024-09-10T12:15:30Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -214,7 +214,6 @@
 ||ailnoir.com^
 ||amzstudy.com^
 ||blog.sidmach.com^
-||cancervants.org^
 ||castllypay.com^
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
@@ -238,6 +237,7 @@
 ||mucc.com.au^
 ||nectartrust.org.uk^
 ||new.deso.cz^
+||nqtxk.com^
 ||parikhinfosolutions.in^
 ||redlog.cl^
 ||robbreport.com.my^
@@ -395,11 +395,16 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||2019releasedate2018.com^
+||adultdate18.com^
 ||azinobonus777.top^
 ||best-lovelady.com^
+||bonus-de-casino.net^
 ||bonus1.at^
+||bonusrp-pay.click^
 ||casino-bonus-utan-svensk-licens.com^
 ||casinobonusdelisi-10.com^
+||champion-instantwin-prize-weekly.top^
+||chance-congrats-prize-draw.top^
 ||chance-prize-smart-instant.top^
 ||cname-blk2.com^
 ||date-gabrielle.com^
@@ -407,6 +412,7 @@
 ||date-reform.com^
 ||date2loveafilipina.com^
 ||date37.com^
+||dating-mypage.store^
 ||dating-pass.com^
 ||dating24hour.com^
 ||datinggirl11.online^
@@ -422,8 +428,10 @@
 ||jointbonus-bigsale.online^
 ||jointbonus-llc.online^
 ||linkbonus33.pro^
+||lucky-prize-giveaway-congrats.top^
 ||maako-kosodate-diary.net^
-||online-dating-48058.bond^
+||onedate888.com^
+||online-dating-79195.bond^
 ||online-dating.top^
 ||prize-claimer.site^
 ||prize-foryou-weekly-champion.top^
@@ -431,9 +439,13 @@
 ||prize-nights.com^
 ||prizes-world.one^
 ||rtpjuragantogel88.life^
+||search-weekly-prize-giveaway.top^
+||senior-dating-59431.bond^
 ||stardate1440.com^
 ||supplychangedate4.buzz^
+||unlimcasino-bonus-2.fun^
 ||validate-blakely.com^
+||validate-order.info^
 ||votre-bonus-exclusif.com^
 ||wdate8.xyz^
 
