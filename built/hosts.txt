@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-09-10T12:15:30Z
+# Last update: 2024-09-12T12:14:59Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -287,6 +287,8 @@
 0.0.0.0 amzstudy.com
 0.0.0.0 www.amzstudy.com
 0.0.0.0 blog.sidmach.com
+0.0.0.0 cancervants.org
+0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
 0.0.0.0 www.castllypay.com
 0.0.0.0 clickedgesolutions.com
@@ -608,14 +610,16 @@
 0.0.0.0 www.2019releasedate2018.com
 0.0.0.0 adultdate18.com
 0.0.0.0 www.adultdate18.com
-0.0.0.0 azinobonus777.top
-0.0.0.0 www.azinobonus777.top
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-de-casino.net
 0.0.0.0 www.bonus-de-casino.net
+0.0.0.0 bonus-wild.run
+0.0.0.0 www.bonus-wild.run
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
+0.0.0.0 bonus88.xyz
+0.0.0.0 www.bonus88.xyz
 0.0.0.0 bonusrp-pay.click
 0.0.0.0 www.bonusrp-pay.click
 0.0.0.0 casino-bonus-utan-svensk-licens.com
@@ -640,6 +644,8 @@
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
+0.0.0.0 dating-italia.com
+0.0.0.0 www.dating-italia.com
 0.0.0.0 dating-mypage.store
 0.0.0.0 www.dating-mypage.store
 0.0.0.0 dating-pass.com
@@ -648,10 +654,6 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datinggirl11.online
 0.0.0.0 www.datinggirl11.online
-0.0.0.0 foryou-specialoffer-prize-congrats.top
-0.0.0.0 www.foryou-specialoffer-prize-congrats.top
-0.0.0.0 giveaway-prize-foryou-search.top
-0.0.0.0 www.giveaway-prize-foryou-search.top
 0.0.0.0 giveaway-real-prize-congrats.top
 0.0.0.0 www.giveaway-real-prize-congrats.top
 0.0.0.0 hakodate-wq.com
@@ -660,8 +662,6 @@
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 hotdating4you.online
 0.0.0.0 www.hotdating4you.online
-0.0.0.0 jandatersesat1047.shop
-0.0.0.0 www.jandatersesat1047.shop
 0.0.0.0 joint-bonus-auto.online
 0.0.0.0 www.joint-bonus-auto.online
 0.0.0.0 joint-bonus-connect.online
@@ -678,8 +678,8 @@
 0.0.0.0 www.maako-kosodate-diary.net
 0.0.0.0 onedate888.com
 0.0.0.0 www.onedate888.com
-0.0.0.0 online-dating-79195.bond
-0.0.0.0 www.online-dating-79195.bond
+0.0.0.0 online-dating-86599.bond
+0.0.0.0 www.online-dating-86599.bond
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 prize-claimer.site
@@ -696,8 +696,6 @@
 0.0.0.0 www.rtpjuragantogel88.life
 0.0.0.0 search-weekly-prize-giveaway.top
 0.0.0.0 www.search-weekly-prize-giveaway.top
-0.0.0.0 senior-dating-59431.bond
-0.0.0.0 www.senior-dating-59431.bond
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
 0.0.0.0 supplychangedate4.buzz
