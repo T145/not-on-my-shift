@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-09-13T12:15:01Z
+# Last update: 2024-09-14T12:14:52Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -357,6 +357,8 @@
 0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
 0.0.0.0 www.tubies.com
+0.0.0.0 twospoonsfleet.co.uk
+0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vanguardacademy-ng.com
@@ -606,16 +608,20 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
+0.0.0.0 asian-dating-23669.bond
+0.0.0.0 www.asian-dating-23669.bond
+0.0.0.0 asian-dating-53323.bond
+0.0.0.0 www.asian-dating-53323.bond
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-de-casino.net
 0.0.0.0 www.bonus-de-casino.net
+0.0.0.0 bonus-wild.run
+0.0.0.0 www.bonus-wild.run
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
 0.0.0.0 bonus88.xyz
 0.0.0.0 www.bonus88.xyz
-0.0.0.0 bonusrp-pay.click
-0.0.0.0 www.bonusrp-pay.click
 0.0.0.0 casino-bonus-utan-svensk-licens.com
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casinobonusdelisi-10.com
@@ -672,8 +678,8 @@
 0.0.0.0 www.maako-kosodate-diary.net
 0.0.0.0 onedate888.com
 0.0.0.0 www.onedate888.com
-0.0.0.0 online-dating-45819.bond
-0.0.0.0 www.online-dating-45819.bond
+0.0.0.0 online-dating-at-10.bond
+0.0.0.0 www.online-dating-at-10.bond
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 prize-claimer.site
@@ -690,8 +696,6 @@
 0.0.0.0 www.rtpjuragantogel88.life
 0.0.0.0 search-weekly-prize-giveaway.top
 0.0.0.0 www.search-weekly-prize-giveaway.top
-0.0.0.0 senior-dating-99846.bond
-0.0.0.0 www.senior-dating-99846.bond
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
 0.0.0.0 supplychangedate4.buzz
