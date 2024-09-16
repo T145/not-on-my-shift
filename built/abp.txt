@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-09-15T12:14:45Z
+! Last update: 2024-09-16T12:15:34Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -396,9 +396,9 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||2019releasedate2018.com^
-||adultdate18.com^
 ||best-lovelady.com^
 ||bonus-de-casino.net^
+||bonus-trade.shop^
 ||bonus1.at^
 ||bonus88.xyz^
 ||casino-bonus-utan-svensk-licens.com^
@@ -407,6 +407,7 @@
 ||chance-congrats-prize-draw.top^
 ||chance-prize-smart-instant.top^
 ||cname-blk2.com^
+||date-gabrielle.com^
 ||date-jason.com^
 ||date-reform.com^
 ||date2loveafilipina.com^
@@ -428,7 +429,6 @@
 ||lucky-prize-giveaway-congrats.top^
 ||maako-kosodate-diary.net^
 ||onedate888.com^
-||online-dating-sg-2.bond^
 ||online-dating.top^
 ||prize-claimer.site^
 ||prize-foryou-weekly-champion.top^
