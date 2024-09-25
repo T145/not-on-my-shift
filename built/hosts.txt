@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-09-24T12:14:40Z
+# Last update: 2024-09-25T12:15:18Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -335,12 +335,16 @@
 0.0.0.0 www.nqtxk.com
 0.0.0.0 parikhinfosolutions.in
 0.0.0.0 www.parikhinfosolutions.in
+0.0.0.0 redlog.cl
+0.0.0.0 www.redlog.cl
 0.0.0.0 robbreport.com.my
 0.0.0.0 www.robbreport.com.my
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 soundwavesprodjs.com
 0.0.0.0 www.soundwavesprodjs.com
+0.0.0.0 synoviz.com
+0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
 0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 teamder.org
@@ -355,8 +359,12 @@
 0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
+0.0.0.0 vanguardacademy-ng.com
+0.0.0.0 www.vanguardacademy-ng.com
 0.0.0.0 vladimirherzog.org
 0.0.0.0 www.vladimirherzog.org
+0.0.0.0 weboyal.com
+0.0.0.0 www.weboyal.com
 
 # === SCAMS ===
 # These filters block pages which are known to scam people for money or gift cards
@@ -598,6 +606,8 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
+0.0.0.0 adultdate18.com
+0.0.0.0 www.adultdate18.com
 0.0.0.0 artprize2024.beauty
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
@@ -660,8 +670,6 @@
 0.0.0.0 www.linkbonus33.pro
 0.0.0.0 lucky-prize-giveaway-congrats.top
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
-0.0.0.0 maako-kosodate-diary.net
-0.0.0.0 www.maako-kosodate-diary.net
 0.0.0.0 onedate888.com
 0.0.0.0 www.onedate888.com
 0.0.0.0 online-dating.top

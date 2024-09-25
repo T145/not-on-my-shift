@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-09-24T12:14:40Z
+# Last update: 2024-09-25T12:15:18Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -230,9 +230,11 @@ nectartrust.org.uk
 new.deso.cz
 nqtxk.com
 parikhinfosolutions.in
+redlog.cl
 robbreport.com.my
 sm-projekt.si
 soundwavesprodjs.com
+synoviz.com
 tacloban.gov.ph
 teamder.org
 thozhilvarthalatest.com
@@ -240,7 +242,9 @@ trashstation.com
 tubies.com
 twospoonsfleet.co.uk
 ultimatepreneur.com
+vanguardacademy-ng.com
 vladimirherzog.org
+weboyal.com
 
 # === SCAMS ===
 # These filters block pages which are known to scam people for money or gift cards
@@ -382,6 +386,7 @@ centent.steamplay.me
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 2019releasedate2018.com
+adultdate18.com
 artprize2024.beauty
 best-lovelady.com
 bonus-de-casino.net
@@ -413,7 +418,6 @@ jointbonus-bigsale.online
 jointbonus-llc.online
 linkbonus33.pro
 lucky-prize-giveaway-congrats.top
-maako-kosodate-diary.net
 onedate888.com
 online-dating.top
 prize-claimer.site

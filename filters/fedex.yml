@@ -29,9 +29,11 @@ domains:
 - new.deso.cz
 - nqtxk.com
 - parikhinfosolutions.in
+- redlog.cl
 - robbreport.com.my
 - sm-projekt.si
 - soundwavesprodjs.com
+- synoviz.com
 - tacloban.gov.ph
 - teamder.org
 - thozhilvarthalatest.com
@@ -39,7 +41,9 @@ domains:
 - tubies.com
 - twospoonsfleet.co.uk
 - ultimatepreneur.com
+- vanguardacademy-ng.com
 - vladimirherzog.org
+- weboyal.com
 fedex_suffixes:
 - app
 - fedex
@@ -125,7 +129,6 @@ ignored_domains:
 - pornvillla.com
 - psspine.org
 - publicidadorl.com
-- redlog.cl
 - rees.games
 - rishipes.co.nz
 - runyixs.com
@@ -139,7 +142,6 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
-- synoviz.com
 - testargames.cl
 - thaircy.redcross.or.th
 - thietkelq.com
@@ -147,10 +149,8 @@ ignored_domains:
 - topblackfridaydealz.com
 - tuyennvtb.com
 - update.fbsbx.com
-- vanguardacademy-ng.com
 - veljko.id
 - visotka.in
-- weboyal.com
 - wordpress.mrcentertainment.com
 - wowfollowers.com
 - wp.up118.cn
