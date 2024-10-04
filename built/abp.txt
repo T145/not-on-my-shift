@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-10-03T12:15:13Z
+! Last update: 2024-10-04T12:15:11Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -214,12 +214,12 @@
 ||ailnoir.com^
 ||amzstudy.com^
 ||blog.sidmach.com^
-||cancervants.org^
 ||castllypay.com^
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||galerihana.com^
@@ -394,15 +394,17 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||2019releasedate2018.com^
-||adultdate18.com^
 ||appdatehuf7.top^
 ||artprize2024.beauty^
 ||best-lovelady.com^
 ||bonus-de-casino.net^
 ||bonus1.at^
 ||bonus88.xyz^
+||casino-bonus-utan-svensk-licens.com^
 ||casinobonusdelisi-10.com^
+||champion-instantwin-prize-weekly.top^
 ||chance-congrats-prize-draw.top^
+||chance-prize-smart-instant.top^
 ||cname-blk2.com^
 ||date-gabrielle.com^
 ||date-jason.com^
@@ -413,6 +415,7 @@
 ||dating-pass.com^
 ||dating24hour.com^
 ||datinggirl11.online^
+||foryou-specialoffer-prize-congrats.top^
 ||giveaway-real-prize-congrats.top^
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
@@ -426,18 +429,20 @@
 ||onedate888.com^
 ||online-dating.top^
 ||prize-claimer.site^
-||prize-foryou-weekly-champion.top^
+||prize-giving-real-win.top^
 ||prize-nights.com^
+||prizes-world.one^
 ||rtpjuragantogel88.life^
 ||search-weekly-prize-giveaway.top^
 ||sodateru-dougu.shop^
 ||stardate1440.com^
 ||supplychangedate4.buzz^
 ||up-to-date-online.com^
-||validate-blakely.com^
+||uptodate-online.com^
 ||validate-order.info^
 ||votre-bonus-exclusif.com^
 ||wdate8.xyz^
+||yuttarikosodate55.net^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
