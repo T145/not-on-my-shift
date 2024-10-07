@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-10-06T12:14:53Z
+# Last update: 2024-10-07T12:15:23Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,10 +298,14 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
+0.0.0.0 galerihana.com
+0.0.0.0 www.galerihana.com
 0.0.0.0 giupich.org
 0.0.0.0 www.giupich.org
 0.0.0.0 godynamo.co
@@ -602,6 +606,8 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
+0.0.0.0 adultdate18.com
+0.0.0.0 www.adultdate18.com
 0.0.0.0 appdatehuf7.top
 0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
@@ -636,8 +642,8 @@
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
-0.0.0.0 datenschutz24.net
-0.0.0.0 www.datenschutz24.net
+0.0.0.0 dating-mypage.store
+0.0.0.0 www.dating-mypage.store
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
