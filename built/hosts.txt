@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-10-07T12:15:23Z
+# Last update: 2024-10-08T12:15:15Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -618,8 +618,6 @@
 0.0.0.0 www.bonus-de-casino.net
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
-0.0.0.0 bonus88.xyz
-0.0.0.0 www.bonus88.xyz
 0.0.0.0 casino-bonus-utan-svensk-licens.com
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casinobonusdelisi-10.com
@@ -632,8 +630,6 @@
 0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
-0.0.0.0 date-gabrielle.com
-0.0.0.0 www.date-gabrielle.com
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-reform.com
@@ -672,16 +668,12 @@
 0.0.0.0 www.linkbonus33.pro
 0.0.0.0 lucky-prize-giveaway-congrats.top
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
-0.0.0.0 maako-kosodate-diary.net
-0.0.0.0 www.maako-kosodate-diary.net
 0.0.0.0 onedate888.com
 0.0.0.0 www.onedate888.com
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
-0.0.0.0 prize-foryou-weekly-champion.top
-0.0.0.0 www.prize-foryou-weekly-champion.top
 0.0.0.0 prize-giving-real-win.top
 0.0.0.0 www.prize-giving-real-win.top
 0.0.0.0 prize-nights.com
@@ -702,14 +694,10 @@
 0.0.0.0 www.uptodate-online.com
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
-0.0.0.0 validate-order.info
-0.0.0.0 www.validate-order.info
 0.0.0.0 votre-bonus-exclusif.com
 0.0.0.0 www.votre-bonus-exclusif.com
 0.0.0.0 wdate8.xyz
 0.0.0.0 www.wdate8.xyz
-0.0.0.0 yuttarikosodate55.net
-0.0.0.0 www.yuttarikosodate55.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
