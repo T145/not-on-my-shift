@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-10-10T12:15:38Z
+# Last update: 2024-10-11T12:15:13Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,10 +298,10 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
+0.0.0.0 galaxyfunbowl.gr
+0.0.0.0 www.galaxyfunbowl.gr
 0.0.0.0 galerihana.com
 0.0.0.0 www.galerihana.com
 0.0.0.0 giupich.org
@@ -604,12 +604,14 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
-0.0.0.0 appdatehuf7.top
-0.0.0.0 www.appdatehuf7.top
+0.0.0.0 artprize2024.beauty
+0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-de-casino.net
 0.0.0.0 www.bonus-de-casino.net
+0.0.0.0 bonus-zknation.app
+0.0.0.0 www.bonus-zknation.app
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
 0.0.0.0 bonus88.xyz
@@ -618,14 +620,10 @@
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casinobonusdelisi-10.com
 0.0.0.0 www.casinobonusdelisi-10.com
-0.0.0.0 champion-instantwin-prize-weekly.top
-0.0.0.0 www.champion-instantwin-prize-weekly.top
 0.0.0.0 chance-congrats-prize-draw.top
 0.0.0.0 www.chance-congrats-prize-draw.top
 0.0.0.0 chance-prize-smart-instant.top
 0.0.0.0 www.chance-prize-smart-instant.top
-0.0.0.0 cname-blk2.com
-0.0.0.0 www.cname-blk2.com
 0.0.0.0 date-gabrielle.com
 0.0.0.0 www.date-gabrielle.com
 0.0.0.0 date-jason.com
@@ -652,8 +650,6 @@
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 hotdating4you.online
-0.0.0.0 www.hotdating4you.online
 0.0.0.0 joint-bonus-auto.online
 0.0.0.0 www.joint-bonus-auto.online
 0.0.0.0 joint-bonus-connect.online
@@ -662,8 +658,6 @@
 0.0.0.0 www.jointbonus-bigsale.online
 0.0.0.0 jointbonus-llc.online
 0.0.0.0 www.jointbonus-llc.online
-0.0.0.0 linkbonus33.pro
-0.0.0.0 www.linkbonus33.pro
 0.0.0.0 lucky-prize-giveaway-congrats.top
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
@@ -680,8 +674,6 @@
 0.0.0.0 www.prize-giving-real-win.top
 0.0.0.0 prize-nights.com
 0.0.0.0 www.prize-nights.com
-0.0.0.0 prizes-world.one
-0.0.0.0 www.prizes-world.one
 0.0.0.0 rtpjuragantogel88.life
 0.0.0.0 www.rtpjuragantogel88.life
 0.0.0.0 search-weekly-prize-giveaway.top
@@ -694,6 +686,8 @@
 0.0.0.0 www.up-to-date-online.com
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
+0.0.0.0 validate-order.info
+0.0.0.0 www.validate-order.info
 0.0.0.0 votre-bonus-exclusif.com
 0.0.0.0 www.votre-bonus-exclusif.com
 0.0.0.0 wdate8.xyz
