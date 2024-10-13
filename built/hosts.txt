@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-10-12T12:15:00Z
+# Last update: 2024-10-13T12:14:56Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,8 +298,6 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -618,14 +616,14 @@
 0.0.0.0 www.azinobonus777.top
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
-0.0.0.0 bonus-de-casino.net
-0.0.0.0 www.bonus-de-casino.net
 0.0.0.0 bonus-zknation.app
 0.0.0.0 www.bonus-zknation.app
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
 0.0.0.0 bonus88.xyz
 0.0.0.0 www.bonus88.xyz
+0.0.0.0 candidate-dkbpm.xyz
+0.0.0.0 www.candidate-dkbpm.xyz
 0.0.0.0 candidate-kxgasl.xyz
 0.0.0.0 www.candidate-kxgasl.xyz
 0.0.0.0 casino-bonus-utan-svensk-licens.com
@@ -636,8 +634,6 @@
 0.0.0.0 www.champion-instantwin-prize-weekly.top
 0.0.0.0 chance-congrats-prize-draw.top
 0.0.0.0 www.chance-congrats-prize-draw.top
-0.0.0.0 chance-prize-smart-instant.top
-0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
 0.0.0.0 date-gabrielle.com
@@ -662,6 +658,8 @@
 0.0.0.0 www.foryou-specialoffer-prize-congrats.top
 0.0.0.0 giveaway-real-prize-congrats.top
 0.0.0.0 www.giveaway-real-prize-congrats.top
+0.0.0.0 gizbokazinobonus1.xyz
+0.0.0.0 www.gizbokazinobonus1.xyz
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
@@ -700,6 +698,8 @@
 0.0.0.0 www.search-weekly-prize-giveaway.top
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
+0.0.0.0 supplychangedate4.buzz
+0.0.0.0 www.supplychangedate4.buzz
 0.0.0.0 up-to-date-online.com
 0.0.0.0 www.up-to-date-online.com
 0.0.0.0 uptodate-online.com
