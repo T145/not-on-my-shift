@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-10-15T12:15:19Z
+# Last update: 2024-10-16T12:15:09Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -608,8 +608,8 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
-0.0.0.0 adultdate18.com
-0.0.0.0 www.adultdate18.com
+0.0.0.0 appdatehuf7.top
+0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 azinobonus777.top
@@ -618,8 +618,6 @@
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-de-casino.net
 0.0.0.0 www.bonus-de-casino.net
-0.0.0.0 bonus-zknation.app
-0.0.0.0 www.bonus-zknation.app
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
 0.0.0.0 bonus88.xyz
@@ -654,6 +652,8 @@
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
+0.0.0.0 dating-mypage.store
+0.0.0.0 www.dating-mypage.store
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
@@ -664,14 +664,10 @@
 0.0.0.0 www.foryou-specialoffer-prize-congrats.top
 0.0.0.0 giveaway-real-prize-congrats.top
 0.0.0.0 www.giveaway-real-prize-congrats.top
-0.0.0.0 gizbokazinobonus1.xyz
-0.0.0.0 www.gizbokazinobonus1.xyz
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 hotdating4you.online
-0.0.0.0 www.hotdating4you.online
 0.0.0.0 joint-bonus-auto.online
 0.0.0.0 www.joint-bonus-auto.online
 0.0.0.0 joint-bonus-connect.online
@@ -700,8 +696,6 @@
 0.0.0.0 www.prize-nights.com
 0.0.0.0 prizes-world.one
 0.0.0.0 www.prizes-world.one
-0.0.0.0 receberbonuss15.online
-0.0.0.0 www.receberbonuss15.online
 0.0.0.0 search-weekly-prize-giveaway.top
 0.0.0.0 www.search-weekly-prize-giveaway.top
 0.0.0.0 stardate1440.com
