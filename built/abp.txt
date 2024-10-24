@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-10-23T12:15:23Z
+! Last update: 2024-10-24T12:15:41Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -394,14 +394,15 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||2019releasedate2018.com^
+||adultdate18.com^
 ||artprize2024.beauty^
 ||best-lovelady.com^
 ||bonus-de-casino.net^
+||bonus-tikt0k.shop^
 ||bonus-zknation.app^
 ||bonus1.at^
 ||bonus100cuaca889.digital^
-||bonus88.xyz^
-||candidate-dkbpm.xyz^
+||bonusverensiteler2024.click^
 ||candidate-kxgasl.xyz^
 ||candidate-kxwvh.xyz^
 ||candidate-uqhox.xyz^
@@ -415,10 +416,12 @@
 ||date-reform.com^
 ||date2loveafilipina.com^
 ||date37.com^
+||dates19980u4.pro^
 ||dating-mypage.store^
 ||dating-pass.com^
 ||dating24hour.com^
 ||datinggirl11.online^
+||denemebonusu-2024.click^
 ||foryou-specialoffer-prize-congrats.top^
 ||giveaway-real-prize-congrats.top^
 ||hakodate-wq.com^
@@ -428,6 +431,7 @@
 ||joint-bonus-connect.online^
 ||jointbonus-bigsale.online^
 ||jointbonus-llc.online^
+||linkbonus33.pro^
 ||lucky-prize-giveaway-congrats.top^
 ||maako-kosodate-diary.net^
 ||onedate888.com^
@@ -437,6 +441,7 @@
 ||prize-giving-real-win.top^
 ||prize-nights.com^
 ||prizes-world.one^
+||search-weekly-prize-giveaway.top^
 ||stardate1440.com^
 ||supplychangedate4.buzz^
 ||up-to-date-online.com^
