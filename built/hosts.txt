@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-10-26T12:15:40Z
+# Last update: 2024-10-27T12:14:58Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -612,12 +612,16 @@
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-de-casino.net
 0.0.0.0 www.bonus-de-casino.net
+0.0.0.0 bonus-tikt0k.shop
+0.0.0.0 www.bonus-tikt0k.shop
 0.0.0.0 bonus-zknation.app
 0.0.0.0 www.bonus-zknation.app
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
 0.0.0.0 bonus100cuaca889.digital
 0.0.0.0 www.bonus100cuaca889.digital
+0.0.0.0 bonus168.xyz
+0.0.0.0 www.bonus168.xyz
 0.0.0.0 bonus88.xyz
 0.0.0.0 www.bonus88.xyz
 0.0.0.0 bonusverensiteler2024.click
@@ -662,6 +666,8 @@
 0.0.0.0 www.datinggirl11.online
 0.0.0.0 denemebonusu-2024.click
 0.0.0.0 www.denemebonusu-2024.click
+0.0.0.0 expdate-today.xyz
+0.0.0.0 www.expdate-today.xyz
 0.0.0.0 foryou-specialoffer-prize-congrats.top
 0.0.0.0 www.foryou-specialoffer-prize-congrats.top
 0.0.0.0 giveaway-real-prize-congrats.top
