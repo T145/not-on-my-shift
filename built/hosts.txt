@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-10-28T12:15:49Z
+# Last update: 2024-10-29T12:15:40Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -331,8 +331,6 @@
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 new.deso.cz
-0.0.0.0 nqtxk.com
-0.0.0.0 www.nqtxk.com
 0.0.0.0 parikhinfosolutions.in
 0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
@@ -606,8 +604,6 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
-0.0.0.0 adultdate18.com
-0.0.0.0 www.adultdate18.com
 0.0.0.0 appdatehuf7.top
 0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
@@ -628,20 +624,14 @@
 0.0.0.0 www.bonus88.xyz
 0.0.0.0 bonusverensiteler2024.click
 0.0.0.0 www.bonusverensiteler2024.click
-0.0.0.0 candidate-dkbpm.xyz
-0.0.0.0 www.candidate-dkbpm.xyz
 0.0.0.0 candidate-kxgasl.xyz
 0.0.0.0 www.candidate-kxgasl.xyz
 0.0.0.0 candidate-kxwvh.xyz
 0.0.0.0 www.candidate-kxwvh.xyz
-0.0.0.0 candidate-uqhox.xyz
-0.0.0.0 www.candidate-uqhox.xyz
 0.0.0.0 casino-bonus-utan-svensk-licens.com
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casinobonusdelisi-10.com
 0.0.0.0 www.casinobonusdelisi-10.com
-0.0.0.0 champion-instantwin-prize-weekly.top
-0.0.0.0 www.champion-instantwin-prize-weekly.top
 0.0.0.0 chance-congrats-prize-draw.top
 0.0.0.0 www.chance-congrats-prize-draw.top
 0.0.0.0 chance-prize-smart-instant.top
@@ -668,8 +658,6 @@
 0.0.0.0 www.datinggirl11.online
 0.0.0.0 denemebonusu-2024.click
 0.0.0.0 www.denemebonusu-2024.click
-0.0.0.0 expdate-today.xyz
-0.0.0.0 www.expdate-today.xyz
 0.0.0.0 foryou-specialoffer-prize-congrats.top
 0.0.0.0 www.foryou-specialoffer-prize-congrats.top
 0.0.0.0 giveaway-real-prize-congrats.top
@@ -712,12 +700,12 @@
 0.0.0.0 www.search-weekly-prize-giveaway.top
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
+0.0.0.0 supplychangedate4.buzz
+0.0.0.0 www.supplychangedate4.buzz
 0.0.0.0 up-to-date-online.com
 0.0.0.0 www.up-to-date-online.com
 0.0.0.0 uptodate-online.com
 0.0.0.0 www.uptodate-online.com
-0.0.0.0 validate-blakely.com
-0.0.0.0 www.validate-blakely.com
 0.0.0.0 validate-order.info
 0.0.0.0 www.validate-order.info
 0.0.0.0 votre-bonus-exclusif.com
