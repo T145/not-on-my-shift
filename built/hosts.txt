@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-10-29T12:15:40Z
+# Last update: 2024-10-30T12:15:39Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -331,6 +331,8 @@
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 new.deso.cz
+0.0.0.0 nqtxk.com
+0.0.0.0 www.nqtxk.com
 0.0.0.0 parikhinfosolutions.in
 0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
@@ -628,10 +630,14 @@
 0.0.0.0 www.candidate-kxgasl.xyz
 0.0.0.0 candidate-kxwvh.xyz
 0.0.0.0 www.candidate-kxwvh.xyz
+0.0.0.0 candidate-uqhox.xyz
+0.0.0.0 www.candidate-uqhox.xyz
 0.0.0.0 casino-bonus-utan-svensk-licens.com
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casinobonusdelisi-10.com
 0.0.0.0 www.casinobonusdelisi-10.com
+0.0.0.0 champion-instantwin-prize-weekly.top
+0.0.0.0 www.champion-instantwin-prize-weekly.top
 0.0.0.0 chance-congrats-prize-draw.top
 0.0.0.0 www.chance-congrats-prize-draw.top
 0.0.0.0 chance-prize-smart-instant.top
@@ -706,6 +712,8 @@
 0.0.0.0 www.up-to-date-online.com
 0.0.0.0 uptodate-online.com
 0.0.0.0 www.uptodate-online.com
+0.0.0.0 validate-blakely.com
+0.0.0.0 www.validate-blakely.com
 0.0.0.0 validate-order.info
 0.0.0.0 www.validate-order.info
 0.0.0.0 votre-bonus-exclusif.com
