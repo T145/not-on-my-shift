@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-11-01T12:15:33Z
+# Last update: 2024-11-02T12:14:55Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -614,6 +614,8 @@
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-de-casino.net
 0.0.0.0 www.bonus-de-casino.net
+0.0.0.0 bonus-tikt0k.shop
+0.0.0.0 www.bonus-tikt0k.shop
 0.0.0.0 bonus-zknation.app
 0.0.0.0 www.bonus-zknation.app
 0.0.0.0 bonus1.at
@@ -634,8 +636,6 @@
 0.0.0.0 www.candidate-kxwvh.xyz
 0.0.0.0 candidate-uqhox.xyz
 0.0.0.0 www.candidate-uqhox.xyz
-0.0.0.0 casino-bonus-utan-svensk-licens.com
-0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casinobonusdelisi-10.com
 0.0.0.0 www.casinobonusdelisi-10.com
 0.0.0.0 champion-instantwin-prize-weekly.top
@@ -656,6 +656,8 @@
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
+0.0.0.0 dating-india.xyz
+0.0.0.0 www.dating-india.xyz
 0.0.0.0 dating-mypage.store
 0.0.0.0 www.dating-mypage.store
 0.0.0.0 dating-pass.com
@@ -684,8 +686,6 @@
 0.0.0.0 www.jointbonus-bigsale.online
 0.0.0.0 jointbonus-llc.online
 0.0.0.0 www.jointbonus-llc.online
-0.0.0.0 linkbonus33.pro
-0.0.0.0 www.linkbonus33.pro
 0.0.0.0 lucky-prize-giveaway-congrats.top
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
@@ -712,10 +712,10 @@
 0.0.0.0 www.supplychangedate4.buzz
 0.0.0.0 up-to-date-online.com
 0.0.0.0 www.up-to-date-online.com
+0.0.0.0 uptodate-online.com
+0.0.0.0 www.uptodate-online.com
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
-0.0.0.0 validate-order.info
-0.0.0.0 www.validate-order.info
 0.0.0.0 votre-bonus-exclusif.com
 0.0.0.0 www.votre-bonus-exclusif.com
 0.0.0.0 wdate8.xyz
