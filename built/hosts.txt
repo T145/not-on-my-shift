@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-11-04T12:15:48Z
+# Last update: 2024-11-05T12:15:29Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -611,6 +611,8 @@
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
+0.0.0.0 bonus-de-casino.net
+0.0.0.0 www.bonus-de-casino.net
 0.0.0.0 bonus-tikt0k.shop
 0.0.0.0 www.bonus-tikt0k.shop
 0.0.0.0 bonus-zknation.app
@@ -629,8 +631,6 @@
 0.0.0.0 www.candidate-kxgasl.xyz
 0.0.0.0 candidate-kxwvh.xyz
 0.0.0.0 www.candidate-kxwvh.xyz
-0.0.0.0 candidate-uqhox.xyz
-0.0.0.0 www.candidate-uqhox.xyz
 0.0.0.0 casino-bonus-utan-svensk-licens.com
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 champion-instantwin-prize-weekly.top
@@ -641,12 +641,8 @@
 0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
-0.0.0.0 date-gabrielle.com
-0.0.0.0 www.date-gabrielle.com
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
-0.0.0.0 date-reform.com
-0.0.0.0 www.date-reform.com
 0.0.0.0 date2loveafilipina.com
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
@@ -663,6 +659,8 @@
 0.0.0.0 www.denemebonusu-2024.click
 0.0.0.0 foryou-specialoffer-prize-congrats.top
 0.0.0.0 www.foryou-specialoffer-prize-congrats.top
+0.0.0.0 giveaway-real-prize-congrats.top
+0.0.0.0 www.giveaway-real-prize-congrats.top
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
