@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-11-05T12:15:29Z
+# Last update: 2024-11-06T12:15:42Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -328,8 +328,6 @@
 0.0.0.0 www.mucc.com.au
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
-0.0.0.0 nqtxk.com
-0.0.0.0 www.nqtxk.com
 0.0.0.0 parikhinfosolutions.in
 0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
@@ -603,8 +601,6 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
-0.0.0.0 adultdate18.com
-0.0.0.0 www.adultdate18.com
 0.0.0.0 appdatehuf7.top
 0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
@@ -631,6 +627,8 @@
 0.0.0.0 www.candidate-kxgasl.xyz
 0.0.0.0 candidate-kxwvh.xyz
 0.0.0.0 www.candidate-kxwvh.xyz
+0.0.0.0 candidate-uqhox.xyz
+0.0.0.0 www.candidate-uqhox.xyz
 0.0.0.0 casino-bonus-utan-svensk-licens.com
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 champion-instantwin-prize-weekly.top
@@ -641,6 +639,8 @@
 0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
+0.0.0.0 date-gabrielle.com
+0.0.0.0 www.date-gabrielle.com
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date2loveafilipina.com
@@ -659,6 +659,8 @@
 0.0.0.0 www.denemebonusu-2024.click
 0.0.0.0 foryou-specialoffer-prize-congrats.top
 0.0.0.0 www.foryou-specialoffer-prize-congrats.top
+0.0.0.0 giveaway-prize-foryou-search.top
+0.0.0.0 www.giveaway-prize-foryou-search.top
 0.0.0.0 giveaway-real-prize-congrats.top
 0.0.0.0 www.giveaway-real-prize-congrats.top
 0.0.0.0 hakodate-wq.com
