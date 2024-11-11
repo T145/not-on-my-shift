@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-11-10T12:15:03Z
+# Last update: 2024-11-11T12:15:28Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -211,7 +211,6 @@ clickedgesolutions.com
 clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
-dexil.ru
 fraternitykerala.org
 galaxyfunbowl.gr
 galerihana.com
@@ -386,6 +385,7 @@ centent.steamplay.me
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 2019releasedate2018.com
 adultdate18.com
+appdatehuf7.top
 artprize2024.beauty
 best-lovelady.com
 bonus-de-casino.net
@@ -395,13 +395,16 @@ bonus1.at
 bonus100cuaca889.digital
 bonus88.xyz
 bonusverensiteler2024.click
+candidate-dkbpm.xyz
 candidate-kxgasl.xyz
 candidate-kxwvh.xyz
 candidate-uqhox.xyz
 casino-bonus-utan-svensk-licens.com
+champion-instantwin-prize-weekly.top
 chance-congrats-prize-draw.top
 chance-prize-smart-instant.top
 cname-blk2.com
+date-gabrielle.com
 date-jason.com
 date2loveafilipina.com
 date37.com
@@ -410,6 +413,8 @@ dating-pass.com
 dating24hour.com
 datinggirl11.online
 denemebonusu-2024.click
+foryou-specialoffer-prize-congrats.top
+giveaway-prize-foryou-search.top
 giveaway-real-prize-congrats.top
 hakodate-wq.com
 hakodatemoto7.com
@@ -418,9 +423,14 @@ joint-bonus-auto.online
 joint-bonus-connect.online
 jointbonus-bigsale.online
 jointbonus-llc.online
+linkbonus33.pro
 lucky-prize-giveaway-congrats.top
 maako-kosodate-diary.net
+onedate888.com
 online-dating.top
+onlinedating6.xyz
+onlinedatings1.xyz
+pandateam8.xyz
 prize-claimer.site
 prize-foryou-weekly-champion.top
 prize-giving-real-win.top
@@ -432,8 +442,10 @@ supplychangedate4.buzz
 up-to-date-online.com
 uptodate-online.com
 validate-blakely.com
+validate-order.info
 votre-bonus-exclusif.com
 wdate8.xyz
+yuttarikosodate55.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 1mono.biz
