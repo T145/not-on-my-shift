@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-11-11T12:15:28Z
+! Last update: 2024-11-12T12:15:27Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -220,6 +220,7 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||galerihana.com^
@@ -393,8 +394,6 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||2019releasedate2018.com^
-||adultdate18.com^
-||appdatehuf7.top^
 ||artprize2024.beauty^
 ||best-lovelady.com^
 ||bonus-de-casino.net^
@@ -413,6 +412,7 @@
 ||chance-congrats-prize-draw.top^
 ||chance-prize-smart-instant.top^
 ||cname-blk2.com^
+||co-date-site.info^
 ||date-gabrielle.com^
 ||date-jason.com^
 ||date2loveafilipina.com^
@@ -435,10 +435,7 @@
 ||linkbonus33.pro^
 ||lucky-prize-giveaway-congrats.top^
 ||maako-kosodate-diary.net^
-||onedate888.com^
 ||online-dating.top^
-||onlinedating6.xyz^
-||onlinedatings1.xyz^
 ||pandateam8.xyz^
 ||prize-claimer.site^
 ||prize-foryou-weekly-champion.top^
@@ -448,10 +445,7 @@
 ||search-weekly-prize-giveaway.top^
 ||stardate1440.com^
 ||supplychangedate4.buzz^
-||up-to-date-online.com^
-||uptodate-online.com^
 ||validate-blakely.com^
-||validate-order.info^
 ||votre-bonus-exclusif.com^
 ||wdate8.xyz^
 ||yuttarikosodate55.net^

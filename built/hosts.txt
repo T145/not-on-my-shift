@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-11-11T12:15:28Z
+# Last update: 2024-11-12T12:15:27Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,6 +298,8 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -603,10 +605,6 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
-0.0.0.0 adultdate18.com
-0.0.0.0 www.adultdate18.com
-0.0.0.0 appdatehuf7.top
-0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
@@ -643,6 +641,8 @@
 0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
+0.0.0.0 co-date-site.info
+0.0.0.0 www.co-date-site.info
 0.0.0.0 date-gabrielle.com
 0.0.0.0 www.date-gabrielle.com
 0.0.0.0 date-jason.com
@@ -687,14 +687,8 @@
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
 0.0.0.0 www.maako-kosodate-diary.net
-0.0.0.0 onedate888.com
-0.0.0.0 www.onedate888.com
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
-0.0.0.0 onlinedating6.xyz
-0.0.0.0 www.onlinedating6.xyz
-0.0.0.0 onlinedatings1.xyz
-0.0.0.0 www.onlinedatings1.xyz
 0.0.0.0 pandateam8.xyz
 0.0.0.0 www.pandateam8.xyz
 0.0.0.0 prize-claimer.site
@@ -713,14 +707,8 @@
 0.0.0.0 www.stardate1440.com
 0.0.0.0 supplychangedate4.buzz
 0.0.0.0 www.supplychangedate4.buzz
-0.0.0.0 up-to-date-online.com
-0.0.0.0 www.up-to-date-online.com
-0.0.0.0 uptodate-online.com
-0.0.0.0 www.uptodate-online.com
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
-0.0.0.0 validate-order.info
-0.0.0.0 www.validate-order.info
 0.0.0.0 votre-bonus-exclusif.com
 0.0.0.0 www.votre-bonus-exclusif.com
 0.0.0.0 wdate8.xyz
