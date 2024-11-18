@@ -42,6 +42,7 @@ domains:
 - ultimatepreneur.com
 - vanguardacademy-ng.com
 - vladimirherzog.org
+- weboyal.com
 - wsw.cool
 fedex_suffixes:
 - app
@@ -151,7 +152,6 @@ ignored_domains:
 - update.fbsbx.com
 - veljko.id
 - visotka.in
-- weboyal.com
 - wordpress.mrcentertainment.com
 - wowfollowers.com
 - wp.up118.cn
