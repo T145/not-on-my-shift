@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-11-18T12:15:36Z
+# Last update: 2024-11-19T12:15:29Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -324,6 +324,8 @@
 0.0.0.0 www.magicboximportados.com.br
 0.0.0.0 mistc.es
 0.0.0.0 www.mistc.es
+0.0.0.0 mouwz.nl
+0.0.0.0 www.mouwz.nl
 0.0.0.0 mucc.com.au
 0.0.0.0 www.mucc.com.au
 0.0.0.0 myphamnganbinh.com
@@ -627,8 +629,6 @@
 0.0.0.0 www.bonusverensiteler2024.click
 0.0.0.0 candidate-dkbpm.xyz
 0.0.0.0 www.candidate-dkbpm.xyz
-0.0.0.0 candidate-kxgasl.xyz
-0.0.0.0 www.candidate-kxgasl.xyz
 0.0.0.0 candidate-kxwvh.xyz
 0.0.0.0 www.candidate-kxwvh.xyz
 0.0.0.0 candidate-uqhox.xyz
@@ -707,8 +707,6 @@
 0.0.0.0 www.prizes-world.one
 0.0.0.0 search-weekly-prize-giveaway.top
 0.0.0.0 www.search-weekly-prize-giveaway.top
-0.0.0.0 senior-dating1.xyz
-0.0.0.0 www.senior-dating1.xyz
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
 0.0.0.0 supplychangedate4.buzz
