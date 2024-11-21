@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-11-20T12:15:32Z
+# Last update: 2024-11-21T12:15:37Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -211,7 +211,6 @@ clickedgesolutions.com
 clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
-dexil.ru
 fraternitykerala.org
 galaxyfunbowl.gr
 galerihana.com
@@ -387,23 +386,20 @@ centent.steamplay.me
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 2019releasedate2018.com
-adultdate18.com
 appdatehuf7.top
 artprize2024.beauty
 best-lovelady.com
 bonus-de-casino.net
 bonus-tikt0k.shop
-bonus-zknation.app
 bonus1.at
 bonus100cuaca889.digital
-bonus5000.net
 bonus88.xyz
 bonusverensiteler2024.click
+candidate-bvnnt.xyz
+candidate-cldj.xyz
 candidate-dkbpm.xyz
-candidate-kxgasl.xyz
 candidate-kxwvh.xyz
 candidate-uqhox.xyz
-casino-bonus-utan-svensk-licens.com
 champion-instantwin-prize-weekly.top
 chance-congrats-prize-draw.top
 chance-prize-smart-instant.top
@@ -412,7 +408,6 @@ co-date-site.info
 date-gabrielle.com
 date-jason.com
 date-numbers.info
-date101.cfd
 date2loveafilipina.com
 date37.com
 dating-mypage.store
@@ -429,21 +424,18 @@ joint-bonus-auto.online
 joint-bonus-connect.online
 jointbonus-bigsale.online
 jointbonus-llc.online
+linkbonus33.pro
 lucky-prize-giveaway-congrats.top
-maako-kosodate-diary.net
-onedate888.com
 online-dating.top
 pandateam8.xyz
 prize-claimer.site
-prize-foryou-weekly-champion.top
 prize-giving-real-win.top
 prize-nights.com
 prizes-world.one
 search-weekly-prize-giveaway.top
 stardate1440.com
-up-to-date-online.com
+supplychangedate4.buzz
 uptodate-online.com
-validate-blakely.com
 validate-order.info
 votre-bonus-exclusif.com
 wdate8.xyz
