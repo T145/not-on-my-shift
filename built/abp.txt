@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-11-28T12:15:32Z
+! Last update: 2024-11-29T12:15:38Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -219,7 +219,6 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
-||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||galerihana.com^
@@ -232,6 +231,7 @@
 ||machupicchutraveling.com^
 ||magicboximportados.com.br^
 ||mistc.es^
+||mouwz.nl^
 ||mucc.com.au^
 ||myphamnganbinh.com^
 ||nectartrust.org.uk^
@@ -402,9 +402,8 @@
 ||bonus-zknation.app^
 ||bonus1.at^
 ||bonus100cuaca889.digital^
-||bonus25.net^
-||bonus68.net^
 ||bonus88.xyz^
+||bonushkjepe88.info^
 ||bonusverensiteler2024.click^
 ||candidate-bvnnt.xyz^
 ||candidate-cldj.xyz^
@@ -441,6 +440,7 @@
 ||maako-kosodate-diary.net^
 ||onedate888.com^
 ||online-dating.top^
+||online-dating23.xyz^
 ||pandateam8.xyz^
 ||prize-claimer.site^
 ||prize-foryou-weekly-champion.top^
@@ -449,6 +449,7 @@
 ||prizes-world.one^
 ||search-weekly-prize-giveaway.top^
 ||stardate1440.com^
+||supplychangedate4.buzz^
 ||up-to-date-online.com^
 ||uptodate-online.com^
 ||validate-blakely.com^
