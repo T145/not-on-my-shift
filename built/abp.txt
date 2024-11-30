@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-11-29T12:15:38Z
+! Last update: 2024-11-30T12:15:09Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -219,6 +219,7 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||galerihana.com^
@@ -235,7 +236,6 @@
 ||mucc.com.au^
 ||myphamnganbinh.com^
 ||nectartrust.org.uk^
-||nqtxk.com^
 ||parikhinfosolutions.in^
 ||redlog.cl^
 ||robbreport.com.my^
@@ -394,6 +394,7 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||2019releasedate2018.com^
+||adultdate18.com^
 ||appdatehuf7.top^
 ||artprize2024.beauty^
 ||best-lovelady.com^
@@ -408,10 +409,19 @@
 ||candidate-bvnnt.xyz^
 ||candidate-cldj.xyz^
 ||candidate-dkbpm.xyz^
-||candidate-kxgasl.xyz^
 ||candidate-kxwvh.xyz^
 ||candidate-uqhox.xyz^
 ||casino-bonus-utan-svensk-licens.com^
+||casino-x-bonus-official6189.buzz^
+||casino-x-bonus-qz5692.win^
+||casino-x-bonus-site1014.buzz^
+||casino-x-bonus-site7917.buzz^
+||casino-x-bonus-top9632.buzz^
+||casino-x-official-bonus999291.win^
+||casino-x-site-bonus2729.buzz^
+||casinox-bonus1702.buzz^
+||casinox-bonus2937.buzz^
+||casinox-bonus4752.win^
 ||champion-instantwin-prize-weekly.top^
 ||chance-congrats-prize-draw.top^
 ||chance-prize-smart-instant.top^
@@ -424,9 +434,11 @@
 ||date37.com^
 ||dating-mypage.store^
 ||dating-pass.com^
+||dating-sex.xyz^
 ||dating24hour.com^
 ||datinggirl11.online^
 ||denemebonusu-2024.click^
+||gama-casino-bonus757.buzz^
 ||giveaway-prize-foryou-search.top^
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
@@ -441,15 +453,17 @@
 ||onedate888.com^
 ||online-dating.top^
 ||online-dating23.xyz^
+||online-dating33.xyz^
 ||pandateam8.xyz^
+||pin-up-bonus-vip.net^
+||pinup-bonus-fast888.net^
+||pinup-bonus-slot.net^
 ||prize-claimer.site^
-||prize-foryou-weekly-champion.top^
 ||prize-giving-real-win.top^
 ||prize-nights.com^
 ||prizes-world.one^
 ||search-weekly-prize-giveaway.top^
 ||stardate1440.com^
-||supplychangedate4.buzz^
 ||up-to-date-online.com^
 ||uptodate-online.com^
 ||validate-blakely.com^
