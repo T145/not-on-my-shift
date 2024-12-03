@@ -1,16 +1,13 @@
 # Don't bother manually updating this file.
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
-- ailnoir.com
 - blog.sidmach.com
-- cancervants.org
 - castllypay.com
 - clickedgesolutions.com
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
 - dexil.ru
-- fraternitykerala.org
 - galaxyfunbowl.gr
 - galerihana.com
 - godynamo.co
@@ -21,17 +18,14 @@ domains:
 - lova.network
 - machupicchutraveling.com
 - magicboximportados.com.br
-- mistc.es
 - mouwz.nl
 - mucc.com.au
 - myphamnganbinh.com
-- nectartrust.org.uk
 - nqtxk.com
 - parikhinfosolutions.in
 - redlog.cl
 - robbreport.com.my
 - sm-projekt.si
-- soundwavesprodjs.com
 - synoviz.com
 - tacloban.gov.ph
 - teamder.org
@@ -62,6 +56,7 @@ ignored_domains:
 - 918kiss.newworld88.com
 - 99bkx.com
 - afedgh.org
+- ailnoir.com
 - alercehistorico.cl
 - amirapache.ir
 - amzstudy.com
@@ -74,6 +69,7 @@ ignored_domains:
 - bestgoldenretrieverbreeder.com
 - bks.tv
 - blog.envision.agency
+- cancervants.org
 - canopusbd.com
 - cashboxcafe.ru
 - cbd-and-epilepsy.com
@@ -91,6 +87,7 @@ ignored_domains:
 - events.playakasha.com
 - fallenjewellery.com
 - feelmore.site
+- fraternitykerala.org
 - funtrade.land
 - gardendeur.site
 - garveylibertyhall.com
@@ -116,7 +113,9 @@ ignored_domains:
 - mahigifts.com
 - marincr.com
 - mevlutacik.com.tr
+- mistc.es
 - nbkangxi.com
+- nectartrust.org.uk
 - nen.vacad.net
 - new.deso.cz
 - nextgearup.com
@@ -140,6 +139,7 @@ ignored_domains:
 - smcsme.com
 - smecom.it
 - socialfact.in
+- soundwavesprodjs.com
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
