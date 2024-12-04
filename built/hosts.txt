@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-12-03T12:15:38Z
+# Last update: 2024-12-04T12:15:44Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -282,7 +282,11 @@
 #  - https://geeklevi.com/fedex/
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 k.hencoder.com
+0.0.0.0 ailnoir.com
+0.0.0.0 www.ailnoir.com
 0.0.0.0 blog.sidmach.com
+0.0.0.0 cancervants.org
+0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
 0.0.0.0 www.castllypay.com
 0.0.0.0 clickedgesolutions.com
@@ -294,6 +298,8 @@
 0.0.0.0 www.defencelover.in
 0.0.0.0 dexil.ru
 0.0.0.0 www.dexil.ru
+0.0.0.0 fraternitykerala.org
+0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
 0.0.0.0 galerihana.com
@@ -314,12 +320,16 @@
 0.0.0.0 www.machupicchutraveling.com
 0.0.0.0 magicboximportados.com.br
 0.0.0.0 www.magicboximportados.com.br
+0.0.0.0 mistc.es
+0.0.0.0 www.mistc.es
 0.0.0.0 mouwz.nl
 0.0.0.0 www.mouwz.nl
 0.0.0.0 mucc.com.au
 0.0.0.0 www.mucc.com.au
 0.0.0.0 myphamnganbinh.com
 0.0.0.0 www.myphamnganbinh.com
+0.0.0.0 nectartrust.org.uk
+0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 nqtxk.com
 0.0.0.0 www.nqtxk.com
 0.0.0.0 parikhinfosolutions.in
@@ -330,6 +340,8 @@
 0.0.0.0 www.robbreport.com.my
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
+0.0.0.0 soundwavesprodjs.com
+0.0.0.0 www.soundwavesprodjs.com
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
@@ -597,6 +609,8 @@
 0.0.0.0 www.1xbet-bonus1.net
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
+0.0.0.0 adultdate18.com
+0.0.0.0 www.adultdate18.com
 0.0.0.0 appdatehuf7.top
 0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
@@ -617,8 +631,6 @@
 0.0.0.0 www.bonus100cuaca889.digital
 0.0.0.0 bonus88.xyz
 0.0.0.0 www.bonus88.xyz
-0.0.0.0 bonushkjepe88.info
-0.0.0.0 www.bonushkjepe88.info
 0.0.0.0 bonusverensiteler2024.click
 0.0.0.0 www.bonusverensiteler2024.click
 0.0.0.0 candidate-bvnnt.xyz

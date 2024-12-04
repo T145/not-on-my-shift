@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-12-03T12:15:38Z
+! Last update: 2024-12-04T12:15:44Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -211,13 +211,16 @@
 
 ! 2021-03-02 Fedex phishing
 !  - https://geeklevi.com/fedex/
+||ailnoir.com^
 ||blog.sidmach.com^
+||cancervants.org^
 ||castllypay.com^
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
 ||dexil.ru^
+||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||galerihana.com^
 ||godynamo.co^
@@ -228,14 +231,17 @@
 ||lova.network^
 ||machupicchutraveling.com^
 ||magicboximportados.com.br^
+||mistc.es^
 ||mouwz.nl^
 ||mucc.com.au^
 ||myphamnganbinh.com^
+||nectartrust.org.uk^
 ||nqtxk.com^
 ||parikhinfosolutions.in^
 ||redlog.cl^
 ||robbreport.com.my^
 ||sm-projekt.si^
+||soundwavesprodjs.com^
 ||synoviz.com^
 ||tacloban.gov.ph^
 ||teamder.org^
@@ -390,6 +396,7 @@
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||1xbet-bonus1.net^
 ||2019releasedate2018.com^
+||adultdate18.com^
 ||appdatehuf7.top^
 ||artprize2024.beauty^
 ||best-lovelady.com^
@@ -400,7 +407,6 @@
 ||bonus1.at^
 ||bonus100cuaca889.digital^
 ||bonus88.xyz^
-||bonushkjepe88.info^
 ||bonusverensiteler2024.click^
 ||candidate-bvnnt.xyz^
 ||candidate-dkbpm.xyz^
