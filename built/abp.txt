@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-12-04T12:15:44Z
+! Last update: 2024-12-05T12:15:38Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -219,10 +219,8 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
-||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
-||galerihana.com^
 ||godynamo.co^
 ||guzelbil.com^
 ||klinikmetamorf.com^
@@ -401,14 +399,15 @@
 ||artprize2024.beauty^
 ||best-lovelady.com^
 ||bonus-betano.net^
+||bonus-betsbr.net^
 ||bonus-de-casino.net^
 ||bonus-tikt0k.shop^
 ||bonus-zknation.app^
 ||bonus1.at^
 ||bonus100cuaca889.digital^
 ||bonus88.xyz^
+||bonushkjepe88.info^
 ||bonusverensiteler2024.click^
-||candidate-bvnnt.xyz^
 ||candidate-dkbpm.xyz^
 ||candidate-uqhox.xyz^
 ||casino-bonus-utan-svensk-licens.com^
@@ -420,7 +419,6 @@
 ||casino-x-bonus-top9632.buzz^
 ||casino-x-official-bonus999291.win^
 ||casino-x-site-bonus2729.buzz^
-||casinox-bonus1702.buzz^
 ||casinox-bonus2937.buzz^
 ||casinox-bonus4752.win^
 ||champion-instantwin-prize-weekly.top^
@@ -453,12 +451,9 @@
 ||maako-kosodate-diary.net^
 ||onedate888.com^
 ||online-dating.top^
-||online-dating23.xyz^
-||online-dating33.xyz^
 ||pandateam8.xyz^
 ||pin-up-bonus-vip.net^
 ||pinup-bonus-fast888.net^
-||pinup-bonus-slot.net^
 ||prize-claimer.site^
 ||prize-foryou-weekly-champion.top^
 ||prize-giving-real-win.top^
