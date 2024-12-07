@@ -9,10 +9,8 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
-- dexil.ru
 - fraternitykerala.org
 - galaxyfunbowl.gr
-- galerihana.com
 - godynamo.co
 - guzelbil.com
 - klinikmetamorf.com
@@ -22,7 +20,6 @@ domains:
 - machupicchutraveling.com
 - magicboximportados.com.br
 - mistc.es
-- mouwz.nl
 - mucc.com.au
 - myphamnganbinh.com
 - nectartrust.org.uk
@@ -84,6 +81,7 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
+- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -92,6 +90,7 @@ ignored_domains:
 - fallenjewellery.com
 - feelmore.site
 - funtrade.land
+- galerihana.com
 - gardendeur.site
 - garveylibertyhall.com
 - geeklevi.com
@@ -116,6 +115,7 @@ ignored_domains:
 - mahigifts.com
 - marincr.com
 - mevlutacik.com.tr
+- mouwz.nl
 - nbkangxi.com
 - nen.vacad.net
 - new.deso.cz

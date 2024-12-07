@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-12-06T12:15:43Z
+! Last update: 2024-12-07T12:15:13Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -219,10 +219,8 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
-||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
-||galerihana.com^
 ||godynamo.co^
 ||guzelbil.com^
 ||klinikmetamorf.com^
@@ -232,7 +230,6 @@
 ||machupicchutraveling.com^
 ||magicboximportados.com.br^
 ||mistc.es^
-||mouwz.nl^
 ||mucc.com.au^
 ||myphamnganbinh.com^
 ||nectartrust.org.uk^
@@ -395,7 +392,6 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||2019releasedate2018.com^
-||adultdate18.com^
 ||appdatehuf7.top^
 ||artprize2024.beauty^
 ||best-lovelady.com^
@@ -411,11 +407,11 @@
 ||candidate-uqhox.xyz^
 ||casino-bonus-utan-svensk-licens.com^
 ||casino-x-bonus-official3943.buzz^
+||casino-x-bonus-official6189.buzz^
 ||casino-x-bonus-qz5692.win^
 ||casino-x-bonus-site1014.buzz^
 ||casino-x-bonus-top9632.buzz^
 ||casino-x-official-bonus999291.win^
-||casino-x-site-bonus2729.buzz^
 ||casinox-bonus1702.buzz^
 ||casinox-bonus2937.buzz^
 ||casinox-bonus4752.win^
@@ -430,6 +426,7 @@
 ||date1n1.net^
 ||date2loveafilipina.com^
 ||date37.com^
+||daten-aktualisierung.net^
 ||dating-mypage.store^
 ||dating-pass.com^
 ||dating24hour.com^
