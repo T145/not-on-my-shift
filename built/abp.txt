@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2024-12-08T12:15:17Z
+! Last update: 2024-12-09T12:15:40Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -212,6 +212,7 @@
 ! 2021-03-02 Fedex phishing
 !  - https://geeklevi.com/fedex/
 ||ailnoir.com^
+||alercehistorico.cl^
 ||blog.sidmach.com^
 ||cancervants.org^
 ||castllypay.com^
@@ -395,6 +396,7 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||2019releasedate2018.com^
+||adultdate18.com^
 ||appdatehuf7.top^
 ||artprize2024.beauty^
 ||best-lovelady.com^
@@ -430,6 +432,7 @@
 ||date1n1.net^
 ||date2loveafilipina.com^
 ||date37.com^
+||dates-sa.com^
 ||dating-mypage.store^
 ||dating-pass.com^
 ||dating24hour.com^
