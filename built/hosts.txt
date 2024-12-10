@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-12-09T12:15:40Z
+# Last update: 2024-12-10T12:15:37Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -332,8 +332,6 @@
 0.0.0.0 www.myphamnganbinh.com
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
-0.0.0.0 nqtxk.com
-0.0.0.0 www.nqtxk.com
 0.0.0.0 parikhinfosolutions.in
 0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
@@ -609,8 +607,6 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
-0.0.0.0 adultdate18.com
-0.0.0.0 www.adultdate18.com
 0.0.0.0 appdatehuf7.top
 0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
