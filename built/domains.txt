@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-12-14T12:15:23Z
+# Last update: 2024-12-15T12:15:14Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -211,8 +211,10 @@ clickedgesolutions.com
 clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
+dexil.ru
 fraternitykerala.org
 galaxyfunbowl.gr
+galerihana.com
 godynamo.co
 guzelbil.com
 klinikmetamorf.com
@@ -224,7 +226,6 @@ magicboximportados.com.br
 mistc.es
 mouwz.nl
 mucc.com.au
-myphamnganbinh.com
 nectartrust.org.uk
 nqtxk.com
 parikhinfosolutions.in
@@ -385,8 +386,6 @@ centent.steamplay.me
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 2019releasedate2018.com
-adultdate18.com
-appdatehuf7.top
 artprize2024.beauty
 best-lovelady.com
 bonus-de-casino.net
@@ -398,7 +397,6 @@ bonus88.xyz
 bonushkjepe88.info
 bonusverensiteler2024.click
 candidate-dkbpm.xyz
-candidate-uqhox.xyz
 casino-bonus-utan-svensk-licens.com
 casino-x-bonus-official3943.buzz
 casino-x-bonus-official6189.buzz
@@ -445,6 +443,7 @@ online-dating.top
 pandateam8.xyz
 prize-claimer.site
 prize-foryou-weekly-champion.top
+prize-giving-real-win.top
 prize-nights.com
 prizes-world.one
 search-weekly-prize-giveaway.top
@@ -456,6 +455,7 @@ superbonus888v3.pro
 superbonus911.pro
 supplychangedate4.buzz
 up-to-date-online.com
+uptodate-online.com
 validate-blakely.com
 validate-order.info
 wdate8.xyz
