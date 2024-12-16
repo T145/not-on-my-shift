@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-12-15T12:15:14Z
+# Last update: 2024-12-16T12:15:47Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -328,6 +328,8 @@
 0.0.0.0 www.mouwz.nl
 0.0.0.0 mucc.com.au
 0.0.0.0 www.mucc.com.au
+0.0.0.0 myphamnganbinh.com
+0.0.0.0 www.myphamnganbinh.com
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 nqtxk.com
@@ -607,6 +609,8 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
+0.0.0.0 appdatehuf7.top
+0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
@@ -639,8 +643,6 @@
 0.0.0.0 www.casino-x-bonus-qz5692.win
 0.0.0.0 casino-x-bonus-site1014.buzz
 0.0.0.0 www.casino-x-bonus-site1014.buzz
-0.0.0.0 casino-x-bonus-top9632.buzz
-0.0.0.0 www.casino-x-bonus-top9632.buzz
 0.0.0.0 casino-x-official-bonus999291.win
 0.0.0.0 www.casino-x-official-bonus999291.win
 0.0.0.0 casino-x-site-bonus2729.buzz
@@ -661,6 +663,8 @@
 0.0.0.0 www.cname-blk2.com
 0.0.0.0 co-date-site.info
 0.0.0.0 www.co-date-site.info
+0.0.0.0 consolidated-range-enterprise.com
+0.0.0.0 www.consolidated-range-enterprise.com
 0.0.0.0 date-gabrielle.com
 0.0.0.0 www.date-gabrielle.com
 0.0.0.0 date-jason.com
