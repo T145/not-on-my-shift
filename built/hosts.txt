@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-12-16T12:15:47Z
+# Last update: 2024-12-17T12:15:38Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -310,8 +310,6 @@
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
 0.0.0.0 www.guzelbil.com
-0.0.0.0 klinikmetamorf.com
-0.0.0.0 www.klinikmetamorf.com
 0.0.0.0 kmtks.org.tw
 0.0.0.0 www.kmtks.org.tw
 0.0.0.0 loanglide.com
@@ -324,8 +322,6 @@
 0.0.0.0 www.magicboximportados.com.br
 0.0.0.0 mistc.es
 0.0.0.0 www.mistc.es
-0.0.0.0 mouwz.nl
-0.0.0.0 www.mouwz.nl
 0.0.0.0 mucc.com.au
 0.0.0.0 www.mucc.com.au
 0.0.0.0 myphamnganbinh.com
@@ -643,6 +639,8 @@
 0.0.0.0 www.casino-x-bonus-qz5692.win
 0.0.0.0 casino-x-bonus-site1014.buzz
 0.0.0.0 www.casino-x-bonus-site1014.buzz
+0.0.0.0 casino-x-bonus-top9632.buzz
+0.0.0.0 www.casino-x-bonus-top9632.buzz
 0.0.0.0 casino-x-official-bonus999291.win
 0.0.0.0 www.casino-x-official-bonus999291.win
 0.0.0.0 casino-x-site-bonus2729.buzz
@@ -661,22 +659,20 @@
 0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
-0.0.0.0 co-date-site.info
-0.0.0.0 www.co-date-site.info
 0.0.0.0 consolidated-range-enterprise.com
 0.0.0.0 www.consolidated-range-enterprise.com
 0.0.0.0 date-gabrielle.com
 0.0.0.0 www.date-gabrielle.com
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
-0.0.0.0 date-numbers.info
-0.0.0.0 www.date-numbers.info
 0.0.0.0 date1n1.net
 0.0.0.0 www.date1n1.net
 0.0.0.0 date2loveafilipina.com
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
+0.0.0.0 daten-aktualisierung.net
+0.0.0.0 www.daten-aktualisierung.net
 0.0.0.0 dates-sa.com
 0.0.0.0 www.dates-sa.com
 0.0.0.0 dating-mypage.store
@@ -715,6 +711,8 @@
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
 0.0.0.0 www.maako-kosodate-diary.net
+0.0.0.0 meine-daten-aktuell.com
+0.0.0.0 www.meine-daten-aktuell.com
 0.0.0.0 onedate888.com
 0.0.0.0 www.onedate888.com
 0.0.0.0 online-dating.top
@@ -747,8 +745,6 @@
 0.0.0.0 www.superbonus911.pro
 0.0.0.0 supplychangedate4.buzz
 0.0.0.0 www.supplychangedate4.buzz
-0.0.0.0 up-to-date-online.com
-0.0.0.0 www.up-to-date-online.com
 0.0.0.0 uptodate-online.com
 0.0.0.0 www.uptodate-online.com
 0.0.0.0 validate-blakely.com
