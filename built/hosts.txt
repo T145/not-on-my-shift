@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-12-18T12:15:48Z
+# Last update: 2024-12-19T12:15:37Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -663,8 +663,6 @@
 0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
-0.0.0.0 consolidated-range-enterprise.com
-0.0.0.0 www.consolidated-range-enterprise.com
 0.0.0.0 date-gabrielle.com
 0.0.0.0 www.date-gabrielle.com
 0.0.0.0 date-jason.com
@@ -675,6 +673,8 @@
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
+0.0.0.0 daten-aktualisierung.net
+0.0.0.0 www.daten-aktualisierung.net
 0.0.0.0 dates-sa.com
 0.0.0.0 www.dates-sa.com
 0.0.0.0 dating-mypage.store
@@ -713,6 +713,8 @@
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
 0.0.0.0 www.maako-kosodate-diary.net
+0.0.0.0 meine-daten-aktuell.com
+0.0.0.0 www.meine-daten-aktuell.com
 0.0.0.0 onedate888.com
 0.0.0.0 www.onedate888.com
 0.0.0.0 online-dating.top
@@ -741,10 +743,6 @@
 0.0.0.0 www.superbonus888v3.pro
 0.0.0.0 superbonus911.pro
 0.0.0.0 www.superbonus911.pro
-0.0.0.0 supplychangedate4.buzz
-0.0.0.0 www.supplychangedate4.buzz
-0.0.0.0 up-to-date-online.com
-0.0.0.0 www.up-to-date-online.com
 0.0.0.0 uptodate-online.com
 0.0.0.0 www.uptodate-online.com
 0.0.0.0 validate-blakely.com
