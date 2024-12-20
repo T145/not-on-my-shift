@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-12-19T12:15:37Z
+# Last update: 2024-12-20T12:15:23Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -396,12 +396,10 @@ bonus-zknation.app
 bonus1.at
 bonus100cuaca889.digital
 bonus88.xyz
-bonushkjepe88.info
 bonusverensiteler2024.click
 candidate-dkbpm.xyz
 casino-bonus-utan-svensk-licens.com
 casino-x-bonus-official3943.buzz
-casino-x-bonus-official6189.buzz
 casino-x-bonus-qz5692.win
 casino-x-bonus-site1014.buzz
 casino-x-bonus-top9632.buzz
@@ -419,7 +417,6 @@ date-jason.com
 date1n1.net
 date2loveafilipina.com
 date37.com
-daten-aktualisierung.net
 dates-sa.com
 dating-mypage.store
 dating-pass.com
@@ -437,9 +434,7 @@ jointbonus-bigsale.online
 jointbonus-llc.online
 kosodate-happy.net
 linkbonus33.pro
-lucky-prize-giveaway-congrats.top
 maako-kosodate-diary.net
-meine-daten-aktuell.com
 onedate888.com
 online-dating.top
 pandateam8.xyz
@@ -454,6 +449,8 @@ superbonus8888.club
 superbonus888autos.net
 superbonus888v3.pro
 superbonus911.pro
+supplychangedate4.buzz
+up-to-date-online.com
 uptodate-online.com
 validate-blakely.com
 validate-order.info
