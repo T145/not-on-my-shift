@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-12-22T12:15:11Z
+# Last update: 2024-12-23T12:15:31Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -310,8 +310,6 @@
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
 0.0.0.0 www.guzelbil.com
-0.0.0.0 klinikmetamorf.com
-0.0.0.0 www.klinikmetamorf.com
 0.0.0.0 kmtks.org.tw
 0.0.0.0 www.kmtks.org.tw
 0.0.0.0 loanglide.com
@@ -344,6 +342,8 @@
 0.0.0.0 www.soundwavesprodjs.com
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
+0.0.0.0 tacloban.gov.ph
+0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 teamder.org
 0.0.0.0 www.teamder.org
 0.0.0.0 thozhilvarthalatest.com
@@ -605,6 +605,8 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
+0.0.0.0 adultdate18.com
+0.0.0.0 www.adultdate18.com
 0.0.0.0 appdatehuf7.top
 0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
@@ -621,16 +623,12 @@
 0.0.0.0 www.bonus1.at
 0.0.0.0 bonus100cuaca889.digital
 0.0.0.0 www.bonus100cuaca889.digital
-0.0.0.0 bonus88.xyz
-0.0.0.0 www.bonus88.xyz
 0.0.0.0 bonushkjepe88.info
 0.0.0.0 www.bonushkjepe88.info
 0.0.0.0 bonusverensiteler2024.click
 0.0.0.0 www.bonusverensiteler2024.click
 0.0.0.0 candidate-dkbpm.xyz
 0.0.0.0 www.candidate-dkbpm.xyz
-0.0.0.0 canidate4fitness.com
-0.0.0.0 www.canidate4fitness.com
 0.0.0.0 casino-bonus-utan-svensk-licens.com
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casino-x-bonus-official3943.buzz
@@ -643,10 +641,6 @@
 0.0.0.0 www.casino-x-bonus-site1014.buzz
 0.0.0.0 casino-x-bonus-top9632.buzz
 0.0.0.0 www.casino-x-bonus-top9632.buzz
-0.0.0.0 casino-x-official-bonus999291.win
-0.0.0.0 www.casino-x-official-bonus999291.win
-0.0.0.0 casino-x-site-bonus2729.buzz
-0.0.0.0 www.casino-x-site-bonus2729.buzz
 0.0.0.0 casinox-bonus1702.buzz
 0.0.0.0 www.casinox-bonus1702.buzz
 0.0.0.0 casinox-bonus2937.buzz
@@ -655,16 +649,12 @@
 0.0.0.0 www.casinox-bonus4752.win
 0.0.0.0 champion-instantwin-prize-weekly.top
 0.0.0.0 www.champion-instantwin-prize-weekly.top
-0.0.0.0 chance-congrats-prize-draw.top
-0.0.0.0 www.chance-congrats-prize-draw.top
 0.0.0.0 chance-prize-smart-instant.top
 0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
 0.0.0.0 date-gabrielle.com
 0.0.0.0 www.date-gabrielle.com
-0.0.0.0 date-inn.com
-0.0.0.0 www.date-inn.com
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date1n1.net
@@ -673,8 +663,6 @@
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
-0.0.0.0 daten-aktualisierung.net
-0.0.0.0 www.daten-aktualisierung.net
 0.0.0.0 dating-mypage.store
 0.0.0.0 www.dating-mypage.store
 0.0.0.0 dating-pass.com
@@ -705,8 +693,6 @@
 0.0.0.0 www.jointbonus-llc.online
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
-0.0.0.0 linkbonus33.pro
-0.0.0.0 www.linkbonus33.pro
 0.0.0.0 lucky-prize-giveaway-congrats.top
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
@@ -735,8 +721,6 @@
 0.0.0.0 www.superbonus8888.club
 0.0.0.0 superbonus888autos.net
 0.0.0.0 www.superbonus888autos.net
-0.0.0.0 superbonus888v3.pro
-0.0.0.0 www.superbonus888v3.pro
 0.0.0.0 superbonus911.pro
 0.0.0.0 www.superbonus911.pro
 0.0.0.0 supplychangedate4.buzz

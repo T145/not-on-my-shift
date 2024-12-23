@@ -16,7 +16,6 @@ domains:
 - galerihana.com
 - godynamo.co
 - guzelbil.com
-- klinikmetamorf.com
 - kmtks.org.tw
 - loanglide.com
 - lova.network
@@ -33,6 +32,7 @@ domains:
 - sm-projekt.si
 - soundwavesprodjs.com
 - synoviz.com
+- tacloban.gov.ph
 - teamder.org
 - thozhilvarthalatest.com
 - trashstation.com
@@ -110,6 +110,7 @@ ignored_domains:
 - joliveer.com
 - justparty.com.br
 - kidimy.org
+- klinikmetamorf.com
 - latesttechnologyz.com
 - mahigifts.com
 - marincr.com
@@ -142,7 +143,6 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
-- tacloban.gov.ph
 - testargames.cl
 - thaircy.redcross.or.th
 - thietkelq.com
