@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-12-25T12:15:18Z
+# Last update: 2024-12-26T12:15:25Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -605,8 +605,8 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
-0.0.0.0 adultdate18.com
-0.0.0.0 www.adultdate18.com
+0.0.0.0 appdatehuf7.top
+0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
@@ -651,12 +651,16 @@
 0.0.0.0 www.casinox-bonus2937.buzz
 0.0.0.0 casinox-bonus4752.win
 0.0.0.0 www.casinox-bonus4752.win
+0.0.0.0 champion-instantwin-prize-weekly.top
+0.0.0.0 www.champion-instantwin-prize-weekly.top
 0.0.0.0 chance-congrats-prize-draw.top
 0.0.0.0 www.chance-congrats-prize-draw.top
 0.0.0.0 chance-prize-smart-instant.top
 0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
+0.0.0.0 cuidate-skin.com
+0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-gabrielle.com
 0.0.0.0 www.date-gabrielle.com
 0.0.0.0 date-jason.com
@@ -683,8 +687,6 @@
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 hediye-bonus-veren-siteler.com
-0.0.0.0 www.hediye-bonus-veren-siteler.com
 0.0.0.0 hotdating4you.online
 0.0.0.0 www.hotdating4you.online
 0.0.0.0 joint-bonus-auto.online
