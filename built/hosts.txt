@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-12-28T12:15:11Z
+# Last update: 2024-12-29T12:15:01Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -733,6 +733,8 @@
 0.0.0.0 www.superbonus888v3.pro
 0.0.0.0 superbonus911.pro
 0.0.0.0 www.superbonus911.pro
+0.0.0.0 supplychangedate4.buzz
+0.0.0.0 www.supplychangedate4.buzz
 0.0.0.0 up-to-date-online.com
 0.0.0.0 www.up-to-date-online.com
 0.0.0.0 uptodate-online.com
