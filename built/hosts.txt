@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2024-12-30T12:15:26Z
+# Last update: 2024-12-31T12:15:23Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,6 +298,8 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -322,6 +324,8 @@
 0.0.0.0 www.mistc.es
 0.0.0.0 mucc.com.au
 0.0.0.0 www.mucc.com.au
+0.0.0.0 myphamnganbinh.com
+0.0.0.0 www.myphamnganbinh.com
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 nqtxk.com
@@ -601,16 +605,14 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 2019releasedate2018.com
 0.0.0.0 www.2019releasedate2018.com
-0.0.0.0 adultdate18.com
-0.0.0.0 www.adultdate18.com
+0.0.0.0 appdatehuf7.top
+0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-de-casino.net
 0.0.0.0 www.bonus-de-casino.net
-0.0.0.0 bonus-tikt0k.shop
-0.0.0.0 www.bonus-tikt0k.shop
 0.0.0.0 bonus-zknation.app
 0.0.0.0 www.bonus-zknation.app
 0.0.0.0 bonus1.at
@@ -629,6 +631,10 @@
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casino-x-bonus-official3943.buzz
 0.0.0.0 www.casino-x-bonus-official3943.buzz
+0.0.0.0 casino-x-bonus-official6189.buzz
+0.0.0.0 www.casino-x-bonus-official6189.buzz
+0.0.0.0 casino-x-bonus-qz5692.win
+0.0.0.0 www.casino-x-bonus-qz5692.win
 0.0.0.0 casino-x-bonus-site1014.buzz
 0.0.0.0 www.casino-x-bonus-site1014.buzz
 0.0.0.0 casino-x-bonus-top9632.buzz
@@ -639,10 +645,10 @@
 0.0.0.0 www.casino-x-site-bonus2729.buzz
 0.0.0.0 casinox-bonus2937.buzz
 0.0.0.0 www.casinox-bonus2937.buzz
+0.0.0.0 casinox-bonus4752.win
+0.0.0.0 www.casinox-bonus4752.win
 0.0.0.0 champion-instantwin-prize-weekly.top
 0.0.0.0 www.champion-instantwin-prize-weekly.top
-0.0.0.0 chance-congrats-prize-draw.top
-0.0.0.0 www.chance-congrats-prize-draw.top
 0.0.0.0 chance-prize-smart-instant.top
 0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
@@ -675,6 +681,8 @@
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
+0.0.0.0 hotdating4you.online
+0.0.0.0 www.hotdating4you.online
 0.0.0.0 joint-bonus-auto.online
 0.0.0.0 www.joint-bonus-auto.online
 0.0.0.0 joint-bonus-connect.online
@@ -689,6 +697,8 @@
 0.0.0.0 www.linkbonus33.pro
 0.0.0.0 lucky-prize-giveaway-congrats.top
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
+0.0.0.0 maako-kosodate-diary.net
+0.0.0.0 www.maako-kosodate-diary.net
 0.0.0.0 onedate888.com
 0.0.0.0 www.onedate888.com
 0.0.0.0 online-dating.top
@@ -697,6 +707,8 @@
 0.0.0.0 www.pandateam8.xyz
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
+0.0.0.0 prize-foryou-weekly-champion.top
+0.0.0.0 www.prize-foryou-weekly-champion.top
 0.0.0.0 prize-giving-real-win.top
 0.0.0.0 www.prize-giving-real-win.top
 0.0.0.0 prizes-world.one
@@ -705,6 +717,10 @@
 0.0.0.0 www.stardate1440.com
 0.0.0.0 superbonus888.pro
 0.0.0.0 www.superbonus888.pro
+0.0.0.0 superbonus8888.club
+0.0.0.0 www.superbonus8888.club
+0.0.0.0 superbonus888autos.net
+0.0.0.0 www.superbonus888autos.net
 0.0.0.0 superbonus888v3.pro
 0.0.0.0 www.superbonus888v3.pro
 0.0.0.0 superbonus911.pro
@@ -713,10 +729,10 @@
 0.0.0.0 www.supplychangedate4.buzz
 0.0.0.0 up-to-date-online.com
 0.0.0.0 www.up-to-date-online.com
-0.0.0.0 uptodate-online.com
-0.0.0.0 www.uptodate-online.com
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
+0.0.0.0 validate-order.info
+0.0.0.0 www.validate-order.info
 0.0.0.0 wdate8.xyz
 0.0.0.0 www.wdate8.xyz
 0.0.0.0 yuttarikosodate55.net
