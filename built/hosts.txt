@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-01-02T12:15:23Z
+# Last update: 2025-01-03T12:15:34Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -291,8 +291,6 @@
 0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
 0.0.0.0 www.castllypay.com
-0.0.0.0 clickedgesolutions.com
-0.0.0.0 www.clickedgesolutions.com
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 comptoncymru.com
 0.0.0.0 www.comptoncymru.com
@@ -302,8 +300,6 @@
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
-0.0.0.0 galerihana.com
-0.0.0.0 www.galerihana.com
 0.0.0.0 godynamo.co
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
@@ -336,8 +332,6 @@
 0.0.0.0 www.robbreport.com.my
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
-0.0.0.0 soundwavesprodjs.com
-0.0.0.0 www.soundwavesprodjs.com
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
@@ -623,6 +617,8 @@
 0.0.0.0 www.bonus88.xyz
 0.0.0.0 bonushkjepe88.info
 0.0.0.0 www.bonushkjepe88.info
+0.0.0.0 bonusverensiteler2024.click
+0.0.0.0 www.bonusverensiteler2024.click
 0.0.0.0 candidate-dkbpm.xyz
 0.0.0.0 www.candidate-dkbpm.xyz
 0.0.0.0 casino-bonus-utan-svensk-licens.com
@@ -641,8 +637,6 @@
 0.0.0.0 www.casino-x-official-bonus999291.win
 0.0.0.0 casino-x-site-bonus2729.buzz
 0.0.0.0 www.casino-x-site-bonus2729.buzz
-0.0.0.0 casinox-bonus2937.buzz
-0.0.0.0 www.casinox-bonus2937.buzz
 0.0.0.0 casinox-bonus4752.win
 0.0.0.0 www.casinox-bonus4752.win
 0.0.0.0 champion-instantwin-prize-weekly.top
@@ -663,6 +657,8 @@
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
+0.0.0.0 daten-aktualisierung.net
+0.0.0.0 www.daten-aktualisierung.net
 0.0.0.0 dating-pass.com
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
@@ -697,32 +693,44 @@
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
 0.0.0.0 www.maako-kosodate-diary.net
+0.0.0.0 meine-daten-aktuell.com
+0.0.0.0 www.meine-daten-aktuell.com
 0.0.0.0 onedate888.com
 0.0.0.0 www.onedate888.com
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
+0.0.0.0 pandateam8.xyz
+0.0.0.0 www.pandateam8.xyz
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
+0.0.0.0 prize-foryou-weekly-champion.top
+0.0.0.0 www.prize-foryou-weekly-champion.top
+0.0.0.0 prize-giving-real-win.top
+0.0.0.0 www.prize-giving-real-win.top
 0.0.0.0 prizes-world.one
 0.0.0.0 www.prizes-world.one
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
 0.0.0.0 superbonus888.pro
 0.0.0.0 www.superbonus888.pro
+0.0.0.0 superbonus8888.club
+0.0.0.0 www.superbonus8888.club
 0.0.0.0 superbonus888autos.net
 0.0.0.0 www.superbonus888autos.net
 0.0.0.0 superbonus888v3.pro
 0.0.0.0 www.superbonus888v3.pro
 0.0.0.0 superbonus911.pro
 0.0.0.0 www.superbonus911.pro
-0.0.0.0 supplychangedate4.buzz
-0.0.0.0 www.supplychangedate4.buzz
 0.0.0.0 up-to-date-online.com
 0.0.0.0 www.up-to-date-online.com
+0.0.0.0 uptodate-online.com
+0.0.0.0 www.uptodate-online.com
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
 0.0.0.0 validate-order.info
 0.0.0.0 www.validate-order.info
+0.0.0.0 validate-system.com
+0.0.0.0 www.validate-system.com
 0.0.0.0 wdate8.xyz
 0.0.0.0 www.wdate8.xyz
 0.0.0.0 yuttarikosodate55.net
