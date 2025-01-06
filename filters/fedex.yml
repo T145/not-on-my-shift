@@ -6,6 +6,7 @@ domains:
 - blog.sidmach.com
 - cancervants.org
 - castllypay.com
+- clickedgesolutions.com
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
@@ -40,7 +41,6 @@ domains:
 - vanguardacademy-ng.com
 - vladimirherzog.org
 - weboyal.com
-- wsw.cool
 fedex_suffixes:
 - app
 - fedex
@@ -76,7 +76,6 @@ ignored_domains:
 - cbd-and-seizures.com
 - celestinfreinet.mx
 - cgassociates.pk
-- clickedgesolutions.com
 - contornosdesign.pt
 - courseunlock.org
 - covid19.url.edu.gt
@@ -155,6 +154,7 @@ ignored_domains:
 - wordpress.mrcentertainment.com
 - wowfollowers.com
 - wp.up118.cn
+- wsw.cool
 - xn--thvitstore-c7a.com
 - ylem222.com
 - yuanant.com
