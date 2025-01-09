@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-01-08T12:15:52Z
+! Last update: 2025-01-09T12:15:29Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -393,38 +393,32 @@
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||2019releasedate2018.com^
 ||adultdate18.com^
+||appdatehuf7.top^
 ||artprize2024.beauty^
 ||best-lovelady.com^
 ||bonus-de-casino.net^
-||bonus-tikt0k.shop^
 ||bonus-zknation.app^
 ||bonus1.at^
 ||bonus100cuaca889.digital^
 ||bonus88.xyz^
 ||bonushkjepe88.info^
 ||bonusverensiteler2024.click^
-||candidate-dkbpm.xyz^
 ||casino-bonus-utan-svensk-licens.com^
 ||casino-x-bonus-official3943.buzz^
-||casino-x-bonus-official6189.buzz^
 ||casino-x-bonus-qz5692.win^
 ||casino-x-bonus-site1014.buzz^
 ||casino-x-bonus-top9632.buzz^
 ||casino-x-official-bonus999291.win^
-||casino-x-site-bonus2729.buzz^
-||casinox-bonus1702.buzz^
 ||casinox-bonus2937.buzz^
 ||casinox-bonus4752.win^
 ||champion-instantwin-prize-weekly.top^
 ||chance-congrats-prize-draw.top^
 ||chance-prize-smart-instant.top^
 ||cname-blk2.com^
-||date-gabrielle.com^
 ||date-jason.com^
 ||date1n1.net^
 ||date2loveafilipina.com^
 ||date37.com^
-||daten-aktualisierung.net^
 ||daten-erneuern-ch.com^
 ||dating-pass.com^
 ||dating24hour.com^
@@ -440,7 +434,6 @@
 ||jointbonus-llc.online^
 ||kosodate-happy.net^
 ||linkbonus33.pro^
-||lucky-prize-giveaway-congrats.top^
 ||maako-kosodate-diary.net^
 ||meine-daten-aktuell.com^
 ||onedate888.com^
@@ -460,7 +453,6 @@
 ||supplychangedate4.buzz^
 ||up-to-date-online.com^
 ||uptodate-online.com^
-||validate-blakely.com^
 ||validate-order.info^
 ||wdate8.xyz^
 ||yuttarikosodate55.net^
