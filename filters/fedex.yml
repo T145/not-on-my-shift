@@ -6,7 +6,6 @@ domains:
 - blog.sidmach.com
 - cancervants.org
 - castllypay.com
-- clickedgesolutions.com
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
@@ -23,7 +22,6 @@ domains:
 - magicboximportados.com.br
 - mistc.es
 - mucc.com.au
-- myphamnganbinh.com
 - nectartrust.org.uk
 - nqtxk.com
 - parikhinfosolutions.in
@@ -41,6 +39,7 @@ domains:
 - vanguardacademy-ng.com
 - vladimirherzog.org
 - weboyal.com
+- wowfollowers.com
 fedex_suffixes:
 - app
 - fedex
@@ -76,6 +75,7 @@ ignored_domains:
 - cbd-and-seizures.com
 - celestinfreinet.mx
 - cgassociates.pk
+- clickedgesolutions.com
 - contornosdesign.pt
 - courseunlock.org
 - covid19.url.edu.gt
@@ -114,6 +114,7 @@ ignored_domains:
 - marincr.com
 - mevlutacik.com.tr
 - mouwz.nl
+- myphamnganbinh.com
 - nbkangxi.com
 - nen.vacad.net
 - new.deso.cz
@@ -152,7 +153,6 @@ ignored_domains:
 - veljko.id
 - visotka.in
 - wordpress.mrcentertainment.com
-- wowfollowers.com
 - wp.up118.cn
 - wsw.cool
 - xn--thvitstore-c7a.com
