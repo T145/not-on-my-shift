@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-01-16T12:15:18Z
+# Last update: 2025-01-17T12:15:30Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,8 +298,6 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -619,8 +617,6 @@
 0.0.0.0 www.bonus100cuaca889.digital
 0.0.0.0 bonus88.xyz
 0.0.0.0 www.bonus88.xyz
-0.0.0.0 bonushkjepe88.info
-0.0.0.0 www.bonushkjepe88.info
 0.0.0.0 bonusverensiteler2024.click
 0.0.0.0 www.bonusverensiteler2024.click
 0.0.0.0 casino-bonus-utan-svensk-licens.com
@@ -635,8 +631,6 @@
 0.0.0.0 www.casino-x-bonus-site1014.buzz
 0.0.0.0 casino-x-bonus-top9632.buzz
 0.0.0.0 www.casino-x-bonus-top9632.buzz
-0.0.0.0 casino-x-official-bonus999291.win
-0.0.0.0 www.casino-x-official-bonus999291.win
 0.0.0.0 casino-x-site-bonus2729.buzz
 0.0.0.0 www.casino-x-site-bonus2729.buzz
 0.0.0.0 casinox-bonus1702.buzz
@@ -651,6 +645,8 @@
 0.0.0.0 www.chance-congrats-prize-draw.top
 0.0.0.0 chance-prize-smart-instant.top
 0.0.0.0 www.chance-prize-smart-instant.top
+0.0.0.0 checking-account-bonus-usa.fyi
+0.0.0.0 www.checking-account-bonus-usa.fyi
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
 0.0.0.0 cuidate-skin.com
@@ -721,10 +717,12 @@
 0.0.0.0 www.prizes-world.one
 0.0.0.0 search-weekly-prize-giveaway.top
 0.0.0.0 www.search-weekly-prize-giveaway.top
+0.0.0.0 senior-dating-intl-3428267.fyi
+0.0.0.0 www.senior-dating-intl-3428267.fyi
+0.0.0.0 senior-dating-intl-5760389.zone
+0.0.0.0 www.senior-dating-intl-5760389.zone
 0.0.0.0 senior-dating-us-1719025.fyi
 0.0.0.0 www.senior-dating-us-1719025.fyi
-0.0.0.0 senior-dating-us-8348318.zone
-0.0.0.0 www.senior-dating-us-8348318.zone
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
 0.0.0.0 superbonus888.pro

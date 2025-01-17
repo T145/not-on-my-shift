@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-01-16T12:15:18Z
+# Last update: 2025-01-17T12:15:30Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -211,7 +211,6 @@ clickedgesolutions.com
 clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
-dexil.ru
 fraternitykerala.org
 galaxyfunbowl.gr
 galerihana.com
@@ -392,7 +391,6 @@ bonus-zknation.app
 bonus1.at
 bonus100cuaca889.digital
 bonus88.xyz
-bonushkjepe88.info
 bonusverensiteler2024.click
 casino-bonus-utan-svensk-licens.com
 casino-x-bonus-official3943.buzz
@@ -400,7 +398,6 @@ casino-x-bonus-official6189.buzz
 casino-x-bonus-qz5692.win
 casino-x-bonus-site1014.buzz
 casino-x-bonus-top9632.buzz
-casino-x-official-bonus999291.win
 casino-x-site-bonus2729.buzz
 casinox-bonus1702.buzz
 casinox-bonus2937.buzz
@@ -408,6 +405,7 @@ casinox-bonus4752.win
 champion-instantwin-prize-weekly.top
 chance-congrats-prize-draw.top
 chance-prize-smart-instant.top
+checking-account-bonus-usa.fyi
 cname-blk2.com
 cuidate-skin.com
 date-gabrielle.com
@@ -443,8 +441,9 @@ prize-foryou-weekly-champion.top
 prize-giving-real-win.top
 prizes-world.one
 search-weekly-prize-giveaway.top
+senior-dating-intl-3428267.fyi
+senior-dating-intl-5760389.zone
 senior-dating-us-1719025.fyi
-senior-dating-us-8348318.zone
 stardate1440.com
 superbonus888.pro
 superbonus8888.club
