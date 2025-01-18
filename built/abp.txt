@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-01-17T12:15:30Z
+! Last update: 2025-01-18T12:14:39Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -400,6 +400,7 @@
 ||bonus1.at^
 ||bonus100cuaca889.digital^
 ||bonus88.xyz^
+||bonushkjepe88.info^
 ||bonusverensiteler2024.click^
 ||casino-bonus-utan-svensk-licens.com^
 ||casino-x-bonus-official3943.buzz^
@@ -407,6 +408,7 @@
 ||casino-x-bonus-qz5692.win^
 ||casino-x-bonus-site1014.buzz^
 ||casino-x-bonus-top9632.buzz^
+||casino-x-official-bonus999291.win^
 ||casino-x-site-bonus2729.buzz^
 ||casinox-bonus1702.buzz^
 ||casinox-bonus2937.buzz^
@@ -414,7 +416,6 @@
 ||champion-instantwin-prize-weekly.top^
 ||chance-congrats-prize-draw.top^
 ||chance-prize-smart-instant.top^
-||checking-account-bonus-usa.fyi^
 ||cname-blk2.com^
 ||cuidate-skin.com^
 ||date-gabrielle.com^
@@ -428,6 +429,7 @@
 ||dating-pass.com^
 ||dating24hour.com^
 ||denemebonusu-2024.click^
+||fe-candidate-jddiaz-20241216.net^
 ||gama-casino-bonus757.buzz^
 ||giveaway-prize-foryou-search.top^
 ||hakodate-wq.com^
@@ -450,20 +452,14 @@
 ||prize-giving-real-win.top^
 ||prizes-world.one^
 ||search-weekly-prize-giveaway.top^
-||senior-dating-intl-3428267.fyi^
-||senior-dating-intl-5760389.zone^
-||senior-dating-us-1719025.fyi^
 ||stardate1440.com^
 ||superbonus888.pro^
 ||superbonus8888.club^
 ||superbonus888autos.net^
 ||superbonus888v3.pro^
 ||superbonus911.pro^
-||supplychangedate4.buzz^
-||up-to-date-online.com^
 ||uptodate-online.com^
 ||validate-blakely.com^
-||validate-oauth.sbs^
 ||validate-order.info^
 ||wdate8.xyz^
 ||yuttarikosodate55.net^
