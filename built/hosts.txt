@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-01-19T12:14:59Z
+# Last update: 2025-01-20T12:15:30Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -360,8 +360,6 @@
 0.0.0.0 www.vladimirherzog.org
 0.0.0.0 weboyal.com
 0.0.0.0 www.weboyal.com
-0.0.0.0 wowfollowers.com
-0.0.0.0 www.wowfollowers.com
 
 # === SCAMS ===
 # These filters block pages which are known to scam people for money or gift cards
@@ -609,10 +607,6 @@
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
-0.0.0.0 bonus-de-casino.net
-0.0.0.0 www.bonus-de-casino.net
-0.0.0.0 bonus-tikt0k.shop
-0.0.0.0 www.bonus-tikt0k.shop
 0.0.0.0 bonus-zknation.app
 0.0.0.0 www.bonus-zknation.app
 0.0.0.0 bonus1.at
@@ -641,14 +635,8 @@
 0.0.0.0 www.casino-x-official-bonus999291.win
 0.0.0.0 casino-x-site-bonus2729.buzz
 0.0.0.0 www.casino-x-site-bonus2729.buzz
-0.0.0.0 casinox-bonus1702.buzz
-0.0.0.0 www.casinox-bonus1702.buzz
 0.0.0.0 casinox-bonus2937.buzz
 0.0.0.0 www.casinox-bonus2937.buzz
-0.0.0.0 casinox-bonus4752.win
-0.0.0.0 www.casinox-bonus4752.win
-0.0.0.0 champion-instantwin-prize-weekly.top
-0.0.0.0 www.champion-instantwin-prize-weekly.top
 0.0.0.0 chance-congrats-prize-draw.top
 0.0.0.0 www.chance-congrats-prize-draw.top
 0.0.0.0 chance-prize-smart-instant.top
@@ -679,10 +667,6 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 denemebonusu-2024.click
 0.0.0.0 www.denemebonusu-2024.click
-0.0.0.0 fe-candidate-jddiaz-20241216.net
-0.0.0.0 www.fe-candidate-jddiaz-20241216.net
-0.0.0.0 gama-casino-bonus757.buzz
-0.0.0.0 www.gama-casino-bonus757.buzz
 0.0.0.0 giveaway-prize-foryou-search.top
 0.0.0.0 www.giveaway-prize-foryou-search.top
 0.0.0.0 hakodate-wq.com
@@ -701,12 +685,8 @@
 0.0.0.0 www.jointbonus-llc.online
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
-0.0.0.0 linkbonus33.pro
-0.0.0.0 www.linkbonus33.pro
 0.0.0.0 lucky-prize-giveaway-congrats.top
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
-0.0.0.0 maako-kosodate-diary.net
-0.0.0.0 www.maako-kosodate-diary.net
 0.0.0.0 meine-daten-aktuell.com
 0.0.0.0 www.meine-daten-aktuell.com
 0.0.0.0 onedate888.com
@@ -741,8 +721,6 @@
 0.0.0.0 www.supplychangedate4.buzz
 0.0.0.0 up-to-date-online.com
 0.0.0.0 www.up-to-date-online.com
-0.0.0.0 uptodate-online.com
-0.0.0.0 www.uptodate-online.com
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
 0.0.0.0 validate-order.info

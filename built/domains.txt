@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-01-19T12:14:59Z
+# Last update: 2025-01-20T12:15:30Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -242,7 +242,6 @@ ultimatepreneur.com
 vanguardacademy-ng.com
 vladimirherzog.org
 weboyal.com
-wowfollowers.com
 
 # === SCAMS ===
 # These filters block pages which are known to scam people for money or gift cards
@@ -387,8 +386,6 @@ centent.steamplay.me
 appdatehuf7.top
 artprize2024.beauty
 best-lovelady.com
-bonus-de-casino.net
-bonus-tikt0k.shop
 bonus-zknation.app
 bonus1.at
 bonus100cuaca889.digital
@@ -403,10 +400,7 @@ casino-x-bonus-site1014.buzz
 casino-x-bonus-top9632.buzz
 casino-x-official-bonus999291.win
 casino-x-site-bonus2729.buzz
-casinox-bonus1702.buzz
 casinox-bonus2937.buzz
-casinox-bonus4752.win
-champion-instantwin-prize-weekly.top
 chance-congrats-prize-draw.top
 chance-prize-smart-instant.top
 cname-blk2.com
@@ -422,8 +416,6 @@ daten-erneuern-ch.com
 dating-pass.com
 dating24hour.com
 denemebonusu-2024.click
-fe-candidate-jddiaz-20241216.net
-gama-casino-bonus757.buzz
 giveaway-prize-foryou-search.top
 hakodate-wq.com
 hakodatemoto7.com
@@ -433,9 +425,7 @@ joint-bonus-connect.online
 jointbonus-bigsale.online
 jointbonus-llc.online
 kosodate-happy.net
-linkbonus33.pro
 lucky-prize-giveaway-congrats.top
-maako-kosodate-diary.net
 meine-daten-aktuell.com
 onedate888.com
 online-dating.top
@@ -453,7 +443,6 @@ superbonus888v3.pro
 superbonus911.pro
 supplychangedate4.buzz
 up-to-date-online.com
-uptodate-online.com
 validate-blakely.com
 validate-order.info
 wdate8.xyz

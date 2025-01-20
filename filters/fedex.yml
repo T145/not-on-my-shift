@@ -41,7 +41,6 @@ domains:
 - vanguardacademy-ng.com
 - vladimirherzog.org
 - weboyal.com
-- wowfollowers.com
 fedex_suffixes:
 - app
 - fedex
@@ -153,6 +152,7 @@ ignored_domains:
 - veljko.id
 - visotka.in
 - wordpress.mrcentertainment.com
+- wowfollowers.com
 - wp.up118.cn
 - wsw.cool
 - xn--thvitstore-c7a.com
