@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-01-22T12:15:29Z
+# Last update: 2025-01-23T12:15:24Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -291,8 +291,6 @@
 0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
 0.0.0.0 www.castllypay.com
-0.0.0.0 clickedgesolutions.com
-0.0.0.0 www.clickedgesolutions.com
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 comptoncymru.com
 0.0.0.0 www.comptoncymru.com
@@ -350,8 +348,6 @@
 0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
 0.0.0.0 www.tubies.com
-0.0.0.0 twospoonsfleet.co.uk
-0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vanguardacademy-ng.com
@@ -631,8 +627,6 @@
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casino-x-bonus-official3943.buzz
 0.0.0.0 www.casino-x-bonus-official3943.buzz
-0.0.0.0 casino-x-bonus-qz5692.win
-0.0.0.0 www.casino-x-bonus-qz5692.win
 0.0.0.0 casino-x-bonus-site1014.buzz
 0.0.0.0 www.casino-x-bonus-site1014.buzz
 0.0.0.0 casino-x-bonus-top9632.buzz
@@ -653,6 +647,8 @@
 0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
+0.0.0.0 congrats-prize-chance-amazing.top
+0.0.0.0 www.congrats-prize-chance-amazing.top
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-gabrielle.com
@@ -687,8 +683,6 @@
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 hotdating4you.online
-0.0.0.0 www.hotdating4you.online
 0.0.0.0 joint-bonus-auto.online
 0.0.0.0 www.joint-bonus-auto.online
 0.0.0.0 joint-bonus-connect.online
@@ -723,6 +717,8 @@
 0.0.0.0 www.prize-giving-real-win.top
 0.0.0.0 prizes-world.one
 0.0.0.0 www.prizes-world.one
+0.0.0.0 real-giveaway-prize-instantwin.top
+0.0.0.0 www.real-giveaway-prize-instantwin.top
 0.0.0.0 search-weekly-prize-giveaway.top
 0.0.0.0 www.search-weekly-prize-giveaway.top
 0.0.0.0 stardate1440.com
