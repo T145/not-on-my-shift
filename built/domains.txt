@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-01-25T12:14:59Z
+# Last update: 2025-01-26T12:14:47Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -382,7 +382,7 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-2019releasedate2018.com
+appdatehuf7.top
 artprize2024.beauty
 best-lovelady.com
 bonus-card.xyz
@@ -392,10 +392,12 @@ bonus-tikt0k.shop
 bonus-zknation.app
 bonus1.at
 bonus100cuaca889.digital
+bonus88.xyz
 bonushkjepe88.info
 bonusverensiteler2024.click
 casino-bonus-utan-svensk-licens.com
 casino-x-bonus-official3943.buzz
+casino-x-bonus-site1014.buzz
 casino-x-bonus-top9632.buzz
 casino-x-official-bonus999291.win
 casino-x-site-bonus2729.buzz
@@ -407,13 +409,13 @@ chance-prize-smart-instant.top
 cname-blk2.com
 congrats-prize-chance-amazing.top
 cuidate-skin.com
-date-afrique.xyz
 date-gabrielle.com
 date-jason.com
 date-sns.com
 date1n1.net
 date2loveafilipina.com
 date37.com
+daten-aktualisierung.net
 daten-erneuern-ch.com
 dating-pass.com
 dating24hour.com
