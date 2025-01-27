@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-01-26T12:14:47Z
+# Last update: 2025-01-27T12:15:34Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -291,6 +291,8 @@
 0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
 0.0.0.0 www.castllypay.com
+0.0.0.0 clickedgesolutions.com
+0.0.0.0 www.clickedgesolutions.com
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 comptoncymru.com
 0.0.0.0 www.comptoncymru.com
@@ -599,8 +601,6 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 appdatehuf7.top
-0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
@@ -675,6 +675,10 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 denemebonusu-2024.click
 0.0.0.0 www.denemebonusu-2024.click
+0.0.0.0 denemebonusu073.xyz
+0.0.0.0 www.denemebonusu073.xyz
+0.0.0.0 denemebonusu95.xyz
+0.0.0.0 www.denemebonusu95.xyz
 0.0.0.0 fe-candidate-jddiaz-20241216.net
 0.0.0.0 www.fe-candidate-jddiaz-20241216.net
 0.0.0.0 gama-casino-bonus757.buzz
@@ -721,6 +725,8 @@
 0.0.0.0 www.prize-foryou-weekly-champion.top
 0.0.0.0 prize-giving-real-win.top
 0.0.0.0 www.prize-giving-real-win.top
+0.0.0.0 prize-real-win-lucky.top
+0.0.0.0 www.prize-real-win-lucky.top
 0.0.0.0 prizes-world.one
 0.0.0.0 www.prizes-world.one
 0.0.0.0 real-giveaway-prize-instantwin.top
