@@ -6,11 +6,9 @@ domains:
 - blog.sidmach.com
 - cancervants.org
 - castllypay.com
-- clickedgesolutions.com
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
-- dexil.ru
 - fraternitykerala.org
 - galaxyfunbowl.gr
 - galerihana.com
@@ -77,10 +75,12 @@ ignored_domains:
 - cbd-and-seizures.com
 - celestinfreinet.mx
 - cgassociates.pk
+- clickedgesolutions.com
 - contornosdesign.pt
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
+- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl

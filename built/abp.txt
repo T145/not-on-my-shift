@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-01-28T12:15:19Z
+! Last update: 2025-01-29T12:15:30Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -216,11 +216,9 @@
 ||blog.sidmach.com^
 ||cancervants.org^
 ||castllypay.com^
-||clickedgesolutions.com^
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
-||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||galerihana.com^
@@ -392,10 +390,8 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||appdatehuf7.top^
 ||artprize2024.beauty^
 ||best-lovelady.com^
-||bonus-card.xyz^
 ||bonus-casino-trix.online^
 ||bonus-de-casino.net^
 ||bonus-tikt0k.shop^
@@ -407,15 +403,12 @@
 ||bonusverensiteler2024.click^
 ||casino-bonus-utan-svensk-licens.com^
 ||casino-x-bonus-official3943.buzz^
-||casino-x-bonus-site1014.buzz^
 ||casino-x-bonus-top9632.buzz^
 ||casino-x-official-bonus999291.win^
 ||casino-x-site-bonus2729.buzz^
 ||casinox-bonus1702.buzz^
-||casinox-bonus4752.win^
 ||champion-instantwin-prize-weekly.top^
 ||chance-congrats-prize-draw.top^
-||chance-prize-smart-instant.top^
 ||cname-blk2.com^
 ||congrats-prize-chance-amazing.top^
 ||cuidate-skin.com^
@@ -429,10 +422,8 @@
 ||daten-erneuern-ch.com^
 ||dating-pass.com^
 ||dating24hour.com^
-||denemebonusu-2024.click^
 ||fe-candidate-jddiaz-20241216.net^
 ||gama-casino-bonus757.buzz^
-||giveaway-prize-foryou-search.top^
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
 ||hotdating4you.online^
@@ -441,9 +432,7 @@
 ||jointbonus-bigsale.online^
 ||jointbonus-llc.online^
 ||kosodate-happy.net^
-||linkbonus33.pro^
 ||lucky-prize-giveaway-congrats.top^
-||maako-kosodate-diary.net^
 ||meine-daten-aktuell.com^
 ||onedate888.com^
 ||online-dating.top^
@@ -452,10 +441,8 @@
 ||prize-champion-deal-draw.top^
 ||prize-claimer.site^
 ||prize-foryou-weekly-champion.top^
-||prize-giving-real-win.top^
 ||prize-real-win-lucky.top^
 ||prizes-world.one^
-||real-giveaway-prize-instantwin.top^
 ||reward-real-prize-bigwin.top^
 ||search-weekly-prize-giveaway.top^
 ||smart-amazing-prize-weekly.top^
@@ -464,10 +451,8 @@
 ||superbonus888.pro^
 ||superbonus8888.club^
 ||superbonus888autos.net^
-||superbonus888v3.pro^
 ||superbonus911.pro^
 ||supplychangedate4.buzz^
-||up-to-date-online.com^
 ||uptodate-online.com^
 ||validate-blakely.com^
 ||validate-order.info^
