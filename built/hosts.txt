@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-02-01T12:14:54Z
+# Last update: 2025-02-02T12:14:58Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -296,6 +296,8 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -597,6 +599,8 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+0.0.0.0 appdatehuf7.top
+0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
@@ -667,8 +671,6 @@
 0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
-0.0.0.0 denemebonusu-2024.click
-0.0.0.0 www.denemebonusu-2024.click
 0.0.0.0 draw-search-prize-claim.top
 0.0.0.0 www.draw-search-prize-claim.top
 0.0.0.0 fe-candidate-jddiaz-20241216.net
@@ -683,6 +685,8 @@
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
+0.0.0.0 hotdating4you.online
+0.0.0.0 www.hotdating4you.online
 0.0.0.0 joint-bonus-auto.online
 0.0.0.0 www.joint-bonus-auto.online
 0.0.0.0 joint-bonus-connect.online
@@ -711,8 +715,6 @@
 0.0.0.0 www.prize-amazing-lucky-congrats.top
 0.0.0.0 prize-champion-deal-draw.top
 0.0.0.0 www.prize-champion-deal-draw.top
-0.0.0.0 prize-claimer.site
-0.0.0.0 www.prize-claimer.site
 0.0.0.0 prize-foryou-weekly-champion.top
 0.0.0.0 www.prize-foryou-weekly-champion.top
 0.0.0.0 prize-giving-real-win.top
@@ -725,14 +727,10 @@
 0.0.0.0 www.real-giveaway-prize-instantwin.top
 0.0.0.0 reward-real-prize-bigwin.top
 0.0.0.0 www.reward-real-prize-bigwin.top
-0.0.0.0 sdating41.website
-0.0.0.0 www.sdating41.website
 0.0.0.0 search-weekly-prize-giveaway.top
 0.0.0.0 www.search-weekly-prize-giveaway.top
 0.0.0.0 smart-amazing-prize-weekly.top
 0.0.0.0 www.smart-amazing-prize-weekly.top
-0.0.0.0 smart-instantwin-prize-real.top
-0.0.0.0 www.smart-instantwin-prize-real.top
 0.0.0.0 specialoffer-reward-prize-foryou.top
 0.0.0.0 www.specialoffer-reward-prize-foryou.top
 0.0.0.0 stardate1440.com
@@ -755,10 +753,6 @@
 0.0.0.0 www.uptodate-online.com
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
-0.0.0.0 validate-order.info
-0.0.0.0 www.validate-order.info
-0.0.0.0 vavada-bonus2025.info
-0.0.0.0 www.vavada-bonus2025.info
 0.0.0.0 wawada-bonus2025.info
 0.0.0.0 www.wawada-bonus2025.info
 0.0.0.0 wdate8.xyz
