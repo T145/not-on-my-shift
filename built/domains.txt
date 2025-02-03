@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-02-02T12:14:58Z
+# Last update: 2025-02-03T12:15:31Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -211,6 +211,7 @@ clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
 dexil.ru
+eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
 galerihana.com
@@ -400,7 +401,6 @@ casino-x-bonus-site1014.buzz
 casino-x-bonus-top9632.buzz
 casino-x-official-bonus999291.win
 casino-x-site-bonus2729.buzz
-casinox-bonus1702.buzz
 casinox-bonus4752.win
 champion-instantwin-prize-weekly.top
 chance-congrats-prize-draw.top
@@ -408,17 +408,15 @@ chance-prize-smart-instant.top
 cname-blk2.com
 congrats-prize-chance-amazing.top
 cuidate-skin.com
-date-gabrielle.com
 date-jason.com
 date-sns.com
 date1n1.net
 date2loveafilipina.com
 date37.com
 daten-aktualisierung.net
-daten-erneuern-ch.com
 dating-pass.com
 dating24hour.com
-draw-search-prize-claim.top
+denemebonusu-2024.click
 fe-candidate-jddiaz-20241216.net
 gama-casino-bonus757.buzz
 giveaway-foryou-prize-smart.top
@@ -434,12 +432,12 @@ kosodate-happy.net
 linkbonus33.pro
 lucky-prize-giveaway-congrats.top
 maako-kosodate-diary.net
-meine-daten-aktuell.com
 onedate888.com
 online-dating.top
 pandateam8.xyz
 prize-amazing-lucky-congrats.top
 prize-champion-deal-draw.top
+prize-claimer.site
 prize-foryou-weekly-champion.top
 prize-giving-real-win.top
 prize-real-win-lucky.top
@@ -448,6 +446,7 @@ real-giveaway-prize-instantwin.top
 reward-real-prize-bigwin.top
 search-weekly-prize-giveaway.top
 smart-amazing-prize-weekly.top
+smart-instantwin-prize-real.top
 specialoffer-reward-prize-foryou.top
 stardate1440.com
 superbonus888.pro
@@ -459,6 +458,7 @@ supplychangedate4.buzz
 up-to-date-online.com
 uptodate-online.com
 validate-blakely.com
+validate-order.info
 wawada-bonus2025.info
 wdate8.xyz
 yuttarikosodate55.net
