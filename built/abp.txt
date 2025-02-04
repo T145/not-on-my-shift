@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-02-03T12:15:31Z
+! Last update: 2025-02-04T12:15:44Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -213,6 +213,7 @@
 !  - https://geeklevi.com/fedex/
 ||ailnoir.com^
 ||alercehistorico.cl^
+||bamperbolspb.ru^
 ||blog.sidmach.com^
 ||cancervants.org^
 ||castllypay.com^
@@ -220,7 +221,6 @@
 ||comptoncymru.com^
 ||defencelover.in^
 ||dexil.ru^
-||eurosystemsrl.eu^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||galerihana.com^
@@ -410,6 +410,7 @@
 ||casino-x-bonus-top9632.buzz^
 ||casino-x-official-bonus999291.win^
 ||casino-x-site-bonus2729.buzz^
+||casinox-bonus1702.buzz^
 ||casinox-bonus4752.win^
 ||champion-instantwin-prize-weekly.top^
 ||chance-congrats-prize-draw.top^
@@ -417,6 +418,7 @@
 ||cname-blk2.com^
 ||congrats-prize-chance-amazing.top^
 ||cuidate-skin.com^
+||date-gabrielle.com^
 ||date-jason.com^
 ||date-sns.com^
 ||date1n1.net^
@@ -426,6 +428,7 @@
 ||dating-pass.com^
 ||dating24hour.com^
 ||denemebonusu-2024.click^
+||draw-search-prize-claim.top^
 ||fe-candidate-jddiaz-20241216.net^
 ||gama-casino-bonus757.buzz^
 ||giveaway-foryou-prize-smart.top^
@@ -441,6 +444,7 @@
 ||linkbonus33.pro^
 ||lucky-prize-giveaway-congrats.top^
 ||maako-kosodate-diary.net^
+||meine-daten-aktuell.com^
 ||onedate888.com^
 ||online-dating.top^
 ||pandateam8.xyz^
