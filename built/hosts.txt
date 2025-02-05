@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-02-04T12:15:44Z
+# Last update: 2025-02-05T12:15:29Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -286,13 +286,13 @@
 0.0.0.0 www.ailnoir.com
 0.0.0.0 alercehistorico.cl
 0.0.0.0 www.alercehistorico.cl
-0.0.0.0 bamperbolspb.ru
-0.0.0.0 www.bamperbolspb.ru
 0.0.0.0 blog.sidmach.com
 0.0.0.0 cancervants.org
 0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
 0.0.0.0 www.castllypay.com
+0.0.0.0 clickedgesolutions.com
+0.0.0.0 www.clickedgesolutions.com
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 comptoncymru.com
 0.0.0.0 www.comptoncymru.com
@@ -348,8 +348,6 @@
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
 0.0.0.0 www.trashstation.com
-0.0.0.0 tubies.com
-0.0.0.0 www.tubies.com
 0.0.0.0 twospoonsfleet.co.uk
 0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
@@ -619,6 +617,8 @@
 0.0.0.0 www.bonus1.at
 0.0.0.0 bonus100cuaca889.digital
 0.0.0.0 www.bonus100cuaca889.digital
+0.0.0.0 bonus88.online
+0.0.0.0 www.bonus88.online
 0.0.0.0 bonus88.xyz
 0.0.0.0 www.bonus88.xyz
 0.0.0.0 bonushkjepe88.info
@@ -725,6 +725,8 @@
 0.0.0.0 www.prize-giving-real-win.top
 0.0.0.0 prize-real-win-lucky.top
 0.0.0.0 www.prize-real-win-lucky.top
+0.0.0.0 prize-somewhere.pro
+0.0.0.0 www.prize-somewhere.pro
 0.0.0.0 prizes-world.one
 0.0.0.0 www.prizes-world.one
 0.0.0.0 real-giveaway-prize-instantwin.top
