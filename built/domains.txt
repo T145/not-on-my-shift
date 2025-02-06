@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-02-05T12:15:29Z
+# Last update: 2025-02-06T12:15:29Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -236,6 +236,7 @@ tacloban.gov.ph
 teamder.org
 thozhilvarthalatest.com
 trashstation.com
+tubies.com
 twospoonsfleet.co.uk
 ultimatepreneur.com
 vanguardacademy-ng.com
@@ -387,11 +388,9 @@ artprize2024.beauty
 best-lovelady.com
 bonus-casino-trix.online
 bonus-de-casino.net
-bonus-tikt0k.shop
 bonus-zknation.app
 bonus1.at
 bonus100cuaca889.digital
-bonus88.online
 bonus88.xyz
 bonushkjepe88.info
 bonusverensiteler2024.click
@@ -445,7 +444,6 @@ prize-claimer.site
 prize-foryou-weekly-champion.top
 prize-giving-real-win.top
 prize-real-win-lucky.top
-prize-somewhere.pro
 prizes-world.one
 real-giveaway-prize-instantwin.top
 reward-real-prize-bigwin.top
@@ -460,7 +458,6 @@ superbonus888autos.net
 superbonus888v3.pro
 superbonus911.pro
 supplychangedate4.buzz
-up-to-date-online.com
 uptodate-online.com
 validate-blakely.com
 validate-order.info
