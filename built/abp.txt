@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-02-07T12:15:20Z
+! Last update: 2025-02-08T12:15:02Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -397,6 +397,7 @@
 ||best-lovelady.com^
 ||bonus-casino-trix.online^
 ||bonus-de-casino.net^
+||bonus-tikt0k.shop^
 ||bonus-zknation.app^
 ||bonus1.at^
 ||bonus100cuaca889.digital^
@@ -423,6 +424,7 @@
 ||date1n1.net^
 ||date2loveafilipina.com^
 ||date37.com^
+||daten-aktualisierung.com^
 ||daten-aktualisierung.net^
 ||dating-pass.com^
 ||dating24hour.com^
@@ -467,11 +469,14 @@
 ||superbonus888v3.pro^
 ||superbonus911.pro^
 ||supplychangedate4.buzz^
-||up-to-date-online.com^
+||uptodate-online.com^
 ||validate-blakely.com^
 ||validate-order.info^
 ||wawada-bonus2025.info^
 ||wdate8.xyz^
+||xn--bonuscsino-zfb.com^
+||xn--csinobonus-ufb.com^
+||xn--csinobonuses-7mb.com^
 ||yuttarikosodate55.net^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".

@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-02-07T12:15:20Z
+# Last update: 2025-02-08T12:15:02Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -611,6 +611,8 @@
 0.0.0.0 www.bonus-casino-trix.online
 0.0.0.0 bonus-de-casino.net
 0.0.0.0 www.bonus-de-casino.net
+0.0.0.0 bonus-tikt0k.shop
+0.0.0.0 www.bonus-tikt0k.shop
 0.0.0.0 bonus-zknation.app
 0.0.0.0 www.bonus-zknation.app
 0.0.0.0 bonus1.at
@@ -663,6 +665,8 @@
 0.0.0.0 www.date2loveafilipina.com
 0.0.0.0 date37.com
 0.0.0.0 www.date37.com
+0.0.0.0 daten-aktualisierung.com
+0.0.0.0 www.daten-aktualisierung.com
 0.0.0.0 daten-aktualisierung.net
 0.0.0.0 www.daten-aktualisierung.net
 0.0.0.0 dating-pass.com
@@ -751,8 +755,8 @@
 0.0.0.0 www.superbonus911.pro
 0.0.0.0 supplychangedate4.buzz
 0.0.0.0 www.supplychangedate4.buzz
-0.0.0.0 up-to-date-online.com
-0.0.0.0 www.up-to-date-online.com
+0.0.0.0 uptodate-online.com
+0.0.0.0 www.uptodate-online.com
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
 0.0.0.0 validate-order.info
@@ -761,6 +765,12 @@
 0.0.0.0 www.wawada-bonus2025.info
 0.0.0.0 wdate8.xyz
 0.0.0.0 www.wdate8.xyz
+0.0.0.0 xn--bonuscsino-zfb.com
+0.0.0.0 www.xn--bonuscsino-zfb.com
+0.0.0.0 xn--csinobonus-ufb.com
+0.0.0.0 www.xn--csinobonus-ufb.com
+0.0.0.0 xn--csinobonuses-7mb.com
+0.0.0.0 www.xn--csinobonuses-7mb.com
 0.0.0.0 yuttarikosodate55.net
 0.0.0.0 www.yuttarikosodate55.net
 
