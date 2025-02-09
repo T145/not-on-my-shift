@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-02-08T12:15:02Z
+! Last update: 2025-02-09T12:15:04Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -392,6 +392,7 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+||26casinobonus-ru.site^
 ||appdatehuf7.top^
 ||artprize2024.beauty^
 ||best-lovelady.com^
@@ -409,7 +410,6 @@
 ||casino-x-bonus-site1014.buzz^
 ||casino-x-bonus-top9632.buzz^
 ||casino-x-official-bonus999291.win^
-||casino-x-site-bonus2729.buzz^
 ||casinox-bonus1702.buzz^
 ||casinox-bonus4752.win^
 ||champion-instantwin-prize-weekly.top^
@@ -436,7 +436,6 @@
 ||giveaway-prize-foryou-search.top^
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
-||hotdating4you.online^
 ||joint-bonus-auto.online^
 ||joint-bonus-connect.online^
 ||jointbonus-bigsale.online^
@@ -469,14 +468,12 @@
 ||superbonus888v3.pro^
 ||superbonus911.pro^
 ||supplychangedate4.buzz^
+||up-to-date-online.com^
 ||uptodate-online.com^
 ||validate-blakely.com^
 ||validate-order.info^
 ||wawada-bonus2025.info^
 ||wdate8.xyz^
-||xn--bonuscsino-zfb.com^
-||xn--csinobonus-ufb.com^
-||xn--csinobonuses-7mb.com^
 ||yuttarikosodate55.net^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
