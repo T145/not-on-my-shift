@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-02-11T12:15:22Z
+! Last update: 2025-02-12T12:15:23Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -212,11 +212,9 @@
 ! 2021-03-02 Fedex phishing
 !  - https://geeklevi.com/fedex/
 ||ailnoir.com^
-||alercehistorico.cl^
 ||blog.sidmach.com^
 ||cancervants.org^
 ||castllypay.com^
-||clickedgesolutions.com^
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
@@ -401,7 +399,6 @@
 ||bonus-zknation.app^
 ||bonus1.at^
 ||bonus100cuaca889.digital^
-||bonus88.xyz^
 ||bonushkjepe88.info^
 ||bonusverensiteler2024.click^
 ||casino-bonus-utan-svensk-licens.com^
@@ -459,12 +456,14 @@
 ||search-weekly-prize-giveaway.top^
 ||smart-amazing-prize-weekly.top^
 ||smart-instantwin-prize-real.top^
+||specialoffer-reward-prize-foryou.top^
 ||stardate1440.com^
 ||superbonus888.pro^
+||superbonus8888.club^
 ||superbonus888autos.net^
 ||superbonus888v3.pro^
-||superbonus911.pro^
 ||supplychangedate4.buzz^
+||up-to-date-online.com^
 ||uptodate-online.com^
 ||validate-blakely.com^
 ||validate-order.info^
