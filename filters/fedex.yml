@@ -30,7 +30,6 @@ domains:
 - sm-projekt.si
 - synoviz.com
 - tacloban.gov.ph
-- teamder.org
 - thozhilvarthalatest.com
 - trashstation.com
 - tubies.com
@@ -39,7 +38,6 @@ domains:
 - vanguardacademy-ng.com
 - vladimirherzog.org
 - weboyal.com
-- wowfollowers.com
 fedex_suffixes:
 - app
 - fedex
@@ -143,6 +141,7 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
+- teamder.org
 - testargames.cl
 - thaircy.redcross.or.th
 - thietkelq.com
@@ -153,6 +152,7 @@ ignored_domains:
 - veljko.id
 - visotka.in
 - wordpress.mrcentertainment.com
+- wowfollowers.com
 - wp.up118.cn
 - wsw.cool
 - xn--thvitstore-c7a.com
