@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-02-13T12:15:33Z
+! Last update: 2025-02-14T12:15:19Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -240,6 +240,7 @@
 ||sm-projekt.si^
 ||synoviz.com^
 ||tacloban.gov.ph^
+||teamder.org^
 ||thozhilvarthalatest.com^
 ||trashstation.com^
 ||tubies.com^
@@ -248,6 +249,7 @@
 ||vanguardacademy-ng.com^
 ||vladimirherzog.org^
 ||weboyal.com^
+||wowfollowers.com^
 
 ! === SCAMS ===
 ! These filters block pages which are known to scam people for money or gift cards
@@ -388,7 +390,7 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||appdatehuf7.top^
+||acessyour-bonus-distribution.com^
 ||artprize2024.beauty^
 ||best-lovelady.com^
 ||bonus-casino-trix.online^
@@ -401,7 +403,6 @@
 ||bonushkjepe88.info^
 ||bonusverensiteler2024.click^
 ||casino-bonus-utan-svensk-licens.com^
-||casino-x-bonus-official3943.buzz^
 ||casino-x-bonus-site1014.buzz^
 ||casino-x-bonus-top9632.buzz^
 ||casino-x-official-bonus999291.win^
@@ -410,7 +411,6 @@
 ||casinox-bonus4752.win^
 ||champion-instantwin-prize-weekly.top^
 ||chance-congrats-prize-draw.top^
-||chance-prize-smart-instant.top^
 ||cname-blk2.com^
 ||congrats-prize-chance-amazing.top^
 ||cuidate-skin.com^
@@ -426,7 +426,6 @@
 ||denemebonusu-2024.click^
 ||draw-search-prize-claim.top^
 ||fe-candidate-jddiaz-20241216.net^
-||gama-casino-bonus757.buzz^
 ||giveaway-foryou-prize-smart.top^
 ||giveaway-prize-foryou-search.top^
 ||hakodate-wq.com^
@@ -437,14 +436,13 @@
 ||jointbonus-bigsale.online^
 ||jointbonus-llc.online^
 ||kosodate-happy.net^
-||linkbonus33.pro^
 ||lucky-prize-giveaway-congrats.top^
 ||maako-kosodate-diary.net^
 ||onedate888.com^
 ||online-dating.top^
 ||pandateam8.xyz^
+||prize-amazing-lucky-congrats.top^
 ||prize-champion-deal-draw.top^
-||prize-claimer.site^
 ||prize-foryou-weekly-champion.top^
 ||prize-giving-real-win.top^
 ||prize-real-win-lucky.top^
@@ -458,7 +456,6 @@
 ||stardate1440.com^
 ||superbonus888.pro^
 ||superbonus8888.club^
-||superbonus888autos.net^
 ||superbonus888v3.pro^
 ||superbonus911.pro^
 ||supplychangedate4.buzz^

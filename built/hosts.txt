@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-02-13T12:15:33Z
+# Last update: 2025-02-14T12:15:19Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -338,6 +338,8 @@
 0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
 0.0.0.0 www.tacloban.gov.ph
+0.0.0.0 teamder.org
+0.0.0.0 www.teamder.org
 0.0.0.0 thozhilvarthalatest.com
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
@@ -354,6 +356,8 @@
 0.0.0.0 www.vladimirherzog.org
 0.0.0.0 weboyal.com
 0.0.0.0 www.weboyal.com
+0.0.0.0 wowfollowers.com
+0.0.0.0 www.wowfollowers.com
 
 # === SCAMS ===
 # These filters block pages which are known to scam people for money or gift cards
@@ -593,8 +597,8 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 appdatehuf7.top
-0.0.0.0 www.appdatehuf7.top
+0.0.0.0 acessyour-bonus-distribution.com
+0.0.0.0 www.acessyour-bonus-distribution.com
 0.0.0.0 artprize2024.beauty
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
@@ -619,8 +623,6 @@
 0.0.0.0 www.bonusverensiteler2024.click
 0.0.0.0 casino-bonus-utan-svensk-licens.com
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
-0.0.0.0 casino-x-bonus-official3943.buzz
-0.0.0.0 www.casino-x-bonus-official3943.buzz
 0.0.0.0 casino-x-bonus-site1014.buzz
 0.0.0.0 www.casino-x-bonus-site1014.buzz
 0.0.0.0 casino-x-bonus-top9632.buzz
@@ -637,8 +639,6 @@
 0.0.0.0 www.champion-instantwin-prize-weekly.top
 0.0.0.0 chance-congrats-prize-draw.top
 0.0.0.0 www.chance-congrats-prize-draw.top
-0.0.0.0 chance-prize-smart-instant.top
-0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
 0.0.0.0 congrats-prize-chance-amazing.top
@@ -669,8 +669,6 @@
 0.0.0.0 www.draw-search-prize-claim.top
 0.0.0.0 fe-candidate-jddiaz-20241216.net
 0.0.0.0 www.fe-candidate-jddiaz-20241216.net
-0.0.0.0 gama-casino-bonus757.buzz
-0.0.0.0 www.gama-casino-bonus757.buzz
 0.0.0.0 giveaway-foryou-prize-smart.top
 0.0.0.0 www.giveaway-foryou-prize-smart.top
 0.0.0.0 giveaway-prize-foryou-search.top
@@ -691,8 +689,6 @@
 0.0.0.0 www.jointbonus-llc.online
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
-0.0.0.0 linkbonus33.pro
-0.0.0.0 www.linkbonus33.pro
 0.0.0.0 lucky-prize-giveaway-congrats.top
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
@@ -703,10 +699,10 @@
 0.0.0.0 www.online-dating.top
 0.0.0.0 pandateam8.xyz
 0.0.0.0 www.pandateam8.xyz
+0.0.0.0 prize-amazing-lucky-congrats.top
+0.0.0.0 www.prize-amazing-lucky-congrats.top
 0.0.0.0 prize-champion-deal-draw.top
 0.0.0.0 www.prize-champion-deal-draw.top
-0.0.0.0 prize-claimer.site
-0.0.0.0 www.prize-claimer.site
 0.0.0.0 prize-foryou-weekly-champion.top
 0.0.0.0 www.prize-foryou-weekly-champion.top
 0.0.0.0 prize-giving-real-win.top
@@ -733,8 +729,6 @@
 0.0.0.0 www.superbonus888.pro
 0.0.0.0 superbonus8888.club
 0.0.0.0 www.superbonus8888.club
-0.0.0.0 superbonus888autos.net
-0.0.0.0 www.superbonus888autos.net
 0.0.0.0 superbonus888v3.pro
 0.0.0.0 www.superbonus888v3.pro
 0.0.0.0 superbonus911.pro
