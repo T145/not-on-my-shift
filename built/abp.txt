@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-02-16T12:15:32Z
+! Last update: 2025-02-17T12:15:25Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -218,10 +218,8 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
-||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
-||galerihana.com^
 ||godynamo.co^
 ||guzelbil.com^
 ||kmtks.org.tw^
@@ -396,7 +394,6 @@
 ||best-lovelady.com^
 ||bonus-casino-trix.online^
 ||bonus-de-casino.net^
-||bonus-tikt0k.shop^
 ||bonus-zknation.app^
 ||bonus1.at^
 ||bonus100cuaca889.digital^
@@ -420,7 +417,6 @@
 ||date-gabrielle.com^
 ||date-jason.com^
 ||date-sns.com^
-||date1n1.net^
 ||date2loveafilipina.com^
 ||date37.com^
 ||daten-aktualisierung.com^
@@ -434,7 +430,6 @@
 ||giveaway-prize-foryou-search.top^
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
-||hotdating4you.online^
 ||joint-bonus-auto.online^
 ||joint-bonus-connect.online^
 ||jointbonus-bigsale.online^
@@ -448,7 +443,6 @@
 ||pandateam8.xyz^
 ||prize-amazing-lucky-congrats.top^
 ||prize-champion-deal-draw.top^
-||prize-claimer.site^
 ||prize-foryou-weekly-champion.top^
 ||prize-giving-real-win.top^
 ||prize-real-win-lucky.top^
