@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-02-18T12:15:25Z
+# Last update: 2025-02-19T12:15:26Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -289,19 +289,17 @@
 0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
 0.0.0.0 www.castllypay.com
+0.0.0.0 clickedgesolutions.com
+0.0.0.0 www.clickedgesolutions.com
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 comptoncymru.com
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
-0.0.0.0 galerihana.com
-0.0.0.0 www.galerihana.com
 0.0.0.0 godynamo.co
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
@@ -330,8 +328,6 @@
 0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
 0.0.0.0 www.redlog.cl
-0.0.0.0 robbreport.com.my
-0.0.0.0 www.robbreport.com.my
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
@@ -597,8 +593,8 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 acessyour-bonus-distribution.com
-0.0.0.0 www.acessyour-bonus-distribution.com
+0.0.0.0 appdatehuf7.top
+0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
@@ -607,6 +603,8 @@
 0.0.0.0 www.bonus-casino-trix.online
 0.0.0.0 bonus-de-casino.net
 0.0.0.0 www.bonus-de-casino.net
+0.0.0.0 bonus-tikt0k.shop
+0.0.0.0 www.bonus-tikt0k.shop
 0.0.0.0 bonus-zknation.app
 0.0.0.0 www.bonus-zknation.app
 0.0.0.0 bonus1.at
@@ -655,8 +653,6 @@
 0.0.0.0 www.date-sns.com
 0.0.0.0 date2loveafilipina.com
 0.0.0.0 www.date2loveafilipina.com
-0.0.0.0 date37.com
-0.0.0.0 www.date37.com
 0.0.0.0 daten-aktualisierung.com
 0.0.0.0 www.daten-aktualisierung.com
 0.0.0.0 dating-pass.com
@@ -719,8 +715,6 @@
 0.0.0.0 www.prizes-world.one
 0.0.0.0 real-giveaway-prize-instantwin.top
 0.0.0.0 www.real-giveaway-prize-instantwin.top
-0.0.0.0 reward-real-prize-bigwin.top
-0.0.0.0 www.reward-real-prize-bigwin.top
 0.0.0.0 search-weekly-prize-giveaway.top
 0.0.0.0 www.search-weekly-prize-giveaway.top
 0.0.0.0 smart-amazing-prize-weekly.top

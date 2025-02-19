@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-02-18T12:15:25Z
+! Last update: 2025-02-19T12:15:26Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -215,13 +215,12 @@
 ||blog.sidmach.com^
 ||cancervants.org^
 ||castllypay.com^
+||clickedgesolutions.com^
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
-||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
-||galerihana.com^
 ||godynamo.co^
 ||guzelbil.com^
 ||kmtks.org.tw^
@@ -236,7 +235,6 @@
 ||nqtxk.com^
 ||parikhinfosolutions.in^
 ||redlog.cl^
-||robbreport.com.my^
 ||sm-projekt.si^
 ||synoviz.com^
 ||tacloban.gov.ph^
@@ -390,11 +388,12 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||acessyour-bonus-distribution.com^
+||appdatehuf7.top^
 ||artprize2024.beauty^
 ||best-lovelady.com^
 ||bonus-casino-trix.online^
 ||bonus-de-casino.net^
+||bonus-tikt0k.shop^
 ||bonus-zknation.app^
 ||bonus1.at^
 ||bonus100cuaca889.digital^
@@ -419,7 +418,6 @@
 ||date-jason.com^
 ||date-sns.com^
 ||date2loveafilipina.com^
-||date37.com^
 ||daten-aktualisierung.com^
 ||dating-pass.com^
 ||dating24hour.com^
@@ -451,7 +449,6 @@
 ||prize-real-win-lucky.top^
 ||prizes-world.one^
 ||real-giveaway-prize-instantwin.top^
-||reward-real-prize-bigwin.top^
 ||search-weekly-prize-giveaway.top^
 ||smart-amazing-prize-weekly.top^
 ||smart-instantwin-prize-real.top^
