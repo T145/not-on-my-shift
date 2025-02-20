@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-02-19T12:15:26Z
+! Last update: 2025-02-20T12:15:22Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -219,8 +219,10 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
+||galerihana.com^
 ||godynamo.co^
 ||guzelbil.com^
 ||kmtks.org.tw^
@@ -449,6 +451,7 @@
 ||prize-real-win-lucky.top^
 ||prizes-world.one^
 ||real-giveaway-prize-instantwin.top^
+||reward-real-prize-bigwin.top^
 ||search-weekly-prize-giveaway.top^
 ||smart-amazing-prize-weekly.top^
 ||smart-instantwin-prize-real.top^
@@ -461,7 +464,6 @@
 ||superbonus911.pro^
 ||supplychangedate4.buzz^
 ||up-to-date-online.com^
-||uptodate-online.com^
 ||validate-blakely.com^
 ||validate-order.info^
 ||wawada-bonus2025.info^
