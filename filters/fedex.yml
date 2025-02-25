@@ -2,6 +2,7 @@
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
 - ailnoir.com
+- b2bpipe.cn
 - blog.sidmach.com
 - cancervants.org
 - castllypay.com
@@ -30,7 +31,6 @@ domains:
 - sm-projekt.si
 - synoviz.com
 - tacloban.gov.ph
-- teamder.org
 - thozhilvarthalatest.com
 - trashstation.com
 - tubies.com
@@ -65,7 +65,6 @@ ignored_domains:
 - appulse.de
 - arisannafarms.com
 - asfand.fahadmarketing.com
-- b2bpipe.cn
 - bamperbolspb.ru
 - bestgoldenretrieverbreeder.com
 - bks.tv
@@ -143,6 +142,7 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
+- teamder.org
 - testargames.cl
 - thaircy.redcross.or.th
 - thietkelq.com
