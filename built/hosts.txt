@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-02-25T12:15:37Z
+# Last update: 2025-02-26T12:15:32Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,6 +298,8 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -340,6 +342,8 @@
 0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
 0.0.0.0 www.tacloban.gov.ph
+0.0.0.0 teamder.org
+0.0.0.0 www.teamder.org
 0.0.0.0 thozhilvarthalatest.com
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
@@ -719,8 +723,6 @@
 0.0.0.0 www.real-giveaway-prize-instantwin.top
 0.0.0.0 reward-real-prize-bigwin.top
 0.0.0.0 www.reward-real-prize-bigwin.top
-0.0.0.0 search-weekly-prize-giveaway.top
-0.0.0.0 www.search-weekly-prize-giveaway.top
 0.0.0.0 smart-amazing-prize-weekly.top
 0.0.0.0 www.smart-amazing-prize-weekly.top
 0.0.0.0 smart-instantwin-prize-real.top
