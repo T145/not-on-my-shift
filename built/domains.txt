@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-02-28T12:15:39Z
+# Last update: 2025-03-01T12:15:14Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -229,7 +229,6 @@ nectartrust.org.uk
 nqtxk.com
 parikhinfosolutions.in
 redlog.cl
-robbreport.com.my
 sm-projekt.si
 synoviz.com
 tacloban.gov.ph
@@ -242,6 +241,7 @@ ultimatepreneur.com
 vanguardacademy-ng.com
 vladimirherzog.org
 weboyal.com
+wowfollowers.com
 
 # === SCAMS ===
 # These filters block pages which are known to scam people for money or gift cards
@@ -382,6 +382,7 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+appdatehuf7.top
 artprize2024.beauty
 best-lovelady.com
 bonus-de-casino.net
@@ -389,16 +390,24 @@ bonus-tikt0k.shop
 bonus-zknation.app
 bonus1.at
 bonus100cuaca889.digital
+bonus88.xyz
+bonusbets365.com
+bonushkjepe88.info
+bonusverensiteler2024.click
 casino-bonus-utan-svensk-licens.com
 casino-x-bonus-official3943.buzz
 casino-x-bonus-site1014.buzz
 casino-x-bonus-top9632.buzz
 casino-x-official-bonus999291.win
+casino-x-site-bonus2729.buzz
 casinobonus2018.net
 casinox-bonus1702.buzz
+casinox-bonus4752.win
 champion-instantwin-prize-weekly.top
+chance-congrats-prize-draw.top
 chance-prize-smart-instant.top
 cname-blk2.com
+congrats-prize-chance-amazing.top
 cuidate-skin.com
 date-gabrielle.com
 date-jason.com
@@ -408,6 +417,7 @@ daten-aktualisierung.com
 dating-pass.com
 dating24hour.com
 denemebonusu-2024.click
+draw-search-prize-claim.top
 fe-candidate-jddiaz-20241216.net
 gama-casino-bonus757.buzz
 giveaway-foryou-prize-smart.top
@@ -420,6 +430,7 @@ joint-bonus-connect.online
 jointbonus-bigsale.online
 jointbonus-llc.online
 kosodate-happy.net
+linkbonus33.pro
 lucky-prize-giveaway-congrats.top
 maako-kosodate-diary.net
 onedate888.com
@@ -431,6 +442,7 @@ prize-claimer.site
 prize-foryou-weekly-champion.top
 prize-giving-real-win.top
 prize-real-win-lucky.top
+prizes-world.one
 real-giveaway-prize-instantwin.top
 reward-real-prize-bigwin.top
 search-weekly-prize-giveaway.top
@@ -446,9 +458,11 @@ supplychangedate4.buzz
 up-to-date-online.com
 uptodate-online.com
 validate-blakely.com
+validate-order.info
 wawada-bonus2025.info
 wdate8.xyz
 xrpbonus-invest.net
+yuttarikosodate55.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 1mono.biz

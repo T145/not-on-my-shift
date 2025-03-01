@@ -28,7 +28,6 @@ domains:
 - nqtxk.com
 - parikhinfosolutions.in
 - redlog.cl
-- robbreport.com.my
 - sm-projekt.si
 - synoviz.com
 - tacloban.gov.ph
@@ -41,6 +40,7 @@ domains:
 - vanguardacademy-ng.com
 - vladimirherzog.org
 - weboyal.com
+- wowfollowers.com
 fedex_suffixes:
 - app
 - fedex
@@ -130,6 +130,7 @@ ignored_domains:
 - publicidadorl.com
 - rees.games
 - rishipes.co.nz
+- robbreport.com.my
 - runyixs.com
 - ryansa.com
 - sekolahalmunasemarang.sch.id
@@ -152,7 +153,6 @@ ignored_domains:
 - veljko.id
 - visotka.in
 - wordpress.mrcentertainment.com
-- wowfollowers.com
 - wp.up118.cn
 - wsw.cool
 - xn--thvitstore-c7a.com
