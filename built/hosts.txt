@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-03-01T12:15:14Z
+# Last update: 2025-03-02T12:15:06Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -284,8 +284,6 @@
 0.0.0.0 k.hencoder.com
 0.0.0.0 ailnoir.com
 0.0.0.0 www.ailnoir.com
-0.0.0.0 b2bpipe.cn
-0.0.0.0 www.b2bpipe.cn
 0.0.0.0 blog.sidmach.com
 0.0.0.0 cancervants.org
 0.0.0.0 www.cancervants.org
@@ -334,6 +332,8 @@
 0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
 0.0.0.0 www.redlog.cl
+0.0.0.0 robbreport.com.my
+0.0.0.0 www.robbreport.com.my
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
@@ -605,8 +605,6 @@
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
-0.0.0.0 bonus-de-casino.net
-0.0.0.0 www.bonus-de-casino.net
 0.0.0.0 bonus-tikt0k.shop
 0.0.0.0 www.bonus-tikt0k.shop
 0.0.0.0 bonus-zknation.app
@@ -617,10 +615,6 @@
 0.0.0.0 www.bonus100cuaca889.digital
 0.0.0.0 bonus88.xyz
 0.0.0.0 www.bonus88.xyz
-0.0.0.0 bonusbets365.com
-0.0.0.0 www.bonusbets365.com
-0.0.0.0 bonushkjepe88.info
-0.0.0.0 www.bonushkjepe88.info
 0.0.0.0 bonusverensiteler2024.click
 0.0.0.0 www.bonusverensiteler2024.click
 0.0.0.0 casino-bonus-utan-svensk-licens.com
@@ -717,8 +711,6 @@
 0.0.0.0 www.prize-foryou-weekly-champion.top
 0.0.0.0 prize-giving-real-win.top
 0.0.0.0 www.prize-giving-real-win.top
-0.0.0.0 prize-real-win-lucky.top
-0.0.0.0 www.prize-real-win-lucky.top
 0.0.0.0 prizes-world.one
 0.0.0.0 www.prizes-world.one
 0.0.0.0 real-giveaway-prize-instantwin.top
@@ -727,8 +719,6 @@
 0.0.0.0 www.reward-real-prize-bigwin.top
 0.0.0.0 search-weekly-prize-giveaway.top
 0.0.0.0 www.search-weekly-prize-giveaway.top
-0.0.0.0 smart-amazing-prize-weekly.top
-0.0.0.0 www.smart-amazing-prize-weekly.top
 0.0.0.0 smart-instantwin-prize-real.top
 0.0.0.0 www.smart-instantwin-prize-real.top
 0.0.0.0 specialoffer-reward-prize-foryou.top
@@ -743,6 +733,8 @@
 0.0.0.0 www.superbonus888autos.net
 0.0.0.0 superbonus888v3.pro
 0.0.0.0 www.superbonus888v3.pro
+0.0.0.0 superbonus911.pro
+0.0.0.0 www.superbonus911.pro
 0.0.0.0 supplychangedate4.buzz
 0.0.0.0 www.supplychangedate4.buzz
 0.0.0.0 up-to-date-online.com
