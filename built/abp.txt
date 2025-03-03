@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-03-02T12:15:06Z
+! Last update: 2025-03-03T12:15:32Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -231,13 +231,13 @@
 ||machupicchutraveling.com^
 ||magicboximportados.com.br^
 ||mistc.es^
+||mouwz.nl^
 ||mucc.com.au^
 ||myphamnganbinh.com^
 ||nectartrust.org.uk^
 ||nqtxk.com^
 ||parikhinfosolutions.in^
 ||redlog.cl^
-||robbreport.com.my^
 ||sm-projekt.si^
 ||synoviz.com^
 ||tacloban.gov.ph^
@@ -394,11 +394,14 @@
 ||appdatehuf7.top^
 ||artprize2024.beauty^
 ||best-lovelady.com^
+||bonus-de-casino.net^
 ||bonus-tikt0k.shop^
 ||bonus-zknation.app^
 ||bonus1.at^
+||bonus1.sbs^
 ||bonus100cuaca889.digital^
 ||bonus88.xyz^
+||bonushkjepe88.info^
 ||bonusverensiteler2024.click^
 ||casino-bonus-utan-svensk-licens.com^
 ||casino-x-bonus-official3943.buzz^
@@ -420,6 +423,7 @@
 ||date-sns.com^
 ||date2loveafilipina.com^
 ||daten-aktualisierung.com^
+||daten-erneuern-ch.com^
 ||dating-pass.com^
 ||dating24hour.com^
 ||denemebonusu-2024.click^
@@ -447,10 +451,12 @@
 ||prize-claimer.site^
 ||prize-foryou-weekly-champion.top^
 ||prize-giving-real-win.top^
+||prize-real-win-lucky.top^
 ||prizes-world.one^
 ||real-giveaway-prize-instantwin.top^
 ||reward-real-prize-bigwin.top^
 ||search-weekly-prize-giveaway.top^
+||smart-amazing-prize-weekly.top^
 ||smart-instantwin-prize-real.top^
 ||specialoffer-reward-prize-foryou.top^
 ||stardate1440.com^
@@ -461,7 +467,6 @@
 ||superbonus911.pro^
 ||supplychangedate4.buzz^
 ||up-to-date-online.com^
-||uptodate-online.com^
 ||validate-blakely.com^
 ||validate-order.info^
 ||wawada-bonus2025.info^
