@@ -5,9 +5,9 @@ domains:
 - blog.sidmach.com
 - cancervants.org
 - castllypay.com
-- clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
+- dexil.ru
 - fraternitykerala.org
 - galaxyfunbowl.gr
 - galerihana.com
@@ -22,10 +22,10 @@ domains:
 - mucc.com.au
 - myphamnganbinh.com
 - nectartrust.org.uk
+- njzmfcls.com
 - nqtxk.com
 - parikhinfosolutions.in
 - redlog.cl
-- robbreport.com.my
 - sm-projekt.si
 - synoviz.com
 - tacloban.gov.ph
@@ -37,6 +37,7 @@ domains:
 - ultimatepreneur.com
 - vanguardacademy-ng.com
 - vladimirherzog.org
+- weboyal.com
 - wowfollowers.com
 fedex_suffixes:
 - app
@@ -75,11 +76,11 @@ ignored_domains:
 - celestinfreinet.mx
 - cgassociates.pk
 - clickedgesolutions.com
+- clone.app.home-cost.com
 - contornosdesign.pt
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
-- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -119,7 +120,6 @@ ignored_domains:
 - new.deso.cz
 - nextgearup.com
 - nguen.net
-- njzmfcls.com
 - nogdec.com
 - patisserievanbarneveld.nl
 - perfect-blinds.com.au
@@ -130,6 +130,7 @@ ignored_domains:
 - publicidadorl.com
 - rees.games
 - rishipes.co.nz
+- robbreport.com.my
 - runyixs.com
 - ryansa.com
 - sekolahalmunasemarang.sch.id
@@ -151,7 +152,6 @@ ignored_domains:
 - update.fbsbx.com
 - veljko.id
 - visotka.in
-- weboyal.com
 - wordpress.mrcentertainment.com
 - wp.up118.cn
 - wsw.cool
