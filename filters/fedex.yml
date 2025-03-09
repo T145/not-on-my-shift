@@ -2,6 +2,7 @@
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
 - ailnoir.com
+- alercehistorico.cl
 - blog.sidmach.com
 - cancervants.org
 - castllypay.com
@@ -16,7 +17,6 @@ domains:
 - godynamo.co
 - guzelbil.com
 - kmtks.org.tw
-- loanglide.com
 - lova.network
 - machupicchutraveling.com
 - magicboximportados.com.br
@@ -28,6 +28,7 @@ domains:
 - nqtxk.com
 - parikhinfosolutions.in
 - redlog.cl
+- robbreport.com.my
 - sm-projekt.si
 - synoviz.com
 - tacloban.gov.ph
@@ -59,7 +60,6 @@ ignored_domains:
 - 918kiss.newworld88.com
 - 99bkx.com
 - afedgh.org
-- alercehistorico.cl
 - amirapache.ir
 - amzstudy.com
 - app.crconsultoriacontable.com
@@ -111,6 +111,7 @@ ignored_domains:
 - kidimy.org
 - klinikmetamorf.com
 - latesttechnologyz.com
+- loanglide.com
 - mahigifts.com
 - marincr.com
 - mevlutacik.com.tr
@@ -130,7 +131,6 @@ ignored_domains:
 - publicidadorl.com
 - rees.games
 - rishipes.co.nz
-- robbreport.com.my
 - runyixs.com
 - ryansa.com
 - sekolahalmunasemarang.sch.id
