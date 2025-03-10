@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-03-09T12:14:29Z
+# Last update: 2025-03-10T12:15:45Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -284,8 +284,6 @@
 0.0.0.0 k.hencoder.com
 0.0.0.0 ailnoir.com
 0.0.0.0 www.ailnoir.com
-0.0.0.0 alercehistorico.cl
-0.0.0.0 www.alercehistorico.cl
 0.0.0.0 blog.sidmach.com
 0.0.0.0 cancervants.org
 0.0.0.0 www.cancervants.org
@@ -637,8 +635,6 @@
 0.0.0.0 www.casino-x-official-bonus999291.win
 0.0.0.0 casino-x-site-bonus2729.buzz
 0.0.0.0 www.casino-x-site-bonus2729.buzz
-0.0.0.0 casinobonus2018.net
-0.0.0.0 www.casinobonus2018.net
 0.0.0.0 casinox-bonus1702.buzz
 0.0.0.0 www.casinox-bonus1702.buzz
 0.0.0.0 casinox-bonus4752.win
@@ -753,14 +749,14 @@
 0.0.0.0 www.superbonus911.pro
 0.0.0.0 supplychangedate4.buzz
 0.0.0.0 www.supplychangedate4.buzz
-0.0.0.0 up-to-date-online.com
-0.0.0.0 www.up-to-date-online.com
 0.0.0.0 uptodate-online.com
 0.0.0.0 www.uptodate-online.com
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
 0.0.0.0 validate-order.info
 0.0.0.0 www.validate-order.info
+0.0.0.0 validate-system.com
+0.0.0.0 www.validate-system.com
 0.0.0.0 wawada-bonus2025.info
 0.0.0.0 www.wawada-bonus2025.info
 0.0.0.0 wdate8.xyz
