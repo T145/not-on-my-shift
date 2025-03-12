@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-03-11T12:15:30Z
+# Last update: 2025-03-12T12:15:39Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -605,8 +605,6 @@
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-de-casino.net
 0.0.0.0 www.bonus-de-casino.net
-0.0.0.0 bonus-tikt0k.shop
-0.0.0.0 www.bonus-tikt0k.shop
 0.0.0.0 bonus-zknation.app
 0.0.0.0 www.bonus-zknation.app
 0.0.0.0 bonus1.at
@@ -619,16 +617,24 @@
 0.0.0.0 www.bonus500btc.com
 0.0.0.0 bonus88.xyz
 0.0.0.0 www.bonus88.xyz
+0.0.0.0 bonushkjepe88.info
+0.0.0.0 www.bonushkjepe88.info
+0.0.0.0 bonusverensiteler2024.click
+0.0.0.0 www.bonusverensiteler2024.click
 0.0.0.0 casino-bonus-utan-svensk-licens.com
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casino-x-bonus-site1014.buzz
 0.0.0.0 www.casino-x-bonus-site1014.buzz
 0.0.0.0 casino-x-bonus-top9632.buzz
 0.0.0.0 www.casino-x-bonus-top9632.buzz
+0.0.0.0 casino-x-official-bonus999291.win
+0.0.0.0 www.casino-x-official-bonus999291.win
 0.0.0.0 casino-x-site-bonus2729.buzz
 0.0.0.0 www.casino-x-site-bonus2729.buzz
 0.0.0.0 casinox-bonus1702.buzz
 0.0.0.0 www.casinox-bonus1702.buzz
+0.0.0.0 casinox-bonus4752.win
+0.0.0.0 www.casinox-bonus4752.win
 0.0.0.0 champion-instantwin-prize-weekly.top
 0.0.0.0 www.champion-instantwin-prize-weekly.top
 0.0.0.0 chance-congrats-prize-draw.top
@@ -699,6 +705,8 @@
 0.0.0.0 www.online-dating.top
 0.0.0.0 pandateam8.xyz
 0.0.0.0 www.pandateam8.xyz
+0.0.0.0 prize-amazing-lucky-congrats.top
+0.0.0.0 www.prize-amazing-lucky-congrats.top
 0.0.0.0 prize-champion-deal-draw.top
 0.0.0.0 www.prize-champion-deal-draw.top
 0.0.0.0 prize-claimer.site
@@ -741,12 +749,8 @@
 0.0.0.0 www.up-to-date-online.com
 0.0.0.0 uptodate-online.com
 0.0.0.0 www.uptodate-online.com
-0.0.0.0 validate-blakely.com
-0.0.0.0 www.validate-blakely.com
 0.0.0.0 validate-order.info
 0.0.0.0 www.validate-order.info
-0.0.0.0 wawada-bonus2025.info
-0.0.0.0 www.wawada-bonus2025.info
 0.0.0.0 wdate8.xyz
 0.0.0.0 www.wdate8.xyz
 0.0.0.0 yudate-sanfujinka.com
