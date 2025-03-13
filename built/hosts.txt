@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-03-12T12:15:39Z
+# Last update: 2025-03-13T12:15:35Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -324,16 +324,12 @@
 0.0.0.0 www.myphamnganbinh.com
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
-0.0.0.0 njzmfcls.com
-0.0.0.0 www.njzmfcls.com
 0.0.0.0 nqtxk.com
 0.0.0.0 www.nqtxk.com
 0.0.0.0 parikhinfosolutions.in
 0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
 0.0.0.0 www.redlog.cl
-0.0.0.0 robbreport.com.my
-0.0.0.0 www.robbreport.com.my
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
@@ -605,6 +601,8 @@
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-de-casino.net
 0.0.0.0 www.bonus-de-casino.net
+0.0.0.0 bonus-tikt0k.shop
+0.0.0.0 www.bonus-tikt0k.shop
 0.0.0.0 bonus-zknation.app
 0.0.0.0 www.bonus-zknation.app
 0.0.0.0 bonus1.at
@@ -661,8 +659,6 @@
 0.0.0.0 www.daten-erneuern-ch.com
 0.0.0.0 dates4couples.com
 0.0.0.0 www.dates4couples.com
-0.0.0.0 dating-pass.com
-0.0.0.0 www.dating-pass.com
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
 0.0.0.0 denemebonusu-2024.click
@@ -749,6 +745,8 @@
 0.0.0.0 www.up-to-date-online.com
 0.0.0.0 uptodate-online.com
 0.0.0.0 www.uptodate-online.com
+0.0.0.0 validate-blakely.com
+0.0.0.0 www.validate-blakely.com
 0.0.0.0 validate-order.info
 0.0.0.0 www.validate-order.info
 0.0.0.0 wdate8.xyz
