@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-03-15T12:15:09Z
+! Last update: 2025-03-16T12:15:00Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -219,8 +219,10 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
+||galerihana.com^
 ||godynamo.co^
 ||guzelbil.com^
 ||kmtks.org.tw^
@@ -234,8 +236,10 @@
 ||nqtxk.com^
 ||parikhinfosolutions.in^
 ||redlog.cl^
+||robbreport.com.my^
 ||sm-projekt.si^
 ||synoviz.com^
+||tacloban.gov.ph^
 ||teamder.org^
 ||thozhilvarthalatest.com^
 ||trashstation.com^
@@ -390,6 +394,7 @@
 ||best-lovelady.com^
 ||bonus-de-casino.net^
 ||bonus-tikt0k.shop^
+||bonus-zknation.app^
 ||bonus1.at^
 ||bonus1.sbs^
 ||bonus100cuaca889.digital^
@@ -403,6 +408,7 @@
 ||casino-x-official-bonus999291.win^
 ||casino-x-site-bonus2729.buzz^
 ||casinox-bonus1702.buzz^
+||casinox-bonus4752.win^
 ||champion-instantwin-prize-weekly.top^
 ||chance-congrats-prize-draw.top^
 ||chance-prize-smart-instant.top^
@@ -454,7 +460,6 @@
 ||superbonus888.pro^
 ||superbonus8888.club^
 ||superbonus888autos.net^
-||superbonus888v3.pro^
 ||superbonus911.pro^
 ||supplychangedate4.buzz^
 ||up-to-date-online.com^

@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-03-15T12:15:09Z
+# Last update: 2025-03-16T12:15:00Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -296,10 +296,14 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
+0.0.0.0 galerihana.com
+0.0.0.0 www.galerihana.com
 0.0.0.0 godynamo.co
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
@@ -326,10 +330,14 @@
 0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
 0.0.0.0 www.redlog.cl
+0.0.0.0 robbreport.com.my
+0.0.0.0 www.robbreport.com.my
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
+0.0.0.0 tacloban.gov.ph
+0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 teamder.org
 0.0.0.0 www.teamder.org
 0.0.0.0 thozhilvarthalatest.com
@@ -597,6 +605,8 @@
 0.0.0.0 www.bonus-de-casino.net
 0.0.0.0 bonus-tikt0k.shop
 0.0.0.0 www.bonus-tikt0k.shop
+0.0.0.0 bonus-zknation.app
+0.0.0.0 www.bonus-zknation.app
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
 0.0.0.0 bonus1.sbs
@@ -623,6 +633,8 @@
 0.0.0.0 www.casino-x-site-bonus2729.buzz
 0.0.0.0 casinox-bonus1702.buzz
 0.0.0.0 www.casinox-bonus1702.buzz
+0.0.0.0 casinox-bonus4752.win
+0.0.0.0 www.casinox-bonus4752.win
 0.0.0.0 champion-instantwin-prize-weekly.top
 0.0.0.0 www.champion-instantwin-prize-weekly.top
 0.0.0.0 chance-congrats-prize-draw.top
@@ -725,8 +737,6 @@
 0.0.0.0 www.superbonus8888.club
 0.0.0.0 superbonus888autos.net
 0.0.0.0 www.superbonus888autos.net
-0.0.0.0 superbonus888v3.pro
-0.0.0.0 www.superbonus888v3.pro
 0.0.0.0 superbonus911.pro
 0.0.0.0 www.superbonus911.pro
 0.0.0.0 supplychangedate4.buzz
