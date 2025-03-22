@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-03-21T12:15:26Z
+# Last update: 2025-03-22T12:15:03Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -330,8 +330,6 @@
 0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
 0.0.0.0 www.redlog.cl
-0.0.0.0 robbreport.com.my
-0.0.0.0 www.robbreport.com.my
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
@@ -603,6 +601,8 @@
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-de-casino.net
 0.0.0.0 www.bonus-de-casino.net
+0.0.0.0 bonus-tikt0k.shop
+0.0.0.0 www.bonus-tikt0k.shop
 0.0.0.0 bonus-zknation.app
 0.0.0.0 www.bonus-zknation.app
 0.0.0.0 bonus1.at
@@ -617,8 +617,6 @@
 0.0.0.0 www.bonus88.xyz
 0.0.0.0 bonushkjepe88.info
 0.0.0.0 www.bonushkjepe88.info
-0.0.0.0 bonusverensiteler2024.click
-0.0.0.0 www.bonusverensiteler2024.click
 0.0.0.0 casino-bonus-utan-svensk-licens.com
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casino-x-bonus-site1014.buzz
@@ -671,8 +669,6 @@
 0.0.0.0 www.gama-casino-bonus757.buzz
 0.0.0.0 giveaway-foryou-prize-smart.top
 0.0.0.0 www.giveaway-foryou-prize-smart.top
-0.0.0.0 giveaway-prize-foryou-search.top
-0.0.0.0 www.giveaway-prize-foryou-search.top
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
@@ -703,8 +699,6 @@
 0.0.0.0 www.pandateam8.xyz
 0.0.0.0 prize-amazing-lucky-congrats.top
 0.0.0.0 www.prize-amazing-lucky-congrats.top
-0.0.0.0 prize-champion-deal-draw.top
-0.0.0.0 www.prize-champion-deal-draw.top
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
 0.0.0.0 prize-foryou-weekly-champion.top
@@ -713,12 +707,8 @@
 0.0.0.0 www.prize-giving-real-win.top
 0.0.0.0 prize-real-win-lucky.top
 0.0.0.0 www.prize-real-win-lucky.top
-0.0.0.0 prizes-world.one
-0.0.0.0 www.prizes-world.one
 0.0.0.0 real-giveaway-prize-instantwin.top
 0.0.0.0 www.real-giveaway-prize-instantwin.top
-0.0.0.0 reward-real-prize-bigwin.top
-0.0.0.0 www.reward-real-prize-bigwin.top
 0.0.0.0 search-weekly-prize-giveaway.top
 0.0.0.0 www.search-weekly-prize-giveaway.top
 0.0.0.0 smart-amazing-prize-weekly.top
@@ -729,8 +719,6 @@
 0.0.0.0 www.specialoffer-reward-prize-foryou.top
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
-0.0.0.0 superbonus888.pro
-0.0.0.0 www.superbonus888.pro
 0.0.0.0 superbonus8888.club
 0.0.0.0 www.superbonus8888.club
 0.0.0.0 superbonus888autos.net
@@ -753,8 +741,6 @@
 0.0.0.0 www.wdate8.xyz
 0.0.0.0 yudate-sanfujinka.com
 0.0.0.0 www.yudate-sanfujinka.com
-0.0.0.0 yuttarikosodate55.net
-0.0.0.0 www.yuttarikosodate55.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz

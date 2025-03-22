@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-03-21T12:15:26Z
+# Last update: 2025-03-22T12:15:03Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -227,7 +227,6 @@ nectartrust.org.uk
 nqtxk.com
 parikhinfosolutions.in
 redlog.cl
-robbreport.com.my
 sm-projekt.si
 synoviz.com
 tacloban.gov.ph
@@ -384,6 +383,7 @@ appdatehuf7.top
 artprize2024.beauty
 best-lovelady.com
 bonus-de-casino.net
+bonus-tikt0k.shop
 bonus-zknation.app
 bonus1.at
 bonus1.sbs
@@ -391,7 +391,6 @@ bonus100cuaca889.digital
 bonus500btc.com
 bonus88.xyz
 bonushkjepe88.info
-bonusverensiteler2024.click
 casino-bonus-utan-svensk-licens.com
 casino-x-bonus-site1014.buzz
 casino-x-bonus-top9632.buzz
@@ -418,7 +417,6 @@ draw-search-prize-claim.top
 fe-candidate-jddiaz-20241216.net
 gama-casino-bonus757.buzz
 giveaway-foryou-prize-smart.top
-giveaway-prize-foryou-search.top
 hakodate-wq.com
 hakodatemoto7.com
 hotdating4you.online
@@ -434,20 +432,16 @@ onedate888.com
 online-dating.top
 pandateam8.xyz
 prize-amazing-lucky-congrats.top
-prize-champion-deal-draw.top
 prize-claimer.site
 prize-foryou-weekly-champion.top
 prize-giving-real-win.top
 prize-real-win-lucky.top
-prizes-world.one
 real-giveaway-prize-instantwin.top
-reward-real-prize-bigwin.top
 search-weekly-prize-giveaway.top
 smart-amazing-prize-weekly.top
 smart-instantwin-prize-real.top
 specialoffer-reward-prize-foryou.top
 stardate1440.com
-superbonus888.pro
 superbonus8888.club
 superbonus888autos.net
 superbonus888v3.pro
@@ -459,7 +453,6 @@ validate-blakely.com
 validate-order.info
 wdate8.xyz
 yudate-sanfujinka.com
-yuttarikosodate55.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 1mono.biz
