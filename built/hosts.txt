@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-03-23T12:15:14Z
+# Last update: 2025-03-24T12:15:44Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -336,8 +336,6 @@
 0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
 0.0.0.0 www.tacloban.gov.ph
-0.0.0.0 teamder.org
-0.0.0.0 www.teamder.org
 0.0.0.0 thozhilvarthalatest.com
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
@@ -595,8 +593,6 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 appdatehuf7.top
-0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
@@ -617,8 +613,6 @@
 0.0.0.0 www.bonus500btc.com
 0.0.0.0 bonus88.xyz
 0.0.0.0 www.bonus88.xyz
-0.0.0.0 bonushkjepe88.info
-0.0.0.0 www.bonushkjepe88.info
 0.0.0.0 bonusverensiteler2024.click
 0.0.0.0 www.bonusverensiteler2024.click
 0.0.0.0 casino-bonus-utan-svensk-licens.com
@@ -721,8 +715,6 @@
 0.0.0.0 www.real-giveaway-prize-instantwin.top
 0.0.0.0 reward-real-prize-bigwin.top
 0.0.0.0 www.reward-real-prize-bigwin.top
-0.0.0.0 search-weekly-prize-giveaway.top
-0.0.0.0 www.search-weekly-prize-giveaway.top
 0.0.0.0 smart-amazing-prize-weekly.top
 0.0.0.0 www.smart-amazing-prize-weekly.top
 0.0.0.0 smart-instantwin-prize-real.top
@@ -733,8 +725,6 @@
 0.0.0.0 www.stardate1440.com
 0.0.0.0 superbonus888.pro
 0.0.0.0 www.superbonus888.pro
-0.0.0.0 superbonus8888.club
-0.0.0.0 www.superbonus8888.club
 0.0.0.0 superbonus888autos.net
 0.0.0.0 www.superbonus888autos.net
 0.0.0.0 superbonus888v3.pro
@@ -753,8 +743,6 @@
 0.0.0.0 www.validate-order.info
 0.0.0.0 wdate8.xyz
 0.0.0.0 www.wdate8.xyz
-0.0.0.0 yudate-sanfujinka.com
-0.0.0.0 www.yudate-sanfujinka.com
 0.0.0.0 yuttarikosodate55.net
 0.0.0.0 www.yuttarikosodate55.net
 

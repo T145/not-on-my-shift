@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-03-23T12:15:14Z
+# Last update: 2025-03-24T12:15:44Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -230,7 +230,6 @@ redlog.cl
 sm-projekt.si
 synoviz.com
 tacloban.gov.ph
-teamder.org
 thozhilvarthalatest.com
 trashstation.com
 tubies.com
@@ -380,7 +379,6 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-appdatehuf7.top
 artprize2024.beauty
 best-lovelady.com
 bonus-de-casino.net
@@ -391,7 +389,6 @@ bonus1.sbs
 bonus100cuaca889.digital
 bonus500btc.com
 bonus88.xyz
-bonushkjepe88.info
 bonusverensiteler2024.click
 casino-bonus-utan-svensk-licens.com
 casino-x-bonus-site1014.buzz
@@ -443,13 +440,11 @@ prize-real-win-lucky.top
 prizes-world.one
 real-giveaway-prize-instantwin.top
 reward-real-prize-bigwin.top
-search-weekly-prize-giveaway.top
 smart-amazing-prize-weekly.top
 smart-instantwin-prize-real.top
 specialoffer-reward-prize-foryou.top
 stardate1440.com
 superbonus888.pro
-superbonus8888.club
 superbonus888autos.net
 superbonus888v3.pro
 superbonus911.pro
@@ -459,7 +454,6 @@ uptodate-online.com
 validate-blakely.com
 validate-order.info
 wdate8.xyz
-yudate-sanfujinka.com
 yuttarikosodate55.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
