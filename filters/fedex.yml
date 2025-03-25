@@ -2,10 +2,10 @@
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
 - ailnoir.com
+- alercehistorico.cl
 - blog.sidmach.com
 - cancervants.org
 - castllypay.com
-- clickedgesolutions.com
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
@@ -15,7 +15,6 @@ domains:
 - galerihana.com
 - godynamo.co
 - guzelbil.com
-- kmtks.org.tw
 - lova.network
 - machupicchutraveling.com
 - magicboximportados.com.br
@@ -29,6 +28,7 @@ domains:
 - sm-projekt.si
 - synoviz.com
 - tacloban.gov.ph
+- teamder.org
 - thozhilvarthalatest.com
 - trashstation.com
 - tubies.com
@@ -56,7 +56,6 @@ ignored_domains:
 - 918kiss.newworld88.com
 - 99bkx.com
 - afedgh.org
-- alercehistorico.cl
 - amirapache.ir
 - amzstudy.com
 - app.crconsultoriacontable.com
@@ -74,6 +73,7 @@ ignored_domains:
 - cbd-and-seizures.com
 - celestinfreinet.mx
 - cgassociates.pk
+- clickedgesolutions.com
 - contornosdesign.pt
 - courseunlock.org
 - covid19.url.edu.gt
@@ -107,6 +107,7 @@ ignored_domains:
 - justparty.com.br
 - kidimy.org
 - klinikmetamorf.com
+- kmtks.org.tw
 - latesttechnologyz.com
 - loanglide.com
 - mahigifts.com
@@ -142,7 +143,6 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
-- teamder.org
 - testargames.cl
 - thaircy.redcross.or.th
 - thietkelq.com

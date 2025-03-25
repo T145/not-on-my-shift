@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-03-24T12:15:44Z
+# Last update: 2025-03-25T12:15:35Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -284,13 +284,13 @@
 0.0.0.0 k.hencoder.com
 0.0.0.0 ailnoir.com
 0.0.0.0 www.ailnoir.com
+0.0.0.0 alercehistorico.cl
+0.0.0.0 www.alercehistorico.cl
 0.0.0.0 blog.sidmach.com
 0.0.0.0 cancervants.org
 0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
 0.0.0.0 www.castllypay.com
-0.0.0.0 clickedgesolutions.com
-0.0.0.0 www.clickedgesolutions.com
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 comptoncymru.com
 0.0.0.0 www.comptoncymru.com
@@ -308,8 +308,6 @@
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
 0.0.0.0 www.guzelbil.com
-0.0.0.0 kmtks.org.tw
-0.0.0.0 www.kmtks.org.tw
 0.0.0.0 lova.network
 0.0.0.0 www.lova.network
 0.0.0.0 machupicchutraveling.com
@@ -336,6 +334,8 @@
 0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
 0.0.0.0 www.tacloban.gov.ph
+0.0.0.0 teamder.org
+0.0.0.0 www.teamder.org
 0.0.0.0 thozhilvarthalatest.com
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
@@ -609,20 +609,16 @@
 0.0.0.0 www.bonus1.sbs
 0.0.0.0 bonus100cuaca889.digital
 0.0.0.0 www.bonus100cuaca889.digital
-0.0.0.0 bonus500btc.com
-0.0.0.0 www.bonus500btc.com
 0.0.0.0 bonus88.xyz
 0.0.0.0 www.bonus88.xyz
+0.0.0.0 bonushkjepe88.info
+0.0.0.0 www.bonushkjepe88.info
 0.0.0.0 bonusverensiteler2024.click
 0.0.0.0 www.bonusverensiteler2024.click
-0.0.0.0 casino-bonus-utan-svensk-licens.com
-0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casino-x-bonus-site1014.buzz
 0.0.0.0 www.casino-x-bonus-site1014.buzz
 0.0.0.0 casino-x-bonus-top9632.buzz
 0.0.0.0 www.casino-x-bonus-top9632.buzz
-0.0.0.0 casino-x-official-bonus999291.win
-0.0.0.0 www.casino-x-official-bonus999291.win
 0.0.0.0 casino-x-site-bonus2729.buzz
 0.0.0.0 www.casino-x-site-bonus2729.buzz
 0.0.0.0 casinox-bonus1702.buzz
@@ -631,10 +627,6 @@
 0.0.0.0 www.casinox-bonus4752.win
 0.0.0.0 champion-instantwin-prize-weekly.top
 0.0.0.0 www.champion-instantwin-prize-weekly.top
-0.0.0.0 chance-congrats-prize-draw.top
-0.0.0.0 www.chance-congrats-prize-draw.top
-0.0.0.0 chance-prize-smart-instant.top
-0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
 0.0.0.0 congrats-prize-chance-amazing.top
@@ -657,10 +649,6 @@
 0.0.0.0 www.dates4couples.com
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
-0.0.0.0 denemebonusu-2024.click
-0.0.0.0 www.denemebonusu-2024.click
-0.0.0.0 draw-search-prize-claim.top
-0.0.0.0 www.draw-search-prize-claim.top
 0.0.0.0 fe-candidate-jddiaz-20241216.net
 0.0.0.0 www.fe-candidate-jddiaz-20241216.net
 0.0.0.0 gama-casino-bonus757.buzz
@@ -673,8 +661,6 @@
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 hotdating4you.online
-0.0.0.0 www.hotdating4you.online
 0.0.0.0 joint-bonus-auto.online
 0.0.0.0 www.joint-bonus-auto.online
 0.0.0.0 joint-bonus-connect.online
@@ -689,8 +675,6 @@
 0.0.0.0 www.linkbonus33.pro
 0.0.0.0 lucky-prize-giveaway-congrats.top
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
-0.0.0.0 maako-kosodate-diary.net
-0.0.0.0 www.maako-kosodate-diary.net
 0.0.0.0 onedate888.com
 0.0.0.0 www.onedate888.com
 0.0.0.0 online-dating.top
@@ -699,10 +683,6 @@
 0.0.0.0 www.pandateam8.xyz
 0.0.0.0 prize-amazing-lucky-congrats.top
 0.0.0.0 www.prize-amazing-lucky-congrats.top
-0.0.0.0 prize-champion-deal-draw.top
-0.0.0.0 www.prize-champion-deal-draw.top
-0.0.0.0 prize-claimer.site
-0.0.0.0 www.prize-claimer.site
 0.0.0.0 prize-foryou-weekly-champion.top
 0.0.0.0 www.prize-foryou-weekly-champion.top
 0.0.0.0 prize-giving-real-win.top
@@ -715,24 +695,24 @@
 0.0.0.0 www.real-giveaway-prize-instantwin.top
 0.0.0.0 reward-real-prize-bigwin.top
 0.0.0.0 www.reward-real-prize-bigwin.top
+0.0.0.0 search-weekly-prize-giveaway.top
+0.0.0.0 www.search-weekly-prize-giveaway.top
 0.0.0.0 smart-amazing-prize-weekly.top
 0.0.0.0 www.smart-amazing-prize-weekly.top
-0.0.0.0 smart-instantwin-prize-real.top
-0.0.0.0 www.smart-instantwin-prize-real.top
 0.0.0.0 specialoffer-reward-prize-foryou.top
 0.0.0.0 www.specialoffer-reward-prize-foryou.top
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
 0.0.0.0 superbonus888.pro
 0.0.0.0 www.superbonus888.pro
+0.0.0.0 superbonus8888.club
+0.0.0.0 www.superbonus8888.club
 0.0.0.0 superbonus888autos.net
 0.0.0.0 www.superbonus888autos.net
 0.0.0.0 superbonus888v3.pro
 0.0.0.0 www.superbonus888v3.pro
 0.0.0.0 superbonus911.pro
 0.0.0.0 www.superbonus911.pro
-0.0.0.0 supplychangedate4.buzz
-0.0.0.0 www.supplychangedate4.buzz
 0.0.0.0 up-to-date-online.com
 0.0.0.0 www.up-to-date-online.com
 0.0.0.0 uptodate-online.com
@@ -743,8 +723,6 @@
 0.0.0.0 www.validate-order.info
 0.0.0.0 wdate8.xyz
 0.0.0.0 www.wdate8.xyz
-0.0.0.0 yuttarikosodate55.net
-0.0.0.0 www.yuttarikosodate55.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
