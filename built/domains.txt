@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-03-27T12:15:40Z
+# Last update: 2025-03-28T12:15:27Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -222,6 +222,7 @@ lova.network
 machupicchutraveling.com
 magicboximportados.com.br
 mistc.es
+mouwz.nl
 mucc.com.au
 myphamnganbinh.com
 nectartrust.org.uk
@@ -391,7 +392,6 @@ bonus-zknation.app
 bonus1.at
 bonus1.sbs
 bonus100cuaca889.digital
-bonus500btc.com
 bonus88.xyz
 bonushkjepe88.info
 bonusverensiteler2024.click
@@ -404,7 +404,6 @@ casinox-bonus1702.buzz
 casinox-bonus4752.win
 champion-instantwin-prize-weekly.top
 chance-congrats-prize-draw.top
-chance-prize-smart-instant.top
 cname-blk2.com
 congrats-prize-chance-amazing.top
 cuidate-skin.com
@@ -419,7 +418,6 @@ dating24hour.com
 denemebonusu-2024.click
 draw-search-prize-claim.top
 fe-candidate-jddiaz-20241216.net
-gama-casino-bonus757.buzz
 giveaway-foryou-prize-smart.top
 giveaway-prize-foryou-search.top
 hakodate-wq.com
@@ -444,6 +442,7 @@ prize-giving-real-win.top
 prize-real-win-lucky.top
 prizes-world.one
 real-giveaway-prize-instantwin.top
+reward-real-prize-bigwin.top
 search-weekly-prize-giveaway.top
 smart-amazing-prize-weekly.top
 smart-instantwin-prize-real.top
@@ -455,6 +454,7 @@ superbonus888autos.net
 superbonus888v3.pro
 superbonus911.pro
 supplychangedate4.buzz
+up-to-date-online.com
 uptodate-online.com
 validate-blakely.com
 validate-order.info
