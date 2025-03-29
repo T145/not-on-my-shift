@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-03-28T12:15:27Z
+# Last update: 2025-03-29T12:15:04Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -619,6 +619,8 @@
 0.0.0.0 www.bonus1.sbs
 0.0.0.0 bonus100cuaca889.digital
 0.0.0.0 www.bonus100cuaca889.digital
+0.0.0.0 bonus500btc.com
+0.0.0.0 www.bonus500btc.com
 0.0.0.0 bonus88.xyz
 0.0.0.0 www.bonus88.xyz
 0.0.0.0 bonushkjepe88.info
@@ -643,6 +645,8 @@
 0.0.0.0 www.champion-instantwin-prize-weekly.top
 0.0.0.0 chance-congrats-prize-draw.top
 0.0.0.0 www.chance-congrats-prize-draw.top
+0.0.0.0 chance-prize-smart-instant.top
+0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
 0.0.0.0 congrats-prize-chance-amazing.top
@@ -671,6 +675,8 @@
 0.0.0.0 www.draw-search-prize-claim.top
 0.0.0.0 fe-candidate-jddiaz-20241216.net
 0.0.0.0 www.fe-candidate-jddiaz-20241216.net
+0.0.0.0 gama-casino-bonus757.buzz
+0.0.0.0 www.gama-casino-bonus757.buzz
 0.0.0.0 giveaway-foryou-prize-smart.top
 0.0.0.0 www.giveaway-foryou-prize-smart.top
 0.0.0.0 giveaway-prize-foryou-search.top
@@ -705,6 +711,8 @@
 0.0.0.0 www.pandateam8.xyz
 0.0.0.0 prize-amazing-lucky-congrats.top
 0.0.0.0 www.prize-amazing-lucky-congrats.top
+0.0.0.0 prize-bigwin-claim-foryou.top
+0.0.0.0 www.prize-bigwin-claim-foryou.top
 0.0.0.0 prize-champion-deal-draw.top
 0.0.0.0 www.prize-champion-deal-draw.top
 0.0.0.0 prize-claimer.site
@@ -715,6 +723,8 @@
 0.0.0.0 www.prize-giving-real-win.top
 0.0.0.0 prize-real-win-lucky.top
 0.0.0.0 www.prize-real-win-lucky.top
+0.0.0.0 prize-weekly-draw-deal.top
+0.0.0.0 www.prize-weekly-draw-deal.top
 0.0.0.0 prizes-world.one
 0.0.0.0 www.prizes-world.one
 0.0.0.0 real-giveaway-prize-instantwin.top
@@ -741,8 +751,6 @@
 0.0.0.0 www.superbonus888v3.pro
 0.0.0.0 superbonus911.pro
 0.0.0.0 www.superbonus911.pro
-0.0.0.0 supplychangedate4.buzz
-0.0.0.0 www.supplychangedate4.buzz
 0.0.0.0 up-to-date-online.com
 0.0.0.0 www.up-to-date-online.com
 0.0.0.0 uptodate-online.com
