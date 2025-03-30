@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-03-29T12:15:04Z
+# Last update: 2025-03-30T12:15:13Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -232,7 +232,6 @@ redlog.cl
 robbreport.com.my
 sm-projekt.si
 synoviz.com
-tacloban.gov.ph
 teamder.org
 thozhilvarthalatest.com
 trashstation.com
@@ -431,7 +430,6 @@ joint-bonus-connect.online
 jointbonus-bigsale.online
 jointbonus-llc.online
 kosodate-happy.net
-linkbonus33.pro
 lucky-prize-giveaway-congrats.top
 maako-kosodate-diary.net
 onedate888.com
