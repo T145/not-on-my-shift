@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-03-30T12:15:13Z
+# Last update: 2025-04-01T12:15:51Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -218,6 +218,7 @@ galerihana.com
 garveylibertyhall.com
 godynamo.co
 guzelbil.com
+kmtks.org.tw
 lova.network
 machupicchutraveling.com
 magicboximportados.com.br
@@ -232,6 +233,7 @@ redlog.cl
 robbreport.com.my
 sm-projekt.si
 synoviz.com
+tacloban.gov.ph
 teamder.org
 thozhilvarthalatest.com
 trashstation.com
@@ -459,7 +461,6 @@ superbonus911.pro
 up-to-date-online.com
 uptodate-online.com
 validate-blakely.com
-validate-order.info
 wdate8.xyz
 yuttarikosodate55.net
 
