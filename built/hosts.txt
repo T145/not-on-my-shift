@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-04-01T12:15:51Z
+# Last update: 2025-04-02T12:15:31Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -300,6 +300,8 @@
 0.0.0.0 www.defencelover.in
 0.0.0.0 dexil.ru
 0.0.0.0 www.dexil.ru
+0.0.0.0 eurosystemsrl.eu
+0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -322,8 +324,6 @@
 0.0.0.0 www.magicboximportados.com.br
 0.0.0.0 mistc.es
 0.0.0.0 www.mistc.es
-0.0.0.0 mouwz.nl
-0.0.0.0 www.mouwz.nl
 0.0.0.0 mucc.com.au
 0.0.0.0 www.mucc.com.au
 0.0.0.0 myphamnganbinh.com
@@ -603,8 +603,6 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 appdatehuf7.top
-0.0.0.0 www.appdatehuf7.top
 0.0.0.0 artprize2024.beauty
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
@@ -625,8 +623,6 @@
 0.0.0.0 www.bonus500btc.com
 0.0.0.0 bonus88.xyz
 0.0.0.0 www.bonus88.xyz
-0.0.0.0 bonushkjepe88.info
-0.0.0.0 www.bonushkjepe88.info
 0.0.0.0 bonusverensiteler2024.click
 0.0.0.0 www.bonusverensiteler2024.click
 0.0.0.0 casino-bonus-utan-svensk-licens.com
@@ -639,8 +635,6 @@
 0.0.0.0 www.casino-x-official-bonus999291.win
 0.0.0.0 casino-x-site-bonus2729.buzz
 0.0.0.0 www.casino-x-site-bonus2729.buzz
-0.0.0.0 casinox-bonus1702.buzz
-0.0.0.0 www.casinox-bonus1702.buzz
 0.0.0.0 casinox-bonus4752.win
 0.0.0.0 www.casinox-bonus4752.win
 0.0.0.0 champion-instantwin-prize-weekly.top
@@ -725,12 +719,12 @@
 0.0.0.0 www.prize-real-win-lucky.top
 0.0.0.0 prize-weekly-draw-deal.top
 0.0.0.0 www.prize-weekly-draw-deal.top
-0.0.0.0 prizes-world.one
-0.0.0.0 www.prizes-world.one
 0.0.0.0 real-giveaway-prize-instantwin.top
 0.0.0.0 www.real-giveaway-prize-instantwin.top
 0.0.0.0 reward-real-prize-bigwin.top
 0.0.0.0 www.reward-real-prize-bigwin.top
+0.0.0.0 reward-weekly-prize-foryou.top
+0.0.0.0 www.reward-weekly-prize-foryou.top
 0.0.0.0 search-weekly-prize-giveaway.top
 0.0.0.0 www.search-weekly-prize-giveaway.top
 0.0.0.0 smart-amazing-prize-weekly.top
@@ -757,6 +751,8 @@
 0.0.0.0 www.uptodate-online.com
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
+0.0.0.0 validate-order.info
+0.0.0.0 www.validate-order.info
 0.0.0.0 wdate8.xyz
 0.0.0.0 www.wdate8.xyz
 0.0.0.0 yuttarikosodate55.net
