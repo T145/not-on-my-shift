@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-04-03T12:15:37Z
+! Last update: 2025-04-04T12:15:30Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -394,11 +394,10 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||artprize2024.beauty^
+||appdatehuf7.top^
 ||best-lovelady.com^
 ||bonus-de-casino.net^
 ||bonus-tikt0k.shop^
-||bonus-zknation.app^
 ||bonus1.at^
 ||bonus1.sbs^
 ||bonus100cuaca889.digital^
@@ -412,7 +411,6 @@
 ||casino-x-official-bonus999291.win^
 ||casino-x-site-bonus2729.buzz^
 ||casinox-bonus1702.buzz^
-||casinox-bonus4752.win^
 ||champion-instantwin-prize-weekly.top^
 ||chance-congrats-prize-draw.top^
 ||chance-prize-smart-instant.top^
@@ -428,12 +426,8 @@
 ||dates4couples.com^
 ||datevibe1.shop^
 ||dating24hour.com^
-||denemebonusu-2024.click^
 ||draw-search-prize-claim.top^
-||fe-candidate-jddiaz-20241216.net^
 ||gama-casino-bonus757.buzz^
-||giveaway-foryou-prize-smart.top^
-||giveaway-prize-foryou-search.top^
 ||hakodate-bpss.net^
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
@@ -447,28 +441,22 @@
 ||maako-kosodate-diary.net^
 ||onedate888.com^
 ||online-dating.top^
-||pandateam8.xyz^
 ||prize-amazing-lucky-congrats.top^
 ||prize-bigwin-claim-foryou.top^
 ||prize-champion-deal-draw.top^
 ||prize-claimer.site^
-||prize-foryou-weekly-champion.top^
 ||prize-giving-real-win.top^
+||prize-pool.pro^
 ||prize-real-win-lucky.top^
 ||prize-weekly-draw-deal.top^
-||prizes-world.one^
 ||real-giveaway-prize-instantwin.top^
-||reward-real-prize-bigwin.top^
 ||reward-weekly-prize-foryou.top^
 ||search-weekly-prize-giveaway.top^
 ||smart-amazing-prize-weekly.top^
 ||smart-instantwin-prize-real.top^
-||specialoffer-reward-prize-foryou.top^
 ||stardate1440.com^
-||superbonus888.pro^
 ||superbonus8888.club^
 ||superbonus888autos.net^
-||superbonus888v3.pro^
 ||superbonus911.pro^
 ||uptodate-online.com^
 ||validate-blakely.com^
