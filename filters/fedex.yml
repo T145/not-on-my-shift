@@ -10,6 +10,7 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
+- dexil.ru
 - eurosystemsrl.eu
 - fraternitykerala.org
 - galaxyfunbowl.gr
@@ -30,7 +31,6 @@ domains:
 - nqtxk.com
 - parikhinfosolutions.in
 - redlog.cl
-- robbreport.com.my
 - sm-projekt.si
 - synoviz.com
 - tacloban.gov.ph
@@ -83,7 +83,6 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
-- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -131,6 +130,7 @@ ignored_domains:
 - publicidadorl.com
 - rees.games
 - rishipes.co.nz
+- robbreport.com.my
 - runyixs.com
 - ryansa.com
 - sekolahalmunasemarang.sch.id
