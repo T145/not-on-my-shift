@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-04-08T12:15:39Z
+! Last update: 2025-04-09T12:15:40Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -216,7 +216,6 @@
 ||blog.sidmach.com^
 ||cancervants.org^
 ||castllypay.com^
-||clickedgesolutions.com^
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
@@ -244,7 +243,6 @@
 ||robbreport.com.my^
 ||sm-projekt.si^
 ||synoviz.com^
-||tacloban.gov.ph^
 ||teamder.org^
 ||thozhilvarthalatest.com^
 ||trashstation.com^
@@ -421,7 +419,6 @@
 ||chance-congrats-prize-draw.top^
 ||chance-prize-smart-instant.top^
 ||cname-blk2.com^
-||congrats-prize-chance-amazing.top^
 ||cuidate-skin.com^
 ||date-gabrielle.com^
 ||date-jason.com^
@@ -430,7 +427,6 @@
 ||date2loveafilipina.com^
 ||daten-erneuern-ch.com^
 ||dates-es.top^
-||dates4couples.com^
 ||datevibe1.shop^
 ||dating24hour.com^
 ||denemebonusu-2024.click^
@@ -442,7 +438,6 @@
 ||hakodate-bpss.net^
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
-||hotdating4you.online^
 ||joint-bonus-auto.online^
 ||joint-bonus-connect.online^
 ||jointbonus-bigsale.online^
@@ -453,7 +448,6 @@
 ||onedate888.com^
 ||online-dating.top^
 ||pandateam8.xyz^
-||prize-amazing-lucky-congrats.top^
 ||prize-bigwin-claim-foryou.top^
 ||prize-champion-deal-draw.top^
 ||prize-claimer.site^
@@ -475,8 +469,8 @@
 ||superbonus888autos.net^
 ||superbonus888v3.pro^
 ||superbonus911.pro^
+||taylorenterprize1.net^
 ||up-to-date-online.com^
-||uptodate-online.com^
 ||validate-blakely.com^
 ||validate-order.info^
 ||wdate8.xyz^

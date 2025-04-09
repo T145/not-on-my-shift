@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-04-08T12:15:39Z
+# Last update: 2025-04-09T12:15:40Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -291,8 +291,6 @@
 0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
 0.0.0.0 www.castllypay.com
-0.0.0.0 clickedgesolutions.com
-0.0.0.0 www.clickedgesolutions.com
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 comptoncymru.com
 0.0.0.0 www.comptoncymru.com
@@ -346,8 +344,6 @@
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
-0.0.0.0 tacloban.gov.ph
-0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 teamder.org
 0.0.0.0 www.teamder.org
 0.0.0.0 thozhilvarthalatest.com
@@ -659,8 +655,6 @@
 0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
-0.0.0.0 congrats-prize-chance-amazing.top
-0.0.0.0 www.congrats-prize-chance-amazing.top
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-gabrielle.com
@@ -677,8 +671,6 @@
 0.0.0.0 www.daten-erneuern-ch.com
 0.0.0.0 dates-es.top
 0.0.0.0 www.dates-es.top
-0.0.0.0 dates4couples.com
-0.0.0.0 www.dates4couples.com
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating24hour.com
@@ -701,8 +693,6 @@
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 hotdating4you.online
-0.0.0.0 www.hotdating4you.online
 0.0.0.0 joint-bonus-auto.online
 0.0.0.0 www.joint-bonus-auto.online
 0.0.0.0 joint-bonus-connect.online
@@ -723,8 +713,6 @@
 0.0.0.0 www.online-dating.top
 0.0.0.0 pandateam8.xyz
 0.0.0.0 www.pandateam8.xyz
-0.0.0.0 prize-amazing-lucky-congrats.top
-0.0.0.0 www.prize-amazing-lucky-congrats.top
 0.0.0.0 prize-bigwin-claim-foryou.top
 0.0.0.0 www.prize-bigwin-claim-foryou.top
 0.0.0.0 prize-champion-deal-draw.top
@@ -767,10 +755,10 @@
 0.0.0.0 www.superbonus888v3.pro
 0.0.0.0 superbonus911.pro
 0.0.0.0 www.superbonus911.pro
+0.0.0.0 taylorenterprize1.net
+0.0.0.0 www.taylorenterprize1.net
 0.0.0.0 up-to-date-online.com
 0.0.0.0 www.up-to-date-online.com
-0.0.0.0 uptodate-online.com
-0.0.0.0 www.uptodate-online.com
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
 0.0.0.0 validate-order.info
