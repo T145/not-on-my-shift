@@ -28,11 +28,11 @@ domains:
 - myphamnganbinh.com
 - nectartrust.org.uk
 - nqtxk.com
-- parikhinfosolutions.in
 - redlog.cl
 - robbreport.com.my
 - sm-projekt.si
 - synoviz.com
+- tacloban.gov.ph
 - teamder.org
 - thozhilvarthalatest.com
 - trashstation.com
@@ -121,6 +121,7 @@ ignored_domains:
 - nguen.net
 - njzmfcls.com
 - nogdec.com
+- parikhinfosolutions.in
 - patisserievanbarneveld.nl
 - perfect-blinds.com.au
 - persianwoodkitchen.com
@@ -142,7 +143,6 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
-- tacloban.gov.ph
 - testargames.cl
 - thaircy.redcross.or.th
 - thietkelq.com
