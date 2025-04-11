@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-04-10T12:16:01Z
+# Last update: 2025-04-11T12:15:29Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -291,6 +291,8 @@
 0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
 0.0.0.0 www.castllypay.com
+0.0.0.0 clickedgesolutions.com
+0.0.0.0 www.clickedgesolutions.com
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 comptoncymru.com
 0.0.0.0 www.comptoncymru.com
@@ -603,6 +605,8 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+0.0.0.0 all-date-apuri-best.xyz
+0.0.0.0 www.all-date-apuri-best.xyz
 0.0.0.0 artprize2024.beauty
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
