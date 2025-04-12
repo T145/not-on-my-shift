@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-04-11T12:15:29Z
+# Last update: 2025-04-12T12:15:01Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,18 +298,12 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
-0.0.0.0 eurosystemsrl.eu
-0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
 0.0.0.0 galerihana.com
 0.0.0.0 www.galerihana.com
-0.0.0.0 garveylibertyhall.com
-0.0.0.0 www.garveylibertyhall.com
 0.0.0.0 godynamo.co
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
@@ -336,18 +330,16 @@
 0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 nqtxk.com
 0.0.0.0 www.nqtxk.com
+0.0.0.0 parikhinfosolutions.in
+0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
 0.0.0.0 www.redlog.cl
-0.0.0.0 robbreport.com.my
-0.0.0.0 www.robbreport.com.my
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
 0.0.0.0 www.tacloban.gov.ph
-0.0.0.0 teamder.org
-0.0.0.0 www.teamder.org
 0.0.0.0 thozhilvarthalatest.com
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
@@ -719,8 +711,6 @@
 0.0.0.0 www.online-dating.top
 0.0.0.0 pandateam8.xyz
 0.0.0.0 www.pandateam8.xyz
-0.0.0.0 prize-amazing-lucky-congrats.top
-0.0.0.0 www.prize-amazing-lucky-congrats.top
 0.0.0.0 prize-bigwin-claim-foryou.top
 0.0.0.0 www.prize-bigwin-claim-foryou.top
 0.0.0.0 prize-champion-deal-draw.top
