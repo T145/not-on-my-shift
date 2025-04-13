@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-04-12T12:15:01Z
+# Last update: 2025-04-13T12:15:20Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,6 +298,8 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -597,8 +599,6 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 all-date-apuri-best.xyz
-0.0.0.0 www.all-date-apuri-best.xyz
 0.0.0.0 artprize2024.beauty
 0.0.0.0 www.artprize2024.beauty
 0.0.0.0 best-lovelady.com
@@ -711,6 +711,8 @@
 0.0.0.0 www.online-dating.top
 0.0.0.0 pandateam8.xyz
 0.0.0.0 www.pandateam8.xyz
+0.0.0.0 prize-amazing-lucky-congrats.top
+0.0.0.0 www.prize-amazing-lucky-congrats.top
 0.0.0.0 prize-bigwin-claim-foryou.top
 0.0.0.0 www.prize-bigwin-claim-foryou.top
 0.0.0.0 prize-champion-deal-draw.top
