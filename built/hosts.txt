@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-04-16T12:15:42Z
+# Last update: 2025-04-17T12:15:59Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -324,6 +324,8 @@
 0.0.0.0 www.magicboximportados.com.br
 0.0.0.0 mistc.es
 0.0.0.0 www.mistc.es
+0.0.0.0 mouwz.nl
+0.0.0.0 www.mouwz.nl
 0.0.0.0 mucc.com.au
 0.0.0.0 www.mucc.com.au
 0.0.0.0 myphamnganbinh.com
@@ -334,8 +336,6 @@
 0.0.0.0 www.nqtxk.com
 0.0.0.0 redlog.cl
 0.0.0.0 www.redlog.cl
-0.0.0.0 rees.games
-0.0.0.0 www.rees.games
 0.0.0.0 robbreport.com.my
 0.0.0.0 www.robbreport.com.my
 0.0.0.0 sm-projekt.si
@@ -607,12 +607,8 @@
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-de-casino.net
 0.0.0.0 www.bonus-de-casino.net
-0.0.0.0 bonus-gk.cyou
-0.0.0.0 www.bonus-gk.cyou
-0.0.0.0 bonus-tikt0k.shop
-0.0.0.0 www.bonus-tikt0k.shop
-0.0.0.0 bonus-wk.cyou
-0.0.0.0 www.bonus-wk.cyou
+0.0.0.0 bonus-zknation.app
+0.0.0.0 www.bonus-zknation.app
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
 0.0.0.0 bonus1.sbs
@@ -621,8 +617,6 @@
 0.0.0.0 www.bonus100cuaca889.digital
 0.0.0.0 bonus4you.net
 0.0.0.0 www.bonus4you.net
-0.0.0.0 bonus500btc.com
-0.0.0.0 www.bonus500btc.com
 0.0.0.0 bonus88.xyz
 0.0.0.0 www.bonus88.xyz
 0.0.0.0 bonushkjepe88.info
@@ -707,8 +701,6 @@
 0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
 0.0.0.0 www.maako-kosodate-diary.net
-0.0.0.0 onedate888.com
-0.0.0.0 www.onedate888.com
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 pandateam8.xyz
@@ -739,6 +731,8 @@
 0.0.0.0 www.reward-weekly-prize-foryou.top
 0.0.0.0 search-weekly-prize-giveaway.top
 0.0.0.0 www.search-weekly-prize-giveaway.top
+0.0.0.0 seniordating-uk.xyz
+0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smart-amazing-prize-weekly.top
 0.0.0.0 www.smart-amazing-prize-weekly.top
 0.0.0.0 smart-instantwin-prize-real.top
