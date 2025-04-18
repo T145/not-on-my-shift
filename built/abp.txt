@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-04-17T12:15:59Z
+! Last update: 2025-04-18T12:15:31Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -225,6 +225,7 @@
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||galerihana.com^
+||garveylibertyhall.com^
 ||godynamo.co^
 ||guzelbil.com^
 ||klinikmetamorf.com^
@@ -233,7 +234,6 @@
 ||machupicchutraveling.com^
 ||magicboximportados.com.br^
 ||mistc.es^
-||mouwz.nl^
 ||mucc.com.au^
 ||myphamnganbinh.com^
 ||nectartrust.org.uk^
@@ -392,9 +392,9 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||artprize2024.beauty^
 ||best-lovelady.com^
 ||bonus-de-casino.net^
+||bonus-tikt0k.shop^
 ||bonus-zknation.app^
 ||bonus1.at^
 ||bonus1.sbs^
