@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-04-19T12:15:02Z
+# Last update: 2025-04-20T12:15:09Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -312,8 +312,6 @@
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
 0.0.0.0 www.guzelbil.com
-0.0.0.0 klinikmetamorf.com
-0.0.0.0 www.klinikmetamorf.com
 0.0.0.0 kmtks.org.tw
 0.0.0.0 www.kmtks.org.tw
 0.0.0.0 lova.network
@@ -338,6 +336,8 @@
 0.0.0.0 www.redlog.cl
 0.0.0.0 robbreport.com.my
 0.0.0.0 www.robbreport.com.my
+0.0.0.0 sekolahalmunasemarang.sch.id
+0.0.0.0 www.sekolahalmunasemarang.sch.id
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
@@ -625,6 +625,8 @@
 0.0.0.0 www.bonushkjepe88.info
 0.0.0.0 bonusverensiteler2024.click
 0.0.0.0 www.bonusverensiteler2024.click
+0.0.0.0 candidates-hub.careers
+0.0.0.0 www.candidates-hub.careers
 0.0.0.0 casino-bonus-utan-svensk-licens.com
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casino-x-bonus-site1014.buzz
@@ -633,6 +635,8 @@
 0.0.0.0 www.casino-x-bonus-top9632.buzz
 0.0.0.0 casino-x-official-bonus999291.win
 0.0.0.0 www.casino-x-official-bonus999291.win
+0.0.0.0 casino-x-site-bonus2729.buzz
+0.0.0.0 www.casino-x-site-bonus2729.buzz
 0.0.0.0 casinobonus-ohne-einzahlung.net
 0.0.0.0 www.casinobonus-ohne-einzahlung.net
 0.0.0.0 casinox-bonus1702.buzz
@@ -687,8 +691,6 @@
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 hotdating4you.online
-0.0.0.0 www.hotdating4you.online
 0.0.0.0 joint-bonus-auto.online
 0.0.0.0 www.joint-bonus-auto.online
 0.0.0.0 joint-bonus-connect.online
@@ -699,6 +701,8 @@
 0.0.0.0 www.jointbonus-llc.online
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
+0.0.0.0 lucky-prize-giveaway-congrats.top
+0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
 0.0.0.0 www.maako-kosodate-diary.net
 0.0.0.0 online-dating.top
@@ -765,6 +769,8 @@
 0.0.0.0 www.wdate8.xyz
 0.0.0.0 yuttarikosodate55.net
 0.0.0.0 www.yuttarikosodate55.net
+0.0.0.0 zugangsdaten-portal.cfd
+0.0.0.0 www.zugangsdaten-portal.cfd
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz

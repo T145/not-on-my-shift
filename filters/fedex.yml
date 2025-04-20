@@ -17,7 +17,6 @@ domains:
 - galerihana.com
 - godynamo.co
 - guzelbil.com
-- klinikmetamorf.com
 - kmtks.org.tw
 - lova.network
 - machupicchutraveling.com
@@ -30,6 +29,7 @@ domains:
 - nqtxk.com
 - redlog.cl
 - robbreport.com.my
+- sekolahalmunasemarang.sch.id
 - sm-projekt.si
 - synoviz.com
 - tacloban.gov.ph
@@ -108,6 +108,7 @@ ignored_domains:
 - joliveer.com
 - justparty.com.br
 - kidimy.org
+- klinikmetamorf.com
 - latesttechnologyz.com
 - loanglide.com
 - mahigifts.com
@@ -132,7 +133,6 @@ ignored_domains:
 - rishipes.co.nz
 - runyixs.com
 - ryansa.com
-- sekolahalmunasemarang.sch.id
 - share-bnb.com
 - sky-scout.com
 - smcsme.com

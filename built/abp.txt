@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-04-19T12:15:02Z
+! Last update: 2025-04-20T12:15:09Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -227,7 +227,6 @@
 ||galerihana.com^
 ||godynamo.co^
 ||guzelbil.com^
-||klinikmetamorf.com^
 ||kmtks.org.tw^
 ||lova.network^
 ||machupicchutraveling.com^
@@ -240,6 +239,7 @@
 ||nqtxk.com^
 ||redlog.cl^
 ||robbreport.com.my^
+||sekolahalmunasemarang.sch.id^
 ||sm-projekt.si^
 ||synoviz.com^
 ||tacloban.gov.ph^
@@ -404,10 +404,12 @@
 ||bonus88.xyz^
 ||bonushkjepe88.info^
 ||bonusverensiteler2024.click^
+||candidates-hub.careers^
 ||casino-bonus-utan-svensk-licens.com^
 ||casino-x-bonus-site1014.buzz^
 ||casino-x-bonus-top9632.buzz^
 ||casino-x-official-bonus999291.win^
+||casino-x-site-bonus2729.buzz^
 ||casinobonus-ohne-einzahlung.net^
 ||casinox-bonus1702.buzz^
 ||casinox-bonus4752.win^
@@ -435,12 +437,12 @@
 ||hakodate-bpss.net^
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
-||hotdating4you.online^
 ||joint-bonus-auto.online^
 ||joint-bonus-connect.online^
 ||jointbonus-bigsale.online^
 ||jointbonus-llc.online^
 ||kosodate-happy.net^
+||lucky-prize-giveaway-congrats.top^
 ||maako-kosodate-diary.net^
 ||online-dating.top^
 ||pandateam8.xyz^
@@ -474,6 +476,7 @@
 ||validate-order.info^
 ||wdate8.xyz^
 ||yuttarikosodate55.net^
+||zugangsdaten-portal.cfd^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
