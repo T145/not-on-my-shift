@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-04-23T12:15:40Z
+# Last update: 2025-04-24T12:15:37Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -611,14 +611,14 @@
 0.0.0.0 www.bonus-de-casino.net
 0.0.0.0 bonus-openrunes.com
 0.0.0.0 www.bonus-openrunes.com
+0.0.0.0 bonus-tikt0k.shop
+0.0.0.0 www.bonus-tikt0k.shop
 0.0.0.0 bonus-wd.cyou
 0.0.0.0 www.bonus-wd.cyou
 0.0.0.0 bonus-wf.cyou
 0.0.0.0 www.bonus-wf.cyou
-0.0.0.0 bonus-wg.cyou
-0.0.0.0 www.bonus-wg.cyou
-0.0.0.0 bonus-ws.cyou
-0.0.0.0 www.bonus-ws.cyou
+0.0.0.0 bonus-wj.cyou
+0.0.0.0 www.bonus-wj.cyou
 0.0.0.0 bonus-zknation.app
 0.0.0.0 www.bonus-zknation.app
 0.0.0.0 bonus1.at
@@ -653,16 +653,12 @@
 0.0.0.0 www.casinox-bonus1702.buzz
 0.0.0.0 casinox-bonus4752.win
 0.0.0.0 www.casinox-bonus4752.win
-0.0.0.0 champion-instantwin-prize-weekly.top
-0.0.0.0 www.champion-instantwin-prize-weekly.top
-0.0.0.0 chance-congrats-prize-draw.top
-0.0.0.0 www.chance-congrats-prize-draw.top
-0.0.0.0 chance-prize-smart-instant.top
-0.0.0.0 www.chance-prize-smart-instant.top
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
 0.0.0.0 congrats-prize-chance-amazing.top
 0.0.0.0 www.congrats-prize-chance-amazing.top
+0.0.0.0 cuidate-skin.com
+0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-gabrielle.com
 0.0.0.0 www.date-gabrielle.com
 0.0.0.0 date-jason.com
@@ -707,8 +703,6 @@
 0.0.0.0 www.jointbonus-llc.online
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
-0.0.0.0 lucky-prize-giveaway-congrats.top
-0.0.0.0 www.lucky-prize-giveaway-congrats.top
 0.0.0.0 maako-kosodate-diary.net
 0.0.0.0 www.maako-kosodate-diary.net
 0.0.0.0 online-dating.top
@@ -725,14 +719,14 @@
 0.0.0.0 www.prize-claimer.site
 0.0.0.0 prize-foryou-weekly-champion.top
 0.0.0.0 www.prize-foryou-weekly-champion.top
-0.0.0.0 prize-giving-real-win.top
-0.0.0.0 www.prize-giving-real-win.top
 0.0.0.0 prize-real-win-lucky.top
 0.0.0.0 www.prize-real-win-lucky.top
 0.0.0.0 prize-weekly-draw-deal.top
 0.0.0.0 www.prize-weekly-draw-deal.top
 0.0.0.0 prizes-world.one
 0.0.0.0 www.prizes-world.one
+0.0.0.0 real-giveaway-prize-instantwin.top
+0.0.0.0 www.real-giveaway-prize-instantwin.top
 0.0.0.0 reward-real-prize-bigwin.top
 0.0.0.0 www.reward-real-prize-bigwin.top
 0.0.0.0 reward-weekly-prize-foryou.top
@@ -747,6 +741,8 @@
 0.0.0.0 www.smart-instantwin-prize-real.top
 0.0.0.0 specialoffer-reward-prize-foryou.top
 0.0.0.0 www.specialoffer-reward-prize-foryou.top
+0.0.0.0 stardate1440.com
+0.0.0.0 www.stardate1440.com
 0.0.0.0 superbonus888.pro
 0.0.0.0 www.superbonus888.pro
 0.0.0.0 superbonus8888.club
