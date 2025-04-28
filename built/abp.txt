@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-04-27T12:15:15Z
+! Last update: 2025-04-28T12:15:44Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -220,12 +220,10 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
-||dexil.ru^
 ||eurosystemsrl.eu^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||galerihana.com^
-||garveylibertyhall.com^
 ||godynamo.co^
 ||guzelbil.com^
 ||klinikmetamorf.com^
@@ -243,6 +241,7 @@
 ||sekolahalmunasemarang.sch.id^
 ||sm-projekt.si^
 ||synoviz.com^
+||tacloban.gov.ph^
 ||thozhilvarthalatest.com^
 ||trashstation.com^
 ||tubies.com^
@@ -411,11 +410,9 @@
 ||casino-x-bonus-top9632.buzz^
 ||casino-x-official-bonus999291.win^
 ||casino-x-site-bonus2729.buzz^
-||casinobonus-ohne-einzahlung.net^
 ||casinox-bonus1702.buzz^
 ||casinox-bonus4752.win^
 ||cname-blk2.com^
-||congrats-prize-chance-amazing.top^
 ||cuidate-skin.com^
 ||date-gabrielle.com^
 ||date-jason.com^
@@ -427,11 +424,8 @@
 ||datevibe1.shop^
 ||dating24hour.com^
 ||denemebonusu-2024.click^
-||draw-search-prize-claim.top^
 ||fe-candidate-jddiaz-20241216.net^
 ||gama-casino-bonus757.buzz^
-||giveaway-foryou-prize-smart.top^
-||giveaway-prize-foryou-search.top^
 ||hakodate-bpss.net^
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
@@ -444,21 +438,13 @@
 ||maako-kosodate-diary.net^
 ||online-dating.top^
 ||pandateam8.xyz^
-||prize-amazing-lucky-congrats.top^
 ||prize-bigwin-claim-foryou.top^
 ||prize-claimer.site^
 ||prize-foryou-weekly-champion.top^
-||prize-real-win-lucky.top^
 ||prize-weekly-draw-deal.top^
 ||prizes-world.one^
-||real-giveaway-prize-instantwin.top^
-||reward-real-prize-bigwin.top^
 ||reward-weekly-prize-foryou.top^
-||search-weekly-prize-giveaway.top^
 ||seniordating-uk.xyz^
-||smart-amazing-prize-weekly.top^
-||smart-instantwin-prize-real.top^
-||specialoffer-reward-prize-foryou.top^
 ||stardate1440.com^
 ||superbonus888.pro^
 ||superbonus8888.club^

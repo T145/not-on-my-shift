@@ -10,12 +10,10 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
-- dexil.ru
 - eurosystemsrl.eu
 - fraternitykerala.org
 - galaxyfunbowl.gr
 - galerihana.com
-- garveylibertyhall.com
 - godynamo.co
 - guzelbil.com
 - klinikmetamorf.com
@@ -33,6 +31,7 @@ domains:
 - sekolahalmunasemarang.sch.id
 - sm-projekt.si
 - synoviz.com
+- tacloban.gov.ph
 - thozhilvarthalatest.com
 - trashstation.com
 - tubies.com
@@ -81,6 +80,7 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
+- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -89,6 +89,7 @@ ignored_domains:
 - feelmore.site
 - funtrade.land
 - gardendeur.site
+- garveylibertyhall.com
 - geeklevi.com
 - giupich.org
 - gladiadoresdevendas.com.br
@@ -141,7 +142,6 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
-- tacloban.gov.ph
 - teamder.org
 - testargames.cl
 - thaircy.redcross.or.th

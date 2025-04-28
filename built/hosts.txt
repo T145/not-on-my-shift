@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-04-27T12:15:15Z
+# Last update: 2025-04-28T12:15:44Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,8 +298,6 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 eurosystemsrl.eu
 0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 fraternitykerala.org
@@ -308,8 +306,6 @@
 0.0.0.0 www.galaxyfunbowl.gr
 0.0.0.0 galerihana.com
 0.0.0.0 www.galerihana.com
-0.0.0.0 garveylibertyhall.com
-0.0.0.0 www.garveylibertyhall.com
 0.0.0.0 godynamo.co
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
@@ -344,6 +340,8 @@
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
+0.0.0.0 tacloban.gov.ph
+0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 thozhilvarthalatest.com
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
@@ -639,16 +637,12 @@
 0.0.0.0 www.casino-x-official-bonus999291.win
 0.0.0.0 casino-x-site-bonus2729.buzz
 0.0.0.0 www.casino-x-site-bonus2729.buzz
-0.0.0.0 casinobonus-ohne-einzahlung.net
-0.0.0.0 www.casinobonus-ohne-einzahlung.net
 0.0.0.0 casinox-bonus1702.buzz
 0.0.0.0 www.casinox-bonus1702.buzz
 0.0.0.0 casinox-bonus4752.win
 0.0.0.0 www.casinox-bonus4752.win
 0.0.0.0 cname-blk2.com
 0.0.0.0 www.cname-blk2.com
-0.0.0.0 congrats-prize-chance-amazing.top
-0.0.0.0 www.congrats-prize-chance-amazing.top
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-gabrielle.com
@@ -671,16 +665,10 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 denemebonusu-2024.click
 0.0.0.0 www.denemebonusu-2024.click
-0.0.0.0 draw-search-prize-claim.top
-0.0.0.0 www.draw-search-prize-claim.top
 0.0.0.0 fe-candidate-jddiaz-20241216.net
 0.0.0.0 www.fe-candidate-jddiaz-20241216.net
 0.0.0.0 gama-casino-bonus757.buzz
 0.0.0.0 www.gama-casino-bonus757.buzz
-0.0.0.0 giveaway-foryou-prize-smart.top
-0.0.0.0 www.giveaway-foryou-prize-smart.top
-0.0.0.0 giveaway-prize-foryou-search.top
-0.0.0.0 www.giveaway-prize-foryou-search.top
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-wq.com
@@ -705,36 +693,20 @@
 0.0.0.0 www.online-dating.top
 0.0.0.0 pandateam8.xyz
 0.0.0.0 www.pandateam8.xyz
-0.0.0.0 prize-amazing-lucky-congrats.top
-0.0.0.0 www.prize-amazing-lucky-congrats.top
 0.0.0.0 prize-bigwin-claim-foryou.top
 0.0.0.0 www.prize-bigwin-claim-foryou.top
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
 0.0.0.0 prize-foryou-weekly-champion.top
 0.0.0.0 www.prize-foryou-weekly-champion.top
-0.0.0.0 prize-real-win-lucky.top
-0.0.0.0 www.prize-real-win-lucky.top
 0.0.0.0 prize-weekly-draw-deal.top
 0.0.0.0 www.prize-weekly-draw-deal.top
 0.0.0.0 prizes-world.one
 0.0.0.0 www.prizes-world.one
-0.0.0.0 real-giveaway-prize-instantwin.top
-0.0.0.0 www.real-giveaway-prize-instantwin.top
-0.0.0.0 reward-real-prize-bigwin.top
-0.0.0.0 www.reward-real-prize-bigwin.top
 0.0.0.0 reward-weekly-prize-foryou.top
 0.0.0.0 www.reward-weekly-prize-foryou.top
-0.0.0.0 search-weekly-prize-giveaway.top
-0.0.0.0 www.search-weekly-prize-giveaway.top
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
-0.0.0.0 smart-amazing-prize-weekly.top
-0.0.0.0 www.smart-amazing-prize-weekly.top
-0.0.0.0 smart-instantwin-prize-real.top
-0.0.0.0 www.smart-instantwin-prize-real.top
-0.0.0.0 specialoffer-reward-prize-foryou.top
-0.0.0.0 www.specialoffer-reward-prize-foryou.top
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
 0.0.0.0 superbonus888.pro
