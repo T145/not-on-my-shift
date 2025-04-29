@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-04-28T12:15:44Z
+# Last update: 2025-04-29T12:16:06Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -312,6 +312,8 @@
 0.0.0.0 www.guzelbil.com
 0.0.0.0 klinikmetamorf.com
 0.0.0.0 www.klinikmetamorf.com
+0.0.0.0 kmtks.org.tw
+0.0.0.0 www.kmtks.org.tw
 0.0.0.0 lova.network
 0.0.0.0 www.lova.network
 0.0.0.0 machupicchutraveling.com
@@ -631,8 +633,6 @@
 0.0.0.0 www.casino-bonus-utan-svensk-licens.com
 0.0.0.0 casino-x-bonus-site1014.buzz
 0.0.0.0 www.casino-x-bonus-site1014.buzz
-0.0.0.0 casino-x-bonus-top9632.buzz
-0.0.0.0 www.casino-x-bonus-top9632.buzz
 0.0.0.0 casino-x-official-bonus999291.win
 0.0.0.0 www.casino-x-official-bonus999291.win
 0.0.0.0 casino-x-site-bonus2729.buzz
@@ -657,8 +657,6 @@
 0.0.0.0 www.daten-erneuern-ch.com
 0.0.0.0 datenbank-kim.nrw
 0.0.0.0 www.datenbank-kim.nrw
-0.0.0.0 dates-es.top
-0.0.0.0 www.dates-es.top
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating24hour.com
@@ -693,26 +691,18 @@
 0.0.0.0 www.online-dating.top
 0.0.0.0 pandateam8.xyz
 0.0.0.0 www.pandateam8.xyz
-0.0.0.0 prize-bigwin-claim-foryou.top
-0.0.0.0 www.prize-bigwin-claim-foryou.top
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
-0.0.0.0 prize-foryou-weekly-champion.top
-0.0.0.0 www.prize-foryou-weekly-champion.top
 0.0.0.0 prize-weekly-draw-deal.top
 0.0.0.0 www.prize-weekly-draw-deal.top
 0.0.0.0 prizes-world.one
 0.0.0.0 www.prizes-world.one
-0.0.0.0 reward-weekly-prize-foryou.top
-0.0.0.0 www.reward-weekly-prize-foryou.top
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
 0.0.0.0 superbonus888.pro
 0.0.0.0 www.superbonus888.pro
-0.0.0.0 superbonus8888.club
-0.0.0.0 www.superbonus8888.club
 0.0.0.0 superbonus888autos.net
 0.0.0.0 www.superbonus888autos.net
 0.0.0.0 superbonus888v3.pro
