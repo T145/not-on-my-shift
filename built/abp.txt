@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-04-29T12:16:06Z
+! Last update: 2025-04-30T12:15:37Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -220,7 +220,6 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
-||eurosystemsrl.eu^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||galerihana.com^
@@ -237,8 +236,8 @@
 ||myphamnganbinh.com^
 ||nectartrust.org.uk^
 ||nqtxk.com^
+||parikhinfosolutions.in^
 ||redlog.cl^
-||robbreport.com.my^
 ||sekolahalmunasemarang.sch.id^
 ||sm-projekt.si^
 ||synoviz.com^
@@ -410,6 +409,7 @@
 ||casino-x-bonus-site1014.buzz^
 ||casino-x-official-bonus999291.win^
 ||casino-x-site-bonus2729.buzz^
+||casinobonuses24.net^
 ||casinox-bonus1702.buzz^
 ||casinox-bonus4752.win^
 ||cname-blk2.com^
@@ -437,18 +437,20 @@
 ||maako-kosodate-diary.net^
 ||online-dating.top^
 ||pandateam8.xyz^
+||prize-bigwin-claim-foryou.top^
 ||prize-claimer.site^
+||prize-foryou-weekly-champion.top^
 ||prize-weekly-draw-deal.top^
 ||prizes-world.one^
 ||seniordating-uk.xyz^
 ||stardate1440.com^
 ||superbonus888.pro^
+||superbonus8888.club^
 ||superbonus888autos.net^
 ||superbonus888v3.pro^
 ||superbonus911.pro^
 ||taylorenterprize1.net^
 ||up-to-date-online.com^
-||uptodate-online.com^
 ||validate-blakely.com^
 ||validate-order.info^
 ||wdate8.xyz^

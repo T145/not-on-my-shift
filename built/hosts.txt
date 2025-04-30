@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-04-29T12:16:06Z
+# Last update: 2025-04-30T12:15:37Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,8 +298,6 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 eurosystemsrl.eu
-0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -332,10 +330,10 @@
 0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 nqtxk.com
 0.0.0.0 www.nqtxk.com
+0.0.0.0 parikhinfosolutions.in
+0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
 0.0.0.0 www.redlog.cl
-0.0.0.0 robbreport.com.my
-0.0.0.0 www.robbreport.com.my
 0.0.0.0 sekolahalmunasemarang.sch.id
 0.0.0.0 www.sekolahalmunasemarang.sch.id
 0.0.0.0 sm-projekt.si
@@ -637,6 +635,8 @@
 0.0.0.0 www.casino-x-official-bonus999291.win
 0.0.0.0 casino-x-site-bonus2729.buzz
 0.0.0.0 www.casino-x-site-bonus2729.buzz
+0.0.0.0 casinobonuses24.net
+0.0.0.0 www.casinobonuses24.net
 0.0.0.0 casinox-bonus1702.buzz
 0.0.0.0 www.casinox-bonus1702.buzz
 0.0.0.0 casinox-bonus4752.win
@@ -691,8 +691,12 @@
 0.0.0.0 www.online-dating.top
 0.0.0.0 pandateam8.xyz
 0.0.0.0 www.pandateam8.xyz
+0.0.0.0 prize-bigwin-claim-foryou.top
+0.0.0.0 www.prize-bigwin-claim-foryou.top
 0.0.0.0 prize-claimer.site
 0.0.0.0 www.prize-claimer.site
+0.0.0.0 prize-foryou-weekly-champion.top
+0.0.0.0 www.prize-foryou-weekly-champion.top
 0.0.0.0 prize-weekly-draw-deal.top
 0.0.0.0 www.prize-weekly-draw-deal.top
 0.0.0.0 prizes-world.one
@@ -703,6 +707,8 @@
 0.0.0.0 www.stardate1440.com
 0.0.0.0 superbonus888.pro
 0.0.0.0 www.superbonus888.pro
+0.0.0.0 superbonus8888.club
+0.0.0.0 www.superbonus8888.club
 0.0.0.0 superbonus888autos.net
 0.0.0.0 www.superbonus888autos.net
 0.0.0.0 superbonus888v3.pro
@@ -713,8 +719,6 @@
 0.0.0.0 www.taylorenterprize1.net
 0.0.0.0 up-to-date-online.com
 0.0.0.0 www.up-to-date-online.com
-0.0.0.0 uptodate-online.com
-0.0.0.0 www.uptodate-online.com
 0.0.0.0 validate-blakely.com
 0.0.0.0 www.validate-blakely.com
 0.0.0.0 validate-order.info
