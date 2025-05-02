@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-05-01T12:15:32Z
+! Last update: 2025-05-02T12:15:38Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -220,6 +220,7 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||eurosystemsrl.eu^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
@@ -392,70 +393,32 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||artprize2024.beauty^
 ||best-lovelady.com^
-||bonus-de-casino.net^
 ||bonus-openrunes.com^
-||bonus-tikt0k.shop^
-||bonus-zknation.app^
 ||bonus1.at^
-||bonus1.sbs^
 ||bonus100cuaca889.digital^
 ||bonus4you.net^
-||bonus88.xyz^
-||bonushkjepe88.info^
-||bonusverensiteler2024.click^
 ||candidates-hub.careers^
-||casino-bonus-utan-svensk-licens.com^
-||casino-x-bonus-site1014.buzz^
-||casino-x-official-bonus999291.win^
-||casino-x-site-bonus2729.buzz^
-||casinox-bonus1702.buzz^
-||casinox-bonus4752.win^
-||cname-blk2.com^
 ||cuidate-skin.com^
-||date-gabrielle.com^
 ||date-jason.com^
 ||date-sns.com^
 ||date0511.shop^
 ||daten-erneuern-ch.com^
 ||datevibe1.shop^
 ||dating24hour.com^
-||denemebonusu-2024.click^
-||fe-candidate-jddiaz-20241216.net^
-||gama-casino-bonus757.buzz^
 ||hakodate-bpss.net^
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
-||hotdating4you.online^
 ||joint-bonus-auto.online^
 ||joint-bonus-connect.online^
 ||jointbonus-bigsale.online^
 ||jointbonus-llc.online^
 ||kosodate-happy.net^
-||maako-kosodate-diary.net^
 ||online-dating.top^
-||pandateam8.xyz^
-||prize-bigwin-claim-foryou.top^
-||prize-claimer.site^
-||prize-foryou-weekly-champion.top^
-||prize-weekly-draw-deal.top^
-||prizes-world.one^
 ||seniordating-uk.xyz^
 ||stardate1440.com^
-||superbonus888.pro^
-||superbonus8888.club^
-||superbonus888autos.net^
-||superbonus888v3.pro^
-||superbonus911.pro^
 ||taylorenterprize1.net^
-||up-to-date-online.com^
-||uptodate-online.com^
-||validate-blakely.com^
-||validate-order.info^
 ||wdate8.xyz^
-||yuttarikosodate55.net^
-||zugangsdaten-portal.cfd^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
