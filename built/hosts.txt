@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-05-02T12:15:38Z
+# Last update: 2025-05-03T12:15:21Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,8 +298,6 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 eurosystemsrl.eu
 0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 fraternitykerala.org
@@ -316,8 +314,6 @@
 0.0.0.0 www.klinikmetamorf.com
 0.0.0.0 kmtks.org.tw
 0.0.0.0 www.kmtks.org.tw
-0.0.0.0 lova.network
-0.0.0.0 www.lova.network
 0.0.0.0 machupicchutraveling.com
 0.0.0.0 www.machupicchutraveling.com
 0.0.0.0 magicboximportados.com.br
@@ -338,8 +334,6 @@
 0.0.0.0 www.redlog.cl
 0.0.0.0 robbreport.com.my
 0.0.0.0 www.robbreport.com.my
-0.0.0.0 sekolahalmunasemarang.sch.id
-0.0.0.0 www.sekolahalmunasemarang.sch.id
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com

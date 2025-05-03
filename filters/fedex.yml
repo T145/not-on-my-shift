@@ -10,7 +10,6 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
-- dexil.ru
 - eurosystemsrl.eu
 - fraternitykerala.org
 - galaxyfunbowl.gr
@@ -19,7 +18,6 @@ domains:
 - guzelbil.com
 - klinikmetamorf.com
 - kmtks.org.tw
-- lova.network
 - machupicchutraveling.com
 - magicboximportados.com.br
 - mistc.es
@@ -30,7 +28,6 @@ domains:
 - nqtxk.com
 - redlog.cl
 - robbreport.com.my
-- sekolahalmunasemarang.sch.id
 - sm-projekt.si
 - synoviz.com
 - tacloban.gov.ph
@@ -82,6 +79,7 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
+- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -111,6 +109,7 @@ ignored_domains:
 - kidimy.org
 - latesttechnologyz.com
 - loanglide.com
+- lova.network
 - mahigifts.com
 - marincr.com
 - mevlutacik.com.tr
@@ -133,6 +132,7 @@ ignored_domains:
 - rishipes.co.nz
 - runyixs.com
 - ryansa.com
+- sekolahalmunasemarang.sch.id
 - share-bnb.com
 - sky-scout.com
 - smcsme.com
