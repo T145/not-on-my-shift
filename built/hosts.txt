@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-05-13T12:16:07Z
+# Last update: 2025-05-14T12:15:48Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -615,8 +615,6 @@
 0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
-0.0.0.0 date-sns.com
-0.0.0.0 www.date-sns.com
 0.0.0.0 date0511.shop
 0.0.0.0 www.date0511.shop
 0.0.0.0 daten-erneuern-ch.com
