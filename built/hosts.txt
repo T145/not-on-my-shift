@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-05-15T12:16:02Z
+# Last update: 2025-05-16T12:16:29Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -599,8 +599,6 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 bonus-code-poker.net
-0.0.0.0 www.bonus-code-poker.net
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
 0.0.0.0 bonus100cuaca889.digital
@@ -613,14 +611,12 @@
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-sns.com
 0.0.0.0 www.date-sns.com
-0.0.0.0 date0511.shop
-0.0.0.0 www.date0511.shop
+0.0.0.0 daten-erneuern-ch.com
+0.0.0.0 www.daten-erneuern-ch.com
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
-0.0.0.0 hakodate-bpss.net
-0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
@@ -633,6 +629,8 @@
 0.0.0.0 www.jointbonus-bigsale.online
 0.0.0.0 jointbonus-llc.online
 0.0.0.0 www.jointbonus-llc.online
+0.0.0.0 kosodate-happy.net
+0.0.0.0 www.kosodate-happy.net
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 savethedate-kg.info
