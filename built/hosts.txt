@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-05-20T12:16:15Z
+# Last update: 2025-05-21T12:16:09Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -304,6 +304,8 @@
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
+0.0.0.0 galerihana.com
+0.0.0.0 www.galerihana.com
 0.0.0.0 godynamo.co
 0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
@@ -340,16 +342,12 @@
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
-0.0.0.0 tacloban.gov.ph
-0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 thozhilvarthalatest.com
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
 0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
 0.0.0.0 www.tubies.com
-0.0.0.0 twospoonsfleet.co.uk
-0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vanguardacademy-ng.com
@@ -599,16 +597,16 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 best-lovelady.com
-0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus-openrunes.com
 0.0.0.0 www.bonus-openrunes.com
+0.0.0.0 bonus1.at
+0.0.0.0 www.bonus1.at
 0.0.0.0 bonus100cuaca889.digital
 0.0.0.0 www.bonus100cuaca889.digital
 0.0.0.0 bonus4you.net
 0.0.0.0 www.bonus4you.net
-0.0.0.0 candidates-hub.careers
-0.0.0.0 www.candidates-hub.careers
+0.0.0.0 cuidate-skin.com
+0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-sns.com
@@ -619,16 +617,16 @@
 0.0.0.0 www.daten-erneuern-ch.com
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
-0.0.0.0 dating24hour.com
-0.0.0.0 www.dating24hour.com
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 joint-bonus-connect.online
-0.0.0.0 www.joint-bonus-connect.online
+0.0.0.0 joint-bonus-auto.online
+0.0.0.0 www.joint-bonus-auto.online
+0.0.0.0 jointbonus-bigsale.online
+0.0.0.0 www.jointbonus-bigsale.online
 0.0.0.0 jointbonus-llc.online
 0.0.0.0 www.jointbonus-llc.online
 0.0.0.0 kosodate-happy.net
@@ -641,8 +639,6 @@
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 stardate1440.com
 0.0.0.0 www.stardate1440.com
-0.0.0.0 taylorenterprize1.net
-0.0.0.0 www.taylorenterprize1.net
 0.0.0.0 wdate8.xyz
 0.0.0.0 www.wdate8.xyz
 
