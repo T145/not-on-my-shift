@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-05-25T12:15:36Z
+! Last update: 2025-05-26T12:16:03Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -215,7 +215,6 @@
 ||alercehistorico.cl^
 ||blog.sidmach.com^
 ||cancervants.org^
-||castllypay.com^
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
@@ -238,10 +237,12 @@
 ||myphamnganbinh.com^
 ||nectartrust.org.uk^
 ||nqtxk.com^
+||pmb.akprind.ac.id^
 ||redlog.cl^
 ||robbreport.com.my^
 ||sm-projekt.si^
 ||synoviz.com^
+||tacloban.gov.ph^
 ||thozhilvarthalatest.com^
 ||trashstation.com^
 ||tubies.com^
@@ -409,7 +410,6 @@
 ||hakodatemoto7.com^
 ||joint-bonus-auto.online^
 ||joint-bonus-connect.online^
-||jointbonus-bigsale.online^
 ||jointbonus-llc.online^
 ||online-dating.top^
 ||savethedate-kg.info^
