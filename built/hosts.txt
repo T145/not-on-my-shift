@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-05-26T12:16:03Z
+# Last update: 2025-05-27T12:16:17Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -322,8 +322,6 @@
 0.0.0.0 www.magicboximportados.com.br
 0.0.0.0 mistc.es
 0.0.0.0 www.mistc.es
-0.0.0.0 mouwz.nl
-0.0.0.0 www.mouwz.nl
 0.0.0.0 mucc.com.au
 0.0.0.0 www.mucc.com.au
 0.0.0.0 myphamnganbinh.com
@@ -610,10 +608,6 @@
 0.0.0.0 www.bonus100cuaca889.digital
 0.0.0.0 bonus4you.net
 0.0.0.0 www.bonus4you.net
-0.0.0.0 candidates-hub.careers
-0.0.0.0 www.candidates-hub.careers
-0.0.0.0 cuidate-skin.com
-0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-sns.com
@@ -628,16 +622,18 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
-0.0.0.0 hakodate-wq.com
-0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 joint-bonus-auto.online
 0.0.0.0 www.joint-bonus-auto.online
 0.0.0.0 joint-bonus-connect.online
 0.0.0.0 www.joint-bonus-connect.online
+0.0.0.0 jointbonus-bigsale.online
+0.0.0.0 www.jointbonus-bigsale.online
 0.0.0.0 jointbonus-llc.online
 0.0.0.0 www.jointbonus-llc.online
+0.0.0.0 kosodate-happy.net
+0.0.0.0 www.kosodate-happy.net
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 savethedate-kg.info
