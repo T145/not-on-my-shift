@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-05-27T12:16:17Z
+# Last update: 2025-05-28T12:16:08Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -289,6 +289,8 @@
 0.0.0.0 blog.sidmach.com
 0.0.0.0 cancervants.org
 0.0.0.0 www.cancervants.org
+0.0.0.0 castllypay.com
+0.0.0.0 www.castllypay.com
 0.0.0.0 clickedgesolutions.com
 0.0.0.0 www.clickedgesolutions.com
 0.0.0.0 clone.app.home-cost.com
@@ -322,6 +324,8 @@
 0.0.0.0 www.magicboximportados.com.br
 0.0.0.0 mistc.es
 0.0.0.0 www.mistc.es
+0.0.0.0 mouwz.nl
+0.0.0.0 www.mouwz.nl
 0.0.0.0 mucc.com.au
 0.0.0.0 www.mucc.com.au
 0.0.0.0 myphamnganbinh.com
@@ -347,6 +351,8 @@
 0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
 0.0.0.0 www.tubies.com
+0.0.0.0 twospoonsfleet.co.uk
+0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vanguardacademy-ng.com
@@ -598,8 +604,8 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
-0.0.0.0 bonus-dv.shop
-0.0.0.0 www.bonus-dv.shop
+0.0.0.0 bonus-buildon.net
+0.0.0.0 www.bonus-buildon.net
 0.0.0.0 bonus-openrunes.com
 0.0.0.0 www.bonus-openrunes.com
 0.0.0.0 bonus1.at
@@ -608,12 +614,14 @@
 0.0.0.0 www.bonus100cuaca889.digital
 0.0.0.0 bonus4you.net
 0.0.0.0 www.bonus4you.net
+0.0.0.0 candidates-hub.careers
+0.0.0.0 www.candidates-hub.careers
+0.0.0.0 cuidate-skin.com
+0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-sns.com
 0.0.0.0 www.date-sns.com
-0.0.0.0 date0511.shop
-0.0.0.0 www.date0511.shop
 0.0.0.0 daten-erneuern-ch.com
 0.0.0.0 www.daten-erneuern-ch.com
 0.0.0.0 datevibe1.shop
@@ -622,6 +630,8 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
+0.0.0.0 hakodate-wq.com
+0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 joint-bonus-auto.online
@@ -640,10 +650,6 @@
 0.0.0.0 www.savethedate-kg.info
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
-0.0.0.0 stardate1440.com
-0.0.0.0 www.stardate1440.com
-0.0.0.0 taylorenterprize1.net
-0.0.0.0 www.taylorenterprize1.net
 0.0.0.0 wdate8.xyz
 0.0.0.0 www.wdate8.xyz
 
