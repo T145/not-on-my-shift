@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-06-05T12:16:20Z
+# Last update: 2025-06-06T12:16:08Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -218,7 +218,6 @@ guzelbil.com
 klinikmetamorf.com
 kmtks.org.tw
 loanglide.com
-lova.network
 machupicchutraveling.com
 magicboximportados.com.br
 mistc.es
@@ -385,9 +384,8 @@ best-lovelady.com
 bonus-buildon.net
 bonus1.at
 bonus1000.org
-bonus100cuaca889.digital
-bonus4you.net
 bonus66.org
+candidates-hub.careers
 date-jason.com
 date-sns.com
 date0511.shop

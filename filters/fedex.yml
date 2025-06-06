@@ -17,7 +17,6 @@ domains:
 - klinikmetamorf.com
 - kmtks.org.tw
 - loanglide.com
-- lova.network
 - machupicchutraveling.com
 - magicboximportados.com.br
 - mistc.es
@@ -110,6 +109,7 @@ ignored_domains:
 - justparty.com.br
 - kidimy.org
 - latesttechnologyz.com
+- lova.network
 - mahigifts.com
 - marincr.com
 - mevlutacik.com.tr
