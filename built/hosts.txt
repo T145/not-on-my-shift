@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-06-06T12:16:08Z
+# Last update: 2025-06-07T12:15:22Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -345,6 +345,8 @@
 0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
 0.0.0.0 www.tubies.com
+0.0.0.0 twospoonsfleet.co.uk
+0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vanguardacademy-ng.com
@@ -596,32 +598,32 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
-0.0.0.0 bonus-buildon.net
-0.0.0.0 www.bonus-buildon.net
 0.0.0.0 bonus1.at
 0.0.0.0 www.bonus1.at
-0.0.0.0 bonus1000.org
-0.0.0.0 www.bonus1000.org
-0.0.0.0 bonus66.org
-0.0.0.0 www.bonus66.org
-0.0.0.0 candidates-hub.careers
-0.0.0.0 www.candidates-hub.careers
+0.0.0.0 bonus100cuaca889.digital
+0.0.0.0 www.bonus100cuaca889.digital
+0.0.0.0 bonus4you.net
+0.0.0.0 www.bonus4you.net
+0.0.0.0 cuidate-skin.com
+0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-sns.com
 0.0.0.0 www.date-sns.com
 0.0.0.0 date0511.shop
 0.0.0.0 www.date0511.shop
-0.0.0.0 date2win.net
-0.0.0.0 www.date2win.net
 0.0.0.0 daten-erneuern-ch.com
 0.0.0.0 www.daten-erneuern-ch.com
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
+0.0.0.0 dating-tips.top
+0.0.0.0 www.dating-tips.top
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
+0.0.0.0 hakodate-wq.com
+0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 joint-bonus-auto.online
