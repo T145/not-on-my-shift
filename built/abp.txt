@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-06-07T12:15:22Z
+! Last update: 2025-06-08T12:15:36Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -219,7 +219,9 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||eurosystemsrl.eu^
+||events.playakasha.com^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||godynamo.co^
@@ -240,11 +242,9 @@
 ||robbreport.com.my^
 ||sm-projekt.si^
 ||synoviz.com^
-||tacloban.gov.ph^
 ||thozhilvarthalatest.com^
 ||trashstation.com^
 ||tubies.com^
-||twospoonsfleet.co.uk^
 ||ultimatepreneur.com^
 ||vanguardacademy-ng.com^
 ||vladimirherzog.org^
@@ -394,22 +394,18 @@
 ||bonus1.at^
 ||bonus100cuaca889.digital^
 ||bonus4you.net^
-||cuidate-skin.com^
+||bonus66.org^
 ||date-jason.com^
 ||date-sns.com^
-||date0511.shop^
 ||daten-erneuern-ch.com^
 ||datevibe1.shop^
-||dating-tips.top^
 ||dating24hour.com^
 ||hakodate-bpss.net^
-||hakodate-wq.com^
 ||hakodatemoto7.com^
 ||joint-bonus-auto.online^
 ||joint-bonus-connect.online^
 ||jointbonus-bigsale.online^
 ||jointbonus-llc.online^
-||kosodate-happy.net^
 ||online-dating.top^
 ||seniordating-uk.xyz^
 ||taylorenterprize1.net^
