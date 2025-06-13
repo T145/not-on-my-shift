@@ -1,6 +1,7 @@
 # Don't bother manually updating this file.
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
+- 42sf.net
 - ailnoir.com
 - blog.sidmach.com
 - cancervants.org
@@ -9,10 +10,10 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
-- dexil.ru
 - eurosystemsrl.eu
 - events.playakasha.com
 - fraternitykerala.org
+- galaxyfunbowl.gr
 - godynamo.co
 - guzelbil.com
 - klinikmetamorf.com
@@ -53,7 +54,6 @@ fedex_suffixes:
 - web
 - www
 ignored_domains:
-- 42sf.net
 - 51tunan.com
 - 84blog.xyz
 - 918kiss.newworld88.com
@@ -81,13 +81,13 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
+- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
 - fallenjewellery.com
 - feelmore.site
 - funtrade.land
-- galaxyfunbowl.gr
 - galerihana.com
 - gardendeur.site
 - garveylibertyhall.com
