@@ -32,7 +32,6 @@ domains:
 - robbreport.com.my
 - sm-projekt.si
 - synoviz.com
-- tacloban.gov.ph
 - thozhilvarthalatest.com
 - trashstation.com
 - tubies.com
@@ -142,6 +141,7 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
+- tacloban.gov.ph
 - teamder.org
 - testargames.cl
 - thaircy.redcross.or.th

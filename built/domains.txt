@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-06-13T12:16:18Z
+# Last update: 2025-06-14T12:15:25Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -233,7 +233,6 @@ redlog.cl
 robbreport.com.my
 sm-projekt.si
 synoviz.com
-tacloban.gov.ph
 thozhilvarthalatest.com
 trashstation.com
 tubies.com
@@ -383,11 +382,13 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+best-lovelady.com
 bonus1.at
 bonus100cuaca889.digital
 bonus4you.net
 candidates-hub.careers
 cuidate-skin.com
+date-jason.com
 date-sns.com
 date0511.shop
 daten-erneuern-ch.com
@@ -402,7 +403,6 @@ joint-bonus-connect.online
 jointbonus-bigsale.online
 jointbonus-llc.online
 kosodate-happy.net
-online-dating.top
 seniordating-uk.xyz
 taylorenterprize1.net
 wdate8.xyz
