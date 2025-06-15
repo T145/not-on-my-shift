@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-06-14T12:15:25Z
+# Last update: 2025-06-15T12:15:36Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,6 +298,8 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 eurosystemsrl.eu
 0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 events.playakasha.com
@@ -329,6 +331,8 @@
 0.0.0.0 www.myphamnganbinh.com
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
+0.0.0.0 nguen.net
+0.0.0.0 www.nguen.net
 0.0.0.0 nqtxk.com
 0.0.0.0 www.nqtxk.com
 0.0.0.0 pmb.akprind.ac.id
@@ -346,8 +350,6 @@
 0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
 0.0.0.0 www.tubies.com
-0.0.0.0 twospoonsfleet.co.uk
-0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vanguardacademy-ng.com
@@ -639,6 +641,8 @@
 0.0.0.0 www.jointbonus-llc.online
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
+0.0.0.0 online-dating.top
+0.0.0.0 www.online-dating.top
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 taylorenterprize1.net
