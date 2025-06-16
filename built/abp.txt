@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-06-15T12:15:36Z
+! Last update: 2025-06-16T12:16:17Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -244,9 +244,11 @@
 ||robbreport.com.my^
 ||sm-projekt.si^
 ||synoviz.com^
+||tacloban.gov.ph^
 ||thozhilvarthalatest.com^
 ||trashstation.com^
 ||tubies.com^
+||twospoonsfleet.co.uk^
 ||ultimatepreneur.com^
 ||vanguardacademy-ng.com^
 ||vladimirherzog.org^
@@ -392,11 +394,9 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||best-lovelady.com^
 ||bonus1.at^
 ||bonus100cuaca889.digital^
 ||bonus4you.net^
-||candidates-hub.careers^
 ||cuidate-skin.com^
 ||date-jason.com^
 ||date-sns.com^
