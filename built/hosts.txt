@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-06-19T12:16:12Z
+# Last update: 2025-06-20T12:16:06Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,6 +298,8 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 eurosystemsrl.eu
 0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 events.playakasha.com
@@ -345,10 +347,10 @@
 0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 thozhilvarthalatest.com
 0.0.0.0 www.thozhilvarthalatest.com
-0.0.0.0 trashstation.com
-0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
 0.0.0.0 www.tubies.com
+0.0.0.0 twospoonsfleet.co.uk
+0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vanguardacademy-ng.com
@@ -616,8 +618,6 @@
 0.0.0.0 www.date-sns.com
 0.0.0.0 date0511.shop
 0.0.0.0 www.date0511.shop
-0.0.0.0 daten-erneuern-ch.com
-0.0.0.0 www.daten-erneuern-ch.com
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating-love.top
@@ -632,12 +632,10 @@
 0.0.0.0 www.joint-bonus-auto.online
 0.0.0.0 joint-bonus-connect.online
 0.0.0.0 www.joint-bonus-connect.online
-0.0.0.0 jointbonus-bigsale.online
-0.0.0.0 www.jointbonus-bigsale.online
 0.0.0.0 jointbonus-llc.online
 0.0.0.0 www.jointbonus-llc.online
-0.0.0.0 kosodate-happy.net
-0.0.0.0 www.kosodate-happy.net
+0.0.0.0 mymeetings.site
+0.0.0.0 www.mymeetings.site
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 seniordating-uk.xyz
