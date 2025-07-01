@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-06-30T12:16:05Z
+# Last update: 2025-07-01T12:16:07Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -301,8 +301,6 @@
 0.0.0.0 eurosystemsrl.eu
 0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 events.playakasha.com
-0.0.0.0 fraternitykerala.org
-0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
 0.0.0.0 godynamo.co
@@ -341,16 +339,12 @@
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
-0.0.0.0 tacloban.gov.ph
-0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 thozhilvarthalatest.com
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
 0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
 0.0.0.0 www.tubies.com
-0.0.0.0 twospoonsfleet.co.uk
-0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vanguardacademy-ng.com
@@ -604,12 +598,12 @@
 0.0.0.0 www.bonus100cuaca889.digital
 0.0.0.0 bonus4you.net
 0.0.0.0 www.bonus4you.net
-0.0.0.0 bonusline-pinco-casino.website
-0.0.0.0 www.bonusline-pinco-casino.website
 0.0.0.0 candidates-hub.careers
 0.0.0.0 www.candidates-hub.careers
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
+0.0.0.0 date-jason.com
+0.0.0.0 www.date-jason.com
 0.0.0.0 date-sns.com
 0.0.0.0 www.date-sns.com
 0.0.0.0 daten-erneuern-ch.com
@@ -626,8 +620,6 @@
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
-0.0.0.0 hakodatemoto7.com
-0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 joint-bonus-auto.online
 0.0.0.0 www.joint-bonus-auto.online
 0.0.0.0 joint-bonus-connect.online
@@ -638,12 +630,8 @@
 0.0.0.0 www.jointbonus-llc.online
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
-0.0.0.0 online-dating.top
-0.0.0.0 www.online-dating.top
 0.0.0.0 ramenbet-bonus1.online
 0.0.0.0 www.ramenbet-bonus1.online
-0.0.0.0 seniordating-uk.xyz
-0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 taylorenterprize1.net
 0.0.0.0 www.taylorenterprize1.net
 0.0.0.0 wdate8.xyz
