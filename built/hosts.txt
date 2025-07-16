@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-07-15T12:16:22Z
+# Last update: 2025-07-16T12:16:25Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -343,6 +343,8 @@
 0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
 0.0.0.0 www.tubies.com
+0.0.0.0 twospoonsfleet.co.uk
+0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vanguardacademy-ng.com
@@ -598,22 +600,16 @@
 0.0.0.0 www.bonus100cuaca889.digital
 0.0.0.0 bonus4you.net
 0.0.0.0 www.bonus4you.net
-0.0.0.0 candidates-hub.careers
-0.0.0.0 www.candidates-hub.careers
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
-0.0.0.0 date-sns.com
-0.0.0.0 www.date-sns.com
 0.0.0.0 date0511.shop
 0.0.0.0 www.date0511.shop
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating-love.top
 0.0.0.0 www.dating-love.top
-0.0.0.0 dating24hour.com
-0.0.0.0 www.dating24hour.com
 0.0.0.0 denemebonusu073.xyz
 0.0.0.0 www.denemebonusu073.xyz
 0.0.0.0 hakodate-bpss.net
