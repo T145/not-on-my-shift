@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-07-17T12:16:26Z
+# Last update: 2025-07-18T12:17:09Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -301,8 +301,6 @@
 0.0.0.0 events.playakasha.com
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
-0.0.0.0 godynamo.co
-0.0.0.0 www.godynamo.co
 0.0.0.0 guzelbil.com
 0.0.0.0 www.guzelbil.com
 0.0.0.0 klinikmetamorf.com
@@ -606,6 +604,8 @@
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-sns.com
 0.0.0.0 www.date-sns.com
+0.0.0.0 date0511.shop
+0.0.0.0 www.date0511.shop
 0.0.0.0 daten-erneuern-ch.com
 0.0.0.0 www.daten-erneuern-ch.com
 0.0.0.0 datevibe1.shop
@@ -628,6 +628,8 @@
 0.0.0.0 www.jointbonus-bigsale.online
 0.0.0.0 jointbonus-llc.online
 0.0.0.0 www.jointbonus-llc.online
+0.0.0.0 kosodate-happy.net
+0.0.0.0 www.kosodate-happy.net
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 ramenbet-bonus1.online
