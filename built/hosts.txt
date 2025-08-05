@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-08-04T12:16:45Z
+# Last update: 2025-08-05T12:16:44Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -296,6 +296,8 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 events.playakasha.com
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
@@ -588,30 +590,30 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 best-lovelady.com
-0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus100cuaca889.digital
 0.0.0.0 www.bonus100cuaca889.digital
 0.0.0.0 bonus4you.net
 0.0.0.0 www.bonus4you.net
-0.0.0.0 candidates-hub.careers
-0.0.0.0 www.candidates-hub.careers
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date0511.shop
 0.0.0.0 www.date0511.shop
+0.0.0.0 date168.xyz
+0.0.0.0 www.date168.xyz
 0.0.0.0 daten-erneuern-ch.com
 0.0.0.0 www.daten-erneuern-ch.com
+0.0.0.0 datevibe1.shop
+0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
-0.0.0.0 denemebonusu073.xyz
-0.0.0.0 www.denemebonusu073.xyz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
+0.0.0.0 hakodatemoto7.com
+0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 joint-bonus-auto.online
 0.0.0.0 www.joint-bonus-auto.online
 0.0.0.0 joint-bonus-connect.online
@@ -622,6 +624,8 @@
 0.0.0.0 www.jointbonus-llc.online
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
+0.0.0.0 online-dating-co-db.xyz
+0.0.0.0 www.online-dating-co-db.xyz
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 ramenbet-bonus1.online
