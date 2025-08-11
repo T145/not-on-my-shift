@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-08-10T12:15:38Z
+# Last update: 2025-08-11T12:16:27Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -319,8 +319,6 @@
 0.0.0.0 www.mouwz.nl
 0.0.0.0 mucc.com.au
 0.0.0.0 www.mucc.com.au
-0.0.0.0 myphamnganbinh.com
-0.0.0.0 www.myphamnganbinh.com
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 nguen.net
@@ -598,22 +596,22 @@
 0.0.0.0 www.bonus4you.net
 0.0.0.0 candidates-hub.careers
 0.0.0.0 www.candidates-hub.careers
+0.0.0.0 cuidate-skin.com
+0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
 0.0.0.0 www.date-app.net
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date0511.shop
 0.0.0.0 www.date0511.shop
-0.0.0.0 daten-erneuern-ch.com
-0.0.0.0 www.daten-erneuern-ch.com
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating-love.top
 0.0.0.0 www.dating-love.top
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
-0.0.0.0 dating4u.xyz
-0.0.0.0 www.dating4u.xyz
+0.0.0.0 denemebonusu073.xyz
+0.0.0.0 www.denemebonusu073.xyz
 0.0.0.0 garantibonus-metabrowser.cfd
 0.0.0.0 www.garantibonus-metabrowser.cfd
 0.0.0.0 grntibonus-metafb.cfd
@@ -642,6 +640,8 @@
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 taylorenterprize1.net
 0.0.0.0 www.taylorenterprize1.net
+0.0.0.0 yt31bonus31.net
+0.0.0.0 www.yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
