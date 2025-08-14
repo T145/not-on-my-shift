@@ -10,7 +10,6 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
-- dexil.ru
 - events.playakasha.com
 - galaxyfunbowl.gr
 - guzelbil.com
@@ -21,6 +20,7 @@ domains:
 - magicboximportados.com.br
 - mistc.es
 - mouwz.nl
+- mucc.com.au
 - nectartrust.org.uk
 - nguen.net
 - redlog.cl
@@ -75,6 +75,7 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
+- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -110,7 +111,6 @@ ignored_domains:
 - mahigifts.com
 - marincr.com
 - mevlutacik.com.tr
-- mucc.com.au
 - myphamnganbinh.com
 - nbkangxi.com
 - nen.vacad.net

@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-08-13T12:16:09Z
+# Last update: 2025-08-14T12:16:24Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,8 +298,6 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 events.playakasha.com
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
@@ -319,6 +317,8 @@
 0.0.0.0 www.mistc.es
 0.0.0.0 mouwz.nl
 0.0.0.0 www.mouwz.nl
+0.0.0.0 mucc.com.au
+0.0.0.0 www.mucc.com.au
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 nguen.net
@@ -592,8 +592,8 @@
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus100cuaca889.digital
 0.0.0.0 www.bonus100cuaca889.digital
-0.0.0.0 bonus4you.net
-0.0.0.0 www.bonus4you.net
+0.0.0.0 candidates-hub.careers
+0.0.0.0 www.candidates-hub.careers
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
@@ -604,16 +604,16 @@
 0.0.0.0 www.date0511.shop
 0.0.0.0 daten-erneuern-ch.com
 0.0.0.0 www.daten-erneuern-ch.com
-0.0.0.0 datevibe1.shop
-0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating-love.top
 0.0.0.0 www.dating-love.top
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
+0.0.0.0 denemebonusu073.xyz
+0.0.0.0 www.denemebonusu073.xyz
+0.0.0.0 flirt-date-chat.top
+0.0.0.0 www.flirt-date-chat.top
 0.0.0.0 garantibonus-metabrowser.cfd
 0.0.0.0 www.garantibonus-metabrowser.cfd
-0.0.0.0 grntibonus-metafb.cfd
-0.0.0.0 www.grntibonus-metafb.cfd
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-wq.com
@@ -634,8 +634,6 @@
 0.0.0.0 www.online-dating.top
 0.0.0.0 ramenbet-bonus1.online
 0.0.0.0 www.ramenbet-bonus1.online
-0.0.0.0 seniordating-uk.xyz
-0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 taylorenterprize1.net
 0.0.0.0 www.taylorenterprize1.net
 0.0.0.0 yt31bonus31.net
