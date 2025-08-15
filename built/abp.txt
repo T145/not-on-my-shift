@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-08-14T12:16:24Z
+! Last update: 2025-08-15T12:15:53Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -220,9 +220,11 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||events.playakasha.com^
 ||galaxyfunbowl.gr^
 ||guzelbil.com^
+||imrt.ac.in^
 ||klinikmetamorf.com^
 ||kmtks.org.tw^
 ||loanglide.com^
@@ -386,9 +388,8 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||best-lovelady.com^
 ||bonus100cuaca889.digital^
-||candidates-hub.careers^
+||bonus4you.net^
 ||cuidate-skin.com^
 ||date-app.net^
 ||date-jason.com^
@@ -397,8 +398,8 @@
 ||dating-love.top^
 ||dating24hour.com^
 ||denemebonusu073.xyz^
-||flirt-date-chat.top^
 ||garantibonus-metabrowser.cfd^
+||grntibonus-metafb.cfd^
 ||hakodate-bpss.net^
 ||hakodate-wq.com^
 ||hakodatemoto7.com^
@@ -409,6 +410,7 @@
 ||kosodate-happy.net^
 ||online-dating.top^
 ||ramenbet-bonus1.online^
+||seniordating-uk.xyz^
 ||taylorenterprize1.net^
 ||yt31bonus31.net^
 
