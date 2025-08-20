@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-08-19T12:16:20Z
+# Last update: 2025-08-20T12:16:10Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -286,6 +286,8 @@
 0.0.0.0 www.42sf.net
 0.0.0.0 ailnoir.com
 0.0.0.0 www.ailnoir.com
+0.0.0.0 bamperbolspb.ru
+0.0.0.0 www.bamperbolspb.ru
 0.0.0.0 blog.sidmach.com
 0.0.0.0 cancervants.org
 0.0.0.0 www.cancervants.org
@@ -596,6 +598,8 @@
 0.0.0.0 www.bonus100cuaca889.digital
 0.0.0.0 bonus4you.net
 0.0.0.0 www.bonus4you.net
+0.0.0.0 cuidate-skin.com
+0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
 0.0.0.0 www.date-app.net
 0.0.0.0 date-jason.com
@@ -606,8 +610,6 @@
 0.0.0.0 www.daten-erneuern-ch.com
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
-0.0.0.0 dating-love.top
-0.0.0.0 www.dating-love.top
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
 0.0.0.0 denemebonusu073.xyz
@@ -618,6 +620,10 @@
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
+0.0.0.0 joint-bonus-auto.online
+0.0.0.0 www.joint-bonus-auto.online
+0.0.0.0 joint-bonus-connect.online
+0.0.0.0 www.joint-bonus-connect.online
 0.0.0.0 jointbonus-bigsale.online
 0.0.0.0 www.jointbonus-bigsale.online
 0.0.0.0 kosodate-happy.net
