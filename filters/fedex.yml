@@ -28,7 +28,6 @@ domains:
 - redlog.cl
 - sm-projekt.si
 - synoviz.com
-- tacloban.gov.ph
 - thozhilvarthalatest.com
 - trashstation.com
 - tubies.com
@@ -36,7 +35,6 @@ domains:
 - ultimatepreneur.com
 - vanguardacademy-ng.com
 - vladimirherzog.org
-- weboyal.com
 - wowfollowers.com
 fedex_suffixes:
 - app
@@ -142,6 +140,7 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
+- tacloban.gov.ph
 - teamder.org
 - testargames.cl
 - thaircy.redcross.or.th
@@ -152,6 +151,7 @@ ignored_domains:
 - update.fbsbx.com
 - veljko.id
 - visotka.in
+- weboyal.com
 - wordpress.mrcentertainment.com
 - wp.up118.cn
 - wsw.cool
