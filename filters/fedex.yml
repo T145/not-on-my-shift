@@ -28,6 +28,7 @@ domains:
 - redlog.cl
 - sm-projekt.si
 - synoviz.com
+- tacloban.gov.ph
 - thozhilvarthalatest.com
 - trashstation.com
 - tubies.com
@@ -36,6 +37,7 @@ domains:
 - vanguardacademy-ng.com
 - vladimirherzog.org
 - wowfollowers.com
+- yuanant.com
 fedex_suffixes:
 - app
 - fedex
@@ -140,7 +142,6 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
-- tacloban.gov.ph
 - teamder.org
 - testargames.cl
 - thaircy.redcross.or.th
@@ -157,4 +158,3 @@ ignored_domains:
 - wsw.cool
 - xn--thvitstore-c7a.com
 - ylem222.com
-- yuanant.com
