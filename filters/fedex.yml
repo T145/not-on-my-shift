@@ -11,7 +11,6 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
-- dexil.ru
 - events.playakasha.com
 - galaxyfunbowl.gr
 - guzelbil.com
@@ -29,13 +28,14 @@ domains:
 - redlog.cl
 - sm-projekt.si
 - synoviz.com
+- tacloban.gov.ph
 - thozhilvarthalatest.com
 - trashstation.com
 - tubies.com
-- twospoonsfleet.co.uk
 - ultimatepreneur.com
 - vanguardacademy-ng.com
 - vladimirherzog.org
+- weboyal.com
 - wowfollowers.com
 - yuanant.com
 fedex_suffixes:
@@ -76,6 +76,7 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
+- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -141,7 +142,6 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
-- tacloban.gov.ph
 - teamder.org
 - testargames.cl
 - thaircy.redcross.or.th
@@ -149,10 +149,10 @@ ignored_domains:
 - toanthaybac.com
 - topblackfridaydealz.com
 - tuyennvtb.com
+- twospoonsfleet.co.uk
 - update.fbsbx.com
 - veljko.id
 - visotka.in
-- weboyal.com
 - wordpress.mrcentertainment.com
 - wp.up118.cn
 - wsw.cool
