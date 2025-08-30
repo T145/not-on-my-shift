@@ -12,13 +12,11 @@ domains:
 - comptoncymru.com
 - defencelover.in
 - dexil.ru
-- events.playakasha.com
 - galaxyfunbowl.gr
 - guzelbil.com
 - imrt.ac.in
 - klinikmetamorf.com
 - kmtks.org.tw
-- loanglide.com
 - machupicchutraveling.com
 - magicboximportados.com.br
 - mistc.es
@@ -82,6 +80,7 @@ ignored_domains:
 - divam.ir
 - escuelaargentina.cl
 - eurosystemsrl.eu
+- events.playakasha.com
 - fallenjewellery.com
 - feelmore.site
 - fraternitykerala.org
@@ -108,6 +107,7 @@ ignored_domains:
 - justparty.com.br
 - kidimy.org
 - latesttechnologyz.com
+- loanglide.com
 - lova.network
 - mahigifts.com
 - marincr.com
