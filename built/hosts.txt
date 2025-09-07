@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-09-06T12:15:31Z
+# Last update: 2025-09-07T12:15:30Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,6 +298,8 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 events.playakasha.com
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
@@ -614,14 +616,6 @@
 0.0.0.0 www.denemebonusu073.xyz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
-0.0.0.0 hakodate-wq.com
-0.0.0.0 www.hakodate-wq.com
-0.0.0.0 hakodatekikyou-kaitori-daikichi.com
-0.0.0.0 www.hakodatekikyou-kaitori-daikichi.com
-0.0.0.0 hakodatemoto7.com
-0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 joint-bonus-auto.online
-0.0.0.0 www.joint-bonus-auto.online
 0.0.0.0 joint-bonus-connect.online
 0.0.0.0 www.joint-bonus-connect.online
 0.0.0.0 kosodate-happy.net
