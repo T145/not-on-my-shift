@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-09-09T12:16:12Z
+# Last update: 2025-09-10T12:16:10Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,8 +298,6 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 events.playakasha.com
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
@@ -331,8 +329,6 @@
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
-0.0.0.0 tacloban.gov.ph
-0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 thozhilvarthalatest.com
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
@@ -592,8 +588,6 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 best-lovelady.com
-0.0.0.0 www.best-lovelady.com
 0.0.0.0 bonus100cuaca889.digital
 0.0.0.0 www.bonus100cuaca889.digital
 0.0.0.0 bonus4you.net
@@ -602,6 +596,10 @@
 0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
 0.0.0.0 www.date-app.net
+0.0.0.0 date-jason.com
+0.0.0.0 www.date-jason.com
+0.0.0.0 date0511.shop
+0.0.0.0 www.date0511.shop
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating-love.top
@@ -612,8 +610,6 @@
 0.0.0.0 www.denemebonusu073.xyz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
-0.0.0.0 hakodate-wq.com
-0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatekikyou-kaitori-daikichi.com
 0.0.0.0 www.hakodatekikyou-kaitori-daikichi.com
 0.0.0.0 hakodatemoto7.com
@@ -630,8 +626,6 @@
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 taylorenterprize1.net
 0.0.0.0 www.taylorenterprize1.net
-0.0.0.0 yt31bonus31.net
-0.0.0.0 www.yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
