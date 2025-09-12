@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-09-11T12:16:30Z
+# Last update: 2025-09-12T12:16:32Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -614,8 +614,6 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 denemebonusu073.xyz
 0.0.0.0 www.denemebonusu073.xyz
-0.0.0.0 hakodate-bpss.net
-0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatekikyou-kaitori-daikichi.com
@@ -630,12 +628,8 @@
 0.0.0.0 www.kosodate-happy.net
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
-0.0.0.0 seniordating-uk.xyz
-0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 taylorenterprize1.net
 0.0.0.0 www.taylorenterprize1.net
-0.0.0.0 updatings-account.xyz
-0.0.0.0 www.updatings-account.xyz
 0.0.0.0 yt31bonus31.net
 0.0.0.0 www.yt31bonus31.net
 
