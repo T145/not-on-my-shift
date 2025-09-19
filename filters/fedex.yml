@@ -10,7 +10,6 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
-- dexil.ru
 - galaxyfunbowl.gr
 - guzelbil.com
 - imrt.ac.in
@@ -38,7 +37,6 @@ domains:
 - vladimirherzog.org
 - weboyal.com
 - wowfollowers.com
-- yuanant.com
 fedex_suffixes:
 - app
 - fedex
@@ -78,6 +76,7 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
+- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -158,3 +157,4 @@ ignored_domains:
 - wsw.cool
 - xn--thvitstore-c7a.com
 - ylem222.com
+- yuanant.com
