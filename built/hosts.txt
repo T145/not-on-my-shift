@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-10-02T12:16:10Z
+# Last update: 2025-10-03T12:16:11Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -328,8 +328,12 @@
 0.0.0.0 www.redlog.cl
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
+0.0.0.0 synoviz.com
+0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
 0.0.0.0 www.tacloban.gov.ph
+0.0.0.0 thozhilvarthalatest.com
+0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
 0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
@@ -340,6 +344,8 @@
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vladimirherzog.org
 0.0.0.0 www.vladimirherzog.org
+0.0.0.0 weboyal.com
+0.0.0.0 www.weboyal.com
 0.0.0.0 wowfollowers.com
 0.0.0.0 www.wowfollowers.com
 0.0.0.0 yuanant.com
@@ -591,6 +597,8 @@
 0.0.0.0 www.bonus4you.net
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
+0.0.0.0 date-app.net
+0.0.0.0 www.date-app.net
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date0511.shop
@@ -617,10 +625,10 @@
 0.0.0.0 www.joint-bonus-connect.online
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
+0.0.0.0 online-dating.top
+0.0.0.0 www.online-dating.top
 0.0.0.0 opdatering-konto-net.com
 0.0.0.0 www.opdatering-konto-net.com
-0.0.0.0 seniordating-uk.xyz
-0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smartdatemeetup5.biz
 0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 taylorenterprize1.net
