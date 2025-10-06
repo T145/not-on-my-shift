@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-10-05T12:15:28Z
+! Last update: 2025-10-06T12:16:28Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -220,6 +220,7 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||guzelbil.com^
@@ -234,10 +235,10 @@
 ||mucc.com.au^
 ||nectartrust.org.uk^
 ||nguen.net^
+||njzmfcls.com^
 ||redlog.cl^
 ||sm-projekt.si^
 ||synoviz.com^
-||tacloban.gov.ph^
 ||thozhilvarthalatest.com^
 ||trashstation.com^
 ||tubies.com^
@@ -387,12 +388,14 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+||best-lovelady.com^
 ||bonus100cuaca889.digital^
-||bonus4you.net^
 ||cuidate-skin.com^
 ||date-app.net^
 ||date-jason.com^
+||date-nineplay.com^
 ||date0511.shop^
+||datevibe1.shop^
 ||dating-love.top^
 ||dating24hour.com^
 ||easydatingpro8.biz^
@@ -403,7 +406,6 @@
 ||kosodate-happy.net^
 ||online-dating.top^
 ||opdatering-konto-net.com^
-||seniordating-uk.xyz^
 ||smartdatemeetup5.biz^
 ||taylorenterprize1.net^
 ||updating-subscription.com^
