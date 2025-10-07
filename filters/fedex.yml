@@ -1,24 +1,18 @@
 # Don't bother manually updating this file.
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
-- 42sf.net
 - ailnoir.com
 - blog.sidmach.com
 - cancervants.org
-- castllypay.com
 - clickedgesolutions.com
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
 - dexil.ru
-- fraternitykerala.org
-- galaxyfunbowl.gr
 - guzelbil.com
 - imrt.ac.in
-- klinikmetamorf.com
 - kmtks.org.tw
 - loanglide.com
-- machupicchutraveling.com
 - magicboximportados.com.br
 - mistc.es
 - mouwz.nl
@@ -29,12 +23,11 @@ domains:
 - redlog.cl
 - sm-projekt.si
 - synoviz.com
+- tacloban.gov.ph
 - thozhilvarthalatest.com
 - trashstation.com
 - tubies.com
 - twospoonsfleet.co.uk
-- ultimatepreneur.com
-- vladimirherzog.org
 - weboyal.com
 - wowfollowers.com
 - yuanant.com
@@ -50,6 +43,7 @@ fedex_suffixes:
 - web
 - www
 ignored_domains:
+- 42sf.net
 - 51tunan.com
 - 84blog.xyz
 - 918kiss.newworld88.com
@@ -69,6 +63,7 @@ ignored_domains:
 - blog.envision.agency
 - canopusbd.com
 - cashboxcafe.ru
+- castllypay.com
 - cbd-and-epilepsy.com
 - cbd-and-seizures.com
 - celestinfreinet.mx
@@ -84,7 +79,9 @@ ignored_domains:
 - events.playakasha.com
 - fallenjewellery.com
 - feelmore.site
+- fraternitykerala.org
 - funtrade.land
+- galaxyfunbowl.gr
 - galerihana.com
 - gardendeur.site
 - garveylibertyhall.com
@@ -106,8 +103,10 @@ ignored_domains:
 - joliveer.com
 - justparty.com.br
 - kidimy.org
+- klinikmetamorf.com
 - latesttechnologyz.com
 - lova.network
+- machupicchutraveling.com
 - mahigifts.com
 - marincr.com
 - mevlutacik.com.tr
@@ -141,7 +140,6 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
-- tacloban.gov.ph
 - teamder.org
 - testargames.cl
 - thaircy.redcross.or.th
@@ -149,10 +147,12 @@ ignored_domains:
 - toanthaybac.com
 - topblackfridaydealz.com
 - tuyennvtb.com
+- ultimatepreneur.com
 - update.fbsbx.com
 - vanguardacademy-ng.com
 - veljko.id
 - visotka.in
+- vladimirherzog.org
 - wordpress.mrcentertainment.com
 - wp.up118.cn
 - wsw.cool
