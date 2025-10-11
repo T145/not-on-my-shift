@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-10-10T12:16:21Z
+# Last update: 2025-10-11T12:15:11Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -209,9 +209,9 @@ clickedgesolutions.com
 clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
-dexil.ru
 guzelbil.com
 imrt.ac.in
+klinikmetamorf.com
 kmtks.org.tw
 loanglide.com
 magicboximportados.com.br
@@ -228,7 +228,6 @@ tacloban.gov.ph
 thozhilvarthalatest.com
 trashstation.com
 tubies.com
-twospoonsfleet.co.uk
 weboyal.com
 wowfollowers.com
 yuanant.com
@@ -372,10 +371,12 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+best-lovelady.com
 blinddate24.com
 bonus100cuaca889.digital
 bonus111.site
 bonus118.site
+bonus12.site
 bonus130.site
 bonus138.site
 bonus14.site
@@ -384,20 +385,25 @@ bonus181.site
 bonus241.site
 bonus279.site
 bonus323.site
+bonus340.site
 bonus343.site
 bonus360.site
 bonus380.site
 bonus387.site
 bonus394.site
+bonus4.site
 bonus411.site
+bonus4you.net
 bonus500.site
 bonus523.site
 bonus528.site
 bonus584.site
 bonus587.site
 bonus597.site
+bonus6.site
 bonus620.site
 bonus631.site
+bonus64.site
 bonus643.site
 bonus697.site
 bonus71.site
@@ -406,13 +412,19 @@ bonus8.site
 bonus80.site
 bonus801.site
 bonus803.site
+bonus81.site
 bonus812.site
 bonus838.site
+bonus852.site
 bonus864.site
+bonus867.site
 bonus870.site
 bonus89.site
 bonus897.site
 bonus90.site
+bonus910.site
+bonus92.site
+bonus96.site
 bonus963.site
 bonus965.site
 bonus976.site
@@ -424,25 +436,28 @@ date-jason.com
 date-nineplay.com
 date0511.shop
 datevibe1.shop
-dating-love.top
+dating24hour.com
 easydatingpro8.biz
 forestzone-luber88.life
 hakodate-bpss.net
 hakodate-wq.com
 hakodatekikyou-kaitori-daikichi.com
 hakodatemoto7.com
+ivybetcasinobonus777.fr
 kontaktdaten-4523.info
 kosodate-happy.net
 kosodate-lesson.com
-online-dating.top
-play-bonus-realm.click
+magicalprizes4thefinalmonths.xyz
+nodepositbonusgreece-amp.com
+opdatering-konto-net.com
+play-prize-center.click
 play-prize-challenge.click
 play-prize-journey.click
-seniordating-uk.xyz
 smartdatemeetup5.biz
 spinmama-bonus-cz.bet
 taylorenterprize1.net
 updating-subscription.com
+yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 1mono.biz
