@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-10-11T12:15:11Z
+! Last update: 2025-10-12T12:15:59Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -218,9 +218,9 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||guzelbil.com^
 ||imrt.ac.in^
-||klinikmetamorf.com^
 ||kmtks.org.tw^
 ||loanglide.com^
 ||magicboximportados.com.br^
@@ -237,6 +237,7 @@
 ||thozhilvarthalatest.com^
 ||trashstation.com^
 ||tubies.com^
+||twospoonsfleet.co.uk^
 ||weboyal.com^
 ||wowfollowers.com^
 ||yuanant.com^
@@ -382,11 +383,11 @@
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||best-lovelady.com^
 ||blinddate24.com^
+||bonus10.net^
 ||bonus100cuaca889.digital^
 ||bonus111.site^
 ||bonus118.site^
 ||bonus12.site^
-||bonus130.site^
 ||bonus138.site^
 ||bonus14.site^
 ||bonus160.site^
@@ -428,6 +429,7 @@
 ||bonus864.site^
 ||bonus867.site^
 ||bonus870.site^
+||bonus888.gg^
 ||bonus89.site^
 ||bonus897.site^
 ||bonus90.site^
@@ -439,13 +441,23 @@
 ||bonus976.site^
 ||bonus977.site^
 ||bonus992.site^
+||bonushood28.com^
+||bonusmatik1.com^
+||casualdating101.com^
 ||cuidate-skin.com^
 ||date-app.net^
-||date-jason.com^
-||date-nineplay.com^
-||date0511.shop^
 ||datevibe1.shop^
+||dating-love.top^
 ||dating24hour.com^
+||denemebonusu131.site^
+||denemebonusu164.site^
+||denemebonusu179.site^
+||denemebonusu209.site^
+||denemebonusu211.site^
+||denemebonusu279.site^
+||denemebonusu307.site^
+||denemebonusu62.site^
+||denemebonusu91.site^
 ||easydatingpro8.biz^
 ||forestzone-luber88.life^
 ||hakodate-bpss.net^
@@ -456,16 +468,23 @@
 ||kontaktdaten-4523.info^
 ||kosodate-happy.net^
 ||kosodate-lesson.com^
+||kosodate-no-kamisama.com^
 ||magicalprizes4thefinalmonths.xyz^
+||mandate-properties.com^
 ||nodepositbonusgreece-amp.com^
+||online-dating.top^
 ||opdatering-konto-net.com^
+||play-bonus-realm.click^
 ||play-prize-center.click^
 ||play-prize-challenge.click^
 ||play-prize-journey.click^
+||play-prize-park.click^
+||seniordating-uk.xyz^
 ||smartdatemeetup5.biz^
 ||spinmama-bonus-cz.bet^
 ||taylorenterprize1.net^
 ||updating-subscription.com^
+||vodka-bonus1.top^
 ||yt31bonus31.net^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".

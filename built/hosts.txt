@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-10-11T12:15:11Z
+# Last update: 2025-10-12T12:15:59Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -294,12 +294,12 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 guzelbil.com
 0.0.0.0 www.guzelbil.com
 0.0.0.0 imrt.ac.in
 0.0.0.0 www.imrt.ac.in
-0.0.0.0 klinikmetamorf.com
-0.0.0.0 www.klinikmetamorf.com
 0.0.0.0 kmtks.org.tw
 0.0.0.0 www.kmtks.org.tw
 0.0.0.0 loanglide.com
@@ -332,6 +332,8 @@
 0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
 0.0.0.0 www.tubies.com
+0.0.0.0 twospoonsfleet.co.uk
+0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 weboyal.com
 0.0.0.0 www.weboyal.com
 0.0.0.0 wowfollowers.com
@@ -581,6 +583,8 @@
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 blinddate24.com
 0.0.0.0 www.blinddate24.com
+0.0.0.0 bonus10.net
+0.0.0.0 www.bonus10.net
 0.0.0.0 bonus100cuaca889.digital
 0.0.0.0 www.bonus100cuaca889.digital
 0.0.0.0 bonus111.site
@@ -589,8 +593,6 @@
 0.0.0.0 www.bonus118.site
 0.0.0.0 bonus12.site
 0.0.0.0 www.bonus12.site
-0.0.0.0 bonus130.site
-0.0.0.0 www.bonus130.site
 0.0.0.0 bonus138.site
 0.0.0.0 www.bonus138.site
 0.0.0.0 bonus14.site
@@ -673,6 +675,8 @@
 0.0.0.0 www.bonus867.site
 0.0.0.0 bonus870.site
 0.0.0.0 www.bonus870.site
+0.0.0.0 bonus888.gg
+0.0.0.0 www.bonus888.gg
 0.0.0.0 bonus89.site
 0.0.0.0 www.bonus89.site
 0.0.0.0 bonus897.site
@@ -695,20 +699,40 @@
 0.0.0.0 www.bonus977.site
 0.0.0.0 bonus992.site
 0.0.0.0 www.bonus992.site
+0.0.0.0 bonushood28.com
+0.0.0.0 www.bonushood28.com
+0.0.0.0 bonusmatik1.com
+0.0.0.0 www.bonusmatik1.com
+0.0.0.0 casualdating101.com
+0.0.0.0 www.casualdating101.com
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
 0.0.0.0 www.date-app.net
-0.0.0.0 date-jason.com
-0.0.0.0 www.date-jason.com
-0.0.0.0 date-nineplay.com
-0.0.0.0 www.date-nineplay.com
-0.0.0.0 date0511.shop
-0.0.0.0 www.date0511.shop
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
+0.0.0.0 dating-love.top
+0.0.0.0 www.dating-love.top
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
+0.0.0.0 denemebonusu131.site
+0.0.0.0 www.denemebonusu131.site
+0.0.0.0 denemebonusu164.site
+0.0.0.0 www.denemebonusu164.site
+0.0.0.0 denemebonusu179.site
+0.0.0.0 www.denemebonusu179.site
+0.0.0.0 denemebonusu209.site
+0.0.0.0 www.denemebonusu209.site
+0.0.0.0 denemebonusu211.site
+0.0.0.0 www.denemebonusu211.site
+0.0.0.0 denemebonusu279.site
+0.0.0.0 www.denemebonusu279.site
+0.0.0.0 denemebonusu307.site
+0.0.0.0 www.denemebonusu307.site
+0.0.0.0 denemebonusu62.site
+0.0.0.0 www.denemebonusu62.site
+0.0.0.0 denemebonusu91.site
+0.0.0.0 www.denemebonusu91.site
 0.0.0.0 easydatingpro8.biz
 0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 forestzone-luber88.life
@@ -729,18 +753,30 @@
 0.0.0.0 www.kosodate-happy.net
 0.0.0.0 kosodate-lesson.com
 0.0.0.0 www.kosodate-lesson.com
+0.0.0.0 kosodate-no-kamisama.com
+0.0.0.0 www.kosodate-no-kamisama.com
 0.0.0.0 magicalprizes4thefinalmonths.xyz
 0.0.0.0 www.magicalprizes4thefinalmonths.xyz
+0.0.0.0 mandate-properties.com
+0.0.0.0 www.mandate-properties.com
 0.0.0.0 nodepositbonusgreece-amp.com
 0.0.0.0 www.nodepositbonusgreece-amp.com
+0.0.0.0 online-dating.top
+0.0.0.0 www.online-dating.top
 0.0.0.0 opdatering-konto-net.com
 0.0.0.0 www.opdatering-konto-net.com
+0.0.0.0 play-bonus-realm.click
+0.0.0.0 www.play-bonus-realm.click
 0.0.0.0 play-prize-center.click
 0.0.0.0 www.play-prize-center.click
 0.0.0.0 play-prize-challenge.click
 0.0.0.0 www.play-prize-challenge.click
 0.0.0.0 play-prize-journey.click
 0.0.0.0 www.play-prize-journey.click
+0.0.0.0 play-prize-park.click
+0.0.0.0 www.play-prize-park.click
+0.0.0.0 seniordating-uk.xyz
+0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smartdatemeetup5.biz
 0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 spinmama-bonus-cz.bet
@@ -749,6 +785,8 @@
 0.0.0.0 www.taylorenterprize1.net
 0.0.0.0 updating-subscription.com
 0.0.0.0 www.updating-subscription.com
+0.0.0.0 vodka-bonus1.top
+0.0.0.0 www.vodka-bonus1.top
 0.0.0.0 yt31bonus31.net
 0.0.0.0 www.yt31bonus31.net
 
