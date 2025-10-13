@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-10-12T12:15:59Z
+! Last update: 2025-10-13T12:16:32Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -218,7 +218,6 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
-||dexil.ru^
 ||guzelbil.com^
 ||imrt.ac.in^
 ||kmtks.org.tw^
@@ -383,16 +382,18 @@
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||best-lovelady.com^
 ||blinddate24.com^
-||bonus10.net^
+||bonus-land.site^
 ||bonus100cuaca889.digital^
 ||bonus111.site^
 ||bonus118.site^
 ||bonus12.site^
+||bonus130.site^
 ||bonus138.site^
 ||bonus14.site^
 ||bonus160.site^
 ||bonus181.site^
 ||bonus241.site^
+||bonus27.site^
 ||bonus279.site^
 ||bonus323.site^
 ||bonus340.site^
@@ -436,16 +437,16 @@
 ||bonus910.site^
 ||bonus92.site^
 ||bonus96.site^
-||bonus963.site^
 ||bonus965.site^
 ||bonus976.site^
 ||bonus977.site^
 ||bonus992.site^
-||bonushood28.com^
-||bonusmatik1.com^
-||casualdating101.com^
+||bonusslot888.club^
 ||cuidate-skin.com^
-||date-app.net^
+||date-jason.com^
+||date-nineplay.com^
+||date0511.shop^
+||datenanalytik-de.com^
 ||datevibe1.shop^
 ||dating-love.top^
 ||dating24hour.com^
@@ -456,6 +457,7 @@
 ||denemebonusu211.site^
 ||denemebonusu279.site^
 ||denemebonusu307.site^
+||denemebonusu320.site^
 ||denemebonusu62.site^
 ||denemebonusu91.site^
 ||easydatingpro8.biz^
@@ -470,7 +472,8 @@
 ||kosodate-lesson.com^
 ||kosodate-no-kamisama.com^
 ||magicalprizes4thefinalmonths.xyz^
-||mandate-properties.com^
+||mostbet-apk-bonus-turkiye.com^
+||mostbet-apk-bonus-turkiye.info^
 ||nodepositbonusgreece-amp.com^
 ||online-dating.top^
 ||opdatering-konto-net.com^

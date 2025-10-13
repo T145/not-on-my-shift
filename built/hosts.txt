@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-10-12T12:15:59Z
+# Last update: 2025-10-13T12:16:32Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -294,8 +294,6 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 guzelbil.com
 0.0.0.0 www.guzelbil.com
 0.0.0.0 imrt.ac.in
@@ -583,8 +581,8 @@
 0.0.0.0 www.best-lovelady.com
 0.0.0.0 blinddate24.com
 0.0.0.0 www.blinddate24.com
-0.0.0.0 bonus10.net
-0.0.0.0 www.bonus10.net
+0.0.0.0 bonus-land.site
+0.0.0.0 www.bonus-land.site
 0.0.0.0 bonus100cuaca889.digital
 0.0.0.0 www.bonus100cuaca889.digital
 0.0.0.0 bonus111.site
@@ -593,6 +591,8 @@
 0.0.0.0 www.bonus118.site
 0.0.0.0 bonus12.site
 0.0.0.0 www.bonus12.site
+0.0.0.0 bonus130.site
+0.0.0.0 www.bonus130.site
 0.0.0.0 bonus138.site
 0.0.0.0 www.bonus138.site
 0.0.0.0 bonus14.site
@@ -603,6 +603,8 @@
 0.0.0.0 www.bonus181.site
 0.0.0.0 bonus241.site
 0.0.0.0 www.bonus241.site
+0.0.0.0 bonus27.site
+0.0.0.0 www.bonus27.site
 0.0.0.0 bonus279.site
 0.0.0.0 www.bonus279.site
 0.0.0.0 bonus323.site
@@ -689,8 +691,6 @@
 0.0.0.0 www.bonus92.site
 0.0.0.0 bonus96.site
 0.0.0.0 www.bonus96.site
-0.0.0.0 bonus963.site
-0.0.0.0 www.bonus963.site
 0.0.0.0 bonus965.site
 0.0.0.0 www.bonus965.site
 0.0.0.0 bonus976.site
@@ -699,16 +699,18 @@
 0.0.0.0 www.bonus977.site
 0.0.0.0 bonus992.site
 0.0.0.0 www.bonus992.site
-0.0.0.0 bonushood28.com
-0.0.0.0 www.bonushood28.com
-0.0.0.0 bonusmatik1.com
-0.0.0.0 www.bonusmatik1.com
-0.0.0.0 casualdating101.com
-0.0.0.0 www.casualdating101.com
+0.0.0.0 bonusslot888.club
+0.0.0.0 www.bonusslot888.club
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
-0.0.0.0 date-app.net
-0.0.0.0 www.date-app.net
+0.0.0.0 date-jason.com
+0.0.0.0 www.date-jason.com
+0.0.0.0 date-nineplay.com
+0.0.0.0 www.date-nineplay.com
+0.0.0.0 date0511.shop
+0.0.0.0 www.date0511.shop
+0.0.0.0 datenanalytik-de.com
+0.0.0.0 www.datenanalytik-de.com
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating-love.top
@@ -729,6 +731,8 @@
 0.0.0.0 www.denemebonusu279.site
 0.0.0.0 denemebonusu307.site
 0.0.0.0 www.denemebonusu307.site
+0.0.0.0 denemebonusu320.site
+0.0.0.0 www.denemebonusu320.site
 0.0.0.0 denemebonusu62.site
 0.0.0.0 www.denemebonusu62.site
 0.0.0.0 denemebonusu91.site
@@ -757,8 +761,10 @@
 0.0.0.0 www.kosodate-no-kamisama.com
 0.0.0.0 magicalprizes4thefinalmonths.xyz
 0.0.0.0 www.magicalprizes4thefinalmonths.xyz
-0.0.0.0 mandate-properties.com
-0.0.0.0 www.mandate-properties.com
+0.0.0.0 mostbet-apk-bonus-turkiye.com
+0.0.0.0 www.mostbet-apk-bonus-turkiye.com
+0.0.0.0 mostbet-apk-bonus-turkiye.info
+0.0.0.0 www.mostbet-apk-bonus-turkiye.info
 0.0.0.0 nodepositbonusgreece-amp.com
 0.0.0.0 www.nodepositbonusgreece-amp.com
 0.0.0.0 online-dating.top

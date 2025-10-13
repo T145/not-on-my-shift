@@ -8,7 +8,6 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
-- dexil.ru
 - guzelbil.com
 - imrt.ac.in
 - kmtks.org.tw
@@ -72,6 +71,7 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
+- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
