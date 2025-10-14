@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-10-13T12:16:32Z
+# Last update: 2025-10-14T12:16:35Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -371,9 +371,8 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-best-lovelady.com
-blinddate24.com
 bonus-land.site
+bonus-vodka.casino
 bonus100cuaca889.digital
 bonus111.site
 bonus118.site
@@ -383,7 +382,6 @@ bonus138.site
 bonus14.site
 bonus160.site
 bonus181.site
-bonus241.site
 bonus27.site
 bonus279.site
 bonus323.site
@@ -393,13 +391,10 @@ bonus360.site
 bonus380.site
 bonus387.site
 bonus394.site
-bonus4.site
-bonus411.site
 bonus4you.net
 bonus500.site
 bonus523.site
 bonus528.site
-bonus584.site
 bonus587.site
 bonus597.site
 bonus6.site
@@ -410,7 +405,6 @@ bonus643.site
 bonus697.site
 bonus71.site
 bonus788.site
-bonus8.site
 bonus80.site
 bonus801.site
 bonus803.site
@@ -428,26 +422,26 @@ bonus90.site
 bonus910.site
 bonus92.site
 bonus96.site
+bonus963.site
 bonus965.site
 bonus976.site
 bonus977.site
 bonus992.site
 bonusslot888.club
 cuidate-skin.com
+date-app.net
 date-jason.com
 date-nineplay.com
 date0511.shop
+date44.com
 datenanalytik-de.com
 datevibe1.shop
 dating-love.top
 dating24hour.com
 denemebonusu131.site
 denemebonusu164.site
-denemebonusu179.site
-denemebonusu209.site
 denemebonusu211.site
 denemebonusu279.site
-denemebonusu307.site
 denemebonusu320.site
 denemebonusu62.site
 denemebonusu91.site
@@ -466,8 +460,8 @@ magicalprizes4thefinalmonths.xyz
 mostbet-apk-bonus-turkiye.com
 mostbet-apk-bonus-turkiye.info
 nodepositbonusgreece-amp.com
-online-dating.top
 opdatering-konto-net.com
+order-validate-data.icu
 play-bonus-realm.click
 play-prize-center.click
 play-prize-challenge.click
@@ -476,7 +470,6 @@ play-prize-park.click
 seniordating-uk.xyz
 smartdatemeetup5.biz
 spinmama-bonus-cz.bet
-taylorenterprize1.net
 updating-subscription.com
 vodka-bonus1.top
 yt31bonus31.net
