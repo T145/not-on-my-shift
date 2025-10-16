@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-10-15T12:16:44Z
+# Last update: 2025-10-16T12:16:35Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -294,8 +294,8 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 galaxyfunbowl.gr
-0.0.0.0 www.galaxyfunbowl.gr
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 guzelbil.com
 0.0.0.0 www.guzelbil.com
 0.0.0.0 imrt.ac.in
@@ -579,24 +579,14 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 best-lovelady.com
-0.0.0.0 www.best-lovelady.com
-0.0.0.0 blinddate24.com
-0.0.0.0 www.blinddate24.com
 0.0.0.0 bonus-casinospin.ru
 0.0.0.0 www.bonus-casinospin.ru
-0.0.0.0 bonus-land.site
-0.0.0.0 www.bonus-land.site
 0.0.0.0 bonus-vodka.casino
 0.0.0.0 www.bonus-vodka.casino
 0.0.0.0 bonus100cuaca889.digital
 0.0.0.0 www.bonus100cuaca889.digital
-0.0.0.0 bonus111.site
-0.0.0.0 www.bonus111.site
 0.0.0.0 bonus118.site
 0.0.0.0 www.bonus118.site
-0.0.0.0 bonus12.site
-0.0.0.0 www.bonus12.site
 0.0.0.0 bonus130.site
 0.0.0.0 www.bonus130.site
 0.0.0.0 bonus138.site
@@ -611,8 +601,6 @@
 0.0.0.0 www.bonus241.site
 0.0.0.0 bonus27.site
 0.0.0.0 www.bonus27.site
-0.0.0.0 bonus279.site
-0.0.0.0 www.bonus279.site
 0.0.0.0 bonus323.site
 0.0.0.0 www.bonus323.site
 0.0.0.0 bonus340.site
@@ -621,12 +609,6 @@
 0.0.0.0 www.bonus343.site
 0.0.0.0 bonus360.site
 0.0.0.0 www.bonus360.site
-0.0.0.0 bonus380.site
-0.0.0.0 www.bonus380.site
-0.0.0.0 bonus387.site
-0.0.0.0 www.bonus387.site
-0.0.0.0 bonus394.site
-0.0.0.0 www.bonus394.site
 0.0.0.0 bonus4.site
 0.0.0.0 www.bonus4.site
 0.0.0.0 bonus411.site
@@ -639,14 +621,10 @@
 0.0.0.0 www.bonus523.site
 0.0.0.0 bonus528.site
 0.0.0.0 www.bonus528.site
-0.0.0.0 bonus584.site
-0.0.0.0 www.bonus584.site
 0.0.0.0 bonus587.site
 0.0.0.0 www.bonus587.site
-0.0.0.0 bonus6.site
-0.0.0.0 www.bonus6.site
-0.0.0.0 bonus620.site
-0.0.0.0 www.bonus620.site
+0.0.0.0 bonus597.site
+0.0.0.0 www.bonus597.site
 0.0.0.0 bonus631.site
 0.0.0.0 www.bonus631.site
 0.0.0.0 bonus64.site
@@ -677,20 +655,12 @@
 0.0.0.0 www.bonus852.site
 0.0.0.0 bonus864.site
 0.0.0.0 www.bonus864.site
-0.0.0.0 bonus867.site
-0.0.0.0 www.bonus867.site
 0.0.0.0 bonus870.site
 0.0.0.0 www.bonus870.site
-0.0.0.0 bonus888.gg
-0.0.0.0 www.bonus888.gg
 0.0.0.0 bonus89.site
 0.0.0.0 www.bonus89.site
 0.0.0.0 bonus897.site
 0.0.0.0 www.bonus897.site
-0.0.0.0 bonus90.site
-0.0.0.0 www.bonus90.site
-0.0.0.0 bonus910.site
-0.0.0.0 www.bonus910.site
 0.0.0.0 bonus92.site
 0.0.0.0 www.bonus92.site
 0.0.0.0 bonus96.site
@@ -703,28 +673,28 @@
 0.0.0.0 www.bonus976.site
 0.0.0.0 bonus977.site
 0.0.0.0 www.bonus977.site
-0.0.0.0 bonus992.site
-0.0.0.0 www.bonus992.site
 0.0.0.0 bonusslot888.club
 0.0.0.0 www.bonusslot888.club
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
 0.0.0.0 www.date-app.net
+0.0.0.0 date-jason.com
+0.0.0.0 www.date-jason.com
 0.0.0.0 date-nineplay.com
 0.0.0.0 www.date-nineplay.com
 0.0.0.0 date0511.shop
 0.0.0.0 www.date0511.shop
+0.0.0.0 date44.com
+0.0.0.0 www.date44.com
 0.0.0.0 datenanalytik-de.com
 0.0.0.0 www.datenanalytik-de.com
+0.0.0.0 datenservice402956.info
+0.0.0.0 www.datenservice402956.info
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating-love.top
 0.0.0.0 www.dating-love.top
-0.0.0.0 dating24hour.com
-0.0.0.0 www.dating24hour.com
-0.0.0.0 denemebonusu131.site
-0.0.0.0 www.denemebonusu131.site
 0.0.0.0 denemebonusu164.site
 0.0.0.0 www.denemebonusu164.site
 0.0.0.0 denemebonusu179.site
@@ -739,10 +709,6 @@
 0.0.0.0 www.denemebonusu307.site
 0.0.0.0 denemebonusu320.site
 0.0.0.0 www.denemebonusu320.site
-0.0.0.0 denemebonusu62.site
-0.0.0.0 www.denemebonusu62.site
-0.0.0.0 denemebonusu91.site
-0.0.0.0 www.denemebonusu91.site
 0.0.0.0 easydatingpro8.biz
 0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 forestzone-luber88.life
@@ -751,12 +717,8 @@
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
-0.0.0.0 hakodatekikyou-kaitori-daikichi.com
-0.0.0.0 www.hakodatekikyou-kaitori-daikichi.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 ivybetcasinobonus777.fr
-0.0.0.0 www.ivybetcasinobonus777.fr
 0.0.0.0 kontaktdaten-4523.info
 0.0.0.0 www.kontaktdaten-4523.info
 0.0.0.0 kosodate-happy.net
@@ -773,14 +735,8 @@
 0.0.0.0 www.mostbet-apk-bonus-turkiye.info
 0.0.0.0 nodepositbonusgreece-amp.com
 0.0.0.0 www.nodepositbonusgreece-amp.com
-0.0.0.0 online-dating.top
-0.0.0.0 www.online-dating.top
-0.0.0.0 opdatering-konto-net.com
-0.0.0.0 www.opdatering-konto-net.com
 0.0.0.0 order-validate-data.icu
 0.0.0.0 www.order-validate-data.icu
-0.0.0.0 play-bonus-land.click
-0.0.0.0 www.play-bonus-land.click
 0.0.0.0 play-bonus-realm.click
 0.0.0.0 www.play-bonus-realm.click
 0.0.0.0 play-prize-center.click
@@ -793,16 +749,12 @@
 0.0.0.0 www.play-prize-park.click
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
+0.0.0.0 smartdatemeetup5.biz
+0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 spinmama-bonus-cz.bet
 0.0.0.0 www.spinmama-bonus-cz.bet
 0.0.0.0 taylorenterprize1.net
 0.0.0.0 www.taylorenterprize1.net
-0.0.0.0 updating-subscription.com
-0.0.0.0 www.updating-subscription.com
-0.0.0.0 vodka-bonus1.top
-0.0.0.0 www.vodka-bonus1.top
-0.0.0.0 yt31bonus31.net
-0.0.0.0 www.yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz

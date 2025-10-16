@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-10-15T12:16:44Z
+# Last update: 2025-10-16T12:16:35Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -209,7 +209,7 @@ clickedgesolutions.com
 clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
-galaxyfunbowl.gr
+dexil.ru
 guzelbil.com
 imrt.ac.in
 kmtks.org.tw
@@ -372,15 +372,10 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-best-lovelady.com
-blinddate24.com
 bonus-casinospin.ru
-bonus-land.site
 bonus-vodka.casino
 bonus100cuaca889.digital
-bonus111.site
 bonus118.site
-bonus12.site
 bonus130.site
 bonus138.site
 bonus14.site
@@ -388,24 +383,18 @@ bonus160.site
 bonus181.site
 bonus241.site
 bonus27.site
-bonus279.site
 bonus323.site
 bonus340.site
 bonus343.site
 bonus360.site
-bonus380.site
-bonus387.site
-bonus394.site
 bonus4.site
 bonus411.site
 bonus4you.net
 bonus500.site
 bonus523.site
 bonus528.site
-bonus584.site
 bonus587.site
-bonus6.site
-bonus620.site
+bonus597.site
 bonus631.site
 bonus64.site
 bonus643.site
@@ -421,30 +410,26 @@ bonus812.site
 bonus838.site
 bonus852.site
 bonus864.site
-bonus867.site
 bonus870.site
-bonus888.gg
 bonus89.site
 bonus897.site
-bonus90.site
-bonus910.site
 bonus92.site
 bonus96.site
 bonus963.site
 bonus965.site
 bonus976.site
 bonus977.site
-bonus992.site
 bonusslot888.club
 cuidate-skin.com
 date-app.net
+date-jason.com
 date-nineplay.com
 date0511.shop
+date44.com
 datenanalytik-de.com
+datenservice402956.info
 datevibe1.shop
 dating-love.top
-dating24hour.com
-denemebonusu131.site
 denemebonusu164.site
 denemebonusu179.site
 denemebonusu209.site
@@ -452,15 +437,11 @@ denemebonusu211.site
 denemebonusu279.site
 denemebonusu307.site
 denemebonusu320.site
-denemebonusu62.site
-denemebonusu91.site
 easydatingpro8.biz
 forestzone-luber88.life
 hakodate-bpss.net
 hakodate-wq.com
-hakodatekikyou-kaitori-daikichi.com
 hakodatemoto7.com
-ivybetcasinobonus777.fr
 kontaktdaten-4523.info
 kosodate-happy.net
 kosodate-lesson.com
@@ -469,21 +450,16 @@ magicalprizes4thefinalmonths.xyz
 mostbet-apk-bonus-turkiye.com
 mostbet-apk-bonus-turkiye.info
 nodepositbonusgreece-amp.com
-online-dating.top
-opdatering-konto-net.com
 order-validate-data.icu
-play-bonus-land.click
 play-bonus-realm.click
 play-prize-center.click
 play-prize-challenge.click
 play-prize-journey.click
 play-prize-park.click
 seniordating-uk.xyz
+smartdatemeetup5.biz
 spinmama-bonus-cz.bet
 taylorenterprize1.net
-updating-subscription.com
-vodka-bonus1.top
-yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 1mono.biz
