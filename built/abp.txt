@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-10-26T12:16:01Z
+! Last update: 2025-10-27T12:16:26Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -220,6 +220,7 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||guzelbil.com^
@@ -388,25 +389,25 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||bonusveren101siteler.com^
+||best-lovelady.com^
 ||cuidate-skin.com^
 ||date-app.net^
 ||date-jason.com^
 ||date-nineplay.com^
 ||date0511.shop^
 ||datevibe1.shop^
-||dating-love.top^
-||easydatingpro8.biz^
+||dating24hour.com^
 ||hakodate-bpss.net^
 ||hakodate-wq.com^
 ||hakodatekikyou-kaitori-daikichi.com^
 ||hakodatemoto7.com^
 ||kosodate-happy.net^
 ||opdatering-konto-net.com^
+||savethedate3d.com^
 ||seniordating-uk.xyz^
+||smartdatemeetup5.biz^
 ||taylorenterprize1.net^
 ||updating-subscription.com^
-||yt31bonus31.net^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
