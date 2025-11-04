@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-11-03T12:16:32Z
+# Last update: 2025-11-04T12:16:41Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -211,7 +211,6 @@ clickedgesolutions.com
 clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
-dexil.ru
 fraternitykerala.org
 galaxyfunbowl.gr
 guzelbil.com
@@ -228,9 +227,11 @@ nectartrust.org.uk
 nguen.net
 njzmfcls.com
 redlog.cl
+rees.games
 robbreport.com.my
 sm-projekt.si
 synoviz.com
+tacloban.gov.ph
 thozhilvarthalatest.com
 trashstation.com
 tubies.com
@@ -388,16 +389,13 @@ date-nineplay.com
 date0511.shop
 datevibe1.shop
 dating24hour.com
-easydatingpro8.biz
 hakodate-bpss.net
 hakodate-wq.com
-hakodatemoto7.com
+hakodatekikyou-kaitori-daikichi.com
 kosodate-happy.net
 online-dating.top
 opdatering-konto-net.com
 savethedate3d.com
-seniordating-uk.xyz
-smartdatemeetup5.biz
 taylorenterprize1.net
 updating-subscription.com
 yt31bonus31.net
