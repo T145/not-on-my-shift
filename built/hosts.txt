@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-11-09T12:15:56Z
+# Last update: 2025-11-10T12:16:31Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,12 +298,12 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
+0.0.0.0 guzelbil.com
+0.0.0.0 www.guzelbil.com
 0.0.0.0 imrt.ac.in
 0.0.0.0 www.imrt.ac.in
 0.0.0.0 klinikmetamorf.com
@@ -336,14 +336,14 @@
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
+0.0.0.0 tacloban.gov.ph
+0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 thozhilvarthalatest.com
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
 0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
 0.0.0.0 www.tubies.com
-0.0.0.0 twospoonsfleet.co.uk
-0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vladimirherzog.org
@@ -595,6 +595,10 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
+0.0.0.0 bonus-jingyu.com
+0.0.0.0 www.bonus-jingyu.com
+0.0.0.0 cuidate-skin.com
+0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
 0.0.0.0 www.date-app.net
 0.0.0.0 date-jason.com
@@ -607,8 +611,6 @@
 0.0.0.0 www.dating-love.top
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
-0.0.0.0 easydatingpro8.biz
-0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-wq.com
@@ -621,6 +623,8 @@
 0.0.0.0 www.kosodate-happy.net
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
+0.0.0.0 opdatering-konto-net.com
+0.0.0.0 www.opdatering-konto-net.com
 0.0.0.0 savethedate3d.com
 0.0.0.0 www.savethedate3d.com
 0.0.0.0 taylorenterprize1.net
