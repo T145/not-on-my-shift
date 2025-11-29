@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-11-28T12:16:22Z
+# Last update: 2025-11-29T12:16:11Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -211,6 +211,7 @@ clickedgesolutions.com
 clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
+dexil.ru
 fraternitykerala.org
 galaxyfunbowl.gr
 guzelbil.com
@@ -380,17 +381,18 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-4matchcitydate3.biz
 anzbonusd2025.shop
 best-lovelady.com
 bestdatingzone7.biz
-bonusvcasino24.space
+bonusp2e.xyz
 cuidate-skin.com
 date-app.net
 date-coach.nl
 date-jason.com
 date-nineplay.com
+date0511.shop
 datevibe1.shop
+dating-love.top
 dating24hour.com
 datingappsformen30s.com
 easyandromanceonedate3.biz
@@ -404,11 +406,10 @@ kosodate-happy.net
 online-dating.top
 opdatering-konto-net.com
 savethedate3d.com
+senior-dating-pr-0.bond
 seniordating-uk.xyz
 smartdatemeetup5.biz
 taylorenterprize1.net
-updating-subscription.com
-yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 1mono.biz
