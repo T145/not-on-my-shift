@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-11-30T12:16:02Z
+# Last update: 2025-12-01T12:16:35Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,8 +298,6 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -599,12 +597,14 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 4matchcitydate3.biz
 0.0.0.0 www.4matchcitydate3.biz
+0.0.0.0 anzbonusd2025.shop
+0.0.0.0 www.anzbonusd2025.shop
 0.0.0.0 best-lovelady.com
 0.0.0.0 www.best-lovelady.com
-0.0.0.0 bestdatingzone7.biz
-0.0.0.0 www.bestdatingzone7.biz
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
+0.0.0.0 date-app.net
+0.0.0.0 www.date-app.net
 0.0.0.0 date-coach.nl
 0.0.0.0 www.date-coach.nl
 0.0.0.0 date-jason.com
@@ -617,8 +617,6 @@
 0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating-love.top
 0.0.0.0 www.dating-love.top
-0.0.0.0 dating2025.shop
-0.0.0.0 www.dating2025.shop
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datingappsformen30s.com
@@ -629,6 +627,8 @@
 0.0.0.0 www.denemebonusu008.com
 0.0.0.0 denemebonusu009.com
 0.0.0.0 www.denemebonusu009.com
+0.0.0.0 denemebonusu010.com
+0.0.0.0 www.denemebonusu010.com
 0.0.0.0 easydate8.biz
 0.0.0.0 www.easydate8.biz
 0.0.0.0 easydatingpro8.biz
@@ -651,6 +651,8 @@
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smartdatemeetup5.biz
 0.0.0.0 www.smartdatemeetup5.biz
+0.0.0.0 taylorenterprize1.net
+0.0.0.0 www.taylorenterprize1.net
 0.0.0.0 updating-subscription.com
 0.0.0.0 www.updating-subscription.com
 0.0.0.0 yt31bonus31.net
