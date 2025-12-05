@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-12-04T12:16:41Z
+# Last update: 2025-12-05T12:17:03Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,14 +298,10 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
-0.0.0.0 gojordanbusiness.com
-0.0.0.0 www.gojordanbusiness.com
 0.0.0.0 guzelbil.com
 0.0.0.0 www.guzelbil.com
 0.0.0.0 imrt.ac.in
@@ -330,6 +326,8 @@
 0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 nguen.net
 0.0.0.0 www.nguen.net
+0.0.0.0 njzmfcls.com
+0.0.0.0 www.njzmfcls.com
 0.0.0.0 redlog.cl
 0.0.0.0 www.redlog.cl
 0.0.0.0 robbreport.com.my
@@ -338,8 +336,6 @@
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
-0.0.0.0 tacloban.gov.ph
-0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 thozhilvarthalatest.com
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
@@ -601,22 +597,16 @@
 0.0.0.0 www.4matchcitydate3.biz
 0.0.0.0 anzbonusd2025.shop
 0.0.0.0 www.anzbonusd2025.shop
-0.0.0.0 bestdatingzone7.biz
-0.0.0.0 www.bestdatingzone7.biz
+0.0.0.0 best-lovelady.com
+0.0.0.0 www.best-lovelady.com
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
-0.0.0.0 date-app.net
-0.0.0.0 www.date-app.net
 0.0.0.0 date-coach.nl
 0.0.0.0 www.date-coach.nl
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
-0.0.0.0 date-nineplay.com
-0.0.0.0 www.date-nineplay.com
 0.0.0.0 date0511.shop
 0.0.0.0 www.date0511.shop
-0.0.0.0 datevibe1.shop
-0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating2025.shop
 0.0.0.0 www.dating2025.shop
 0.0.0.0 dating24hour.com
@@ -627,8 +617,6 @@
 0.0.0.0 www.easyandromanceonedate3.biz
 0.0.0.0 easydate8.biz
 0.0.0.0 www.easydate8.biz
-0.0.0.0 easydatingpro8.biz
-0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-wq.com
@@ -639,6 +627,10 @@
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
+0.0.0.0 online-dating.top
+0.0.0.0 www.online-dating.top
+0.0.0.0 opdatering-konto-net.com
+0.0.0.0 www.opdatering-konto-net.com
 0.0.0.0 savethedate3d.com
 0.0.0.0 www.savethedate3d.com
 0.0.0.0 seniordating-uk.xyz
