@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2025-12-07T12:15:56Z
+# Last update: 2025-12-08T12:16:27Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -597,10 +597,8 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 4matchcitydate3.biz
 0.0.0.0 www.4matchcitydate3.biz
-0.0.0.0 anzbonusd2025.shop
-0.0.0.0 www.anzbonusd2025.shop
-0.0.0.0 best-lovelady.com
-0.0.0.0 www.best-lovelady.com
+0.0.0.0 bestdatingzone7.biz
+0.0.0.0 www.bestdatingzone7.biz
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
@@ -623,10 +621,10 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datingappsformen30s.com
 0.0.0.0 www.datingappsformen30s.com
-0.0.0.0 easyandromanceonedate3.biz
-0.0.0.0 www.easyandromanceonedate3.biz
 0.0.0.0 easydate8.biz
 0.0.0.0 www.easydate8.biz
+0.0.0.0 easydatingpro8.biz
+0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatekikyou-kaitori-daikichi.com
@@ -643,8 +641,6 @@
 0.0.0.0 www.savethedate3d.com
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
-0.0.0.0 smartdatemeetup5.biz
-0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 taylorenterprize1.net
 0.0.0.0 www.taylorenterprize1.net
 0.0.0.0 updating-subscription.com
