@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-12-17T12:16:32Z
+! Last update: 2025-12-18T12:16:46Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -220,9 +220,9 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
-||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
+||gojordanbusiness.com^
 ||guzelbil.com^
 ||imrt.ac.in^
 ||klinikmetamorf.com^
@@ -244,7 +244,6 @@
 ||thozhilvarthalatest.com^
 ||trashstation.com^
 ||tubies.com^
-||twospoonsfleet.co.uk^
 ||ultimatepreneur.com^
 ||vladimirherzog.org^
 ||weboyal.com^
@@ -395,20 +394,22 @@
 ||cuidate-skin.com^
 ||date-app.net^
 ||date-coach.nl^
-||date-jason.com^
 ||date-nineplay.com^
+||date0511.shop^
 ||datevibe1.shop^
 ||dating-love.top^
-||dating2025.shop^
-||easyandromanceonedate3.biz^
-||easydate8.biz^
 ||hakodate-bpss.net^
 ||hakodate-wq.com^
 ||hakodatekikyou-kaitori-daikichi.com^
+||hakodatemoto7.com^
+||kosodate-happy.net^
 ||online-dating.top^
+||savethedate3d.com^
 ||seniordating-uk.xyz^
 ||taylorenterprize1.net^
+||updating-subscription.com^
 ||xn--sugardatingrdgivning-7zb.se^
+||yt31bonus31.net^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
