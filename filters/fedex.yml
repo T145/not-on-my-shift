@@ -12,6 +12,7 @@ domains:
 - defencelover.in
 - fraternitykerala.org
 - galaxyfunbowl.gr
+- gojordanbusiness.com
 - guzelbil.com
 - imrt.ac.in
 - klinikmetamorf.com
@@ -28,6 +29,7 @@ domains:
 - robbreport.com.my
 - sm-projekt.si
 - synoviz.com
+- tacloban.gov.ph
 - thozhilvarthalatest.com
 - trashstation.com
 - tubies.com
@@ -35,6 +37,7 @@ domains:
 - ultimatepreneur.com
 - vladimirherzog.org
 - weboyal.com
+- wowfollowers.com
 - yuanant.com
 fedex_suffixes:
 - app
@@ -91,7 +94,6 @@ ignored_domains:
 - giupich.org
 - gladiadoresdevendas.com.br
 - godynamo.co
-- gojordanbusiness.com
 - grandprov.com
 - habulex.com
 - hackersweb.org
@@ -140,7 +142,6 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
-- tacloban.gov.ph
 - teamder.org
 - testargames.cl
 - thaircy.redcross.or.th
@@ -153,7 +154,6 @@ ignored_domains:
 - veljko.id
 - visotka.in
 - wordpress.mrcentertainment.com
-- wowfollowers.com
 - wp.up118.cn
 - wsw.cool
 - xn--thvitstore-c7a.com
