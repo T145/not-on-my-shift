@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2025-12-30T12:16:36Z
+! Last update: 2025-12-31T12:16:28Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -220,11 +220,9 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
-||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||gojordanbusiness.com^
-||guzelbil.com^
 ||imrt.ac.in^
 ||klinikmetamorf.com^
 ||kmtks.org.tw^
@@ -240,7 +238,6 @@
 ||robbreport.com.my^
 ||sm-projekt.si^
 ||synoviz.com^
-||tacloban.gov.ph^
 ||thozhilvarthalatest.com^
 ||trashstation.com^
 ||tubies.com^
@@ -390,36 +387,32 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||4matchcitydate3.biz^
 ||anzbonusd2025.shop^
 ||aznbonuss2025.top^
 ||best-lovelady.com^
+||bestanddateiomatc7h.biz^
 ||bestlinkdate9.biz^
+||clubdatingxconn6ect.biz^
+||cuidate-skin.com^
+||date-app.net^
 ||date-coach.nl^
 ||date-jason.com^
+||date-nineplay.com^
 ||date0511.shop^
 ||datevibe1.shop^
 ||dating-love.top^
 ||dating2025.shop^
 ||dating24hour.com^
 ||datingcity3.biz^
-||easyandromanceonedate3.biz^
-||easydate8.biz^
-||easydatingpro8.biz^
-||hakodate-bpss.net^
+||hakodate-wq.com^
 ||hakodatekikyou-kaitori-daikichi.com^
 ||hakodatemoto7.com^
 ||kosodate-happy.net^
 ||online-dating.top^
 ||prize-neotokyo.codes^
-||pusulabet-bonus12.com^
 ||quickdatinghu9b.biz^
 ||quicklinkfinderdate7.biz^
-||savethedate3d.com^
 ||seniordating-uk.xyz^
-||smartdatemeetup5.biz^
-||taylorenterprize1.net^
-||updating-subscription.com^
 ||xn--sugardatingrdgivning-7zb.se^
 ||yt31bonus31.net^
 
