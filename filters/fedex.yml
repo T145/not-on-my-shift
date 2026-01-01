@@ -10,6 +10,7 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
+- dexil.ru
 - fraternitykerala.org
 - galaxyfunbowl.gr
 - gojordanbusiness.com
@@ -35,7 +36,6 @@ domains:
 - ultimatepreneur.com
 - vladimirherzog.org
 - weboyal.com
-- wowfollowers.com
 - yuanant.com
 fedex_suffixes:
 - app
@@ -76,7 +76,6 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
-- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -154,6 +153,7 @@ ignored_domains:
 - veljko.id
 - visotka.in
 - wordpress.mrcentertainment.com
+- wowfollowers.com
 - wp.up118.cn
 - wsw.cool
 - xn--thvitstore-c7a.com
