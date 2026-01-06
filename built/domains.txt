@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-01-05T12:17:05Z
+# Last update: 2026-01-06T12:16:41Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -238,7 +238,6 @@ twospoonsfleet.co.uk
 ultimatepreneur.com
 vladimirherzog.org
 weboyal.com
-wowfollowers.com
 yuanant.com
 
 # === SCAMS ===
@@ -380,23 +379,23 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-4matchcitydate3.biz
 anzbonusd2025.shop
+best-lovelady.com
 bestanddateiomatc7h.biz
-bestdatingzone7.biz
+bestlinkdate9.biz
 bonus-bckrcoin.com
 bonus-pudgypenguins.com
 candidate-profile.site
 clubdatingxconn6ect.biz
 cuidate-skin.com
 date-app.net
+date-jason.com
 date0511.shop
 datevibe1.shop
-dating-love.top
+dating-anastasiao.ru
+dating-anastasiao.store
 dating24hour.com
 datingcity3.biz
-easyandromanceonedate3.biz
-easydatingpro8.biz
 hakodate-bpss.net
 hakodate-wq.com
 hakodatekikyou-kaitori-daikichi.com
@@ -405,6 +404,7 @@ kosodate-happy.net
 online-dating.top
 prize-neotokyo.codes
 quickdatinghu9b.biz
+quicklinkfinderdate7.biz
 savethedate3d.com
 seniordating-uk.xyz
 smartdatemeetup5.biz
