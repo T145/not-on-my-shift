@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-01-08T12:17:11Z
+# Last update: 2026-01-09T12:16:48Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -609,6 +609,8 @@
 0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 bonus-bckrcoin.com
 0.0.0.0 www.bonus-bckrcoin.com
+0.0.0.0 bonus-pudgypenguins.com
+0.0.0.0 www.bonus-pudgypenguins.com
 0.0.0.0 candidate2-aliyun.top
 0.0.0.0 www.candidate2-aliyun.top
 0.0.0.0 clubdatingxconn6ect.biz
@@ -621,20 +623,18 @@
 0.0.0.0 www.date-jason.com
 0.0.0.0 date0511.shop
 0.0.0.0 www.date0511.shop
-0.0.0.0 dateing99.com
-0.0.0.0 www.dateing99.com
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating-anastasiao.ru
 0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
 0.0.0.0 www.dating-anastasiao.store
-0.0.0.0 dating-love.top
-0.0.0.0 www.dating-love.top
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datingcity3.biz
 0.0.0.0 www.datingcity3.biz
+0.0.0.0 easyandromanceonedate3.biz
+0.0.0.0 www.easyandromanceonedate3.biz
 0.0.0.0 easydate8.biz
 0.0.0.0 www.easydate8.biz
 0.0.0.0 easydatingpro8.biz
@@ -645,8 +645,6 @@
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatekikyou-kaitori-daikichi.com
 0.0.0.0 www.hakodatekikyou-kaitori-daikichi.com
-0.0.0.0 hakodatemoto7.com
-0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
 0.0.0.0 online-dating.top
@@ -661,8 +659,6 @@
 0.0.0.0 www.savethedate3d.com
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
-0.0.0.0 smartdatemeetup5.biz
-0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 taylorenterprize1.net
 0.0.0.0 www.taylorenterprize1.net
 0.0.0.0 updating-subscription.com
