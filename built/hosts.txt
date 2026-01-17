@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-01-16T12:16:33Z
+# Last update: 2026-01-17T12:16:09Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -284,8 +284,6 @@
 0.0.0.0 k.hencoder.com
 0.0.0.0 42sf.net
 0.0.0.0 www.42sf.net
-0.0.0.0 ailnoir.com
-0.0.0.0 www.ailnoir.com
 0.0.0.0 blog.sidmach.com
 0.0.0.0 cancervants.org
 0.0.0.0 www.cancervants.org
@@ -298,6 +296,8 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -330,8 +330,6 @@
 0.0.0.0 www.redlog.cl
 0.0.0.0 robbreport.com.my
 0.0.0.0 www.robbreport.com.my
-0.0.0.0 sm-projekt.si
-0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
@@ -595,8 +593,6 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 4matchcitydate3.biz
 0.0.0.0 www.4matchcitydate3.biz
-0.0.0.0 best-lovelady.com
-0.0.0.0 www.best-lovelady.com
 0.0.0.0 bestanddateiomatc7h.biz
 0.0.0.0 www.bestanddateiomatc7h.biz
 0.0.0.0 bestdatingzone7.biz
@@ -609,8 +605,14 @@
 0.0.0.0 www.bonus-pudgypenguins.com
 0.0.0.0 candidate2-aliyun.top
 0.0.0.0 www.candidate2-aliyun.top
+0.0.0.0 casinobonus15euro.cz
+0.0.0.0 www.casinobonus15euro.cz
 0.0.0.0 casinobonus7euro.cz
 0.0.0.0 www.casinobonus7euro.cz
+0.0.0.0 chatndates-online.org
+0.0.0.0 www.chatndates-online.org
+0.0.0.0 clickdate-site.org
+0.0.0.0 www.clickdate-site.org
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
@@ -625,10 +627,14 @@
 0.0.0.0 www.date0511.shop
 0.0.0.0 dateing99.com
 0.0.0.0 www.dateing99.com
+0.0.0.0 datenschutz-check.ch
+0.0.0.0 www.datenschutz-check.ch
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating-anastasiao.ru
 0.0.0.0 www.dating-anastasiao.ru
+0.0.0.0 dating-anastasiao.store
+0.0.0.0 www.dating-anastasiao.store
 0.0.0.0 dating-love.top
 0.0.0.0 www.dating-love.top
 0.0.0.0 dating24hour.com
@@ -641,20 +647,26 @@
 0.0.0.0 www.easydate8.biz
 0.0.0.0 easydatingpro8.biz
 0.0.0.0 www.easydatingpro8.biz
+0.0.0.0 elenadate-online.org
+0.0.0.0 www.elenadate-online.org
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
+0.0.0.0 hakodatekikyou-kaitori-daikichi.com
+0.0.0.0 www.hakodatekikyou-kaitori-daikichi.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 prize-neotokyo.codes
-0.0.0.0 www.prize-neotokyo.codes
+0.0.0.0 kosodate-happy.net
+0.0.0.0 www.kosodate-happy.net
+0.0.0.0 online-dating.top
+0.0.0.0 www.online-dating.top
 0.0.0.0 quickdatinghu9b.biz
 0.0.0.0 www.quickdatinghu9b.biz
-0.0.0.0 quicklinkfinderdate7.biz
-0.0.0.0 www.quicklinkfinderdate7.biz
 0.0.0.0 requlleste-accert567.life
 0.0.0.0 www.requlleste-accert567.life
+0.0.0.0 savethedate3d.com
+0.0.0.0 www.savethedate3d.com
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smartdatemeetup5.biz
@@ -663,8 +675,6 @@
 0.0.0.0 www.taylorenterprize1.net
 0.0.0.0 updating-subscription.com
 0.0.0.0 www.updating-subscription.com
-0.0.0.0 xn--sugardatingrdgivning-7zb.se
-0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
 0.0.0.0 yt31bonus31.net
 0.0.0.0 www.yt31bonus31.net
 

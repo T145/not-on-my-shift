@@ -2,7 +2,6 @@
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
 - 42sf.net
-- ailnoir.com
 - blog.sidmach.com
 - cancervants.org
 - castllypay.com
@@ -10,6 +9,7 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
+- dexil.ru
 - fraternitykerala.org
 - galaxyfunbowl.gr
 - gojordanbusiness.com
@@ -26,7 +26,6 @@ domains:
 - nguen.net
 - redlog.cl
 - robbreport.com.my
-- sm-projekt.si
 - synoviz.com
 - tacloban.gov.ph
 - thozhilvarthalatest.com
@@ -55,6 +54,7 @@ ignored_domains:
 - 918kiss.newworld88.com
 - 99bkx.com
 - afedgh.org
+- ailnoir.com
 - alercehistorico.cl
 - amirapache.ir
 - amzstudy.com
@@ -77,7 +77,6 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
-- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -135,6 +134,7 @@ ignored_domains:
 - sekolahalmunasemarang.sch.id
 - share-bnb.com
 - sky-scout.com
+- sm-projekt.si
 - smcsme.com
 - smecom.it
 - socialfact.in
