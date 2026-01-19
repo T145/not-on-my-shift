@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-01-18T12:16:17Z
+# Last update: 2026-01-19T12:17:06Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -282,8 +282,6 @@
 #  - https://geeklevi.com/fedex/
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 k.hencoder.com
-0.0.0.0 42sf.net
-0.0.0.0 www.42sf.net
 0.0.0.0 ailnoir.com
 0.0.0.0 www.ailnoir.com
 0.0.0.0 blog.sidmach.com
@@ -298,6 +296,8 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -342,6 +342,8 @@
 0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
 0.0.0.0 www.tubies.com
+0.0.0.0 twospoonsfleet.co.uk
+0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vladimirherzog.org
@@ -595,14 +597,14 @@
 0.0.0.0 www.4matchcitydate3.biz
 0.0.0.0 bestanddateiomatc7h.biz
 0.0.0.0 www.bestanddateiomatc7h.biz
-0.0.0.0 bestdatingzone7.biz
-0.0.0.0 www.bestdatingzone7.biz
 0.0.0.0 bestlinkdate9.biz
 0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 bonus-bckrcoin.com
 0.0.0.0 www.bonus-bckrcoin.com
 0.0.0.0 bonus-pudgypenguins.com
 0.0.0.0 www.bonus-pudgypenguins.com
+0.0.0.0 bonushub365.top
+0.0.0.0 www.bonushub365.top
 0.0.0.0 candidate-profile.site
 0.0.0.0 www.candidate-profile.site
 0.0.0.0 candidate2-aliyun.top
@@ -611,8 +613,6 @@
 0.0.0.0 www.casinobonus15euro.cz
 0.0.0.0 casinobonus7euro.cz
 0.0.0.0 www.casinobonus7euro.cz
-0.0.0.0 clickdate-site.org
-0.0.0.0 www.clickdate-site.org
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
@@ -635,18 +635,14 @@
 0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
 0.0.0.0 www.dating-anastasiao.store
+0.0.0.0 dating-love.top
+0.0.0.0 www.dating-love.top
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datingcity3.biz
 0.0.0.0 www.datingcity3.biz
-0.0.0.0 easyandromanceonedate3.biz
-0.0.0.0 www.easyandromanceonedate3.biz
-0.0.0.0 easydate8.biz
-0.0.0.0 www.easydate8.biz
 0.0.0.0 easydatingpro8.biz
 0.0.0.0 www.easydatingpro8.biz
-0.0.0.0 elenadate-online.org
-0.0.0.0 www.elenadate-online.org
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-wq.com
