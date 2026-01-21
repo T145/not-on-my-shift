@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-01-20T12:17:00Z
+# Last update: 2026-01-21T12:17:09Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -332,6 +332,8 @@
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
+0.0.0.0 tacloban.gov.ph
+0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 thozhilvarthalatest.com
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
@@ -603,8 +605,6 @@
 0.0.0.0 www.bonus-pudgypenguins.com
 0.0.0.0 bonushub365.top
 0.0.0.0 www.bonushub365.top
-0.0.0.0 candidate-profile.site
-0.0.0.0 www.candidate-profile.site
 0.0.0.0 candidate2-aliyun.top
 0.0.0.0 www.candidate2-aliyun.top
 0.0.0.0 casinobonus15euro.cz
@@ -623,8 +623,6 @@
 0.0.0.0 www.date-nineplay.com
 0.0.0.0 date0511.shop
 0.0.0.0 www.date0511.shop
-0.0.0.0 dateing99.com
-0.0.0.0 www.dateing99.com
 0.0.0.0 datenschutz-check.ch
 0.0.0.0 www.datenschutz-check.ch
 0.0.0.0 datevibe1.shop
@@ -639,28 +637,22 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datingcity3.biz
 0.0.0.0 www.datingcity3.biz
-0.0.0.0 easyandromanceonedate3.biz
-0.0.0.0 www.easyandromanceonedate3.biz
 0.0.0.0 easydate8.biz
 0.0.0.0 www.easydate8.biz
 0.0.0.0 easydatingpro8.biz
 0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
+0.0.0.0 hakodate-juku.com
+0.0.0.0 www.hakodate-juku.com
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodatekikyou-kaitori-daikichi.com
 0.0.0.0 www.hakodatekikyou-kaitori-daikichi.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 kosodate-happy.net
-0.0.0.0 www.kosodate-happy.net
-0.0.0.0 online-dating.top
-0.0.0.0 www.online-dating.top
 0.0.0.0 prize-neotokyo.codes
 0.0.0.0 www.prize-neotokyo.codes
-0.0.0.0 quickdatinghu9b.biz
-0.0.0.0 www.quickdatinghu9b.biz
 0.0.0.0 quicklinkfinderdate7.biz
 0.0.0.0 www.quicklinkfinderdate7.biz
 0.0.0.0 requlleste-accert567.life
