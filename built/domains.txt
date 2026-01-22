@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-01-21T12:17:09Z
+# Last update: 2026-01-22T12:17:07Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -380,27 +380,24 @@ centent.steamplay.me
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 4matchcitydate3.biz
 bestanddateiomatc7h.biz
-bestdatingzone7.biz
 bestlinkdate9.biz
 bonus-bckrcoin.com
 bonus-pudgypenguins.com
 bonushub365.top
+candidate-profile.site
 candidate2-aliyun.top
-casinobonus15euro.cz
-casinobonus7euro.cz
 clubdatingxconn6ect.biz
 cuidate-skin.com
 date-app.net
-date-jason.com
 date-nineplay.com
 date0511.shop
+dateing99.com
 datenschutz-check.ch
-datevibe1.shop
-dating-anastasiao.ru
 dating-anastasiao.store
 dating-love.top
 dating24hour.com
 datingcity3.biz
+easyandromanceonedate3.biz
 easydate8.biz
 easydatingpro8.biz
 hakodate-bpss.net
@@ -408,6 +405,8 @@ hakodate-juku.com
 hakodate-wq.com
 hakodatekikyou-kaitori-daikichi.com
 hakodatemoto7.com
+kosodate-happy.net
+online-dating.top
 prize-neotokyo.codes
 quicklinkfinderdate7.biz
 requlleste-accert567.life
