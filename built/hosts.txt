@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-01-23T12:16:55Z
+# Last update: 2026-01-24T12:16:22Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -330,8 +330,12 @@
 0.0.0.0 www.robbreport.com.my
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
+0.0.0.0 synoviz.com
+0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
 0.0.0.0 www.tacloban.gov.ph
+0.0.0.0 thozhilvarthalatest.com
+0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
 0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
@@ -342,6 +346,8 @@
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vladimirherzog.org
 0.0.0.0 www.vladimirherzog.org
+0.0.0.0 weboyal.com
+0.0.0.0 www.weboyal.com
 0.0.0.0 wowfollowers.com
 0.0.0.0 www.wowfollowers.com
 0.0.0.0 yuanant.com
@@ -585,8 +591,6 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 bestanddateiomatc7h.biz
-0.0.0.0 www.bestanddateiomatc7h.biz
 0.0.0.0 bestlinkdate9.biz
 0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 bonus-bckrcoin.com
@@ -597,10 +601,6 @@
 0.0.0.0 www.bonushub365.top
 0.0.0.0 candidate2-aliyun.top
 0.0.0.0 www.candidate2-aliyun.top
-0.0.0.0 clubdatingxconn6ect.biz
-0.0.0.0 www.clubdatingxconn6ect.biz
-0.0.0.0 cuidate-skin.com
-0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
 0.0.0.0 www.date-app.net
 0.0.0.0 date-jason.com
@@ -609,52 +609,24 @@
 0.0.0.0 www.date-nineplay.com
 0.0.0.0 date0511.shop
 0.0.0.0 www.date0511.shop
-0.0.0.0 dateing99.com
-0.0.0.0 www.dateing99.com
 0.0.0.0 datenschutz-check.ch
 0.0.0.0 www.datenschutz-check.ch
 0.0.0.0 datevibe1.shop
 0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating-anastasiao.ru
 0.0.0.0 www.dating-anastasiao.ru
-0.0.0.0 dating-anastasiao.store
-0.0.0.0 www.dating-anastasiao.store
 0.0.0.0 dating-love.top
 0.0.0.0 www.dating-love.top
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
-0.0.0.0 datingcity3.biz
-0.0.0.0 www.datingcity3.biz
-0.0.0.0 easydate8.biz
-0.0.0.0 www.easydate8.biz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
-0.0.0.0 hakodate-juku.com
-0.0.0.0 www.hakodate-juku.com
-0.0.0.0 hakodate-wq.com
-0.0.0.0 www.hakodate-wq.com
-0.0.0.0 hakodatekikyou-kaitori-daikichi.com
-0.0.0.0 www.hakodatekikyou-kaitori-daikichi.com
-0.0.0.0 hakodatemoto7.com
-0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
-0.0.0.0 online-dating.top
-0.0.0.0 www.online-dating.top
-0.0.0.0 prize-neotokyo.codes
-0.0.0.0 www.prize-neotokyo.codes
-0.0.0.0 quickdatinghu9b.biz
-0.0.0.0 www.quickdatinghu9b.biz
-0.0.0.0 quicklinkfinderdate7.biz
-0.0.0.0 www.quicklinkfinderdate7.biz
-0.0.0.0 savethedate3d.com
-0.0.0.0 www.savethedate3d.com
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
-0.0.0.0 taylorenterprize1.net
-0.0.0.0 www.taylorenterprize1.net
-0.0.0.0 updating-subscription.com
-0.0.0.0 www.updating-subscription.com
+0.0.0.0 smartdatemeetup5.biz
+0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
 0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
 0.0.0.0 yt31bonus31.net
