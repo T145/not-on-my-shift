@@ -1,6 +1,7 @@
 # Don't bother manually updating this file.
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
+- ailnoir.com
 - blog.sidmach.com
 - cancervants.org
 - castllypay.com
@@ -8,22 +9,33 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
+- fraternitykerala.org
 - galaxyfunbowl.gr
+- giupich.org
+- gojordanbusiness.com
 - imrt.ac.in
 - klinikmetamorf.com
+- kmtks.org.tw
 - loanglide.com
 - machupicchutraveling.com
 - magicboximportados.com.br
+- mistc.es
 - mouwz.nl
 - mucc.com.au
+- nectartrust.org.uk
 - nguen.net
+- redlog.cl
 - robbreport.com.my
 - sm-projekt.si
+- synoviz.com
 - tacloban.gov.ph
+- thozhilvarthalatest.com
 - trashstation.com
 - tubies.com
 - twospoonsfleet.co.uk
+- ultimatepreneur.com
 - vladimirherzog.org
+- weboyal.com
 - wowfollowers.com
 - yuanant.com
 fedex_suffixes:
@@ -44,7 +56,6 @@ ignored_domains:
 - 918kiss.newworld88.com
 - 99bkx.com
 - afedgh.org
-- ailnoir.com
 - alercehistorico.cl
 - amirapache.ir
 - amzstudy.com
@@ -75,16 +86,13 @@ ignored_domains:
 - events.playakasha.com
 - fallenjewellery.com
 - feelmore.site
-- fraternitykerala.org
 - funtrade.land
 - galerihana.com
 - gardendeur.site
 - garveylibertyhall.com
 - geeklevi.com
-- giupich.org
 - gladiadoresdevendas.com.br
 - godynamo.co
-- gojordanbusiness.com
 - grandprov.com
 - guzelbil.com
 - habulex.com
@@ -99,16 +107,13 @@ ignored_domains:
 - joliveer.com
 - justparty.com.br
 - kidimy.org
-- kmtks.org.tw
 - latesttechnologyz.com
 - lova.network
 - mahigifts.com
 - marincr.com
 - mevlutacik.com.tr
-- mistc.es
 - myphamnganbinh.com
 - nbkangxi.com
-- nectartrust.org.uk
 - nen.vacad.net
 - new.deso.cz
 - nextgearup.com
@@ -123,7 +128,6 @@ ignored_domains:
 - pornvillla.com
 - psspine.org
 - publicidadorl.com
-- redlog.cl
 - rees.games
 - rishipes.co.nz
 - runyixs.com
@@ -138,21 +142,17 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
-- synoviz.com
 - teamder.org
 - testargames.cl
 - thaircy.redcross.or.th
 - thietkelq.com
-- thozhilvarthalatest.com
 - toanthaybac.com
 - topblackfridaydealz.com
 - tuyennvtb.com
-- ultimatepreneur.com
 - update.fbsbx.com
 - vanguardacademy-ng.com
 - veljko.id
 - visotka.in
-- weboyal.com
 - wordpress.mrcentertainment.com
 - wp.up118.cn
 - wsw.cool
