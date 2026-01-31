@@ -9,8 +9,10 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
+- dexil.ru
 - fraternitykerala.org
 - galaxyfunbowl.gr
+- giupich.org
 - gojordanbusiness.com
 - imrt.ac.in
 - klinikmetamorf.com
@@ -26,15 +28,12 @@ domains:
 - redlog.cl
 - robbreport.com.my
 - sm-projekt.si
-- synoviz.com
 - tacloban.gov.ph
-- thozhilvarthalatest.com
 - trashstation.com
 - tubies.com
 - twospoonsfleet.co.uk
 - ultimatepreneur.com
 - vladimirherzog.org
-- weboyal.com
 - wowfollowers.com
 - yuanant.com
 fedex_suffixes:
@@ -77,7 +76,6 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
-- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -90,7 +88,6 @@ ignored_domains:
 - gardendeur.site
 - garveylibertyhall.com
 - geeklevi.com
-- giupich.org
 - gladiadoresdevendas.com.br
 - godynamo.co
 - grandprov.com
@@ -142,10 +139,12 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
+- synoviz.com
 - teamder.org
 - testargames.cl
 - thaircy.redcross.or.th
 - thietkelq.com
+- thozhilvarthalatest.com
 - toanthaybac.com
 - topblackfridaydealz.com
 - tuyennvtb.com
@@ -153,6 +152,7 @@ ignored_domains:
 - vanguardacademy-ng.com
 - veljko.id
 - visotka.in
+- weboyal.com
 - wordpress.mrcentertainment.com
 - wp.up118.cn
 - wsw.cool
