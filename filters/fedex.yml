@@ -2,7 +2,6 @@
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
 - ailnoir.com
-- blog.sidmach.com
 - cancervants.org
 - castllypay.com
 - clickedgesolutions.com
@@ -11,7 +10,6 @@ domains:
 - defencelover.in
 - fraternitykerala.org
 - galaxyfunbowl.gr
-- giupich.org
 - gojordanbusiness.com
 - imrt.ac.in
 - klinikmetamorf.com
@@ -29,7 +27,6 @@ domains:
 - sm-projekt.si
 - synoviz.com
 - tacloban.gov.ph
-- thozhilvarthalatest.com
 - trashstation.com
 - tubies.com
 - twospoonsfleet.co.uk
@@ -68,6 +65,7 @@ ignored_domains:
 - bestgoldenretrieverbreeder.com
 - bks.tv
 - blog.envision.agency
+- blog.sidmach.com
 - canopusbd.com
 - cashboxcafe.ru
 - cbd-and-epilepsy.com
@@ -91,6 +89,7 @@ ignored_domains:
 - gardendeur.site
 - garveylibertyhall.com
 - geeklevi.com
+- giupich.org
 - gladiadoresdevendas.com.br
 - godynamo.co
 - grandprov.com
@@ -146,6 +145,7 @@ ignored_domains:
 - testargames.cl
 - thaircy.redcross.or.th
 - thietkelq.com
+- thozhilvarthalatest.com
 - toanthaybac.com
 - topblackfridaydealz.com
 - tuyennvtb.com
