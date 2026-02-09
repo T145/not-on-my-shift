@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-02-07T12:16:52Z
+! Last update: 2026-02-09T12:25:17Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -386,12 +386,12 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||bestanddateiomatc7h.biz^
+||bestdatingzone7.biz^
 ||bestlinkdate9.biz^
 ||bonus-bckrcoin.com^
-||bonus-pudgypenguins.com^
-||bonus-rush-casino.com^
+||bonus-moby.click^
 ||bonushub365.top^
-||candidate2-aliyun.top^
+||clubdatingxconn6ect.biz^
 ||cuidate-skin.com^
 ||date-app.net^
 ||date-jason.com^
@@ -399,14 +399,14 @@
 ||date0511.shop^
 ||dateing99.com^
 ||datenschutz-check.ch^
-||datevibe1.shop^
 ||dating-anastasiao.ru^
 ||dating-anastasiao.store^
 ||dating-love.top^
 ||dating24hour.com^
 ||datingcity3.biz^
 ||easyandromanceonedate3.biz^
-||hakodate-bpss.net^
+||easydatingpro8.biz^
+||hakodate-juku.com^
 ||hakodate-wq.com^
 ||hakodatekikyou-kaitori-daikichi.com^
 ||hakodatemoto7.com^
@@ -415,14 +415,13 @@
 ||online-dating.top^
 ||prizecrane-hire.co.uk^
 ||quickdatinghu9b.biz^
-||quicklinkfinderdate7.biz^
 ||requlleste-accert567.life^
 ||savethedate3d.com^
 ||seniordating-uk.xyz^
+||smartdatemeetup5.biz^
 ||superbonus138.site^
 ||updating-subscription.com^
 ||xn--sugardatingrdgivning-7zb.se^
-||yt31bonus31.net^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
