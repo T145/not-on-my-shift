@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-02-13T12:19:33Z
+# Last update: 2026-02-14T12:16:50Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -590,18 +590,18 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 bestanddateiomatc7h.biz
 0.0.0.0 www.bestanddateiomatc7h.biz
-0.0.0.0 bestlinkdate9.biz
-0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 bonus-moby.click
 0.0.0.0 www.bonus-moby.click
+0.0.0.0 candidate-profile.site
+0.0.0.0 www.candidate-profile.site
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
+0.0.0.0 cuidate-skin.com
+0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
 0.0.0.0 www.date-app.net
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
-0.0.0.0 date-nineplay.com
-0.0.0.0 www.date-nineplay.com
 0.0.0.0 date0511.shop
 0.0.0.0 www.date0511.shop
 0.0.0.0 dateing99.com
@@ -614,12 +614,14 @@
 0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
 0.0.0.0 www.dating-anastasiao.store
+0.0.0.0 dating-love.top
+0.0.0.0 www.dating-love.top
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datingcity3.biz
 0.0.0.0 www.datingcity3.biz
-0.0.0.0 easydatingpro8.biz
-0.0.0.0 www.easydatingpro8.biz
+0.0.0.0 easyandromanceonedate3.biz
+0.0.0.0 www.easyandromanceonedate3.biz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-juku.com
@@ -632,10 +634,10 @@
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 kasyno-z-bonusem-na-start-bez-depozytu.pl
 0.0.0.0 www.kasyno-z-bonusem-na-start-bez-depozytu.pl
-0.0.0.0 kosodate-happy.net
-0.0.0.0 www.kosodate-happy.net
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
+0.0.0.0 prizecrane-hire.co.uk
+0.0.0.0 www.prizecrane-hire.co.uk
 0.0.0.0 quickdatinghu9b.biz
 0.0.0.0 www.quickdatinghu9b.biz
 0.0.0.0 quicklinkfinderdate7.biz
@@ -648,8 +650,6 @@
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 superbonus138.site
 0.0.0.0 www.superbonus138.site
-0.0.0.0 trkdate2.shop
-0.0.0.0 www.trkdate2.shop
 0.0.0.0 updating-subscription.com
 0.0.0.0 www.updating-subscription.com
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
