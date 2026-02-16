@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-02-15T12:16:58Z
+! Last update: 2026-02-16T12:22:01Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -407,17 +407,17 @@
 ||hakodate-wq.com^
 ||hakodatekikyou-kaitori-daikichi.com^
 ||hakodatemoto7.com^
-||kasyno-z-bonusem-na-start-bez-depozytu.pl^
 ||kosodate-happy.net^
+||online-dating.top^
 ||prizecrane-hire.co.uk^
 ||quickdatinghu9b.biz^
 ||quicklinkfinderdate7.biz^
-||requlleste-accert567.life^
 ||savethedate3d.com^
 ||seniordating-uk.xyz^
 ||superbonus138.site^
 ||updating-subscription.com^
 ||xn--sugardatingrdgivning-7zb.se^
+||yt31bonus31.net^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
