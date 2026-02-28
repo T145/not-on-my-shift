@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-02-27T12:20:09Z
+# Last update: 2026-02-28T12:16:34Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -206,12 +206,12 @@ ailnoir.com
 cancervants.org
 castllypay.com
 clickedgesolutions.com
+clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
 fraternitykerala.org
 galaxyfunbowl.gr
 gojordanbusiness.com
-imrt.ac.in
 klinikmetamorf.com
 kmtks.org.tw
 loanglide.com
@@ -227,7 +227,6 @@ redlog.cl
 robbreport.com.my
 sm-projekt.si
 synoviz.com
-tacloban.gov.ph
 trashstation.com
 tubies.com
 twospoonsfleet.co.uk
@@ -376,36 +375,41 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+4matchcitydate3.biz
+bestanddateiomatc7h.biz
 bestlinkdate9.biz
-betting-bonuses-mongolia.com
 bonus-moby.click
-candidate-profile.site
 clubdatingxconn6ect.biz
-date-jason.com
+cuidate-skin.com
+date-app.net
+date-nineplay.com
+date0511.shop
 date1.biz
 date9.biz
-dateing99.com
 datenschutz-check.ch
 datevibe1.shop
+dating-anastasiao.ru
+dating-anastasiao.store
+dating-love.top
 dating24hour.com
+datingcity3.biz
 datingfind9.biz
 deneme-bonusu-liste.com
-easyandromanceonedate3.biz
+easydatingpro8.biz
 hakodate-bpss.net
 hakodate-juku.com
 hakodate-wq.com
-hakodatejoki188.xyz
-hakodatekikyou-kaitori-daikichi.com
-kasinosbonus7.site
+hakodate0104.net
+hakodatemoto7.com
 kasyno-z-bonusem-na-start-bez-depozytu.pl
-no-deposit-bonus-casino-nz.online
+kosodate-happy.net
 online-dating.top
 savethedate3d.com
 seniordating-uk.xyz
-smartdatemeetup5.biz
 smartdating3.biz
 superbonus138.site
-updating-subscription.com
+xn--sugardatingrdgivning-7zb.se
+yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 1mono.biz
