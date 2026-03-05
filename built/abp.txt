@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-03-04T12:19:22Z
+! Last update: 2026-03-05T12:20:45Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -218,6 +218,7 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||gojordanbusiness.com^
@@ -389,7 +390,6 @@
 ||bestanddateiomatc7h.biz^
 ||bestlinkdate9.biz^
 ||betting-bonuses-mongolia.com^
-||bonus-moby.click^
 ||clubdatingxconn6ect.biz^
 ||cuidate-skin.com^
 ||date-app.net^
@@ -400,29 +400,23 @@
 ||date9.biz^
 ||dateing99.com^
 ||datenschutz-check.ch^
-||dating-anastasiao.ru^
+||datevibe1.shop^
 ||dating-anastasiao.store^
 ||dating24hour.com^
 ||datingcity3.biz^
 ||datingfind9.biz^
 ||deneme-bonusu-liste.com^
-||easydatingpro8.biz^
-||godateworld4.biz^
 ||hakodate-bpss.net^
-||hakodate-juku.com^
 ||hakodate-printing.com^
 ||hakodate-wq.com^
 ||hakodate0104.net^
 ||hakodatejoki188.xyz^
 ||hakodatekikyou-kaitori-daikichi.com^
 ||hakodatemoto7.com^
-||kasyno-z-bonusem-na-start-bez-depozytu.pl^
 ||kosodate-happy.net^
 ||no-deposit-bonus-casino-nz.online^
 ||no-deposit-bonus-casinos.org^
-||online-dating.top^
 ||quickdatinghu9b.biz^
-||quicklinkfinderdate7.biz^
 ||savethedate3d.com^
 ||seniordating-uk.xyz^
 ||smartdatemeetup5.biz^
