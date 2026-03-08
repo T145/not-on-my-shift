@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-03-07T12:16:47Z
+# Last update: 2026-03-08T12:17:13Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -598,8 +598,14 @@
 0.0.0.0 www.bestanddateiomatc7h.biz
 0.0.0.0 bestlinkdate9.biz
 0.0.0.0 www.bestlinkdate9.biz
+0.0.0.0 betting-bonuses-mongolia.com
+0.0.0.0 www.betting-bonuses-mongolia.com
 0.0.0.0 bonus-macquarie.vip
 0.0.0.0 www.bonus-macquarie.vip
+0.0.0.0 bonus-moby.click
+0.0.0.0 www.bonus-moby.click
+0.0.0.0 bonus888-th.info
+0.0.0.0 www.bonus888-th.info
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
@@ -624,20 +630,22 @@
 0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating-anastasiao.ru
 0.0.0.0 www.dating-anastasiao.ru
-0.0.0.0 dating-anastasiao.store
-0.0.0.0 www.dating-anastasiao.store
-0.0.0.0 dating-love.top
-0.0.0.0 www.dating-love.top
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
-0.0.0.0 datingcity3.biz
-0.0.0.0 www.datingcity3.biz
 0.0.0.0 datingfind9.biz
 0.0.0.0 www.datingfind9.biz
+0.0.0.0 deneme-bonusu-liste.com
+0.0.0.0 www.deneme-bonusu-liste.com
 0.0.0.0 easydatingpro8.biz
 0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 godateworld4.biz
 0.0.0.0 www.godateworld4.biz
+0.0.0.0 hakodate-bpss.net
+0.0.0.0 www.hakodate-bpss.net
+0.0.0.0 hakodate-juku.com
+0.0.0.0 www.hakodate-juku.com
+0.0.0.0 hakodate-printing.com
+0.0.0.0 www.hakodate-printing.com
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodate0104.net
@@ -652,10 +660,22 @@
 0.0.0.0 www.kasyno-z-bonusem-na-start-bez-depozytu.pl
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
+0.0.0.0 medatestadosatendimento24hrs.online
+0.0.0.0 www.medatestadosatendimento24hrs.online
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
+0.0.0.0 online-dating.top
+0.0.0.0 www.online-dating.top
+0.0.0.0 playdate-now.com
+0.0.0.0 www.playdate-now.com
 0.0.0.0 quickdatinghu9b.biz
 0.0.0.0 www.quickdatinghu9b.biz
+0.0.0.0 quicklinkfinderdate7.biz
+0.0.0.0 www.quicklinkfinderdate7.biz
+0.0.0.0 rtpbonus87.com
+0.0.0.0 www.rtpbonus87.com
+0.0.0.0 savethedate3d.com
+0.0.0.0 www.savethedate3d.com
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smartdatemeetup5.biz
