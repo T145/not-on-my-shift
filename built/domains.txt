@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-03-10T12:20:34Z
+# Last update: 2026-03-11T12:20:40Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -209,7 +209,7 @@ clickedgesolutions.com
 clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
-dexil.ru
+fraternitykerala.org
 galaxyfunbowl.gr
 gojordanbusiness.com
 imrt.ac.in
@@ -227,12 +227,14 @@ nguen.net
 redlog.cl
 robbreport.com.my
 sm-projekt.si
+synoviz.com
 tacloban.gov.ph
 trashstation.com
 tubies.com
 twospoonsfleet.co.uk
 ultimatepreneur.com
 vladimirherzog.org
+weboyal.com
 wowfollowers.com
 yuanant.com
 
@@ -375,50 +377,38 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-4matchcitydate3.biz
 bestanddateiomatc7h.biz
-bestlinkdate9.biz
-betting-bonuses-mongolia.com
-bonus-moby.click
+bonus-macquarie.vip
 bonus888-th.info
 bonus9nine.org
+candidate-profile.site
 clubdatingxconn6ect.biz
 cuidate-skin.com
 date-app.net
-date-jason.com
-date-nineplay.com
 date007.xyz
+date0511.shop
 date1.biz
 date9.biz
+dateing99.com
 datenschutz-check.ch
-dating-anastasiao.ru
-dating-anastasiao.store
+datevibe1.shop
 dating-love.top
 dating24hour.com
 datingcity3.biz
 datingfind9.biz
-deneme-bonusu-liste.com
-godateworld4.biz
-hakodate-bpss.net
+grandivycasinobonus-uk.com
 hakodate-juku.com
-hakodate-printing.com
 hakodate-wq.com
 hakodate0104.net
-hakodatejoki188.xyz
 hakodatekikyou-kaitori-daikichi.com
-hakodatemoto7.com
-kasyno-z-bonusem-na-start-bez-depozytu.pl
+kosodate-happy.net
 no-deposit-bonus-casino-nz.online
-online-dating.top
-playdate-now.com
 quickdatinghu9b.biz
 quicklinkfinderdate7.biz
-savethedate3d.com
 seniordating-uk.xyz
 smartdating3.biz
 updating-subscription.com
 xn--sugardatingrdgivning-7zb.se
-yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 1mono.biz
