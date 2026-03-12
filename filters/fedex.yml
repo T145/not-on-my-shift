@@ -1,29 +1,24 @@
 # Don't bother manually updating this file.
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
-- ailnoir.com
 - cancervants.org
 - castllypay.com
 - clickedgesolutions.com
 - clone.app.home-cost.com
-- comptoncymru.com
 - defencelover.in
+- dexil.ru
 - fraternitykerala.org
 - galaxyfunbowl.gr
-- gojordanbusiness.com
 - imrt.ac.in
 - klinikmetamorf.com
 - kmtks.org.tw
 - loanglide.com
 - machupicchutraveling.com
 - magicboximportados.com.br
-- mistc.es
 - mouwz.nl
 - mucc.com.au
 - nbkangxi.com
-- nectartrust.org.uk
 - nguen.net
-- redlog.cl
 - robbreport.com.my
 - sm-projekt.si
 - synoviz.com
@@ -31,7 +26,6 @@ domains:
 - trashstation.com
 - tubies.com
 - twospoonsfleet.co.uk
-- ultimatepreneur.com
 - vladimirherzog.org
 - weboyal.com
 - wowfollowers.com
@@ -54,6 +48,7 @@ ignored_domains:
 - 918kiss.newworld88.com
 - 99bkx.com
 - afedgh.org
+- ailnoir.com
 - alercehistorico.cl
 - amirapache.ir
 - amzstudy.com
@@ -73,11 +68,11 @@ ignored_domains:
 - cbd-and-seizures.com
 - celestinfreinet.mx
 - cgassociates.pk
+- comptoncymru.com
 - contornosdesign.pt
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
-- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -93,6 +88,7 @@ ignored_domains:
 - giupich.org
 - gladiadoresdevendas.com.br
 - godynamo.co
+- gojordanbusiness.com
 - grandprov.com
 - guzelbil.com
 - habulex.com
@@ -112,7 +108,9 @@ ignored_domains:
 - mahigifts.com
 - marincr.com
 - mevlutacik.com.tr
+- mistc.es
 - myphamnganbinh.com
+- nectartrust.org.uk
 - nen.vacad.net
 - new.deso.cz
 - nextgearup.com
@@ -127,6 +125,7 @@ ignored_domains:
 - pornvillla.com
 - psspine.org
 - publicidadorl.com
+- redlog.cl
 - rees.games
 - rishipes.co.nz
 - runyixs.com
@@ -149,6 +148,7 @@ ignored_domains:
 - toanthaybac.com
 - topblackfridaydealz.com
 - tuyennvtb.com
+- ultimatepreneur.com
 - update.fbsbx.com
 - vanguardacademy-ng.com
 - veljko.id
