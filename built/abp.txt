@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-03-15T12:18:08Z
+! Last update: 2026-03-16T12:26:12Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -217,10 +217,10 @@
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
 ||defencelover.in^
-||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||gojordanbusiness.com^
+||hongqiqujiu.com^
 ||imrt.ac.in^
 ||klinikmetamorf.com^
 ||kmtks.org.tw^
@@ -233,7 +233,6 @@
 ||nbkangxi.com^
 ||nectartrust.org.uk^
 ||nguen.net^
-||parikhinfosolutions.in^
 ||redlog.cl^
 ||robbreport.com.my^
 ||sm-projekt.si^
@@ -403,9 +402,7 @@
 ||date1.biz^
 ||date11.fun^
 ||date9.biz^
-||dateing99.com^
 ||datenschutz-check.ch^
-||datevibe1.shop^
 ||dating-anastasiao.ru^
 ||dating-anastasiao.store^
 ||dating-love.top^
@@ -413,15 +410,17 @@
 ||datingcity3.biz^
 ||datingfind9.biz^
 ||deneme-bonusu-liste.com^
+||godateworld4.biz^
 ||goldenbetbonus-uk.com^
 ||grandivycasinobonus-uk.com^
+||hakodate-bpss.net^
+||hakodate-juku.com^
 ||hakodate-printing.com^
 ||hakodate-wq.com^
 ||hakodate0104.net^
 ||hakodatejoki188.xyz^
 ||hakodatekikyou-kaitori-daikichi.com^
 ||hakodatemoto7.com^
-||kasyno-z-bonusem-na-start-bez-depozytu.pl^
 ||kosodate-happy.net^
 ||no-deposit-bonus-casino-nz.online^
 ||online-dating.top^
@@ -430,11 +429,12 @@
 ||privecasinobonus-uk.com^
 ||quickdatinghu9b.biz^
 ||quicklinkfinderdate7.biz^
+||savethedate3d.com^
 ||seniordating-uk.xyz^
-||smartdatemeetup5.biz^
 ||smartdating3.biz^
 ||updating-subscription.com^
 ||xn--sugardatingrdgivning-7zb.se^
+||yt31bonus31.net^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
