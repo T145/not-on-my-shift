@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-03-16T12:26:12Z
+# Last update: 2026-03-17T12:25:39Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -598,14 +598,12 @@
 0.0.0.0 www.betting-bonuses-mongolia.com
 0.0.0.0 bonus-macquarie.vip
 0.0.0.0 www.bonus-macquarie.vip
-0.0.0.0 bonus-moby.click
-0.0.0.0 www.bonus-moby.click
 0.0.0.0 bonus888-th.info
 0.0.0.0 www.bonus888-th.info
 0.0.0.0 bonushub365.top
 0.0.0.0 www.bonushub365.top
-0.0.0.0 clubdatingxconn6ect.biz
-0.0.0.0 www.clubdatingxconn6ect.biz
+0.0.0.0 cuidate-skin.com
+0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
 0.0.0.0 www.date-app.net
 0.0.0.0 date-jason.com
@@ -622,8 +620,12 @@
 0.0.0.0 www.date11.fun
 0.0.0.0 date9.biz
 0.0.0.0 www.date9.biz
+0.0.0.0 dateing99.com
+0.0.0.0 www.dateing99.com
 0.0.0.0 datenschutz-check.ch
 0.0.0.0 www.datenschutz-check.ch
+0.0.0.0 datevibe1.shop
+0.0.0.0 www.datevibe1.shop
 0.0.0.0 dating-anastasiao.ru
 0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
@@ -632,12 +634,12 @@
 0.0.0.0 www.dating-love.top
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
-0.0.0.0 datingcity3.biz
-0.0.0.0 www.datingcity3.biz
 0.0.0.0 datingfind9.biz
 0.0.0.0 www.datingfind9.biz
 0.0.0.0 deneme-bonusu-liste.com
 0.0.0.0 www.deneme-bonusu-liste.com
+0.0.0.0 easydatingpro8.biz
+0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 godateworld4.biz
 0.0.0.0 www.godateworld4.biz
 0.0.0.0 goldenbetbonus-uk.com
