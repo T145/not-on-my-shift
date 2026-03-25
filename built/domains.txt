@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-03-23T12:25:19Z
+# Last update: 2026-03-25T12:25:12Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -209,14 +209,12 @@ castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
 defencelover.in
-dexil.ru
 fraternitykerala.org
 galaxyfunbowl.gr
 gojordanbusiness.com
 hongqiqujiu.com
 imrt.ac.in
 klinikmetamorf.com
-kmtks.org.tw
 loanglide.com
 machupicchutraveling.com
 magicboximportados.com.br
@@ -385,17 +383,21 @@ bestlinkdate9.biz
 betting-bonuses-mongolia.com
 bonus-macquarie.vip
 bonus138on6.xyz
+bonus888-th.info
 bonushub365.top
+braindate2049.com
 candidate-profile.site
+casinoenlignebonus2025.fr
+casinoenlignebonusfrance2026.fr
+casinoenlignebonusvip2026.fr
 clubdatingxconn6ect.biz
 cuidate-skin.com
-date-app.net
 date-jason.com
 date-nineplay.com
-date007.xyz
 date1.biz
 date11.fun
 date9.biz
+dateing99.com
 datenschutz-check.ch
 datevibe1.shop
 dating-anastasiao.ru
@@ -405,7 +407,6 @@ dating24hour.com
 datingcity3.biz
 datingfind9.biz
 deneme-bonusu-liste.com
-easydatingpro8.biz
 godateworld4.biz
 goldenbetbonus-uk.com
 grandivycasinobonus-uk.com
@@ -418,6 +419,7 @@ hakodatejoki188.xyz
 hakodatekikyou-kaitori-daikichi.com
 hakodatemoto7.com
 kosodate-happy.net
+mrspinbonus-uk.com
 no-deposit-bonus-casino-nz.online
 online-dating.top
 pinupcasinobonus-uk.com
@@ -427,8 +429,10 @@ quickdatinghu9b.biz
 quicklinkfinderdate7.biz
 savethedate3d.com
 seniordating-uk.xyz
+smartdatemeetup5.biz
 smartdating3.biz
-updating-subscription.com
+swiftcasinobonus-uk.com
+thisisvegascasinobonus-uk.com
 xn--sugardatingrdgivning-7zb.se
 yatirimsartsizdenemebonusu365.com
 yt31bonus31.net
