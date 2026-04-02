@@ -1,24 +1,29 @@
 # Don't bother manually updating this file.
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
+- ailnoir.com
 - bamperbolspb.ru
 - cancervants.org
 - castllypay.com
 - clickedgesolutions.com
 - clone.app.home-cost.com
 - defencelover.in
+- dexil.ru
 - fraternitykerala.org
 - galaxyfunbowl.gr
 - gojordanbusiness.com
 - hongqiqujiu.com
 - imrt.ac.in
 - klinikmetamorf.com
+- kmtks.org.tw
 - loanglide.com
 - machupicchutraveling.com
 - magicboximportados.com.br
+- mistc.es
 - mouwz.nl
 - mucc.com.au
 - nbkangxi.com
+- nectartrust.org.uk
 - nguen.net
 - redlog.cl
 - robbreport.com.my
@@ -51,7 +56,6 @@ ignored_domains:
 - 918kiss.newworld88.com
 - 99bkx.com
 - afedgh.org
-- ailnoir.com
 - alercehistorico.cl
 - amirapache.ir
 - amzstudy.com
@@ -75,7 +79,6 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
-- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -104,15 +107,12 @@ ignored_domains:
 - joliveer.com
 - justparty.com.br
 - kidimy.org
-- kmtks.org.tw
 - latesttechnologyz.com
 - lova.network
 - mahigifts.com
 - marincr.com
 - mevlutacik.com.tr
-- mistc.es
 - myphamnganbinh.com
-- nectartrust.org.uk
 - nen.vacad.net
 - new.deso.cz
 - nextgearup.com
