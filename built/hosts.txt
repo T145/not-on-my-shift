@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-04-04T12:19:57Z
+# Last update: 2026-04-05T12:20:42Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -592,8 +592,6 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 4matchcitydate3.biz
-0.0.0.0 www.4matchcitydate3.biz
 0.0.0.0 bestanddateiomatc7h.biz
 0.0.0.0 www.bestanddateiomatc7h.biz
 0.0.0.0 bestlinkdate9.biz
@@ -610,10 +608,14 @@
 0.0.0.0 www.bonushub365.top
 0.0.0.0 bonuskongcasino-it.com
 0.0.0.0 www.bonuskongcasino-it.com
+0.0.0.0 bonuspointsystem4.ru
+0.0.0.0 www.bonuspointsystem4.ru
 0.0.0.0 bonuspointsystem5.ru
 0.0.0.0 www.bonuspointsystem5.ru
 0.0.0.0 braindate2049.com
 0.0.0.0 www.braindate2049.com
+0.0.0.0 candidate-profile.site
+0.0.0.0 www.candidate-profile.site
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
@@ -624,6 +626,8 @@
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-nineplay.com
 0.0.0.0 www.date-nineplay.com
+0.0.0.0 date-sweet-day.com
+0.0.0.0 www.date-sweet-day.com
 0.0.0.0 date007.xyz
 0.0.0.0 www.date007.xyz
 0.0.0.0 date1.biz
@@ -650,8 +654,6 @@
 0.0.0.0 www.datingfind9.biz
 0.0.0.0 deneme-bonusu-liste.com
 0.0.0.0 www.deneme-bonusu-liste.com
-0.0.0.0 easyandromanceonedate3.biz
-0.0.0.0 www.easyandromanceonedate3.biz
 0.0.0.0 easydatingpro8.biz
 0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 godateworld4.biz
@@ -662,8 +664,6 @@
 0.0.0.0 www.grandivycasinobonus-uk.com
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
-0.0.0.0 hakodate-juku.com
-0.0.0.0 www.hakodate-juku.com
 0.0.0.0 hakodate-printing.com
 0.0.0.0 www.hakodate-printing.com
 0.0.0.0 hakodate-wq.com
@@ -680,12 +680,12 @@
 0.0.0.0 www.kosodate-happy.net
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
+0.0.0.0 nodepositbonuscasino-canada.org
+0.0.0.0 www.nodepositbonuscasino-canada.org
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 pinupcasinobonus-uk.com
 0.0.0.0 www.pinupcasinobonus-uk.com
-0.0.0.0 playdate-now.com
-0.0.0.0 www.playdate-now.com
 0.0.0.0 privecasinobonus-uk.com
 0.0.0.0 www.privecasinobonus-uk.com
 0.0.0.0 quickdatinghu9b.biz
@@ -700,8 +700,6 @@
 0.0.0.0 www.smartdating3.biz
 0.0.0.0 swiftcasinobonus-uk.com
 0.0.0.0 www.swiftcasinobonus-uk.com
-0.0.0.0 thisisvegascasinobonus-uk.com
-0.0.0.0 www.thisisvegascasinobonus-uk.com
 0.0.0.0 updating-subscription.com
 0.0.0.0 www.updating-subscription.com
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
