@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-04-13T12:33:02Z
+# Last update: 2026-04-14T12:31:23Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -211,6 +211,7 @@ clickedgesolutions.com
 clone.app.home-cost.com
 defencelover.in
 dexil.ru
+fraternitykerala.org
 galaxyfunbowl.gr
 giupich.org
 gojordanbusiness.com
@@ -230,6 +231,7 @@ nguen.net
 redlog.cl
 robbreport.com.my
 sm-projekt.si
+synoviz.com
 tacloban.gov.ph
 trashstation.com
 tubies.com
@@ -237,6 +239,7 @@ twospoonsfleet.co.uk
 ultimatepreneur.com
 vanguardacademy-ng.com
 vladimirherzog.org
+weboyal.com
 wowfollowers.com
 yuanant.com
 
@@ -379,6 +382,7 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+4matchcitydate3.biz
 americanexpress-bonus5505.ink
 americanexpress-bonus5508.ink
 americanexpress-bonus5509.ink
@@ -387,6 +391,7 @@ americanexpress-bonus5524.ink
 americanexpress-bonus5538.ink
 americanexpress-bonus5552.ink
 americanexpress-bonus6620.ink
+americanexpress-bonus6623.ink
 americanexpress-bonus6627.ink
 americanexpress-bonus6630.ink
 americanexpress-bonus6639.ink
@@ -396,9 +401,7 @@ americanexpress-bonus6649.ink
 bestanddateiomatc7h.biz
 bestlinkdate9.biz
 betting-bonuses-mongolia.com
-bonus-macquarie.vip
 bonus-promo.cfd
-bonus138on6.xyz
 bonus724.com
 bonuses-online.cfd
 bonushub365.top
@@ -416,6 +419,7 @@ date1.biz
 date11.fun
 date9.biz
 dateing99.com
+datenschutz-check.ch
 dating-anastasiao.ru
 dating-anastasiao.store
 dating-love.top
@@ -423,10 +427,13 @@ dating24hour.com
 datingcity3.biz
 datingfind9.biz
 easyandromanceonedate3.biz
+easydatingpro8.biz
+godateworld4.biz
 goldenbetbonus-uk.com
 grandivycasinobonus-uk.com
 grandpashabet-bonus-oyna.top
 hakodate-bpss.net
+hakodate-juku.com
 hakodate-printing.com
 hakodate-wq.com
 hakodate0104.net
@@ -434,16 +441,17 @@ hakodatejoki188.xyz
 hakodatekikyou-kaitori-daikichi.com
 hakodatemoto7.com
 kosodate-happy.net
+mandate12x.com
 no-deposit-bonus-casino-nz.online
-nodepositbonuscasino-canada.org
 online-dating.top
 pinupcasinobonus-uk.com
+playdate-now.com
 privecasinobonus-uk.com
 quickdatinghu9b.biz
 quicklinkfinderdate7.biz
 savethedate3d.com
 seniordating-uk.xyz
-smartdating3.biz
+smartdatemeetup5.biz
 swiftcasinobonus-uk.com
 thisisvegascasinobonus-uk.com
 turkiye-bonus-casino-live.top

@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-04-13T12:33:02Z
+# Last update: 2026-04-14T12:31:23Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -298,6 +298,8 @@
 0.0.0.0 www.defencelover.in
 0.0.0.0 dexil.ru
 0.0.0.0 www.dexil.ru
+0.0.0.0 fraternitykerala.org
+0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
 0.0.0.0 giupich.org
@@ -336,6 +338,8 @@
 0.0.0.0 www.robbreport.com.my
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
+0.0.0.0 synoviz.com
+0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
 0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 trashstation.com
@@ -350,6 +354,8 @@
 0.0.0.0 www.vanguardacademy-ng.com
 0.0.0.0 vladimirherzog.org
 0.0.0.0 www.vladimirherzog.org
+0.0.0.0 weboyal.com
+0.0.0.0 www.weboyal.com
 0.0.0.0 wowfollowers.com
 0.0.0.0 www.wowfollowers.com
 0.0.0.0 yuanant.com
@@ -593,6 +599,8 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+0.0.0.0 4matchcitydate3.biz
+0.0.0.0 www.4matchcitydate3.biz
 0.0.0.0 americanexpress-bonus5505.ink
 0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
@@ -609,6 +617,8 @@
 0.0.0.0 www.americanexpress-bonus5552.ink
 0.0.0.0 americanexpress-bonus6620.ink
 0.0.0.0 www.americanexpress-bonus6620.ink
+0.0.0.0 americanexpress-bonus6623.ink
+0.0.0.0 www.americanexpress-bonus6623.ink
 0.0.0.0 americanexpress-bonus6627.ink
 0.0.0.0 www.americanexpress-bonus6627.ink
 0.0.0.0 americanexpress-bonus6630.ink
@@ -627,12 +637,8 @@
 0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 betting-bonuses-mongolia.com
 0.0.0.0 www.betting-bonuses-mongolia.com
-0.0.0.0 bonus-macquarie.vip
-0.0.0.0 www.bonus-macquarie.vip
 0.0.0.0 bonus-promo.cfd
 0.0.0.0 www.bonus-promo.cfd
-0.0.0.0 bonus138on6.xyz
-0.0.0.0 www.bonus138on6.xyz
 0.0.0.0 bonus724.com
 0.0.0.0 www.bonus724.com
 0.0.0.0 bonuses-online.cfd
@@ -667,6 +673,8 @@
 0.0.0.0 www.date9.biz
 0.0.0.0 dateing99.com
 0.0.0.0 www.dateing99.com
+0.0.0.0 datenschutz-check.ch
+0.0.0.0 www.datenschutz-check.ch
 0.0.0.0 dating-anastasiao.ru
 0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
@@ -681,6 +689,10 @@
 0.0.0.0 www.datingfind9.biz
 0.0.0.0 easyandromanceonedate3.biz
 0.0.0.0 www.easyandromanceonedate3.biz
+0.0.0.0 easydatingpro8.biz
+0.0.0.0 www.easydatingpro8.biz
+0.0.0.0 godateworld4.biz
+0.0.0.0 www.godateworld4.biz
 0.0.0.0 goldenbetbonus-uk.com
 0.0.0.0 www.goldenbetbonus-uk.com
 0.0.0.0 grandivycasinobonus-uk.com
@@ -689,6 +701,8 @@
 0.0.0.0 www.grandpashabet-bonus-oyna.top
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
+0.0.0.0 hakodate-juku.com
+0.0.0.0 www.hakodate-juku.com
 0.0.0.0 hakodate-printing.com
 0.0.0.0 www.hakodate-printing.com
 0.0.0.0 hakodate-wq.com
@@ -703,14 +717,16 @@
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
+0.0.0.0 mandate12x.com
+0.0.0.0 www.mandate12x.com
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
-0.0.0.0 nodepositbonuscasino-canada.org
-0.0.0.0 www.nodepositbonuscasino-canada.org
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 pinupcasinobonus-uk.com
 0.0.0.0 www.pinupcasinobonus-uk.com
+0.0.0.0 playdate-now.com
+0.0.0.0 www.playdate-now.com
 0.0.0.0 privecasinobonus-uk.com
 0.0.0.0 www.privecasinobonus-uk.com
 0.0.0.0 quickdatinghu9b.biz
@@ -721,8 +737,8 @@
 0.0.0.0 www.savethedate3d.com
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
-0.0.0.0 smartdating3.biz
-0.0.0.0 www.smartdating3.biz
+0.0.0.0 smartdatemeetup5.biz
+0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 swiftcasinobonus-uk.com
 0.0.0.0 www.swiftcasinobonus-uk.com
 0.0.0.0 thisisvegascasinobonus-uk.com
