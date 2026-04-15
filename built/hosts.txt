@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-04-14T12:31:23Z
+# Last update: 2026-04-15T12:31:02Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -296,8 +296,6 @@
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -615,16 +613,14 @@
 0.0.0.0 www.americanexpress-bonus5538.ink
 0.0.0.0 americanexpress-bonus5552.ink
 0.0.0.0 www.americanexpress-bonus5552.ink
+0.0.0.0 americanexpress-bonus6601.ink
+0.0.0.0 www.americanexpress-bonus6601.ink
 0.0.0.0 americanexpress-bonus6620.ink
 0.0.0.0 www.americanexpress-bonus6620.ink
-0.0.0.0 americanexpress-bonus6623.ink
-0.0.0.0 www.americanexpress-bonus6623.ink
 0.0.0.0 americanexpress-bonus6627.ink
 0.0.0.0 www.americanexpress-bonus6627.ink
 0.0.0.0 americanexpress-bonus6630.ink
 0.0.0.0 www.americanexpress-bonus6630.ink
-0.0.0.0 americanexpress-bonus6639.ink
-0.0.0.0 www.americanexpress-bonus6639.ink
 0.0.0.0 americanexpress-bonus6642.ink
 0.0.0.0 www.americanexpress-bonus6642.ink
 0.0.0.0 americanexpress-bonus6647.ink
@@ -637,8 +633,12 @@
 0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 betting-bonuses-mongolia.com
 0.0.0.0 www.betting-bonuses-mongolia.com
+0.0.0.0 bonus-macquarie.vip
+0.0.0.0 www.bonus-macquarie.vip
 0.0.0.0 bonus-promo.cfd
 0.0.0.0 www.bonus-promo.cfd
+0.0.0.0 bonus138on6.xyz
+0.0.0.0 www.bonus138on6.xyz
 0.0.0.0 bonus724.com
 0.0.0.0 www.bonus724.com
 0.0.0.0 bonuses-online.cfd
@@ -647,10 +647,10 @@
 0.0.0.0 www.bonushub365.top
 0.0.0.0 bonuspointsystem4.ru
 0.0.0.0 www.bonuspointsystem4.ru
-0.0.0.0 bonuspointsystem5.ru
-0.0.0.0 www.bonuspointsystem5.ru
 0.0.0.0 braindate2049.com
 0.0.0.0 www.braindate2049.com
+0.0.0.0 candidate-profile.site
+0.0.0.0 www.candidate-profile.site
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
@@ -661,8 +661,6 @@
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-nineplay.com
 0.0.0.0 www.date-nineplay.com
-0.0.0.0 date-sweet-day.com
-0.0.0.0 www.date-sweet-day.com
 0.0.0.0 date007.xyz
 0.0.0.0 www.date007.xyz
 0.0.0.0 date1.biz
@@ -715,8 +713,6 @@
 0.0.0.0 www.hakodatekikyou-kaitori-daikichi.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 kosodate-happy.net
-0.0.0.0 www.kosodate-happy.net
 0.0.0.0 mandate12x.com
 0.0.0.0 www.mandate12x.com
 0.0.0.0 no-deposit-bonus-casino-nz.online
@@ -727,20 +723,14 @@
 0.0.0.0 www.pinupcasinobonus-uk.com
 0.0.0.0 playdate-now.com
 0.0.0.0 www.playdate-now.com
-0.0.0.0 privecasinobonus-uk.com
-0.0.0.0 www.privecasinobonus-uk.com
 0.0.0.0 quickdatinghu9b.biz
 0.0.0.0 www.quickdatinghu9b.biz
 0.0.0.0 quicklinkfinderdate7.biz
 0.0.0.0 www.quicklinkfinderdate7.biz
 0.0.0.0 savethedate3d.com
 0.0.0.0 www.savethedate3d.com
-0.0.0.0 seniordating-uk.xyz
-0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smartdatemeetup5.biz
 0.0.0.0 www.smartdatemeetup5.biz
-0.0.0.0 swiftcasinobonus-uk.com
-0.0.0.0 www.swiftcasinobonus-uk.com
 0.0.0.0 thisisvegascasinobonus-uk.com
 0.0.0.0 www.thisisvegascasinobonus-uk.com
 0.0.0.0 turkiye-bonus-casino-live.top
@@ -749,8 +739,6 @@
 0.0.0.0 www.updating-subscription.com
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
 0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
-0.0.0.0 yt31bonus31.net
-0.0.0.0 www.yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
