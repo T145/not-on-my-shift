@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-04-17T12:29:41Z
+# Last update: 2026-04-18T12:22:16Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -213,10 +213,8 @@ defencelover.in
 fraternitykerala.org
 galaxyfunbowl.gr
 giupich.org
-gojordanbusiness.com
 hongqiqujiu.com
 imrt.ac.in
-klinikmetamorf.com
 kmtks.org.tw
 loanglide.com
 machupicchutraveling.com
@@ -232,7 +230,6 @@ robbreport.com.my
 sm-projekt.si
 synoviz.com
 tacloban.gov.ph
-trashstation.com
 tubies.com
 twospoonsfleet.co.uk
 ultimatepreneur.com
@@ -381,7 +378,10 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+4matchcitydate3.biz
 americanexpress-bonus5505.ink
+americanexpress-bonus5508.ink
+americanexpress-bonus5509.ink
 americanexpress-bonus5523.ink
 americanexpress-bonus5524.ink
 americanexpress-bonus5538.ink
@@ -397,6 +397,7 @@ americanexpress-bonus6647.ink
 americanexpress-bonus6649.ink
 americanexpress-bonusnutzen9903.ink
 americanexpress-bonusnutzen9906.ink
+americanexpress-bonusnutzen9910.ink
 americanexpress-bonusnutzen9912.ink
 americanexpress-bonusnutzen9915.ink
 americanexpress-bonusnutzen9923.ink
@@ -404,11 +405,9 @@ americanexpress-bonusnutzen9929.ink
 americanexpress-bonusnutzen9933.ink
 americanexpress-bonusnutzen9936.ink
 americanexpress-bonusnutzen9937.ink
-americanexpress-bonusnutzen9941.ink
 americanexpress-bonusnutzen9943.ink
 americanexpress-bonusnutzen9949.ink
 americanexpress-bonusnutzen9950.ink
-bestanddateiomatc7h.biz
 bestlinkdate9.biz
 betting-bonuses-mongolia.com
 bonus-macquarie.vip
@@ -421,6 +420,7 @@ bonushub365.top
 bonuspointsystem4.ru
 bonuspointsystem5.ru
 braindate2049.com
+candidate-profile.site
 clubdatingxconn6ect.biz
 cuidate-skin.com
 date-app.net
@@ -438,11 +438,12 @@ dating-anastasiao.store
 dating-love.top
 dating24hour.com
 datingfind9.biz
+easyandromanceonedate3.biz
+easydatingpro8.biz
 godateworld4.biz
 goldenbetbonus-uk.com
 grandivycasinobonus-uk.com
 grandpashabet-bonus-oyna.top
-hakodate-bpss.net
 hakodate-juku.com
 hakodate-printing.com
 hakodate-wq.com
@@ -458,14 +459,14 @@ phbonus365.com
 pinupcasinobonus-uk.com
 playdate-now.com
 privecasinobonus-uk.com
-quickdatinghu9b.biz
-quicklinkfinderdate7.biz
 savethedate3d.com
 seniordating-uk.xyz
+smartdatemeetup5.biz
 swiftcasinobonus-uk.com
 thisisvegascasinobonus-uk.com
 updating-subscription.com
 xn--sugardatingrdgivning-7zb.se
+yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 1mono.biz

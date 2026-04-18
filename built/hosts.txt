@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-04-17T12:29:41Z
+# Last update: 2026-04-18T12:22:16Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -302,14 +302,10 @@
 0.0.0.0 www.galaxyfunbowl.gr
 0.0.0.0 giupich.org
 0.0.0.0 www.giupich.org
-0.0.0.0 gojordanbusiness.com
-0.0.0.0 www.gojordanbusiness.com
 0.0.0.0 hongqiqujiu.com
 0.0.0.0 www.hongqiqujiu.com
 0.0.0.0 imrt.ac.in
 0.0.0.0 www.imrt.ac.in
-0.0.0.0 klinikmetamorf.com
-0.0.0.0 www.klinikmetamorf.com
 0.0.0.0 kmtks.org.tw
 0.0.0.0 www.kmtks.org.tw
 0.0.0.0 loanglide.com
@@ -340,8 +336,6 @@
 0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
 0.0.0.0 www.tacloban.gov.ph
-0.0.0.0 trashstation.com
-0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
 0.0.0.0 www.tubies.com
 0.0.0.0 twospoonsfleet.co.uk
@@ -597,8 +591,14 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+0.0.0.0 4matchcitydate3.biz
+0.0.0.0 www.4matchcitydate3.biz
 0.0.0.0 americanexpress-bonus5505.ink
 0.0.0.0 www.americanexpress-bonus5505.ink
+0.0.0.0 americanexpress-bonus5508.ink
+0.0.0.0 www.americanexpress-bonus5508.ink
+0.0.0.0 americanexpress-bonus5509.ink
+0.0.0.0 www.americanexpress-bonus5509.ink
 0.0.0.0 americanexpress-bonus5523.ink
 0.0.0.0 www.americanexpress-bonus5523.ink
 0.0.0.0 americanexpress-bonus5524.ink
@@ -629,6 +629,8 @@
 0.0.0.0 www.americanexpress-bonusnutzen9903.ink
 0.0.0.0 americanexpress-bonusnutzen9906.ink
 0.0.0.0 www.americanexpress-bonusnutzen9906.ink
+0.0.0.0 americanexpress-bonusnutzen9910.ink
+0.0.0.0 www.americanexpress-bonusnutzen9910.ink
 0.0.0.0 americanexpress-bonusnutzen9912.ink
 0.0.0.0 www.americanexpress-bonusnutzen9912.ink
 0.0.0.0 americanexpress-bonusnutzen9915.ink
@@ -643,16 +645,12 @@
 0.0.0.0 www.americanexpress-bonusnutzen9936.ink
 0.0.0.0 americanexpress-bonusnutzen9937.ink
 0.0.0.0 www.americanexpress-bonusnutzen9937.ink
-0.0.0.0 americanexpress-bonusnutzen9941.ink
-0.0.0.0 www.americanexpress-bonusnutzen9941.ink
 0.0.0.0 americanexpress-bonusnutzen9943.ink
 0.0.0.0 www.americanexpress-bonusnutzen9943.ink
 0.0.0.0 americanexpress-bonusnutzen9949.ink
 0.0.0.0 www.americanexpress-bonusnutzen9949.ink
 0.0.0.0 americanexpress-bonusnutzen9950.ink
 0.0.0.0 www.americanexpress-bonusnutzen9950.ink
-0.0.0.0 bestanddateiomatc7h.biz
-0.0.0.0 www.bestanddateiomatc7h.biz
 0.0.0.0 bestlinkdate9.biz
 0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 betting-bonuses-mongolia.com
@@ -677,6 +675,8 @@
 0.0.0.0 www.bonuspointsystem5.ru
 0.0.0.0 braindate2049.com
 0.0.0.0 www.braindate2049.com
+0.0.0.0 candidate-profile.site
+0.0.0.0 www.candidate-profile.site
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
@@ -711,6 +711,10 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datingfind9.biz
 0.0.0.0 www.datingfind9.biz
+0.0.0.0 easyandromanceonedate3.biz
+0.0.0.0 www.easyandromanceonedate3.biz
+0.0.0.0 easydatingpro8.biz
+0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 godateworld4.biz
 0.0.0.0 www.godateworld4.biz
 0.0.0.0 goldenbetbonus-uk.com
@@ -719,8 +723,6 @@
 0.0.0.0 www.grandivycasinobonus-uk.com
 0.0.0.0 grandpashabet-bonus-oyna.top
 0.0.0.0 www.grandpashabet-bonus-oyna.top
-0.0.0.0 hakodate-bpss.net
-0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-juku.com
 0.0.0.0 www.hakodate-juku.com
 0.0.0.0 hakodate-printing.com
@@ -751,14 +753,12 @@
 0.0.0.0 www.playdate-now.com
 0.0.0.0 privecasinobonus-uk.com
 0.0.0.0 www.privecasinobonus-uk.com
-0.0.0.0 quickdatinghu9b.biz
-0.0.0.0 www.quickdatinghu9b.biz
-0.0.0.0 quicklinkfinderdate7.biz
-0.0.0.0 www.quicklinkfinderdate7.biz
 0.0.0.0 savethedate3d.com
 0.0.0.0 www.savethedate3d.com
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
+0.0.0.0 smartdatemeetup5.biz
+0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 swiftcasinobonus-uk.com
 0.0.0.0 www.swiftcasinobonus-uk.com
 0.0.0.0 thisisvegascasinobonus-uk.com
@@ -767,6 +767,8 @@
 0.0.0.0 www.updating-subscription.com
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
 0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
+0.0.0.0 yt31bonus31.net
+0.0.0.0 www.yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
