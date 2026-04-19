@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-04-18T12:22:16Z
+# Last update: 2026-04-19T12:21:57Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -213,6 +213,7 @@ defencelover.in
 fraternitykerala.org
 galaxyfunbowl.gr
 giupich.org
+gojordanbusiness.com
 hongqiqujiu.com
 imrt.ac.in
 kmtks.org.tw
@@ -230,6 +231,7 @@ robbreport.com.my
 sm-projekt.si
 synoviz.com
 tacloban.gov.ph
+trashstation.com
 tubies.com
 twospoonsfleet.co.uk
 ultimatepreneur.com
@@ -378,7 +380,6 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-4matchcitydate3.biz
 americanexpress-bonus5505.ink
 americanexpress-bonus5508.ink
 americanexpress-bonus5509.ink
@@ -405,22 +406,21 @@ americanexpress-bonusnutzen9929.ink
 americanexpress-bonusnutzen9933.ink
 americanexpress-bonusnutzen9936.ink
 americanexpress-bonusnutzen9937.ink
+americanexpress-bonusnutzen9941.ink
 americanexpress-bonusnutzen9943.ink
-americanexpress-bonusnutzen9949.ink
 americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
 betting-bonuses-mongolia.com
 bonus-macquarie.vip
-bonus-promo.cfd
 bonus138on6.xyz
 bonus365login.com
 bonus724.com
+bonus99fun.com
 bonuses-online.cfd
 bonushub365.top
 bonuspointsystem4.ru
 bonuspointsystem5.ru
 braindate2049.com
-candidate-profile.site
 clubdatingxconn6ect.biz
 cuidate-skin.com
 date-app.net
@@ -429,7 +429,6 @@ date-nineplay.com
 date-sweet-day.com
 date007.xyz
 date1.biz
-date11.fun
 date9.biz
 dateing99.com
 datenschutz-check.ch
@@ -439,11 +438,11 @@ dating-love.top
 dating24hour.com
 datingfind9.biz
 easyandromanceonedate3.biz
-easydatingpro8.biz
 godateworld4.biz
 goldenbetbonus-uk.com
 grandivycasinobonus-uk.com
 grandpashabet-bonus-oyna.top
+hakodate-bpss.net
 hakodate-juku.com
 hakodate-printing.com
 hakodate-wq.com
@@ -459,13 +458,13 @@ phbonus365.com
 pinupcasinobonus-uk.com
 playdate-now.com
 privecasinobonus-uk.com
+quickdatinghu9b.biz
 savethedate3d.com
 seniordating-uk.xyz
-smartdatemeetup5.biz
 swiftcasinobonus-uk.com
+thbonus99.com
 thisisvegascasinobonus-uk.com
 updating-subscription.com
-xn--sugardatingrdgivning-7zb.se
 yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
