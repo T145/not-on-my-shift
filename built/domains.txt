@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-04-20T12:33:51Z
+# Last update: 2026-04-21T12:32:02Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -210,7 +210,6 @@ castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
 defencelover.in
-dexil.ru
 fraternitykerala.org
 galaxyfunbowl.gr
 giupich.org
@@ -231,7 +230,6 @@ redlog.cl
 robbreport.com.my
 sm-projekt.si
 synoviz.com
-tacloban.gov.ph
 trashstation.com
 tubies.com
 twospoonsfleet.co.uk
@@ -405,10 +403,7 @@ americanexpress-bonusnutzen9912.ink
 americanexpress-bonusnutzen9915.ink
 americanexpress-bonusnutzen9923.ink
 americanexpress-bonusnutzen9929.ink
-americanexpress-bonusnutzen9933.ink
-americanexpress-bonusnutzen9936.ink
 americanexpress-bonusnutzen9937.ink
-americanexpress-bonusnutzen9941.ink
 americanexpress-bonusnutzen9943.ink
 americanexpress-bonusnutzen9949.ink
 americanexpress-bonusnutzen9950.ink
@@ -419,7 +414,6 @@ bonus-promo.cfd
 bonus138on6.xyz
 bonus365login.com
 bonus724.com
-bonus99fun.com
 bonuses-online.cfd
 bonushub365.top
 bonuspointsystem4.ru
@@ -440,9 +434,7 @@ dateing99.com
 datenschutz-check.ch
 dating-anastasiao.ru
 dating-anastasiao.store
-dating-love.top
 dating24hour.com
-datingfind9.biz
 easyandromanceonedate3.biz
 easydatingpro8.biz
 godateworld4.biz
@@ -468,8 +460,8 @@ privecasinobonus-uk.com
 quickdatinghu9b.biz
 savethedate3d.com
 seniordating-uk.xyz
+smartdatemeetup5.biz
 swiftcasinobonus-uk.com
-thbonus99.com
 thisisvegascasinobonus-uk.com
 updating-subscription.com
 xn--sugardatingrdgivning-7zb.se
