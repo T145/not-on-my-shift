@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-04-21T12:32:02Z
+# Last update: 2026-04-22T12:31:51Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -285,8 +285,6 @@
 0.0.0.0 ailnoir.com
 0.0.0.0 www.ailnoir.com
 0.0.0.0 asfand.fahadmarketing.com
-0.0.0.0 bamperbolspb.ru
-0.0.0.0 www.bamperbolspb.ru
 0.0.0.0 cancervants.org
 0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
@@ -336,6 +334,8 @@
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
+0.0.0.0 tacloban.gov.ph
+0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 trashstation.com
 0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
@@ -593,14 +593,8 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 4matchcitydate3.biz
-0.0.0.0 www.4matchcitydate3.biz
-0.0.0.0 americanexpress-bonus5505.ink
-0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
 0.0.0.0 www.americanexpress-bonus5508.ink
-0.0.0.0 americanexpress-bonus5509.ink
-0.0.0.0 www.americanexpress-bonus5509.ink
 0.0.0.0 americanexpress-bonus5523.ink
 0.0.0.0 www.americanexpress-bonus5523.ink
 0.0.0.0 americanexpress-bonus5524.ink
@@ -609,10 +603,6 @@
 0.0.0.0 www.americanexpress-bonus5538.ink
 0.0.0.0 americanexpress-bonus5552.ink
 0.0.0.0 www.americanexpress-bonus5552.ink
-0.0.0.0 americanexpress-bonus6601.ink
-0.0.0.0 www.americanexpress-bonus6601.ink
-0.0.0.0 americanexpress-bonus6620.ink
-0.0.0.0 www.americanexpress-bonus6620.ink
 0.0.0.0 americanexpress-bonus6623.ink
 0.0.0.0 www.americanexpress-bonus6623.ink
 0.0.0.0 americanexpress-bonus6627.ink
@@ -633,18 +623,20 @@
 0.0.0.0 www.americanexpress-bonusnutzen9906.ink
 0.0.0.0 americanexpress-bonusnutzen9910.ink
 0.0.0.0 www.americanexpress-bonusnutzen9910.ink
-0.0.0.0 americanexpress-bonusnutzen9912.ink
-0.0.0.0 www.americanexpress-bonusnutzen9912.ink
 0.0.0.0 americanexpress-bonusnutzen9915.ink
 0.0.0.0 www.americanexpress-bonusnutzen9915.ink
 0.0.0.0 americanexpress-bonusnutzen9923.ink
 0.0.0.0 www.americanexpress-bonusnutzen9923.ink
 0.0.0.0 americanexpress-bonusnutzen9929.ink
 0.0.0.0 www.americanexpress-bonusnutzen9929.ink
+0.0.0.0 americanexpress-bonusnutzen9933.ink
+0.0.0.0 www.americanexpress-bonusnutzen9933.ink
+0.0.0.0 americanexpress-bonusnutzen9936.ink
+0.0.0.0 www.americanexpress-bonusnutzen9936.ink
 0.0.0.0 americanexpress-bonusnutzen9937.ink
 0.0.0.0 www.americanexpress-bonusnutzen9937.ink
-0.0.0.0 americanexpress-bonusnutzen9943.ink
-0.0.0.0 www.americanexpress-bonusnutzen9943.ink
+0.0.0.0 americanexpress-bonusnutzen9941.ink
+0.0.0.0 www.americanexpress-bonusnutzen9941.ink
 0.0.0.0 americanexpress-bonusnutzen9949.ink
 0.0.0.0 www.americanexpress-bonusnutzen9949.ink
 0.0.0.0 americanexpress-bonusnutzen9950.ink
@@ -673,8 +665,6 @@
 0.0.0.0 www.bonuspointsystem5.ru
 0.0.0.0 braindate2049.com
 0.0.0.0 www.braindate2049.com
-0.0.0.0 candidate-profile.site
-0.0.0.0 www.candidate-profile.site
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
@@ -685,8 +675,6 @@
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-nineplay.com
 0.0.0.0 www.date-nineplay.com
-0.0.0.0 date-sweet-day.com
-0.0.0.0 www.date-sweet-day.com
 0.0.0.0 date007.xyz
 0.0.0.0 www.date007.xyz
 0.0.0.0 date1.biz
@@ -699,18 +687,12 @@
 0.0.0.0 www.dateing99.com
 0.0.0.0 datenschutz-check.ch
 0.0.0.0 www.datenschutz-check.ch
-0.0.0.0 dating-anastasiao.ru
-0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
 0.0.0.0 www.dating-anastasiao.store
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
-0.0.0.0 easyandromanceonedate3.biz
-0.0.0.0 www.easyandromanceonedate3.biz
-0.0.0.0 easydatingpro8.biz
-0.0.0.0 www.easydatingpro8.biz
-0.0.0.0 godateworld4.biz
-0.0.0.0 www.godateworld4.biz
+0.0.0.0 datingfind9.biz
+0.0.0.0 www.datingfind9.biz
 0.0.0.0 goldenbetbonus-uk.com
 0.0.0.0 www.goldenbetbonus-uk.com
 0.0.0.0 grandivycasinobonus-uk.com
@@ -755,8 +737,6 @@
 0.0.0.0 www.savethedate3d.com
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
-0.0.0.0 smartdatemeetup5.biz
-0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 swiftcasinobonus-uk.com
 0.0.0.0 www.swiftcasinobonus-uk.com
 0.0.0.0 thisisvegascasinobonus-uk.com

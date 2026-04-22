@@ -3,7 +3,6 @@
 domains:
 - ailnoir.com
 - asfand.fahadmarketing.com
-- bamperbolspb.ru
 - cancervants.org
 - castllypay.com
 - clickedgesolutions.com
@@ -29,6 +28,7 @@ domains:
 - robbreport.com.my
 - sm-projekt.si
 - synoviz.com
+- tacloban.gov.ph
 - trashstation.com
 - tubies.com
 - twospoonsfleet.co.uk
@@ -63,6 +63,7 @@ ignored_domains:
 - appulse.de
 - arisannafarms.com
 - b2bpipe.cn
+- bamperbolspb.ru
 - bestgoldenretrieverbreeder.com
 - bks.tv
 - blog.envision.agency
@@ -141,7 +142,6 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
-- tacloban.gov.ph
 - teamder.org
 - testargames.cl
 - thaircy.redcross.or.th
