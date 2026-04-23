@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-04-22T12:31:51Z
+# Last update: 2026-04-23T12:31:45Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -379,12 +379,13 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+americanexpress-bonus5505.ink
 americanexpress-bonus5508.ink
+americanexpress-bonus5509.ink
 americanexpress-bonus5523.ink
 americanexpress-bonus5524.ink
 americanexpress-bonus5538.ink
 americanexpress-bonus5552.ink
-americanexpress-bonus6623.ink
 americanexpress-bonus6627.ink
 americanexpress-bonus6630.ink
 americanexpress-bonus6639.ink
@@ -401,6 +402,7 @@ americanexpress-bonusnutzen9933.ink
 americanexpress-bonusnutzen9936.ink
 americanexpress-bonusnutzen9937.ink
 americanexpress-bonusnutzen9941.ink
+americanexpress-bonusnutzen9943.ink
 americanexpress-bonusnutzen9949.ink
 americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
@@ -415,26 +417,31 @@ bonushub365.top
 bonuspointsystem4.ru
 bonuspointsystem5.ru
 braindate2049.com
-clubdatingxconn6ect.biz
+candidate-profile.site
 cuidate-skin.com
 date-app.net
 date-jason.com
 date-nineplay.com
+date-sweet-day.com
 date007.xyz
 date1.biz
 date11.fun
 date9.biz
-dateing99.com
 datenschutz-check.ch
+dating-anastasiao.ru
 dating-anastasiao.store
+dating-love.top
 dating24hour.com
+datingcity3.biz
 datingfind9.biz
+easydatingpro8.biz
+godateworld4.biz
 goldenbetbonus-uk.com
-grandivycasinobonus-uk.com
 grandpashabet-bonus-oyna.top
+grandprize1.com
+grandprize6.com
 hakodate-bpss.net
 hakodate-juku.com
-hakodate-printing.com
 hakodate-wq.com
 hakodate0104.net
 hakodatejoki188.xyz
@@ -451,8 +458,8 @@ privecasinobonus-uk.com
 quickdatinghu9b.biz
 savethedate3d.com
 seniordating-uk.xyz
+smartdatemeetup5.biz
 swiftcasinobonus-uk.com
-thisisvegascasinobonus-uk.com
 updating-subscription.com
 xn--sugardatingrdgivning-7zb.se
 yt31bonus31.net
