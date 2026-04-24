@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-04-23T12:31:45Z
+# Last update: 2026-04-24T12:31:12Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -607,6 +607,12 @@
 0.0.0.0 www.americanexpress-bonus5538.ink
 0.0.0.0 americanexpress-bonus5552.ink
 0.0.0.0 www.americanexpress-bonus5552.ink
+0.0.0.0 americanexpress-bonus6601.ink
+0.0.0.0 www.americanexpress-bonus6601.ink
+0.0.0.0 americanexpress-bonus6620.ink
+0.0.0.0 www.americanexpress-bonus6620.ink
+0.0.0.0 americanexpress-bonus6623.ink
+0.0.0.0 www.americanexpress-bonus6623.ink
 0.0.0.0 americanexpress-bonus6627.ink
 0.0.0.0 www.americanexpress-bonus6627.ink
 0.0.0.0 americanexpress-bonus6630.ink
@@ -625,6 +631,8 @@
 0.0.0.0 www.americanexpress-bonusnutzen9906.ink
 0.0.0.0 americanexpress-bonusnutzen9910.ink
 0.0.0.0 www.americanexpress-bonusnutzen9910.ink
+0.0.0.0 americanexpress-bonusnutzen9912.ink
+0.0.0.0 www.americanexpress-bonusnutzen9912.ink
 0.0.0.0 americanexpress-bonusnutzen9915.ink
 0.0.0.0 www.americanexpress-bonusnutzen9915.ink
 0.0.0.0 americanexpress-bonusnutzen9923.ink
@@ -655,12 +663,8 @@
 0.0.0.0 www.bonus-promo.cfd
 0.0.0.0 bonus138on6.xyz
 0.0.0.0 www.bonus138on6.xyz
-0.0.0.0 bonus365login.com
-0.0.0.0 www.bonus365login.com
 0.0.0.0 bonus724.com
 0.0.0.0 www.bonus724.com
-0.0.0.0 bonuses-online.cfd
-0.0.0.0 www.bonuses-online.cfd
 0.0.0.0 bonushub365.top
 0.0.0.0 www.bonushub365.top
 0.0.0.0 bonuspointsystem4.ru
@@ -671,6 +675,8 @@
 0.0.0.0 www.braindate2049.com
 0.0.0.0 candidate-profile.site
 0.0.0.0 www.candidate-profile.site
+0.0.0.0 clubdatingxconn6ect.biz
+0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
@@ -689,38 +695,32 @@
 0.0.0.0 www.date11.fun
 0.0.0.0 date9.biz
 0.0.0.0 www.date9.biz
+0.0.0.0 dateing99.com
+0.0.0.0 www.dateing99.com
 0.0.0.0 datenschutz-check.ch
 0.0.0.0 www.datenschutz-check.ch
 0.0.0.0 dating-anastasiao.ru
 0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
 0.0.0.0 www.dating-anastasiao.store
-0.0.0.0 dating-love.top
-0.0.0.0 www.dating-love.top
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
-0.0.0.0 datingcity3.biz
-0.0.0.0 www.datingcity3.biz
 0.0.0.0 datingfind9.biz
 0.0.0.0 www.datingfind9.biz
-0.0.0.0 easydatingpro8.biz
-0.0.0.0 www.easydatingpro8.biz
+0.0.0.0 easyandromanceonedate3.biz
+0.0.0.0 www.easyandromanceonedate3.biz
 0.0.0.0 godateworld4.biz
 0.0.0.0 www.godateworld4.biz
 0.0.0.0 goldenbetbonus-uk.com
 0.0.0.0 www.goldenbetbonus-uk.com
 0.0.0.0 grandpashabet-bonus-oyna.top
 0.0.0.0 www.grandpashabet-bonus-oyna.top
-0.0.0.0 grandprize1.com
-0.0.0.0 www.grandprize1.com
-0.0.0.0 grandprize6.com
-0.0.0.0 www.grandprize6.com
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-juku.com
 0.0.0.0 www.hakodate-juku.com
-0.0.0.0 hakodate-wq.com
-0.0.0.0 www.hakodate-wq.com
+0.0.0.0 hakodate-printing.com
+0.0.0.0 www.hakodate-printing.com
 0.0.0.0 hakodate0104.net
 0.0.0.0 www.hakodate0104.net
 0.0.0.0 hakodatejoki188.xyz
@@ -731,14 +731,8 @@
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
-0.0.0.0 mandate12x.com
-0.0.0.0 www.mandate12x.com
-0.0.0.0 no-deposit-bonus-casino-nz.online
-0.0.0.0 www.no-deposit-bonus-casino-nz.online
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
-0.0.0.0 phbonus365.com
-0.0.0.0 www.phbonus365.com
 0.0.0.0 pinupcasinobonus-uk.com
 0.0.0.0 www.pinupcasinobonus-uk.com
 0.0.0.0 playdate-now.com
