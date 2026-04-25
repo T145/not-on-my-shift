@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-04-24T12:31:12Z
+# Last update: 2026-04-25T12:23:55Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -294,6 +294,8 @@
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -601,20 +603,14 @@
 0.0.0.0 www.americanexpress-bonus5509.ink
 0.0.0.0 americanexpress-bonus5523.ink
 0.0.0.0 www.americanexpress-bonus5523.ink
-0.0.0.0 americanexpress-bonus5524.ink
-0.0.0.0 www.americanexpress-bonus5524.ink
 0.0.0.0 americanexpress-bonus5538.ink
 0.0.0.0 www.americanexpress-bonus5538.ink
 0.0.0.0 americanexpress-bonus5552.ink
 0.0.0.0 www.americanexpress-bonus5552.ink
-0.0.0.0 americanexpress-bonus6601.ink
-0.0.0.0 www.americanexpress-bonus6601.ink
 0.0.0.0 americanexpress-bonus6620.ink
 0.0.0.0 www.americanexpress-bonus6620.ink
 0.0.0.0 americanexpress-bonus6623.ink
 0.0.0.0 www.americanexpress-bonus6623.ink
-0.0.0.0 americanexpress-bonus6627.ink
-0.0.0.0 www.americanexpress-bonus6627.ink
 0.0.0.0 americanexpress-bonus6630.ink
 0.0.0.0 www.americanexpress-bonus6630.ink
 0.0.0.0 americanexpress-bonus6639.ink
@@ -657,26 +653,18 @@
 0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 betting-bonuses-mongolia.com
 0.0.0.0 www.betting-bonuses-mongolia.com
-0.0.0.0 bonus-macquarie.vip
-0.0.0.0 www.bonus-macquarie.vip
 0.0.0.0 bonus-promo.cfd
 0.0.0.0 www.bonus-promo.cfd
 0.0.0.0 bonus138on6.xyz
 0.0.0.0 www.bonus138on6.xyz
 0.0.0.0 bonus724.com
 0.0.0.0 www.bonus724.com
+0.0.0.0 bonuses-online.cfd
+0.0.0.0 www.bonuses-online.cfd
 0.0.0.0 bonushub365.top
 0.0.0.0 www.bonushub365.top
-0.0.0.0 bonuspointsystem4.ru
-0.0.0.0 www.bonuspointsystem4.ru
-0.0.0.0 bonuspointsystem5.ru
-0.0.0.0 www.bonuspointsystem5.ru
 0.0.0.0 braindate2049.com
 0.0.0.0 www.braindate2049.com
-0.0.0.0 candidate-profile.site
-0.0.0.0 www.candidate-profile.site
-0.0.0.0 clubdatingxconn6ect.biz
-0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
@@ -689,38 +677,26 @@
 0.0.0.0 www.date-sweet-day.com
 0.0.0.0 date007.xyz
 0.0.0.0 www.date007.xyz
-0.0.0.0 date1.biz
-0.0.0.0 www.date1.biz
 0.0.0.0 date11.fun
 0.0.0.0 www.date11.fun
-0.0.0.0 date9.biz
-0.0.0.0 www.date9.biz
 0.0.0.0 dateing99.com
 0.0.0.0 www.dateing99.com
-0.0.0.0 datenschutz-check.ch
-0.0.0.0 www.datenschutz-check.ch
 0.0.0.0 dating-anastasiao.ru
 0.0.0.0 www.dating-anastasiao.ru
-0.0.0.0 dating-anastasiao.store
-0.0.0.0 www.dating-anastasiao.store
+0.0.0.0 dating-love.top
+0.0.0.0 www.dating-love.top
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
-0.0.0.0 datingfind9.biz
-0.0.0.0 www.datingfind9.biz
-0.0.0.0 easyandromanceonedate3.biz
-0.0.0.0 www.easyandromanceonedate3.biz
-0.0.0.0 godateworld4.biz
-0.0.0.0 www.godateworld4.biz
 0.0.0.0 goldenbetbonus-uk.com
 0.0.0.0 www.goldenbetbonus-uk.com
-0.0.0.0 grandpashabet-bonus-oyna.top
-0.0.0.0 www.grandpashabet-bonus-oyna.top
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-juku.com
 0.0.0.0 www.hakodate-juku.com
 0.0.0.0 hakodate-printing.com
 0.0.0.0 www.hakodate-printing.com
+0.0.0.0 hakodate-wq.com
+0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodate0104.net
 0.0.0.0 www.hakodate0104.net
 0.0.0.0 hakodatejoki188.xyz
@@ -731,12 +707,12 @@
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 kosodate-happy.net
 0.0.0.0 www.kosodate-happy.net
+0.0.0.0 no-deposit-bonus-casino-nz.online
+0.0.0.0 www.no-deposit-bonus-casino-nz.online
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 pinupcasinobonus-uk.com
 0.0.0.0 www.pinupcasinobonus-uk.com
-0.0.0.0 playdate-now.com
-0.0.0.0 www.playdate-now.com
 0.0.0.0 privecasinobonus-uk.com
 0.0.0.0 www.privecasinobonus-uk.com
 0.0.0.0 quickdatinghu9b.biz
@@ -745,10 +721,6 @@
 0.0.0.0 www.savethedate3d.com
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
-0.0.0.0 smartdatemeetup5.biz
-0.0.0.0 www.smartdatemeetup5.biz
-0.0.0.0 swiftcasinobonus-uk.com
-0.0.0.0 www.swiftcasinobonus-uk.com
 0.0.0.0 updating-subscription.com
 0.0.0.0 www.updating-subscription.com
 0.0.0.0 xn--sugardatingrdgivning-7zb.se

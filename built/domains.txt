@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-04-24T12:31:12Z
+# Last update: 2026-04-25T12:23:55Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -209,6 +209,7 @@ castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
 defencelover.in
+dexil.ru
 fraternitykerala.org
 galaxyfunbowl.gr
 giupich.org
@@ -383,13 +384,10 @@ americanexpress-bonus5505.ink
 americanexpress-bonus5508.ink
 americanexpress-bonus5509.ink
 americanexpress-bonus5523.ink
-americanexpress-bonus5524.ink
 americanexpress-bonus5538.ink
 americanexpress-bonus5552.ink
-americanexpress-bonus6601.ink
 americanexpress-bonus6620.ink
 americanexpress-bonus6623.ink
-americanexpress-bonus6627.ink
 americanexpress-bonus6630.ink
 americanexpress-bonus6639.ink
 americanexpress-bonus6642.ink
@@ -411,52 +409,40 @@ americanexpress-bonusnutzen9949.ink
 americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
 betting-bonuses-mongolia.com
-bonus-macquarie.vip
 bonus-promo.cfd
 bonus138on6.xyz
 bonus724.com
+bonuses-online.cfd
 bonushub365.top
-bonuspointsystem4.ru
-bonuspointsystem5.ru
 braindate2049.com
-candidate-profile.site
-clubdatingxconn6ect.biz
 cuidate-skin.com
 date-app.net
 date-jason.com
 date-nineplay.com
 date-sweet-day.com
 date007.xyz
-date1.biz
 date11.fun
-date9.biz
 dateing99.com
-datenschutz-check.ch
 dating-anastasiao.ru
-dating-anastasiao.store
+dating-love.top
 dating24hour.com
-datingfind9.biz
-easyandromanceonedate3.biz
-godateworld4.biz
 goldenbetbonus-uk.com
-grandpashabet-bonus-oyna.top
 hakodate-bpss.net
 hakodate-juku.com
 hakodate-printing.com
+hakodate-wq.com
 hakodate0104.net
 hakodatejoki188.xyz
 hakodatekikyou-kaitori-daikichi.com
 hakodatemoto7.com
 kosodate-happy.net
+no-deposit-bonus-casino-nz.online
 online-dating.top
 pinupcasinobonus-uk.com
-playdate-now.com
 privecasinobonus-uk.com
 quickdatinghu9b.biz
 savethedate3d.com
 seniordating-uk.xyz
-smartdatemeetup5.biz
-swiftcasinobonus-uk.com
 updating-subscription.com
 xn--sugardatingrdgivning-7zb.se
 yt31bonus31.net
