@@ -1,7 +1,6 @@
 # Don't bother manually updating this file.
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
-- ailnoir.com
 - asfand.fahadmarketing.com
 - cancervants.org
 - castllypay.com
@@ -12,28 +11,21 @@ domains:
 - fraternitykerala.org
 - galaxyfunbowl.gr
 - giupich.org
-- gojordanbusiness.com
 - hongqiqujiu.com
 - imrt.ac.in
-- kmtks.org.tw
 - loanglide.com
 - machupicchutraveling.com
 - magicboximportados.com.br
-- mistc.es
 - mouwz.nl
 - mucc.com.au
 - nbkangxi.com
-- nectartrust.org.uk
 - nguen.net
-- redlog.cl
 - robbreport.com.my
 - sm-projekt.si
 - synoviz.com
 - tacloban.gov.ph
 - trashstation.com
 - tubies.com
-- twospoonsfleet.co.uk
-- ultimatepreneur.com
 - vanguardacademy-ng.com
 - vladimirherzog.org
 - weboyal.com
@@ -57,6 +49,7 @@ ignored_domains:
 - 918kiss.newworld88.com
 - 99bkx.com
 - afedgh.org
+- ailnoir.com
 - alercehistorico.cl
 - amirapache.ir
 - amzstudy.com
@@ -94,6 +87,7 @@ ignored_domains:
 - geeklevi.com
 - gladiadoresdevendas.com.br
 - godynamo.co
+- gojordanbusiness.com
 - grandprov.com
 - guzelbil.com
 - habulex.com
@@ -108,12 +102,15 @@ ignored_domains:
 - justparty.com.br
 - kidimy.org
 - klinikmetamorf.com
+- kmtks.org.tw
 - latesttechnologyz.com
 - lova.network
 - mahigifts.com
 - marincr.com
 - mevlutacik.com.tr
+- mistc.es
 - myphamnganbinh.com
+- nectartrust.org.uk
 - nen.vacad.net
 - new.deso.cz
 - nextgearup.com
@@ -128,6 +125,7 @@ ignored_domains:
 - pornvillla.com
 - psspine.org
 - publicidadorl.com
+- redlog.cl
 - rees.games
 - rishipes.co.nz
 - runyixs.com
@@ -150,6 +148,8 @@ ignored_domains:
 - toanthaybac.com
 - topblackfridaydealz.com
 - tuyennvtb.com
+- twospoonsfleet.co.uk
+- ultimatepreneur.com
 - update.fbsbx.com
 - veljko.id
 - visotka.in
