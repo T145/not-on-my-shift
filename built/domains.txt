@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-04-28T12:45:20Z
+# Last update: 2026-04-29T12:42:02Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -382,24 +382,24 @@ centent.steamplay.me
 americanexpress-bonus5505.ink
 americanexpress-bonus5508.ink
 americanexpress-bonus5509.ink
-americanexpress-bonus5523.ink
 americanexpress-bonus5524.ink
+americanexpress-bonus5538.ink
 americanexpress-bonus5552.ink
 americanexpress-bonus6601.ink
 americanexpress-bonus6620.ink
-americanexpress-bonus6623.ink
 americanexpress-bonus6627.ink
 americanexpress-bonus6630.ink
+americanexpress-bonus6639.ink
 americanexpress-bonus6642.ink
 americanexpress-bonus6647.ink
 americanexpress-bonus6649.ink
 americanexpress-bonusnutzen9903.ink
-americanexpress-bonusnutzen9906.ink
 americanexpress-bonusnutzen9910.ink
 americanexpress-bonusnutzen9912.ink
 americanexpress-bonusnutzen9915.ink
 americanexpress-bonusnutzen9923.ink
 americanexpress-bonusnutzen9929.ink
+americanexpress-bonusnutzen9933.ink
 americanexpress-bonusnutzen9936.ink
 americanexpress-bonusnutzen9937.ink
 americanexpress-bonusnutzen9941.ink
@@ -415,9 +415,11 @@ bonus724.com
 bonuses-online.cfd
 bonushub365.top
 braindate2049.com
+candidate-profile.site
 clubdatingxconn6ect.biz
 cuidate-skin.com
 date-app.net
+date-jason.com
 date-nineplay.com
 date-sweet-day.com
 date007.xyz
@@ -427,7 +429,6 @@ datenschutz-check.ch
 dates-ksa.com
 dating-anastasiao.ru
 dating-anastasiao.store
-dating-love.top
 dating24hour.com
 datingcity3.biz
 easyandromanceonedate3.biz
@@ -437,19 +438,17 @@ hakodate-bpss.net
 hakodate-juku.com
 hakodate-printing.com
 hakodate-wq.com
-hakodate0104.net
 hakodatejoki188.xyz
-hakodatekikyou-kaitori-daikichi.com
-hakodatemoto7.com
+kosodate-happy.net
 mandate12x.com
 no-deposit-bonus-casino-nz.online
 online-dating.top
-playdate-now.com
 quickdatinghu9b.biz
 savethedate3d.com
 seniordating-uk.xyz
 smartdatemeetup5.biz
 updating-subscription.com
+xn--sugardatingrdgivning-7zb.se
 yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
