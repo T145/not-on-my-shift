@@ -2,7 +2,6 @@
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
 - ailnoir.com
-- asfand.fahadmarketing.com
 - cancervants.org
 - castllypay.com
 - clickedgesolutions.com
@@ -12,6 +11,7 @@ domains:
 - galaxyfunbowl.gr
 - giupich.org
 - gojordanbusiness.com
+- guzelbil.com
 - hongqiqujiu.com
 - imrt.ac.in
 - loanglide.com
@@ -36,6 +36,7 @@ domains:
 - vladimirherzog.org
 - weboyal.com
 - wowfollowers.com
+- wp.up118.cn
 - yuanant.com
 fedex_suffixes:
 - app
@@ -61,6 +62,7 @@ ignored_domains:
 - app.crconsultoriacontable.com
 - appulse.de
 - arisannafarms.com
+- asfand.fahadmarketing.com
 - b2bpipe.cn
 - bamperbolspb.ru
 - bestgoldenretrieverbreeder.com
@@ -94,7 +96,6 @@ ignored_domains:
 - gladiadoresdevendas.com.br
 - godynamo.co
 - grandprov.com
-- guzelbil.com
 - habulex.com
 - hackersweb.org
 - hatyailandscape.com
@@ -154,7 +155,6 @@ ignored_domains:
 - veljko.id
 - visotka.in
 - wordpress.mrcentertainment.com
-- wp.up118.cn
 - wsw.cool
 - xn--thvitstore-c7a.com
 - ylem222.com

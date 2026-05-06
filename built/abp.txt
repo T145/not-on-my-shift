@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-05-04T12:43:40Z
+! Last update: 2026-05-06T12:46:50Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -212,7 +212,6 @@
 ! 2021-03-02 Fedex phishing
 !  - https://geeklevi.com/fedex/
 ||ailnoir.com^
-||asfand.fahadmarketing.com^
 ||cancervants.org^
 ||castllypay.com^
 ||clickedgesolutions.com^
@@ -222,6 +221,7 @@
 ||galaxyfunbowl.gr^
 ||giupich.org^
 ||gojordanbusiness.com^
+||guzelbil.com^
 ||hongqiqujiu.com^
 ||imrt.ac.in^
 ||loanglide.com^
@@ -246,6 +246,7 @@
 ||vladimirherzog.org^
 ||weboyal.com^
 ||wowfollowers.com^
+||wp.up118.cn^
 ||yuanant.com^
 
 ! === SCAMS ===
@@ -391,6 +392,7 @@
 ||americanexpress-bonus5505.ink^
 ||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
+||americanexpress-bonus5523.ink^
 ||americanexpress-bonus5524.ink^
 ||americanexpress-bonus5538.ink^
 ||americanexpress-bonus5552.ink^
@@ -400,10 +402,11 @@
 ||americanexpress-bonus6627.ink^
 ||americanexpress-bonus6630.ink^
 ||americanexpress-bonus6639.ink^
+||americanexpress-bonus6642.ink^
 ||americanexpress-bonus6647.ink^
 ||americanexpress-bonus6649.ink^
 ||americanexpress-bonusnutzen9903.ink^
-||americanexpress-bonusnutzen9906.ink^
+||americanexpress-bonusnutzen9910.ink^
 ||americanexpress-bonusnutzen9912.ink^
 ||americanexpress-bonusnutzen9915.ink^
 ||americanexpress-bonusnutzen9923.ink^
@@ -413,24 +416,18 @@
 ||americanexpress-bonusnutzen9937.ink^
 ||americanexpress-bonusnutzen9941.ink^
 ||americanexpress-bonusnutzen9943.ink^
-||americanexpress-bonusnutzen9949.ink^
-||americanexpress-bonusnutzen9950.ink^
 ||bestlinkdate9.biz^
-||betting-bonuses-mongolia.com^
 ||bonus-lokata.sbs^
 ||bonus-lokated.sbs^
 ||bonus-macquarie.vip^
-||bonus-promo.cfd^
 ||bonus138on6.xyz^
 ||bonus724.com^
 ||bonuses-online.cfd^
-||bonushub365.top^
 ||braindate2049.com^
-||clubdatingxconn6ect.biz^
 ||cuidate-skin.com^
 ||date-app.net^
 ||date-jason.com^
-||date-nineplay.com^
+||date-sweet-day.com^
 ||date007.xyz^
 ||date11.fun^
 ||dateing99.com^
@@ -443,15 +440,15 @@
 ||datingcity3.biz^
 ||deneme-bonusu-tr.site^
 ||easyandromanceonedate3.biz^
-||easydatingpro8.biz^
 ||godateworld4.biz^
 ||hakodate-bpss.net^
-||hakodate-guide.fun^
 ||hakodate-juku.com^
+||hakodate-printing.com^
 ||hakodate-wq.com^
 ||hakodate0104.net^
-||hakodatejoki188.xyz^
+||hakodatekikyou-kaitori-daikichi.com^
 ||hakodatemoto7.com^
+||mandate12x.com^
 ||no-deposit-bonus-casino-nz.online^
 ||online-dating.top^
 ||playdate-now.com^
@@ -459,9 +456,7 @@
 ||safedatingafter50.online^
 ||savethedate3d.com^
 ||seniordating-uk.xyz^
-||smartdatemeetup5.biz^
 ||updating-subscription.com^
-||xn--sugardatingrdgivning-7zb.se^
 ||yt31bonus31.net^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
