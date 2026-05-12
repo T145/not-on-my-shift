@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-05-11T13:08:21Z
+# Last update: 2026-05-12T12:50:11Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -293,8 +293,6 @@
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -341,8 +339,6 @@
 0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 trashstation.com
 0.0.0.0 www.trashstation.com
-0.0.0.0 tubies.com
-0.0.0.0 www.tubies.com
 0.0.0.0 twospoonsfleet.co.uk
 0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
@@ -355,7 +351,6 @@
 0.0.0.0 www.weboyal.com
 0.0.0.0 wowfollowers.com
 0.0.0.0 www.wowfollowers.com
-0.0.0.0 wp.up118.cn
 0.0.0.0 yuanant.com
 0.0.0.0 www.yuanant.com
 
@@ -633,6 +628,8 @@
 0.0.0.0 www.americanexpress-bonusnutzen9903.ink
 0.0.0.0 americanexpress-bonusnutzen9906.ink
 0.0.0.0 www.americanexpress-bonusnutzen9906.ink
+0.0.0.0 americanexpress-bonusnutzen9910.ink
+0.0.0.0 www.americanexpress-bonusnutzen9910.ink
 0.0.0.0 americanexpress-bonusnutzen9912.ink
 0.0.0.0 www.americanexpress-bonusnutzen9912.ink
 0.0.0.0 americanexpress-bonusnutzen9915.ink
@@ -645,8 +642,6 @@
 0.0.0.0 www.americanexpress-bonusnutzen9933.ink
 0.0.0.0 americanexpress-bonusnutzen9936.ink
 0.0.0.0 www.americanexpress-bonusnutzen9936.ink
-0.0.0.0 americanexpress-bonusnutzen9937.ink
-0.0.0.0 www.americanexpress-bonusnutzen9937.ink
 0.0.0.0 americanexpress-bonusnutzen9941.ink
 0.0.0.0 www.americanexpress-bonusnutzen9941.ink
 0.0.0.0 americanexpress-bonusnutzen9943.ink
@@ -669,14 +664,14 @@
 0.0.0.0 www.bonus-promo.cfd
 0.0.0.0 bonus138on6.xyz
 0.0.0.0 www.bonus138on6.xyz
-0.0.0.0 bonuses-online.cfd
-0.0.0.0 www.bonuses-online.cfd
+0.0.0.0 bonus724.com
+0.0.0.0 www.bonus724.com
 0.0.0.0 braindate2049.com
 0.0.0.0 www.braindate2049.com
+0.0.0.0 candidate-profile.site
+0.0.0.0 www.candidate-profile.site
 0.0.0.0 casino-prestige-bonus-fr.com
 0.0.0.0 www.casino-prestige-bonus-fr.com
-0.0.0.0 clubdatingxconn6ect.biz
-0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
@@ -699,6 +694,8 @@
 0.0.0.0 www.datenschutz-check.ch
 0.0.0.0 dates-ksa.com
 0.0.0.0 www.dates-ksa.com
+0.0.0.0 dating-anastasiao.ru
+0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
 0.0.0.0 www.dating-anastasiao.store
 0.0.0.0 dating-love.top
@@ -707,8 +704,6 @@
 0.0.0.0 www.dating18.click
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
-0.0.0.0 datingcity3.biz
-0.0.0.0 www.datingcity3.biz
 0.0.0.0 deneme-bonusu-tr.site
 0.0.0.0 www.deneme-bonusu-tr.site
 0.0.0.0 easyandromanceonedate3.biz
@@ -745,6 +740,8 @@
 0.0.0.0 www.quickdatinghu9b.biz
 0.0.0.0 safedatingafter50.online
 0.0.0.0 www.safedatingafter50.online
+0.0.0.0 savethedate3d.com
+0.0.0.0 www.savethedate3d.com
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smartdatemeetup5.biz
