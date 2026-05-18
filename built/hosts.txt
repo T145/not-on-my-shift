@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-05-17T12:29:48Z
+# Last update: 2026-05-18T13:21:46Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -614,6 +614,8 @@
 0.0.0.0 www.americanexpress-bonus6601.ink
 0.0.0.0 americanexpress-bonus6620.ink
 0.0.0.0 www.americanexpress-bonus6620.ink
+0.0.0.0 americanexpress-bonus6623.ink
+0.0.0.0 www.americanexpress-bonus6623.ink
 0.0.0.0 americanexpress-bonus6627.ink
 0.0.0.0 www.americanexpress-bonus6627.ink
 0.0.0.0 americanexpress-bonus6630.ink
@@ -630,12 +632,10 @@
 0.0.0.0 www.americanexpress-bonusnutzen9906.ink
 0.0.0.0 americanexpress-bonusnutzen9910.ink
 0.0.0.0 www.americanexpress-bonusnutzen9910.ink
-0.0.0.0 americanexpress-bonusnutzen9912.ink
-0.0.0.0 www.americanexpress-bonusnutzen9912.ink
+0.0.0.0 americanexpress-bonusnutzen9915.ink
+0.0.0.0 www.americanexpress-bonusnutzen9915.ink
 0.0.0.0 americanexpress-bonusnutzen9923.ink
 0.0.0.0 www.americanexpress-bonusnutzen9923.ink
-0.0.0.0 americanexpress-bonusnutzen9929.ink
-0.0.0.0 www.americanexpress-bonusnutzen9929.ink
 0.0.0.0 americanexpress-bonusnutzen9933.ink
 0.0.0.0 www.americanexpress-bonusnutzen9933.ink
 0.0.0.0 americanexpress-bonusnutzen9936.ink
@@ -666,16 +666,12 @@
 0.0.0.0 www.bonus-promo.cfd
 0.0.0.0 bonus138on6.xyz
 0.0.0.0 www.bonus138on6.xyz
-0.0.0.0 bonus724.com
-0.0.0.0 www.bonus724.com
 0.0.0.0 bonuses-online.cfd
 0.0.0.0 www.bonuses-online.cfd
 0.0.0.0 bonushub365.top
 0.0.0.0 www.bonushub365.top
 0.0.0.0 braindate2049.com
 0.0.0.0 www.braindate2049.com
-0.0.0.0 candidate-profile.site
-0.0.0.0 www.candidate-profile.site
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
@@ -684,10 +680,10 @@
 0.0.0.0 www.date-app.net
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
+0.0.0.0 date-nineplay.com
+0.0.0.0 www.date-nineplay.com
 0.0.0.0 date-sweet-day.com
 0.0.0.0 www.date-sweet-day.com
-0.0.0.0 date007.xyz
-0.0.0.0 www.date007.xyz
 0.0.0.0 date11.fun
 0.0.0.0 www.date11.fun
 0.0.0.0 dateing99.com
@@ -704,12 +700,12 @@
 0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
 0.0.0.0 www.dating-anastasiao.store
-0.0.0.0 dating-love.top
-0.0.0.0 www.dating-love.top
 0.0.0.0 dating18.click
 0.0.0.0 www.dating18.click
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
+0.0.0.0 dating82.com
+0.0.0.0 www.dating82.com
 0.0.0.0 datingcity3.biz
 0.0.0.0 www.datingcity3.biz
 0.0.0.0 deneme-bonusu-tr.site
@@ -720,14 +716,10 @@
 0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 godateworld4.biz
 0.0.0.0 www.godateworld4.biz
-0.0.0.0 hakodate-bpss.net
-0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-guide.fun
 0.0.0.0 www.hakodate-guide.fun
 0.0.0.0 hakodate-juku.com
 0.0.0.0 www.hakodate-juku.com
-0.0.0.0 hakodate-printing.com
-0.0.0.0 www.hakodate-printing.com
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodate0104.net
@@ -754,10 +746,12 @@
 0.0.0.0 www.savethedate3d.com
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
+0.0.0.0 smartdatemeetup5.biz
+0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 updating-subscription.com
 0.0.0.0 www.updating-subscription.com
-0.0.0.0 yt31bonus31.net
-0.0.0.0 www.yt31bonus31.net
+0.0.0.0 xn--sugardatingrdgivning-7zb.se
+0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
