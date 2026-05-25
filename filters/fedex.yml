@@ -10,7 +10,6 @@ domains:
 - fraternitykerala.org
 - galaxyfunbowl.gr
 - giupich.org
-- gojordanbusiness.com
 - guzelbil.com
 - hongqiqujiu.com
 - imrt.ac.in
@@ -28,6 +27,7 @@ domains:
 - redlog.cl
 - robbreport.com.my
 - sm-projekt.si
+- soundwavesprodjs.com
 - synoviz.com
 - tacloban.gov.ph
 - trashstation.com
@@ -96,6 +96,7 @@ ignored_domains:
 - geeklevi.com
 - gladiadoresdevendas.com.br
 - godynamo.co
+- gojordanbusiness.com
 - grandprov.com
 - habulex.com
 - hackersweb.org
@@ -138,7 +139,6 @@ ignored_domains:
 - smcsme.com
 - smecom.it
 - socialfact.in
-- soundwavesprodjs.com
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com

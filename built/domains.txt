@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-05-18T13:21:46Z
+# Last update: 2026-05-25T13:18:32Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -211,7 +211,6 @@ defencelover.in
 fraternitykerala.org
 galaxyfunbowl.gr
 giupich.org
-gojordanbusiness.com
 guzelbil.com
 hongqiqujiu.com
 imrt.ac.in
@@ -229,6 +228,7 @@ nguen.net
 redlog.cl
 robbreport.com.my
 sm-projekt.si
+soundwavesprodjs.com
 synoviz.com
 tacloban.gov.ph
 trashstation.com
@@ -380,12 +380,11 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-4matchcitydate3.biz
 americanexpress-bonus5505.ink
 americanexpress-bonus5508.ink
+americanexpress-bonus5509.ink
 americanexpress-bonus5523.ink
 americanexpress-bonus5524.ink
-americanexpress-bonus5538.ink
 americanexpress-bonus5552.ink
 americanexpress-bonus6601.ink
 americanexpress-bonus6620.ink
@@ -398,8 +397,10 @@ americanexpress-bonus6649.ink
 americanexpress-bonusnutzen9903.ink
 americanexpress-bonusnutzen9906.ink
 americanexpress-bonusnutzen9910.ink
+americanexpress-bonusnutzen9912.ink
 americanexpress-bonusnutzen9915.ink
 americanexpress-bonusnutzen9923.ink
+americanexpress-bonusnutzen9929.ink
 americanexpress-bonusnutzen9933.ink
 americanexpress-bonusnutzen9936.ink
 americanexpress-bonusnutzen9937.ink
@@ -409,13 +410,11 @@ americanexpress-bonusnutzen9949.ink
 americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
 betting-bonuses-mongolia.com
-big-bass-boxing-bonus-round-slot.com
 bonus-lokata.sbs
 bonus-lokated.sbs
 bonus-macquarie.vip
-bonus-promo.cfd
 bonus138on6.xyz
-bonuses-online.cfd
+bonus724.com
 bonushub365.top
 braindate2049.com
 clubdatingxconn6ect.biz
@@ -423,41 +422,39 @@ cuidate-skin.com
 date-app.net
 date-jason.com
 date-nineplay.com
-date-sweet-day.com
+date007.xyz
 date11.fun
 dateing99.com
 datemij-fr.com
 datenschutz-check.ch
-dateplan42.org
 dates-ksa.com
 dating-anastasiao.ru
-dating-anastasiao.store
+dating-love.top
 dating18.click
 dating24hour.com
-dating82.com
 datingcity3.biz
 deneme-bonusu-tr.site
-easyandromanceonedate3.biz
-easydatingpro8.biz
 godateworld4.biz
+hakodate-bpss.net
 hakodate-guide.fun
 hakodate-juku.com
+hakodate-printing.com
 hakodate-wq.com
 hakodate0104.net
-hakodatejoki188.xyz
 hakodatekikyou-kaitori-daikichi.com
-hakodatemoto7.com
-mandate12x.com
 no-deposit-bonus-casino-nz.online
 online-dating.top
 playdate-now.com
 quickdatinghu9b.biz
-safedatingafter50.online
+romanian-dating-sites.com
 savethedate3d.com
 seniordating-uk.xyz
+slavics-dating-sites.com
 smartdatemeetup5.biz
 updating-subscription.com
+validate-immediate.app
 xn--sugardatingrdgivning-7zb.se
+yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 1mono.biz
