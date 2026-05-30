@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-05-27T13:17:15Z
+# Last update: 2026-05-30T12:35:28Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -293,8 +293,6 @@
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -355,6 +353,8 @@
 0.0.0.0 www.vladimirherzog.org
 0.0.0.0 weboyal.com
 0.0.0.0 www.weboyal.com
+0.0.0.0 wowfollowers.com
+0.0.0.0 www.wowfollowers.com
 0.0.0.0 yuanant.com
 0.0.0.0 www.yuanant.com
 
@@ -596,8 +596,8 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 4matchcitydate3.biz
-0.0.0.0 www.4matchcitydate3.biz
+0.0.0.0 americanexpress-bonus5505.ink
+0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
 0.0.0.0 www.americanexpress-bonus5508.ink
 0.0.0.0 americanexpress-bonus5523.ink
@@ -624,14 +624,14 @@
 0.0.0.0 www.americanexpress-bonus6647.ink
 0.0.0.0 americanexpress-bonus6649.ink
 0.0.0.0 www.americanexpress-bonus6649.ink
-0.0.0.0 americanexpress-bonusnutzen9903.ink
-0.0.0.0 www.americanexpress-bonusnutzen9903.ink
 0.0.0.0 americanexpress-bonusnutzen9906.ink
 0.0.0.0 www.americanexpress-bonusnutzen9906.ink
 0.0.0.0 americanexpress-bonusnutzen9910.ink
 0.0.0.0 www.americanexpress-bonusnutzen9910.ink
 0.0.0.0 americanexpress-bonusnutzen9912.ink
 0.0.0.0 www.americanexpress-bonusnutzen9912.ink
+0.0.0.0 americanexpress-bonusnutzen9915.ink
+0.0.0.0 www.americanexpress-bonusnutzen9915.ink
 0.0.0.0 americanexpress-bonusnutzen9923.ink
 0.0.0.0 www.americanexpress-bonusnutzen9923.ink
 0.0.0.0 americanexpress-bonusnutzen9929.ink
@@ -642,6 +642,8 @@
 0.0.0.0 www.americanexpress-bonusnutzen9936.ink
 0.0.0.0 americanexpress-bonusnutzen9937.ink
 0.0.0.0 www.americanexpress-bonusnutzen9937.ink
+0.0.0.0 americanexpress-bonusnutzen9941.ink
+0.0.0.0 www.americanexpress-bonusnutzen9941.ink
 0.0.0.0 americanexpress-bonusnutzen9943.ink
 0.0.0.0 www.americanexpress-bonusnutzen9943.ink
 0.0.0.0 americanexpress-bonusnutzen9949.ink
@@ -652,6 +654,8 @@
 0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 betting-bonuses-mongolia.com
 0.0.0.0 www.betting-bonuses-mongolia.com
+0.0.0.0 bonus-bendigo.vip
+0.0.0.0 www.bonus-bendigo.vip
 0.0.0.0 bonus-lokata.sbs
 0.0.0.0 www.bonus-lokata.sbs
 0.0.0.0 bonus-lokated.sbs
@@ -664,12 +668,12 @@
 0.0.0.0 www.bonus724.com
 0.0.0.0 bonushub365.top
 0.0.0.0 www.bonushub365.top
+0.0.0.0 bonusku202.win
+0.0.0.0 www.bonusku202.win
 0.0.0.0 bonusnewmember50.com
 0.0.0.0 www.bonusnewmember50.com
 0.0.0.0 bonusnewmember50.org
 0.0.0.0 www.bonusnewmember50.org
-0.0.0.0 candidate-profile.site
-0.0.0.0 www.candidate-profile.site
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 date-app.net
@@ -678,6 +682,12 @@
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-nineplay.com
 0.0.0.0 www.date-nineplay.com
+0.0.0.0 date-qiumeng-sport.com
+0.0.0.0 www.date-qiumeng-sport.com
+0.0.0.0 date-qmhsporting.com
+0.0.0.0 www.date-qmhsporting.com
+0.0.0.0 date007.xyz
+0.0.0.0 www.date007.xyz
 0.0.0.0 date11.fun
 0.0.0.0 www.date11.fun
 0.0.0.0 dateing99.com
@@ -692,10 +702,6 @@
 0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
 0.0.0.0 www.dating-anastasiao.store
-0.0.0.0 dating-love.top
-0.0.0.0 www.dating-love.top
-0.0.0.0 dating18.click
-0.0.0.0 www.dating18.click
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
 0.0.0.0 dating82.com
@@ -714,10 +720,6 @@
 0.0.0.0 www.denemebonusumvip2026.icu
 0.0.0.0 denemebonusuverensiteler26.icu
 0.0.0.0 www.denemebonusuverensiteler26.icu
-0.0.0.0 easyandromanceonedate3.biz
-0.0.0.0 www.easyandromanceonedate3.biz
-0.0.0.0 easydatingpro8.biz
-0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 godateworld4.biz
 0.0.0.0 www.godateworld4.biz
 0.0.0.0 hakodate-bpss.net
@@ -736,8 +738,6 @@
 0.0.0.0 www.hakodatekikyou-kaitori-daikichi.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
-0.0.0.0 mandate12x.com
-0.0.0.0 www.mandate12x.com
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
 0.0.0.0 odate-townportal.com
@@ -748,22 +748,20 @@
 0.0.0.0 www.playdate-now.com
 0.0.0.0 quickdatinghu9b.biz
 0.0.0.0 www.quickdatinghu9b.biz
-0.0.0.0 romanian-dating-sites.com
-0.0.0.0 www.romanian-dating-sites.com
-0.0.0.0 safedatingafter50.online
-0.0.0.0 www.safedatingafter50.online
+0.0.0.0 savethedate3d.com
+0.0.0.0 www.savethedate3d.com
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
+0.0.0.0 should-i-date-megan.com
+0.0.0.0 www.should-i-date-megan.com
 0.0.0.0 slavics-dating-sites.com
 0.0.0.0 www.slavics-dating-sites.com
-0.0.0.0 smartdatemeetup5.biz
-0.0.0.0 www.smartdatemeetup5.biz
-0.0.0.0 updating-subscription.com
-0.0.0.0 www.updating-subscription.com
 0.0.0.0 validate-immediate.app
 0.0.0.0 www.validate-immediate.app
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
 0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
+0.0.0.0 yt31bonus31.net
+0.0.0.0 www.yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
