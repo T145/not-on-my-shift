@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-05-30T12:35:28Z
+! Last update: 2026-05-31T12:38:39Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -217,6 +217,8 @@
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
 ||defencelover.in^
+||dexil.ru^
+||eurosystemsrl.eu^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||giupich.org^
@@ -239,7 +241,6 @@
 ||sm-projekt.si^
 ||soundwavesprodjs.com^
 ||synoviz.com^
-||tacloban.gov.ph^
 ||trashstation.com^
 ||tubies.com^
 ||twospoonsfleet.co.uk^
@@ -389,8 +390,9 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+||4matchcitydate3.biz^
 ||americanexpress-bonus5505.ink^
-||americanexpress-bonus5508.ink^
+||americanexpress-bonus5509.ink^
 ||americanexpress-bonus5523.ink^
 ||americanexpress-bonus5524.ink^
 ||americanexpress-bonus5538.ink^
@@ -403,6 +405,7 @@
 ||americanexpress-bonus6639.ink^
 ||americanexpress-bonus6647.ink^
 ||americanexpress-bonus6649.ink^
+||americanexpress-bonusnutzen9903.ink^
 ||americanexpress-bonusnutzen9906.ink^
 ||americanexpress-bonusnutzen9910.ink^
 ||americanexpress-bonusnutzen9912.ink^
@@ -414,7 +417,6 @@
 ||americanexpress-bonusnutzen9937.ink^
 ||americanexpress-bonusnutzen9941.ink^
 ||americanexpress-bonusnutzen9943.ink^
-||americanexpress-bonusnutzen9949.ink^
 ||americanexpress-bonusnutzen9950.ink^
 ||bestlinkdate9.biz^
 ||betting-bonuses-mongolia.com^
@@ -423,12 +425,14 @@
 ||bonus-lokated.sbs^
 ||bonus-macquarie.vip^
 ||bonus138on6.xyz^
+||bonus4d.app^
 ||bonus724.com^
 ||bonushub365.top^
 ||bonusku202.win^
 ||bonusnewmember50.com^
 ||bonusnewmember50.org^
 ||clubdatingxconn6ect.biz^
+||cuidate-skin.com^
 ||date-app.net^
 ||date-jason.com^
 ||date-nineplay.com^
@@ -438,12 +442,14 @@
 ||date11.fun^
 ||dateing99.com^
 ||datemij-fr.com^
+||daten-aktuell.com^
 ||datenschutz-check.ch^
 ||dates-ksa.com^
 ||dating-anastasiao.ru^
 ||dating-anastasiao.store^
+||dating-love.top^
+||dating18.click^
 ||dating24hour.com^
-||dating82.com^
 ||datingcity3.biz^
 ||deneme-bonusu-tr.site^
 ||deneme-bonusu2026.icu^
@@ -451,6 +457,8 @@
 ||denemebonussitesivip2026.icu^
 ||denemebonusumvip2026.icu^
 ||denemebonusuverensiteler26.icu^
+||easyandromanceonedate3.biz^
+||easydatingpro8.biz^
 ||godateworld4.biz^
 ||hakodate-bpss.net^
 ||hakodate-guide.fun^
@@ -461,14 +469,18 @@
 ||hakodatekikyou-kaitori-daikichi.com^
 ||hakodatemoto7.com^
 ||no-deposit-bonus-casino-nz.online^
-||odate-townportal.com^
 ||online-dating.top^
 ||playdate-now.com^
 ||quickdatinghu9b.biz^
+||romanian-dating-sites.com^
+||safedatingafter50.online^
 ||savethedate3d.com^
 ||seniordating-uk.xyz^
-||should-i-date-megan.com^
+||should-i-date-him.com^
 ||slavics-dating-sites.com^
+||smartdatemeetup5.biz^
+||superbonus88.app^
+||updating-subscription.com^
 ||validate-immediate.app^
 ||xn--sugardatingrdgivning-7zb.se^
 ||yt31bonus31.net^
