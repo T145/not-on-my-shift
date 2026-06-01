@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-05-31T12:38:39Z
+# Last update: 2026-06-01T14:09:27Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -293,8 +293,6 @@
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 eurosystemsrl.eu
 0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 fraternitykerala.org
@@ -341,6 +339,8 @@
 0.0.0.0 www.soundwavesprodjs.com
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
+0.0.0.0 tacloban.gov.ph
+0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 trashstation.com
 0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
@@ -602,6 +602,8 @@
 0.0.0.0 www.4matchcitydate3.biz
 0.0.0.0 americanexpress-bonus5505.ink
 0.0.0.0 www.americanexpress-bonus5505.ink
+0.0.0.0 americanexpress-bonus5508.ink
+0.0.0.0 www.americanexpress-bonus5508.ink
 0.0.0.0 americanexpress-bonus5509.ink
 0.0.0.0 www.americanexpress-bonus5509.ink
 0.0.0.0 americanexpress-bonus5523.ink
@@ -652,6 +654,8 @@
 0.0.0.0 www.americanexpress-bonusnutzen9941.ink
 0.0.0.0 americanexpress-bonusnutzen9943.ink
 0.0.0.0 www.americanexpress-bonusnutzen9943.ink
+0.0.0.0 americanexpress-bonusnutzen9949.ink
+0.0.0.0 www.americanexpress-bonusnutzen9949.ink
 0.0.0.0 americanexpress-bonusnutzen9950.ink
 0.0.0.0 www.americanexpress-bonusnutzen9950.ink
 0.0.0.0 bestlinkdate9.biz
@@ -712,8 +716,6 @@
 0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
 0.0.0.0 www.dating-anastasiao.store
-0.0.0.0 dating-love.top
-0.0.0.0 www.dating-love.top
 0.0.0.0 dating18.click
 0.0.0.0 www.dating18.click
 0.0.0.0 dating24hour.com
@@ -730,8 +732,6 @@
 0.0.0.0 www.denemebonussitesivip2026.icu
 0.0.0.0 denemebonusumvip2026.icu
 0.0.0.0 www.denemebonusumvip2026.icu
-0.0.0.0 denemebonusuverensiteler26.icu
-0.0.0.0 www.denemebonusuverensiteler26.icu
 0.0.0.0 easyandromanceonedate3.biz
 0.0.0.0 www.easyandromanceonedate3.biz
 0.0.0.0 easydatingpro8.biz
@@ -746,16 +746,18 @@
 0.0.0.0 www.hakodate-juku.com
 0.0.0.0 hakodate-printing.com
 0.0.0.0 www.hakodate-printing.com
-0.0.0.0 hakodate-wq.com
-0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodate0104.net
 0.0.0.0 www.hakodate0104.net
 0.0.0.0 hakodatekikyou-kaitori-daikichi.com
 0.0.0.0 www.hakodatekikyou-kaitori-daikichi.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
+0.0.0.0 mandate12x.com
+0.0.0.0 www.mandate12x.com
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
+0.0.0.0 odate-townportal.com
+0.0.0.0 www.odate-townportal.com
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
 0.0.0.0 playdate-now.com
@@ -770,8 +772,6 @@
 0.0.0.0 www.savethedate3d.com
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
-0.0.0.0 should-i-date-him.com
-0.0.0.0 www.should-i-date-him.com
 0.0.0.0 slavics-dating-sites.com
 0.0.0.0 www.slavics-dating-sites.com
 0.0.0.0 smartdatemeetup5.biz
