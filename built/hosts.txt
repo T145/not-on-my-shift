@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-06-01T14:09:27Z
+# Last update: 2026-06-02T13:24:21Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -618,16 +618,12 @@
 0.0.0.0 www.americanexpress-bonus6601.ink
 0.0.0.0 americanexpress-bonus6620.ink
 0.0.0.0 www.americanexpress-bonus6620.ink
-0.0.0.0 americanexpress-bonus6623.ink
-0.0.0.0 www.americanexpress-bonus6623.ink
 0.0.0.0 americanexpress-bonus6627.ink
 0.0.0.0 www.americanexpress-bonus6627.ink
 0.0.0.0 americanexpress-bonus6630.ink
 0.0.0.0 www.americanexpress-bonus6630.ink
 0.0.0.0 americanexpress-bonus6639.ink
 0.0.0.0 www.americanexpress-bonus6639.ink
-0.0.0.0 americanexpress-bonus6647.ink
-0.0.0.0 www.americanexpress-bonus6647.ink
 0.0.0.0 americanexpress-bonus6649.ink
 0.0.0.0 www.americanexpress-bonus6649.ink
 0.0.0.0 americanexpress-bonusnutzen9903.ink
@@ -660,8 +656,6 @@
 0.0.0.0 www.americanexpress-bonusnutzen9950.ink
 0.0.0.0 bestlinkdate9.biz
 0.0.0.0 www.bestlinkdate9.biz
-0.0.0.0 betting-bonuses-mongolia.com
-0.0.0.0 www.betting-bonuses-mongolia.com
 0.0.0.0 bonus-bendigo.vip
 0.0.0.0 www.bonus-bendigo.vip
 0.0.0.0 bonus-lokata.sbs
@@ -688,8 +682,6 @@
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
-0.0.0.0 date-app.net
-0.0.0.0 www.date-app.net
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-nineplay.com
@@ -724,8 +716,6 @@
 0.0.0.0 www.datingcity3.biz
 0.0.0.0 deneme-bonusu-tr.site
 0.0.0.0 www.deneme-bonusu-tr.site
-0.0.0.0 deneme-bonusu2026.icu
-0.0.0.0 www.deneme-bonusu2026.icu
 0.0.0.0 denemebonuscusu2026.icu
 0.0.0.0 www.denemebonuscusu2026.icu
 0.0.0.0 denemebonussitesivip2026.icu
@@ -746,6 +736,8 @@
 0.0.0.0 www.hakodate-juku.com
 0.0.0.0 hakodate-printing.com
 0.0.0.0 www.hakodate-printing.com
+0.0.0.0 hakodate-wq.com
+0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodate0104.net
 0.0.0.0 www.hakodate0104.net
 0.0.0.0 hakodatekikyou-kaitori-daikichi.com
@@ -756,12 +748,8 @@
 0.0.0.0 www.mandate12x.com
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
-0.0.0.0 odate-townportal.com
-0.0.0.0 www.odate-townportal.com
 0.0.0.0 online-dating.top
 0.0.0.0 www.online-dating.top
-0.0.0.0 playdate-now.com
-0.0.0.0 www.playdate-now.com
 0.0.0.0 quickdatinghu9b.biz
 0.0.0.0 www.quickdatinghu9b.biz
 0.0.0.0 romanian-dating-sites.com
@@ -778,8 +766,6 @@
 0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 superbonus88.app
 0.0.0.0 www.superbonus88.app
-0.0.0.0 updating-subscription.com
-0.0.0.0 www.updating-subscription.com
 0.0.0.0 validate-immediate.app
 0.0.0.0 www.validate-immediate.app
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
