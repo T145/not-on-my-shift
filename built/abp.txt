@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-06-07T12:43:08Z
+! Last update: 2026-06-08T13:37:01Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -211,14 +211,12 @@
 
 ! 2021-03-02 Fedex phishing
 !  - https://geeklevi.com/fedex/
-||ailnoir.com^
 ||cancervants.org^
 ||castllypay.com^
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
 ||defencelover.in^
 ||dexil.ru^
-||eurosystemsrl.eu^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||giupich.org^
@@ -229,11 +227,9 @@
 ||loanglide.com^
 ||machupicchutraveling.com^
 ||magicboximportados.com.br^
-||mistc.es^
 ||mouwz.nl^
 ||mucc.com.au^
 ||nbkangxi.com^
-||nectartrust.org.uk^
 ||nextgearup.com^
 ||nguen.net^
 ||redlog.cl^
@@ -242,13 +238,10 @@
 ||soundwavesprodjs.com^
 ||synoviz.com^
 ||tacloban.gov.ph^
-||trashstation.com^
 ||tubies.com^
 ||twospoonsfleet.co.uk^
-||ultimatepreneur.com^
 ||vanguardacademy-ng.com^
 ||vladimirherzog.org^
-||weboyal.com^
 ||wowfollowers.com^
 ||yuanant.com^
 
@@ -391,15 +384,16 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+||4matchcitydate3.biz^
 ||americanexpress-bonus5505.ink^
 ||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
 ||americanexpress-bonus5523.ink^
-||americanexpress-bonus5524.ink^
 ||americanexpress-bonus5538.ink^
 ||americanexpress-bonus5552.ink^
 ||americanexpress-bonus6601.ink^
 ||americanexpress-bonus6620.ink^
+||americanexpress-bonus6623.ink^
 ||americanexpress-bonus6627.ink^
 ||americanexpress-bonus6630.ink^
 ||americanexpress-bonus6639.ink^
@@ -440,6 +434,8 @@
 ||date-qmhsporting.com^
 ||date007.xyz^
 ||date11.fun^
+||dateing99.com^
+||datemij-fr.com^
 ||daten-aktuell.com^
 ||datenschutz-check.ch^
 ||dates-ksa.com^
@@ -454,9 +450,10 @@
 ||denemebonussitesivip2026.icu^
 ||denemebonusumvip2026.icu^
 ||denemebonusuverensiteler26.icu^
+||easyandromanceonedate3.biz^
 ||easydatingpro8.biz^
-||godateworld4.biz^
 ||hakodate-bpss.net^
+||hakodate-juku.com^
 ||hakodate-printing.com^
 ||hakodate-wq.com^
 ||hakodate0104.net^
@@ -465,20 +462,20 @@
 ||id-validate-service-d12.cyou^
 ||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
+||mandate12x.com^
 ||no-deposit-bonus-casino-nz.online^
 ||odate-townportal.com^
 ||online-dating.top^
 ||playdate-now.com^
 ||quickdatinghu9b.biz^
-||romanian-dating-sites.com^
 ||safedatingafter50.online^
 ||savethedate3d.com^
 ||seniordating-uk.xyz^
 ||slavics-dating-sites.com^
+||smartdatemeetup5.biz^
 ||updating-subscription.com^
 ||validate-immediate.app^
 ||xn--datenintegritt-iib.com^
-||xn--sugardatingrdgivning-7zb.se^
 ||yt31bonus31.net^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".

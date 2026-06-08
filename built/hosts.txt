@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-06-07T12:43:08Z
+# Last update: 2026-06-08T13:37:01Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -282,8 +282,6 @@
 #  - https://geeklevi.com/fedex/
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 k.hencoder.com
-0.0.0.0 ailnoir.com
-0.0.0.0 www.ailnoir.com
 0.0.0.0 cancervants.org
 0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
@@ -295,8 +293,6 @@
 0.0.0.0 www.defencelover.in
 0.0.0.0 dexil.ru
 0.0.0.0 www.dexil.ru
-0.0.0.0 eurosystemsrl.eu
-0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -317,16 +313,12 @@
 0.0.0.0 www.machupicchutraveling.com
 0.0.0.0 magicboximportados.com.br
 0.0.0.0 www.magicboximportados.com.br
-0.0.0.0 mistc.es
-0.0.0.0 www.mistc.es
 0.0.0.0 mouwz.nl
 0.0.0.0 www.mouwz.nl
 0.0.0.0 mucc.com.au
 0.0.0.0 www.mucc.com.au
 0.0.0.0 nbkangxi.com
 0.0.0.0 www.nbkangxi.com
-0.0.0.0 nectartrust.org.uk
-0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 nextgearup.com
 0.0.0.0 www.nextgearup.com
 0.0.0.0 nguen.net
@@ -343,20 +335,14 @@
 0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
 0.0.0.0 www.tacloban.gov.ph
-0.0.0.0 trashstation.com
-0.0.0.0 www.trashstation.com
 0.0.0.0 tubies.com
 0.0.0.0 www.tubies.com
 0.0.0.0 twospoonsfleet.co.uk
 0.0.0.0 www.twospoonsfleet.co.uk
-0.0.0.0 ultimatepreneur.com
-0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vanguardacademy-ng.com
 0.0.0.0 www.vanguardacademy-ng.com
 0.0.0.0 vladimirherzog.org
 0.0.0.0 www.vladimirherzog.org
-0.0.0.0 weboyal.com
-0.0.0.0 www.weboyal.com
 0.0.0.0 wowfollowers.com
 0.0.0.0 www.wowfollowers.com
 0.0.0.0 yuanant.com
@@ -600,6 +586,8 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+0.0.0.0 4matchcitydate3.biz
+0.0.0.0 www.4matchcitydate3.biz
 0.0.0.0 americanexpress-bonus5505.ink
 0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
@@ -608,8 +596,6 @@
 0.0.0.0 www.americanexpress-bonus5509.ink
 0.0.0.0 americanexpress-bonus5523.ink
 0.0.0.0 www.americanexpress-bonus5523.ink
-0.0.0.0 americanexpress-bonus5524.ink
-0.0.0.0 www.americanexpress-bonus5524.ink
 0.0.0.0 americanexpress-bonus5538.ink
 0.0.0.0 www.americanexpress-bonus5538.ink
 0.0.0.0 americanexpress-bonus5552.ink
@@ -618,6 +604,8 @@
 0.0.0.0 www.americanexpress-bonus6601.ink
 0.0.0.0 americanexpress-bonus6620.ink
 0.0.0.0 www.americanexpress-bonus6620.ink
+0.0.0.0 americanexpress-bonus6623.ink
+0.0.0.0 www.americanexpress-bonus6623.ink
 0.0.0.0 americanexpress-bonus6627.ink
 0.0.0.0 www.americanexpress-bonus6627.ink
 0.0.0.0 americanexpress-bonus6630.ink
@@ -698,6 +686,10 @@
 0.0.0.0 www.date007.xyz
 0.0.0.0 date11.fun
 0.0.0.0 www.date11.fun
+0.0.0.0 dateing99.com
+0.0.0.0 www.dateing99.com
+0.0.0.0 datemij-fr.com
+0.0.0.0 www.datemij-fr.com
 0.0.0.0 daten-aktuell.com
 0.0.0.0 www.daten-aktuell.com
 0.0.0.0 datenschutz-check.ch
@@ -726,12 +718,14 @@
 0.0.0.0 www.denemebonusumvip2026.icu
 0.0.0.0 denemebonusuverensiteler26.icu
 0.0.0.0 www.denemebonusuverensiteler26.icu
+0.0.0.0 easyandromanceonedate3.biz
+0.0.0.0 www.easyandromanceonedate3.biz
 0.0.0.0 easydatingpro8.biz
 0.0.0.0 www.easydatingpro8.biz
-0.0.0.0 godateworld4.biz
-0.0.0.0 www.godateworld4.biz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
+0.0.0.0 hakodate-juku.com
+0.0.0.0 www.hakodate-juku.com
 0.0.0.0 hakodate-printing.com
 0.0.0.0 www.hakodate-printing.com
 0.0.0.0 hakodate-wq.com
@@ -748,6 +742,8 @@
 0.0.0.0 www.id-validate-service-d24.cyou
 0.0.0.0 id-validate-service-d9.cyou
 0.0.0.0 www.id-validate-service-d9.cyou
+0.0.0.0 mandate12x.com
+0.0.0.0 www.mandate12x.com
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
 0.0.0.0 odate-townportal.com
@@ -758,8 +754,6 @@
 0.0.0.0 www.playdate-now.com
 0.0.0.0 quickdatinghu9b.biz
 0.0.0.0 www.quickdatinghu9b.biz
-0.0.0.0 romanian-dating-sites.com
-0.0.0.0 www.romanian-dating-sites.com
 0.0.0.0 safedatingafter50.online
 0.0.0.0 www.safedatingafter50.online
 0.0.0.0 savethedate3d.com
@@ -768,14 +762,14 @@
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 slavics-dating-sites.com
 0.0.0.0 www.slavics-dating-sites.com
+0.0.0.0 smartdatemeetup5.biz
+0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 updating-subscription.com
 0.0.0.0 www.updating-subscription.com
 0.0.0.0 validate-immediate.app
 0.0.0.0 www.validate-immediate.app
 0.0.0.0 xn--datenintegritt-iib.com
 0.0.0.0 www.xn--datenintegritt-iib.com
-0.0.0.0 xn--sugardatingrdgivning-7zb.se
-0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
 0.0.0.0 yt31bonus31.net
 0.0.0.0 www.yt31bonus31.net
 
