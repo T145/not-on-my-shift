@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-06-08T13:37:01Z
+! Last update: 2026-06-10T13:18:35Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -211,37 +211,41 @@
 
 ! 2021-03-02 Fedex phishing
 !  - https://geeklevi.com/fedex/
+||ailnoir.com^
 ||cancervants.org^
 ||castllypay.com^
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
 ||defencelover.in^
-||dexil.ru^
+||eurosystemsrl.eu^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||giupich.org^
 ||guzelbil.com^
 ||hongqiqujiu.com^
 ||imrt.ac.in^
-||kmtks.org.tw^
 ||loanglide.com^
 ||machupicchutraveling.com^
 ||magicboximportados.com.br^
+||mistc.es^
 ||mouwz.nl^
 ||mucc.com.au^
 ||nbkangxi.com^
+||nectartrust.org.uk^
 ||nextgearup.com^
 ||nguen.net^
-||redlog.cl^
 ||robbreport.com.my^
 ||sm-projekt.si^
 ||soundwavesprodjs.com^
 ||synoviz.com^
 ||tacloban.gov.ph^
+||trashstation.com^
 ||tubies.com^
 ||twospoonsfleet.co.uk^
+||ultimatepreneur.com^
 ||vanguardacademy-ng.com^
 ||vladimirherzog.org^
+||weboyal.com^
 ||wowfollowers.com^
 ||yuanant.com^
 
@@ -389,6 +393,7 @@
 ||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
 ||americanexpress-bonus5523.ink^
+||americanexpress-bonus5524.ink^
 ||americanexpress-bonus5538.ink^
 ||americanexpress-bonus5552.ink^
 ||americanexpress-bonus6601.ink^
@@ -411,7 +416,6 @@
 ||americanexpress-bonusnutzen9937.ink^
 ||americanexpress-bonusnutzen9941.ink^
 ||americanexpress-bonusnutzen9943.ink^
-||americanexpress-bonusnutzen9949.ink^
 ||americanexpress-bonusnutzen9950.ink^
 ||bestlinkdate9.biz^
 ||betting-bonuses-mongolia.com^
@@ -426,10 +430,8 @@
 ||bonusnewmember50.org^
 ||candidate-profile.site^
 ||clubdatingxconn6ect.biz^
-||cuidate-skin.com^
 ||date-app.net^
 ||date-jason.com^
-||date-nineplay.com^
 ||date-qiumeng-sport.com^
 ||date-qmhsporting.com^
 ||date007.xyz^
@@ -451,14 +453,13 @@
 ||denemebonusumvip2026.icu^
 ||denemebonusuverensiteler26.icu^
 ||easyandromanceonedate3.biz^
-||easydatingpro8.biz^
+||godateworld4.biz^
 ||hakodate-bpss.net^
 ||hakodate-juku.com^
 ||hakodate-printing.com^
 ||hakodate-wq.com^
 ||hakodate0104.net^
 ||hakodatekikyou-kaitori-daikichi.com^
-||hakodatemoto7.com^
 ||id-validate-service-d12.cyou^
 ||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
@@ -468,14 +469,14 @@
 ||online-dating.top^
 ||playdate-now.com^
 ||quickdatinghu9b.biz^
-||safedatingafter50.online^
+||romanian-dating-sites.com^
 ||savethedate3d.com^
 ||seniordating-uk.xyz^
-||slavics-dating-sites.com^
 ||smartdatemeetup5.biz^
 ||updating-subscription.com^
 ||validate-immediate.app^
 ||xn--datenintegritt-iib.com^
+||xn--sugardatingrdgivning-7zb.se^
 ||yt31bonus31.net^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
