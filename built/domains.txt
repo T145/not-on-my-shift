@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-06-10T13:18:35Z
+# Last update: 2026-06-13T12:45:43Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -202,28 +202,24 @@ alexwasiwo.com
 
 # 2021-03-02 Fedex phishing
 #  - https://geeklevi.com/fedex/
-ailnoir.com
 cancervants.org
 castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
 defencelover.in
-eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
 giupich.org
 guzelbil.com
 hongqiqujiu.com
 imrt.ac.in
+kmtks.org.tw
 loanglide.com
 machupicchutraveling.com
 magicboximportados.com.br
-mistc.es
 mouwz.nl
 mucc.com.au
 nbkangxi.com
-nectartrust.org.uk
-nextgearup.com
 nguen.net
 robbreport.com.my
 sm-projekt.si
@@ -231,9 +227,7 @@ soundwavesprodjs.com
 synoviz.com
 tacloban.gov.ph
 trashstation.com
-tubies.com
 twospoonsfleet.co.uk
-ultimatepreneur.com
 vanguardacademy-ng.com
 vladimirherzog.org
 weboyal.com
@@ -379,7 +373,7 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-4matchcitydate3.biz
+1win-bonus-code.org
 americanexpress-bonus5505.ink
 americanexpress-bonus5508.ink
 americanexpress-bonus5509.ink
@@ -391,9 +385,7 @@ americanexpress-bonus6601.ink
 americanexpress-bonus6620.ink
 americanexpress-bonus6623.ink
 americanexpress-bonus6627.ink
-americanexpress-bonus6630.ink
 americanexpress-bonus6639.ink
-americanexpress-bonus6647.ink
 americanexpress-bonus6649.ink
 americanexpress-bonusnutzen9903.ink
 americanexpress-bonusnutzen9906.ink
@@ -407,26 +399,28 @@ americanexpress-bonusnutzen9936.ink
 americanexpress-bonusnutzen9937.ink
 americanexpress-bonusnutzen9941.ink
 americanexpress-bonusnutzen9943.ink
+americanexpress-bonusnutzen9949.ink
 americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
 betting-bonuses-mongolia.com
 bonus-bendigo.vip
-bonus-lokata.sbs
-bonus-lokated.sbs
 bonus-macquarie.vip
 bonus138on6.xyz
 bonus724.com
 bonushub365.top
 bonusnewmember50.com
 bonusnewmember50.org
-candidate-profile.site
+bonuss88.net
 clubdatingxconn6ect.biz
+cuidate-skin.com
 date-app.net
 date-jason.com
+date-nineplay.com
 date-qiumeng-sport.com
 date-qmhsporting.com
 date007.xyz
 date11.fun
+datec24.cloud
 dateing99.com
 datemij-fr.com
 daten-aktuell.com
@@ -443,14 +437,15 @@ denemebonuscusu2026.icu
 denemebonussitesivip2026.icu
 denemebonusumvip2026.icu
 denemebonusuverensiteler26.icu
-easyandromanceonedate3.biz
+dumpster-fire-date-live.click
+easydatingpro8.biz
 godateworld4.biz
-hakodate-bpss.net
 hakodate-juku.com
 hakodate-printing.com
 hakodate-wq.com
 hakodate0104.net
 hakodatekikyou-kaitori-daikichi.com
+hakodatemoto7.com
 id-validate-service-d12.cyou
 id-validate-service-d24.cyou
 id-validate-service-d9.cyou
@@ -460,15 +455,15 @@ odate-townportal.com
 online-dating.top
 playdate-now.com
 quickdatinghu9b.biz
-romanian-dating-sites.com
+safedatingafter50.online
 savethedate3d.com
 seniordating-uk.xyz
 smartdatemeetup5.biz
 updating-subscription.com
 validate-immediate.app
+xm-bonus-guide.com
 xn--datenintegritt-iib.com
 xn--sugardatingrdgivning-7zb.se
-yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 1mono.biz
