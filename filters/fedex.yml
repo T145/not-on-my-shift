@@ -1,12 +1,13 @@
 # Don't bother manually updating this file.
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
+- ailnoir.com
 - cancervants.org
 - castllypay.com
 - clickedgesolutions.com
 - clone.app.home-cost.com
 - defencelover.in
-- dexil.ru
+- eurosystemsrl.eu
 - fraternitykerala.org
 - galaxyfunbowl.gr
 - giupich.org
@@ -16,11 +17,14 @@ domains:
 - loanglide.com
 - machupicchutraveling.com
 - magicboximportados.com.br
+- mistc.es
 - mouwz.nl
 - mucc.com.au
 - nbkangxi.com
+- nectartrust.org.uk
 - nextgearup.com
 - nguen.net
+- redlog.cl
 - robbreport.com.my
 - sm-projekt.si
 - soundwavesprodjs.com
@@ -28,6 +32,7 @@ domains:
 - trashstation.com
 - tubies.com
 - twospoonsfleet.co.uk
+- ultimatepreneur.com
 - vladimirherzog.org
 - wowfollowers.com
 - yuanant.com
@@ -49,7 +54,6 @@ ignored_domains:
 - 918kiss.newworld88.com
 - 99bkx.com
 - afedgh.org
-- ailnoir.com
 - alercehistorico.cl
 - amirapache.ir
 - amzstudy.com
@@ -74,10 +78,10 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
+- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
-- eurosystemsrl.eu
 - events.playakasha.com
 - fallenjewellery.com
 - feelmore.site
@@ -108,9 +112,7 @@ ignored_domains:
 - mahigifts.com
 - marincr.com
 - mevlutacik.com.tr
-- mistc.es
 - myphamnganbinh.com
-- nectartrust.org.uk
 - nen.vacad.net
 - new.deso.cz
 - njzmfcls.com
@@ -124,7 +126,6 @@ ignored_domains:
 - pornvillla.com
 - psspine.org
 - publicidadorl.com
-- redlog.cl
 - rees.games
 - rishipes.co.nz
 - runyixs.com
@@ -147,7 +148,6 @@ ignored_domains:
 - toanthaybac.com
 - topblackfridaydealz.com
 - tuyennvtb.com
-- ultimatepreneur.com
 - update.fbsbx.com
 - vanguardacademy-ng.com
 - veljko.id
