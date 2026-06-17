@@ -1,11 +1,13 @@
 # Don't bother manually updating this file.
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
+- ailnoir.com
 - cancervants.org
 - castllypay.com
 - clickedgesolutions.com
 - clone.app.home-cost.com
 - defencelover.in
+- eurosystemsrl.eu
 - fraternitykerala.org
 - galaxyfunbowl.gr
 - giupich.org
@@ -16,9 +18,11 @@ domains:
 - loanglide.com
 - machupicchutraveling.com
 - magicboximportados.com.br
+- mistc.es
 - mouwz.nl
 - mucc.com.au
 - nbkangxi.com
+- nectartrust.org.uk
 - nextgearup.com
 - nguen.net
 - redlog.cl
@@ -29,6 +33,8 @@ domains:
 - tacloban.gov.ph
 - trashstation.com
 - tubies.com
+- twospoonsfleet.co.uk
+- ultimatepreneur.com
 - vanguardacademy-ng.com
 - weboyal.com
 - wowfollowers.com
@@ -51,7 +57,6 @@ ignored_domains:
 - 918kiss.newworld88.com
 - 99bkx.com
 - afedgh.org
-- ailnoir.com
 - alercehistorico.cl
 - amirapache.ir
 - amzstudy.com
@@ -80,7 +85,6 @@ ignored_domains:
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
-- eurosystemsrl.eu
 - events.playakasha.com
 - fallenjewellery.com
 - feelmore.site
@@ -110,9 +114,7 @@ ignored_domains:
 - mahigifts.com
 - marincr.com
 - mevlutacik.com.tr
-- mistc.es
 - myphamnganbinh.com
-- nectartrust.org.uk
 - nen.vacad.net
 - new.deso.cz
 - njzmfcls.com
@@ -147,8 +149,6 @@ ignored_domains:
 - toanthaybac.com
 - topblackfridaydealz.com
 - tuyennvtb.com
-- twospoonsfleet.co.uk
-- ultimatepreneur.com
 - update.fbsbx.com
 - veljko.id
 - visotka.in

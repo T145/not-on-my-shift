@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-06-16T13:52:39Z
+! Last update: 2026-06-17T13:24:05Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -211,11 +211,13 @@
 
 ! 2021-03-02 Fedex phishing
 !  - https://geeklevi.com/fedex/
+||ailnoir.com^
 ||cancervants.org^
 ||castllypay.com^
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
 ||defencelover.in^
+||eurosystemsrl.eu^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||giupich.org^
@@ -226,9 +228,11 @@
 ||loanglide.com^
 ||machupicchutraveling.com^
 ||magicboximportados.com.br^
+||mistc.es^
 ||mouwz.nl^
 ||mucc.com.au^
 ||nbkangxi.com^
+||nectartrust.org.uk^
 ||nextgearup.com^
 ||nguen.net^
 ||redlog.cl^
@@ -239,6 +243,8 @@
 ||tacloban.gov.ph^
 ||trashstation.com^
 ||tubies.com^
+||twospoonsfleet.co.uk^
+||ultimatepreneur.com^
 ||vanguardacademy-ng.com^
 ||weboyal.com^
 ||wowfollowers.com^
@@ -383,7 +389,7 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||4matchcitydate3.biz^
+||1win-bonus-code.org^
 ||americanexpress-bonus5505.ink^
 ||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
@@ -392,6 +398,8 @@
 ||americanexpress-bonus5538.ink^
 ||americanexpress-bonus5552.ink^
 ||americanexpress-bonus6601.ink^
+||americanexpress-bonus6620.ink^
+||americanexpress-bonus6623.ink^
 ||americanexpress-bonus6627.ink^
 ||americanexpress-bonus6630.ink^
 ||americanexpress-bonus6639.ink^
@@ -404,7 +412,6 @@
 ||americanexpress-bonusnutzen9915.ink^
 ||americanexpress-bonusnutzen9923.ink^
 ||americanexpress-bonusnutzen9929.ink^
-||americanexpress-bonusnutzen9933.ink^
 ||americanexpress-bonusnutzen9936.ink^
 ||americanexpress-bonusnutzen9937.ink^
 ||americanexpress-bonusnutzen9941.ink^
@@ -414,16 +421,16 @@
 ||bestlinkdate9.biz^
 ||betting-bonuses-mongolia.com^
 ||bonus-bendigo.vip^
-||bonus-za-registraciu-bez-vkladusk.sk^
 ||bonus138on6.xyz^
 ||bonus724.com^
+||bonus888.page^
 ||bonushub365.top^
 ||bonusnewmember50.com^
 ||bonusnewmember50.org^
 ||bonuss88.net^
+||candidate-profile.site^
 ||clubdatingxconn6ect.biz^
 ||cuidate-skin.com^
-||date-app.net^
 ||date-jason.com^
 ||date-nest.online^
 ||date-nineplay.com^
@@ -432,6 +439,7 @@
 ||date007.xyz^
 ||date11.fun^
 ||datec24.cloud^
+||dateing99.com^
 ||datemij-fr.com^
 ||daten-aktuell.com^
 ||datenschutz-check.ch^
@@ -441,12 +449,14 @@
 ||dating18.click^
 ||dating24hour.com^
 ||datingcity3.biz^
+||deneme-bonusu-tr.site^
 ||deneme-bonusu2026.icu^
 ||denemebonuscusu2026.icu^
 ||denemebonussitesivip2026.icu^
 ||denemebonusumvip2026.icu^
 ||denemebonusuverensiteler26.icu^
 ||dumpster-fire-date-live.click^
+||easyandromanceonedate3.biz^
 ||easydatingpro8.biz^
 ||godateworld4.biz^
 ||hakodate-bpss.net^
@@ -459,7 +469,6 @@
 ||id-validate-service-d12.cyou^
 ||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
-||mandate12x.com^
 ||no-deposit-bonus-casino-nz.online^
 ||online-dating.top^
 ||playdate-now.com^
@@ -467,12 +476,12 @@
 ||safedatingafter50.online^
 ||savethedate3d.com^
 ||seniordating-uk.xyz^
+||smartdatemeetup5.biz^
 ||updating-subscription.com^
 ||validate-immediate.app^
 ||xm-bonus-guide.com^
 ||xn--datenintegritt-iib.com^
 ||xn--sugardatingrdgivning-7zb.se^
-||yt31bonus31.net^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
