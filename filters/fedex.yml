@@ -8,7 +8,6 @@ domains:
 - clone.app.home-cost.com
 - defencelover.in
 - eurosystemsrl.eu
-- fraternitykerala.org
 - galaxyfunbowl.gr
 - giupich.org
 - guzelbil.com
@@ -29,14 +28,11 @@ domains:
 - robbreport.com.my
 - sm-projekt.si
 - soundwavesprodjs.com
-- synoviz.com
 - tacloban.gov.ph
 - trashstation.com
 - tubies.com
 - twospoonsfleet.co.uk
 - ultimatepreneur.com
-- vanguardacademy-ng.com
-- weboyal.com
 - wowfollowers.com
 - yuanant.com
 fedex_suffixes:
@@ -88,6 +84,7 @@ ignored_domains:
 - events.playakasha.com
 - fallenjewellery.com
 - feelmore.site
+- fraternitykerala.org
 - funtrade.land
 - galerihana.com
 - gardendeur.site
@@ -141,6 +138,7 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
+- synoviz.com
 - teamder.org
 - testargames.cl
 - thaircy.redcross.or.th
@@ -150,9 +148,11 @@ ignored_domains:
 - topblackfridaydealz.com
 - tuyennvtb.com
 - update.fbsbx.com
+- vanguardacademy-ng.com
 - veljko.id
 - visotka.in
 - vladimirherzog.org
+- weboyal.com
 - wordpress.mrcentertainment.com
 - wp.up118.cn
 - wsw.cool
