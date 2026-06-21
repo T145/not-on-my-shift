@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-06-19T13:20:32Z
+# Last update: 2026-06-21T12:49:35Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -282,8 +282,6 @@
 #  - https://geeklevi.com/fedex/
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 k.hencoder.com
-0.0.0.0 ailnoir.com
-0.0.0.0 www.ailnoir.com
 0.0.0.0 cancervants.org
 0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
@@ -293,8 +291,8 @@
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 eurosystemsrl.eu
-0.0.0.0 www.eurosystemsrl.eu
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
 0.0.0.0 giupich.org
@@ -305,24 +303,18 @@
 0.0.0.0 www.hongqiqujiu.com
 0.0.0.0 imrt.ac.in
 0.0.0.0 www.imrt.ac.in
-0.0.0.0 kmtks.org.tw
-0.0.0.0 www.kmtks.org.tw
 0.0.0.0 loanglide.com
 0.0.0.0 www.loanglide.com
 0.0.0.0 machupicchutraveling.com
 0.0.0.0 www.machupicchutraveling.com
 0.0.0.0 magicboximportados.com.br
 0.0.0.0 www.magicboximportados.com.br
-0.0.0.0 mistc.es
-0.0.0.0 www.mistc.es
 0.0.0.0 mouwz.nl
 0.0.0.0 www.mouwz.nl
 0.0.0.0 mucc.com.au
 0.0.0.0 www.mucc.com.au
 0.0.0.0 nbkangxi.com
 0.0.0.0 www.nbkangxi.com
-0.0.0.0 nectartrust.org.uk
-0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 nextgearup.com
 0.0.0.0 www.nextgearup.com
 0.0.0.0 nguen.net
@@ -343,8 +335,6 @@
 0.0.0.0 www.tubies.com
 0.0.0.0 twospoonsfleet.co.uk
 0.0.0.0 www.twospoonsfleet.co.uk
-0.0.0.0 ultimatepreneur.com
-0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 wowfollowers.com
 0.0.0.0 www.wowfollowers.com
 0.0.0.0 yuanant.com
@@ -590,8 +580,6 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 1win-bonus-code.org
 0.0.0.0 www.1win-bonus-code.org
-0.0.0.0 4matchcitydate3.biz
-0.0.0.0 www.4matchcitydate3.biz
 0.0.0.0 americanexpress-bonus5505.ink
 0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
@@ -604,6 +592,8 @@
 0.0.0.0 www.americanexpress-bonus5524.ink
 0.0.0.0 americanexpress-bonus5538.ink
 0.0.0.0 www.americanexpress-bonus5538.ink
+0.0.0.0 americanexpress-bonus5552.ink
+0.0.0.0 www.americanexpress-bonus5552.ink
 0.0.0.0 americanexpress-bonus6601.ink
 0.0.0.0 www.americanexpress-bonus6601.ink
 0.0.0.0 americanexpress-bonus6620.ink
@@ -650,6 +640,8 @@
 0.0.0.0 www.americanexpress-bonusnutzen9950.ink
 0.0.0.0 bestlinkdate9.biz
 0.0.0.0 www.bestlinkdate9.biz
+0.0.0.0 betrieblicher-datenschutz-extern.de
+0.0.0.0 www.betrieblicher-datenschutz-extern.de
 0.0.0.0 betting-bonuses-mongolia.com
 0.0.0.0 www.betting-bonuses-mongolia.com
 0.0.0.0 bonus-bendigo.vip
@@ -686,6 +678,8 @@
 0.0.0.0 www.date-qiumeng-sport.com
 0.0.0.0 date-qmhsporting.com
 0.0.0.0 www.date-qmhsporting.com
+0.0.0.0 date-sweet-day.com
+0.0.0.0 www.date-sweet-day.com
 0.0.0.0 date007.xyz
 0.0.0.0 www.date007.xyz
 0.0.0.0 date11.fun
@@ -694,16 +688,20 @@
 0.0.0.0 www.datec24.cloud
 0.0.0.0 dateing99.com
 0.0.0.0 www.dateing99.com
+0.0.0.0 datemij-fr.com
+0.0.0.0 www.datemij-fr.com
+0.0.0.0 daten-aktuell.com
+0.0.0.0 www.daten-aktuell.com
 0.0.0.0 datenschutz-check.ch
 0.0.0.0 www.datenschutz-check.ch
 0.0.0.0 dates-ksa.com
 0.0.0.0 www.dates-ksa.com
 0.0.0.0 dating-anastasiao.ru
 0.0.0.0 www.dating-anastasiao.ru
-0.0.0.0 dating-anastasiao.store
-0.0.0.0 www.dating-anastasiao.store
 0.0.0.0 dating18.click
 0.0.0.0 www.dating18.click
+0.0.0.0 dating247.xyz
+0.0.0.0 www.dating247.xyz
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datingcity3.biz
@@ -718,14 +716,14 @@
 0.0.0.0 www.deneme-bonusu2026.icu
 0.0.0.0 denemebonuscusu2026.icu
 0.0.0.0 www.denemebonuscusu2026.icu
+0.0.0.0 denemebonussitesivip2026.icu
+0.0.0.0 www.denemebonussitesivip2026.icu
 0.0.0.0 denemebonusumvip2026.icu
 0.0.0.0 www.denemebonusumvip2026.icu
 0.0.0.0 denemebonusuverensiteler26.icu
 0.0.0.0 www.denemebonusuverensiteler26.icu
 0.0.0.0 dumpster-fire-date-live.click
 0.0.0.0 www.dumpster-fire-date-live.click
-0.0.0.0 easyandromanceonedate3.biz
-0.0.0.0 www.easyandromanceonedate3.biz
 0.0.0.0 easydatingpro8.biz
 0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 godateworld4.biz
@@ -740,24 +738,16 @@
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodate0104.net
 0.0.0.0 www.hakodate0104.net
-0.0.0.0 hakodatekikyou-kaitori-daikichi.com
-0.0.0.0 www.hakodatekikyou-kaitori-daikichi.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 id-validate-service-d12.cyou
 0.0.0.0 www.id-validate-service-d12.cyou
 0.0.0.0 id-validate-service-d24.cyou
 0.0.0.0 www.id-validate-service-d24.cyou
-0.0.0.0 id-validate-service-d9.cyou
-0.0.0.0 www.id-validate-service-d9.cyou
 0.0.0.0 lanista-bonus-casino-pl.com
 0.0.0.0 www.lanista-bonus-casino-pl.com
-0.0.0.0 mandate12x.com
-0.0.0.0 www.mandate12x.com
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
-0.0.0.0 online-dating.top
-0.0.0.0 www.online-dating.top
 0.0.0.0 playdate-now.com
 0.0.0.0 www.playdate-now.com
 0.0.0.0 quickdatinghu9b.biz
@@ -770,8 +760,6 @@
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smartdatemeetup5.biz
 0.0.0.0 www.smartdatemeetup5.biz
-0.0.0.0 updating-subscription.com
-0.0.0.0 www.updating-subscription.com
 0.0.0.0 validate-immediate.app
 0.0.0.0 www.validate-immediate.app
 0.0.0.0 xm-bonus-guide.com
@@ -780,6 +768,8 @@
 0.0.0.0 www.xn--datenintegritt-iib.com
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
 0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
+0.0.0.0 yt31bonus31.net
+0.0.0.0 www.yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
