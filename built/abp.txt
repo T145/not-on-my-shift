@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-06-21T12:49:35Z
+! Last update: 2026-06-22T14:02:35Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -217,6 +217,7 @@
 ||clone.app.home-cost.com^
 ||defencelover.in^
 ||dexil.ru^
+||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||giupich.org^
 ||guzelbil.com^
@@ -230,14 +231,11 @@
 ||nbkangxi.com^
 ||nextgearup.com^
 ||nguen.net^
-||redlog.cl^
 ||robbreport.com.my^
 ||sm-projekt.si^
 ||soundwavesprodjs.com^
 ||tacloban.gov.ph^
 ||trashstation.com^
-||tubies.com^
-||twospoonsfleet.co.uk^
 ||wowfollowers.com^
 ||yuanant.com^
 
@@ -417,10 +415,7 @@
 ||bonus138on6.xyz^
 ||bonus724.com^
 ||bonus888.page^
-||bonus888slot.club^
-||bonus888slot.vip^
 ||bonushub365.top^
-||bonusnewmember50.com^
 ||bonusnewmember50.org^
 ||clubdatingxconn6ect.biz^
 ||cuidate-skin.com^
@@ -431,7 +426,6 @@
 ||date-qiumeng-sport.com^
 ||date-qmhsporting.com^
 ||date-sweet-day.com^
-||date007.xyz^
 ||date11.fun^
 ||datec24.cloud^
 ||dateing99.com^
@@ -440,18 +434,13 @@
 ||datenschutz-check.ch^
 ||dates-ksa.com^
 ||dating-anastasiao.ru^
+||dating-anastasiao.store^
 ||dating18.click^
 ||dating247.xyz^
 ||dating24hour.com^
 ||datingcity3.biz^
-||deneme-bonusu-tr.site^
 ||deneme-bonusu-veren-siteler.biz^
 ||deneme-bonusu-veren-siteler.org^
-||deneme-bonusu2026.icu^
-||denemebonuscusu2026.icu^
-||denemebonussitesivip2026.icu^
-||denemebonusumvip2026.icu^
-||denemebonusuverensiteler26.icu^
 ||dumpster-fire-date-live.click^
 ||easydatingpro8.biz^
 ||godateworld4.biz^
@@ -464,13 +453,15 @@
 ||id-validate-service-d12.cyou^
 ||id-validate-service-d24.cyou^
 ||lanista-bonus-casino-pl.com^
+||newdating-love.shop^
 ||no-deposit-bonus-casino-nz.online^
+||online-dating.top^
 ||playdate-now.com^
 ||quickdatinghu9b.biz^
 ||safedatingafter50.online^
 ||savethedate3d.com^
 ||seniordating-uk.xyz^
-||smartdatemeetup5.biz^
+||updating-subscription.com^
 ||validate-immediate.app^
 ||xm-bonus-guide.com^
 ||xn--datenintegritt-iib.com^

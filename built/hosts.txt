@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-06-21T12:49:35Z
+# Last update: 2026-06-22T14:02:35Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -293,6 +293,8 @@
 0.0.0.0 www.defencelover.in
 0.0.0.0 dexil.ru
 0.0.0.0 www.dexil.ru
+0.0.0.0 fraternitykerala.org
+0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
 0.0.0.0 giupich.org
@@ -319,8 +321,6 @@
 0.0.0.0 www.nextgearup.com
 0.0.0.0 nguen.net
 0.0.0.0 www.nguen.net
-0.0.0.0 redlog.cl
-0.0.0.0 www.redlog.cl
 0.0.0.0 robbreport.com.my
 0.0.0.0 www.robbreport.com.my
 0.0.0.0 sm-projekt.si
@@ -331,10 +331,6 @@
 0.0.0.0 www.tacloban.gov.ph
 0.0.0.0 trashstation.com
 0.0.0.0 www.trashstation.com
-0.0.0.0 tubies.com
-0.0.0.0 www.tubies.com
-0.0.0.0 twospoonsfleet.co.uk
-0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 wowfollowers.com
 0.0.0.0 www.wowfollowers.com
 0.0.0.0 yuanant.com
@@ -652,14 +648,8 @@
 0.0.0.0 www.bonus724.com
 0.0.0.0 bonus888.page
 0.0.0.0 www.bonus888.page
-0.0.0.0 bonus888slot.club
-0.0.0.0 www.bonus888slot.club
-0.0.0.0 bonus888slot.vip
-0.0.0.0 www.bonus888slot.vip
 0.0.0.0 bonushub365.top
 0.0.0.0 www.bonushub365.top
-0.0.0.0 bonusnewmember50.com
-0.0.0.0 www.bonusnewmember50.com
 0.0.0.0 bonusnewmember50.org
 0.0.0.0 www.bonusnewmember50.org
 0.0.0.0 clubdatingxconn6ect.biz
@@ -680,8 +670,6 @@
 0.0.0.0 www.date-qmhsporting.com
 0.0.0.0 date-sweet-day.com
 0.0.0.0 www.date-sweet-day.com
-0.0.0.0 date007.xyz
-0.0.0.0 www.date007.xyz
 0.0.0.0 date11.fun
 0.0.0.0 www.date11.fun
 0.0.0.0 datec24.cloud
@@ -698,6 +686,8 @@
 0.0.0.0 www.dates-ksa.com
 0.0.0.0 dating-anastasiao.ru
 0.0.0.0 www.dating-anastasiao.ru
+0.0.0.0 dating-anastasiao.store
+0.0.0.0 www.dating-anastasiao.store
 0.0.0.0 dating18.click
 0.0.0.0 www.dating18.click
 0.0.0.0 dating247.xyz
@@ -706,22 +696,10 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datingcity3.biz
 0.0.0.0 www.datingcity3.biz
-0.0.0.0 deneme-bonusu-tr.site
-0.0.0.0 www.deneme-bonusu-tr.site
 0.0.0.0 deneme-bonusu-veren-siteler.biz
 0.0.0.0 www.deneme-bonusu-veren-siteler.biz
 0.0.0.0 deneme-bonusu-veren-siteler.org
 0.0.0.0 www.deneme-bonusu-veren-siteler.org
-0.0.0.0 deneme-bonusu2026.icu
-0.0.0.0 www.deneme-bonusu2026.icu
-0.0.0.0 denemebonuscusu2026.icu
-0.0.0.0 www.denemebonuscusu2026.icu
-0.0.0.0 denemebonussitesivip2026.icu
-0.0.0.0 www.denemebonussitesivip2026.icu
-0.0.0.0 denemebonusumvip2026.icu
-0.0.0.0 www.denemebonusumvip2026.icu
-0.0.0.0 denemebonusuverensiteler26.icu
-0.0.0.0 www.denemebonusuverensiteler26.icu
 0.0.0.0 dumpster-fire-date-live.click
 0.0.0.0 www.dumpster-fire-date-live.click
 0.0.0.0 easydatingpro8.biz
@@ -746,8 +724,12 @@
 0.0.0.0 www.id-validate-service-d24.cyou
 0.0.0.0 lanista-bonus-casino-pl.com
 0.0.0.0 www.lanista-bonus-casino-pl.com
+0.0.0.0 newdating-love.shop
+0.0.0.0 www.newdating-love.shop
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
+0.0.0.0 online-dating.top
+0.0.0.0 www.online-dating.top
 0.0.0.0 playdate-now.com
 0.0.0.0 www.playdate-now.com
 0.0.0.0 quickdatinghu9b.biz
@@ -758,8 +740,8 @@
 0.0.0.0 www.savethedate3d.com
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
-0.0.0.0 smartdatemeetup5.biz
-0.0.0.0 www.smartdatemeetup5.biz
+0.0.0.0 updating-subscription.com
+0.0.0.0 www.updating-subscription.com
 0.0.0.0 validate-immediate.app
 0.0.0.0 www.validate-immediate.app
 0.0.0.0 xm-bonus-guide.com
