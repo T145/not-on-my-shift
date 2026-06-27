@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-06-26T12:52:49Z
+# Last update: 2026-06-27T12:38:26Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -225,6 +225,7 @@ nbkangxi.com
 nectartrust.org.uk
 nextgearup.com
 nguen.net
+redlog.cl
 robbreport.com.my
 sm-projekt.si
 synoviz.com
@@ -376,8 +377,10 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+1win-bonus-code.org
 4matchcitydate3.biz
 americanexpress-bonus5505.ink
+americanexpress-bonus5508.ink
 americanexpress-bonus5509.ink
 americanexpress-bonus5523.ink
 americanexpress-bonus5524.ink
@@ -386,12 +389,12 @@ americanexpress-bonus5552.ink
 americanexpress-bonus6601.ink
 americanexpress-bonus6620.ink
 americanexpress-bonus6623.ink
+americanexpress-bonus6627.ink
 americanexpress-bonus6630.ink
 americanexpress-bonus6639.ink
 americanexpress-bonus6647.ink
 americanexpress-bonus6649.ink
 americanexpress-bonusnutzen9903.ink
-americanexpress-bonusnutzen9906.ink
 americanexpress-bonusnutzen9910.ink
 americanexpress-bonusnutzen9912.ink
 americanexpress-bonusnutzen9915.ink
@@ -401,13 +404,16 @@ americanexpress-bonusnutzen9933.ink
 americanexpress-bonusnutzen9936.ink
 americanexpress-bonusnutzen9937.ink
 americanexpress-bonusnutzen9941.ink
+americanexpress-bonusnutzen9943.ink
 americanexpress-bonusnutzen9949.ink
+americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
 betting-bonuses-mongolia.com
 bonus-bendigo.vip
 bonus138on6.xyz
 bonus724.com
 bonushub365.top
+bonusnewmember50.com
 bonusnewmember50.org
 clubdatingxconn6ect.biz
 cuidate-skin.com
@@ -415,10 +421,12 @@ date-app.net
 date-jason.com
 date-nest.online
 date-nineplay.com
+date-qiumeng-sport.com
 date-qmhsporting.com
 date-sweet-day.com
 date007.xyz
 datec24.cloud
+dateing99.com
 datemij-fr.com
 daten-aktuell.com
 datenschutz-check.ch
@@ -432,20 +440,20 @@ deneme-bonusu-tr.site
 deneme-bonusu-veren-siteler.biz
 deneme-bonusu-veren-siteler.org
 dumpster-fire-date-live.click
-easydatingpro8.biz
+easyandromanceonedate3.biz
 godateworld4.biz
+hakodate-bpss.net
 hakodate-juku.com
+hakodate-wq.com
 hakodate0104.net
 hakodatekikyou-kaitori-daikichi.com
 hakodatemoto7.com
 id-validate-service-d12.cyou
-id-validate-service-d24.cyou
 id-validate-service-d9.cyou
 lanista-bonus-casino-pl.com
 mandate12x.com
 no-deposit-bonus-casino-nz.online
 online-dating.top
-playdate-now.com
 quickdatinghu9b.biz
 safedatingafter50.online
 savethedate3d.com
