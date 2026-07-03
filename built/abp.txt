@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-07-02T12:49:25Z
+! Last update: 2026-07-03T14:00:07Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -211,13 +211,12 @@
 
 ! 2021-03-02 Fedex phishing
 !  - https://geeklevi.com/fedex/
-||ailnoir.com^
 ||cancervants.org^
 ||castllypay.com^
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
 ||defencelover.in^
-||eurosystemsrl.eu^
+||dexil.ru^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||guzelbil.com^
@@ -227,15 +226,11 @@
 ||loanglide.com^
 ||machupicchutraveling.com^
 ||magicboximportados.com.br^
-||mistc.es^
 ||mouwz.nl^
 ||mucc.com.au^
 ||nbkangxi.com^
-||nectartrust.org.uk^
 ||nextgearup.com^
 ||nguen.net^
-||redlog.cl^
-||rees.games^
 ||robbreport.com.my^
 ||sm-projekt.si^
 ||synoviz.com^
@@ -243,7 +238,6 @@
 ||teamder.org^
 ||trashstation.com^
 ||twospoonsfleet.co.uk^
-||ultimatepreneur.com^
 ||vanguardacademy-ng.com^
 ||weboyal.com^
 ||wowfollowers.com^
@@ -400,16 +394,13 @@
 ||americanexpress-bonus6601.ink^
 ||americanexpress-bonus6620.ink^
 ||americanexpress-bonus6623.ink^
-||americanexpress-bonus6627.ink^
 ||americanexpress-bonus6630.ink^
 ||americanexpress-bonus6639.ink^
 ||americanexpress-bonus6647.ink^
 ||americanexpress-bonus6649.ink^
 ||americanexpress-bonusnutzen9906.ink^
-||americanexpress-bonusnutzen9910.ink^
 ||americanexpress-bonusnutzen9912.ink^
 ||americanexpress-bonusnutzen9915.ink^
-||americanexpress-bonusnutzen9923.ink^
 ||americanexpress-bonusnutzen9929.ink^
 ||americanexpress-bonusnutzen9933.ink^
 ||americanexpress-bonusnutzen9936.ink^
@@ -425,7 +416,6 @@
 ||bonus724.com^
 ||bonushub365.top^
 ||bonusnewmember50.com^
-||bonusnewmember50.org^
 ||clubdatingxconn6ect.biz^
 ||cuidate-skin.com^
 ||date-app.net^
@@ -435,6 +425,7 @@
 ||date-qiumeng-sport.com^
 ||date-qmhsporting.com^
 ||date-sweet-day.com^
+||date007.xyz^
 ||dateing99.com^
 ||datemij-fr.com^
 ||daten-aktuell.com^
@@ -447,10 +438,6 @@
 ||deneme-bonusu-tr.site^
 ||deneme-bonusu-veren-siteler.biz^
 ||deneme-bonusu-veren-siteler.org^
-||deneme-bonusu2026.icu^
-||denemebonussitesivip2026.icu^
-||denemebonusumvip2026.icu^
-||denemebonusuverensiteler26.icu^
 ||dumpster-fire-date-live.click^
 ||easyandromanceonedate3.biz^
 ||easydatingpro8.biz^
@@ -466,12 +453,11 @@
 ||hakodatekikyou-kaitori-daikichi.com^
 ||hakodatemoto7.com^
 ||id-validate-service-d12.cyou^
-||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
 ||lanista-bonus-casino-pl.com^
 ||no-deposit-bonus-casino-nz.online^
 ||playdate-now.com^
-||quickdatinghu9b.biz^
+||proflirtlandiodate6.biz^
 ||quickplusmeetxdating6.biz^
 ||safedatingafter50.online^
 ||savethedate3d.com^
