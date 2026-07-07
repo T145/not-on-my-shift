@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-07-04T13:19:57Z
+# Last update: 2026-07-07T14:25:37Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -202,12 +202,14 @@ alexwasiwo.com
 
 # 2021-03-02 Fedex phishing
 #  - https://geeklevi.com/fedex/
+ailnoir.com
 cancervants.org
 castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
 defencelover.in
-dexil.ru
+eurosystemsrl.eu
+fraternitykerala.org
 galaxyfunbowl.gr
 guzelbil.com
 hongqiqujiu.com
@@ -216,17 +218,23 @@ kmtks.org.tw
 loanglide.com
 machupicchutraveling.com
 magicboximportados.com.br
+mistc.es
 mouwz.nl
 mucc.com.au
 nbkangxi.com
+nectartrust.org.uk
 nextgearup.com
 nguen.net
-robbreport.com.my
+redlog.cl
 sm-projekt.si
+synoviz.com
 tacloban.gov.ph
 teamder.org
 trashstation.com
 twospoonsfleet.co.uk
+ultimatepreneur.com
+vanguardacademy-ng.com
+weboyal.com
 wowfollowers.com
 yuanant.com
 
@@ -370,15 +378,14 @@ centent.steamplay.me
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 1win-bonus-code.org
-americanexpress-bonus5505.ink
+4matchcitydate3.biz
 americanexpress-bonus5508.ink
 americanexpress-bonus5509.ink
 americanexpress-bonus5523.ink
-americanexpress-bonus5524.ink
 americanexpress-bonus5538.ink
 americanexpress-bonus5552.ink
 americanexpress-bonus6601.ink
-americanexpress-bonus6620.ink
+americanexpress-bonus6623.ink
 americanexpress-bonus6627.ink
 americanexpress-bonus6630.ink
 americanexpress-bonus6639.ink
@@ -386,11 +393,11 @@ americanexpress-bonus6647.ink
 americanexpress-bonus6649.ink
 americanexpress-bonusnutzen9906.ink
 americanexpress-bonusnutzen9910.ink
-americanexpress-bonusnutzen9912.ink
 americanexpress-bonusnutzen9915.ink
 americanexpress-bonusnutzen9923.ink
 americanexpress-bonusnutzen9929.ink
 americanexpress-bonusnutzen9933.ink
+americanexpress-bonusnutzen9936.ink
 americanexpress-bonusnutzen9937.ink
 americanexpress-bonusnutzen9941.ink
 americanexpress-bonusnutzen9943.ink
@@ -399,11 +406,10 @@ americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
 betting-bonuses-mongolia.com
 bonus-bendigo.vip
-bonus138on6.xyz
+bonus724.com
 bonushub365.top
 bonusnewmember50.com
 bonusnewmember50.org
-clubdatingxconn6ect.biz
 cuidate-skin.com
 date-app.net
 date-jason.com
@@ -415,7 +421,6 @@ date-sweet-day.com
 date007.xyz
 dateing99.com
 datemij-fr.com
-daten-aktuell.com
 datenschutz-check.ch
 dating-anastasiao.ru
 dating18.click
@@ -442,7 +447,6 @@ id-validate-service-d12.cyou
 id-validate-service-d24.cyou
 id-validate-service-d9.cyou
 lanista-bonus-casino-pl.com
-mandate12x.com
 no-deposit-bonus-casino-nz.online
 playdate-now.com
 proflirtlandiodate6.biz
@@ -451,8 +455,8 @@ quickplusmeetxdating6.biz
 safedatingafter50.online
 savethedate3d.com
 seniordating-uk.xyz
-smartdatemeetup5.biz
 topdate7.biz
+updating-subscription.com
 validate-immediate.app
 validate-procedure.com
 xn--datenintegritt-iib.com
