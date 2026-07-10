@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-07-09T14:53:16Z
+! Last update: 2026-07-10T14:17:48Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -217,7 +217,6 @@
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
 ||defencelover.in^
-||dexil.ru^
 ||eurosystemsrl.eu^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
@@ -390,7 +389,7 @@
 ||1win-bonus-code.org^
 ||4matchcitydate3.biz^
 ||americanexpress-bonus5505.ink^
-||americanexpress-bonus5508.ink^
+||americanexpress-bonus5509.ink^
 ||americanexpress-bonus5523.ink^
 ||americanexpress-bonus5524.ink^
 ||americanexpress-bonus5538.ink^
@@ -398,11 +397,8 @@
 ||americanexpress-bonus6601.ink^
 ||americanexpress-bonus6620.ink^
 ||americanexpress-bonus6623.ink^
-||americanexpress-bonus6630.ink^
 ||americanexpress-bonus6639.ink^
-||americanexpress-bonus6647.ink^
 ||americanexpress-bonus6649.ink^
-||americanexpress-bonusnutzen9906.ink^
 ||americanexpress-bonusnutzen9910.ink^
 ||americanexpress-bonusnutzen9912.ink^
 ||americanexpress-bonusnutzen9915.ink^
@@ -415,23 +411,16 @@
 ||americanexpress-bonusnutzen9949.ink^
 ||americanexpress-bonusnutzen9950.ink^
 ||bestlinkdate9.biz^
-||betting-bonuses-mongolia.com^
 ||bonus-bendigo.vip^
-||bonus724.com^
 ||bonushub365.top^
 ||bonusnewmember50.com^
-||bonusnewmember50.org^
-||clubdatingxconn6ect.biz^
-||cuidate-skin.com^
 ||date-app.net^
 ||date-jason.com^
-||date-nest.online^
 ||date-nineplay.com^
 ||date-qiumeng-sport.com^
 ||date-qmhsporting.com^
 ||date-sweet-day.com^
 ||date007.xyz^
-||dateing99.com^
 ||datemij-fr.com^
 ||datenschutz-check.ch^
 ||dating-anastasiao.ru^
@@ -443,35 +432,30 @@
 ||deneme-bonusu-veren-siteler.org^
 ||dumpster-fire-date-live.click^
 ||easyandromanceonedate3.biz^
+||easydatingpro8.biz^
 ||easypartnersearchproonedate7.biz^
-||getdatecity9.biz^
 ||godateworld4.biz^
-||godatingpro9.biz^
 ||hakodate-bpss.net^
 ||hakodate-juku.com^
 ||hakodate-printing.com^
 ||hakodate-wq.com^
 ||hakodate0104.net^
-||hakodatekikyou-kaitori-daikichi.com^
 ||hakodatemoto7.com^
 ||id-validate-service-d12.cyou^
 ||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
 ||lanista-bonus-casino-pl.com^
-||no-deposit-bonus-casino-nz.online^
 ||playdate-now.com^
 ||proflirtlandiodate6.biz^
 ||quickdatinghu9b.biz^
 ||quickplusmeetxdating6.biz^
 ||safedatingafter50.online^
-||savethedate3d.com^
 ||smartdatemeetup5.biz^
 ||topdate7.biz^
 ||updating-subscription.com^
 ||validate-immediate.app^
-||xn--datenintegritt-iib.com^
+||validate-procedure.com^
 ||xn--sugardatingrdgivning-7zb.se^
-||yt31bonus31.net^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
