@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-07-11T13:14:35Z
+# Last update: 2026-07-13T14:27:23Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -212,6 +212,7 @@ galaxyfunbowl.gr
 guzelbil.com
 hongqiqujiu.com
 imrt.ac.in
+kmtks.org.tw
 loanglide.com
 machupicchutraveling.com
 magicboximportados.com.br
@@ -224,6 +225,7 @@ sm-projekt.si
 synoviz.com
 tacloban.gov.ph
 teamder.org
+trashstation.com
 twospoonsfleet.co.uk
 vanguardacademy-ng.com
 weboyal.com
@@ -371,7 +373,6 @@ centent.steamplay.me
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 1win-bonus-code.org
 4matchcitydate3.biz
-americanexpress-bonus5505.ink
 americanexpress-bonus5508.ink
 americanexpress-bonus5509.ink
 americanexpress-bonus5523.ink
@@ -398,36 +399,34 @@ americanexpress-bonusnutzen9937.ink
 americanexpress-bonusnutzen9941.ink
 americanexpress-bonusnutzen9943.ink
 americanexpress-bonusnutzen9949.ink
+americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
 betting-bonuses-mongolia.com
+bonus-bendigo.vip
 bonus138on6.xyz
-bonus724.com
+bonushub365.top
 bonusnewmember50.com
 bonusnewmember50.org
-casualdating-de.com
 clubdatingxconn6ect.biz
 cuidate-skin.com
 date-app.net
 date-jason.com
 date-nest.online
 date-nineplay.com
-date-qiumeng-sport.com
-date-qmhsporting.com
 date-sweet-day.com
 date007.xyz
-dateing99.com
 datemij-fr.com
 datenschutz-check.ch
 dating-anastasiao.ru
 dating-anastasiao.store
 dating18.click
 dating24hour.com
+datingcity3.biz
 deneme-bonusu-tr.site
 deneme-bonusu-veren-siteler.biz
 deneme-bonusu-veren-siteler.org
 dumpster-fire-date-live.click
 easyandromanceonedate3.biz
-easydatingpro8.biz
 easypartnersearchproonedate7.biz
 fickdate-de.com
 getdatecity9.biz
@@ -438,7 +437,9 @@ hakodate-juku.com
 hakodate-printing.com
 hakodate-wq.com
 hakodate0104.net
+hakodatekikyou-kaitori-daikichi.com
 hakodatemoto7.com
+id-validate-service-d12.cyou
 id-validate-service-d24.cyou
 id-validate-service-d9.cyou
 lanista-bonus-casino-pl.com
@@ -446,7 +447,6 @@ no-deposit-bonus-casino-nz.online
 playdate-now.com
 proflirtlandiodate6.biz
 quickdatinghu9b.biz
-quickplusmeetxdating6.biz
 safedatingafter50.online
 savethedate3d.com
 seniordating-uk.xyz
