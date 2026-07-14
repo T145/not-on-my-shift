@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-07-13T14:27:23Z
+# Last update: 2026-07-14T13:29:11Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -202,11 +202,15 @@ alexwasiwo.com
 
 # 2021-03-02 Fedex phishing
 #  - https://geeklevi.com/fedex/
+ailnoir.com
 cancervants.org
 castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
+comptoncymru.com
 defencelover.in
+dexil.ru
+eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
 guzelbil.com
@@ -216,17 +220,21 @@ kmtks.org.tw
 loanglide.com
 machupicchutraveling.com
 magicboximportados.com.br
+mistc.es
 mouwz.nl
 mucc.com.au
 nbkangxi.com
+nectartrust.org.uk
 nextgearup.com
 nguen.net
+redlog.cl
 sm-projekt.si
 synoviz.com
 tacloban.gov.ph
 teamder.org
 trashstation.com
 twospoonsfleet.co.uk
+ultimatepreneur.com
 vanguardacademy-ng.com
 weboyal.com
 wowfollowers.com
@@ -390,7 +398,6 @@ americanexpress-bonus6649.ink
 americanexpress-bonusnutzen9906.ink
 americanexpress-bonusnutzen9910.ink
 americanexpress-bonusnutzen9912.ink
-americanexpress-bonusnutzen9915.ink
 americanexpress-bonusnutzen9923.ink
 americanexpress-bonusnutzen9929.ink
 americanexpress-bonusnutzen9933.ink
@@ -404,13 +411,14 @@ bestlinkdate9.biz
 betting-bonuses-mongolia.com
 bonus-bendigo.vip
 bonus138on6.xyz
+bonus724.com
 bonushub365.top
 bonusnewmember50.com
 bonusnewmember50.org
+casualdating-de.com
 clubdatingxconn6ect.biz
 cuidate-skin.com
 date-app.net
-date-jason.com
 date-nest.online
 date-nineplay.com
 date-sweet-day.com
@@ -426,7 +434,7 @@ deneme-bonusu-tr.site
 deneme-bonusu-veren-siteler.biz
 deneme-bonusu-veren-siteler.org
 dumpster-fire-date-live.click
-easyandromanceonedate3.biz
+easydatingpro8.biz
 easypartnersearchproonedate7.biz
 fickdate-de.com
 getdatecity9.biz
@@ -444,11 +452,10 @@ id-validate-service-d24.cyou
 id-validate-service-d9.cyou
 lanista-bonus-casino-pl.com
 no-deposit-bonus-casino-nz.online
-playdate-now.com
 proflirtlandiodate6.biz
 quickdatinghu9b.biz
+quickplusmeetxdating6.biz
 safedatingafter50.online
-savethedate3d.com
 seniordating-uk.xyz
 smartdatemeetup5.biz
 topdate7.biz
@@ -457,7 +464,6 @@ validate-immediate.app
 validate-procedure.com
 xn--datenintegritt-iib.com
 xn--sugardatingrdgivning-7zb.se
-yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 1mono.biz
