@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-07-14T13:29:11Z
+! Last update: 2026-07-15T13:33:22Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -390,6 +390,7 @@
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||1win-bonus-code.org^
 ||4matchcitydate3.biz^
+||americanexpress-bonus5505.ink^
 ||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
 ||americanexpress-bonus5523.ink^
@@ -407,6 +408,7 @@
 ||americanexpress-bonusnutzen9906.ink^
 ||americanexpress-bonusnutzen9910.ink^
 ||americanexpress-bonusnutzen9912.ink^
+||americanexpress-bonusnutzen9915.ink^
 ||americanexpress-bonusnutzen9923.ink^
 ||americanexpress-bonusnutzen9929.ink^
 ||americanexpress-bonusnutzen9933.ink^
@@ -417,6 +419,7 @@
 ||americanexpress-bonusnutzen9949.ink^
 ||americanexpress-bonusnutzen9950.ink^
 ||bestlinkdate9.biz^
+||betnanobonus-günü.icu^
 ||betting-bonuses-mongolia.com^
 ||bonus-bendigo.vip^
 ||bonus138on6.xyz^
@@ -424,14 +427,17 @@
 ||bonushub365.top^
 ||bonusnewmember50.com^
 ||bonusnewmember50.org^
+||bonuspointsystem5.ru^
 ||casualdating-de.com^
 ||clubdatingxconn6ect.biz^
 ||cuidate-skin.com^
 ||date-app.net^
+||date-jason.com^
 ||date-nest.online^
 ||date-nineplay.com^
 ||date-sweet-day.com^
 ||date007.xyz^
+||dateing99.com^
 ||datemij-fr.com^
 ||datenschutz-check.ch^
 ||dating-anastasiao.ru^
@@ -439,17 +445,15 @@
 ||dating18.click^
 ||dating24hour.com^
 ||datingcity3.biz^
-||deneme-bonusu-tr.site^
 ||deneme-bonusu-veren-siteler.biz^
 ||deneme-bonusu-veren-siteler.org^
 ||dumpster-fire-date-live.click^
+||easyandromanceonedate3.biz^
 ||easydatingpro8.biz^
 ||easypartnersearchproonedate7.biz^
 ||fickdate-de.com^
-||getdatecity9.biz^
 ||godateworld4.biz^
 ||godatingpro9.biz^
-||hakodate-bpss.net^
 ||hakodate-juku.com^
 ||hakodate-printing.com^
 ||hakodate-wq.com^
@@ -459,12 +463,12 @@
 ||id-validate-service-d12.cyou^
 ||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
-||lanista-bonus-casino-pl.com^
-||no-deposit-bonus-casino-nz.online^
+||playdate-now.com^
 ||proflirtlandiodate6.biz^
 ||quickdatinghu9b.biz^
 ||quickplusmeetxdating6.biz^
 ||safedatingafter50.online^
+||savethedate3d.com^
 ||seniordating-uk.xyz^
 ||smartdatemeetup5.biz^
 ||topdate7.biz^
