@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-07-16T13:38:48Z
+# Last update: 2026-07-17T13:24:33Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -207,8 +207,8 @@ cancervants.org
 castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
-comptoncymru.com
 defencelover.in
+dexil.ru
 eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
@@ -379,10 +379,8 @@ centent.steamplay.me
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 1win-bonus-code.org
-4matchcitydate3.biz
 americanexpress-bonus5505.ink
 americanexpress-bonus5508.ink
-americanexpress-bonus5509.ink
 americanexpress-bonus5523.ink
 americanexpress-bonus5524.ink
 americanexpress-bonus5538.ink
@@ -395,13 +393,13 @@ americanexpress-bonus6630.ink
 americanexpress-bonus6639.ink
 americanexpress-bonus6647.ink
 americanexpress-bonus6649.ink
-americanexpress-bonusnutzen9906.ink
 americanexpress-bonusnutzen9910.ink
 americanexpress-bonusnutzen9912.ink
 americanexpress-bonusnutzen9915.ink
 americanexpress-bonusnutzen9923.ink
 americanexpress-bonusnutzen9929.ink
 americanexpress-bonusnutzen9933.ink
+americanexpress-bonusnutzen9936.ink
 americanexpress-bonusnutzen9937.ink
 americanexpress-bonusnutzen9941.ink
 americanexpress-bonusnutzen9943.ink
@@ -409,26 +407,23 @@ americanexpress-bonusnutzen9949.ink
 americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
 betnanobonus-günü.icu
+betting-bonuses-mongolia.com
 bonus-bendigo.vip
-bonus138link.cloud
-bonus138on6.xyz
 bonus724.com
 bonusblas10.site
 bonushub365.top
-bonusnewmember50.com
 bonusnewmember50.org
 casualdating-de.com
-cdate-online.org
 clubdatingxconn6ect.biz
 cuidate-skin.com
 date-app.net
 date-jason.com
-date-nest.online
 date-nineplay.com
 date-sweet-day.com
 date007.xyz
 dateing99.com
 datenschutz-check.ch
+dates4now.org
 dating-anastasiao.ru
 dating-anastasiao.store
 dating24hour.com
@@ -443,16 +438,15 @@ easypartnersearchproonedate7.biz
 fickdate-de.com
 getdatecity9.biz
 godateworld4.biz
-godatingpro9.biz
 hakodate-bpss.net
 hakodate-printing.com
 hakodate-wq.com
 hakodate0104.net
 hakodatekikyou-kaitori-daikichi.com
 hakodatemoto7.com
-id-validate-service-d12.cyou
 id-validate-service-d24.cyou
 id-validate-service-d9.cyou
+mandate-targetstorageltd.com
 no-deposit-bonus-casino-nz.online
 playdate-now.com
 proflirtlandiodate6.biz
@@ -460,13 +454,13 @@ quickdatinghu9b.biz
 quickplusmeetxdating6.biz
 safedatingafter50.online
 savethedate3d.com
+seduniatotobonusss30ribu.cyou
 seniordating-uk.xyz
 smartdatemeetup5.biz
 topdate7.biz
 updating-subscription.com
 validate-immediate.app
 validate-procedure.com
-xn--datenintegritt-iib.com
 xn--sugardatingrdgivning-7zb.se
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
