@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-07-17T13:24:33Z
+# Last update: 2026-07-18T13:10:38Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -291,6 +291,8 @@
 0.0.0.0 clickedgesolutions.com
 0.0.0.0 www.clickedgesolutions.com
 0.0.0.0 clone.app.home-cost.com
+0.0.0.0 comptoncymru.com
+0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
 0.0.0.0 dexil.ru
@@ -594,10 +596,14 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 1win-bonus-code.org
 0.0.0.0 www.1win-bonus-code.org
+0.0.0.0 4matchcitydate3.biz
+0.0.0.0 www.4matchcitydate3.biz
 0.0.0.0 americanexpress-bonus5505.ink
 0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
 0.0.0.0 www.americanexpress-bonus5508.ink
+0.0.0.0 americanexpress-bonus5509.ink
+0.0.0.0 www.americanexpress-bonus5509.ink
 0.0.0.0 americanexpress-bonus5523.ink
 0.0.0.0 www.americanexpress-bonus5523.ink
 0.0.0.0 americanexpress-bonus5524.ink
@@ -622,12 +628,12 @@
 0.0.0.0 www.americanexpress-bonus6647.ink
 0.0.0.0 americanexpress-bonus6649.ink
 0.0.0.0 www.americanexpress-bonus6649.ink
+0.0.0.0 americanexpress-bonusnutzen9906.ink
+0.0.0.0 www.americanexpress-bonusnutzen9906.ink
 0.0.0.0 americanexpress-bonusnutzen9910.ink
 0.0.0.0 www.americanexpress-bonusnutzen9910.ink
 0.0.0.0 americanexpress-bonusnutzen9912.ink
 0.0.0.0 www.americanexpress-bonusnutzen9912.ink
-0.0.0.0 americanexpress-bonusnutzen9915.ink
-0.0.0.0 www.americanexpress-bonusnutzen9915.ink
 0.0.0.0 americanexpress-bonusnutzen9923.ink
 0.0.0.0 www.americanexpress-bonusnutzen9923.ink
 0.0.0.0 americanexpress-bonusnutzen9929.ink
@@ -654,12 +660,20 @@
 0.0.0.0 www.betting-bonuses-mongolia.com
 0.0.0.0 bonus-bendigo.vip
 0.0.0.0 www.bonus-bendigo.vip
+0.0.0.0 bonus-leumi.com
+0.0.0.0 www.bonus-leumi.com
+0.0.0.0 bonus138link.cloud
+0.0.0.0 www.bonus138link.cloud
+0.0.0.0 bonus138on6.xyz
+0.0.0.0 www.bonus138on6.xyz
 0.0.0.0 bonus724.com
 0.0.0.0 www.bonus724.com
 0.0.0.0 bonusblas10.site
 0.0.0.0 www.bonusblas10.site
 0.0.0.0 bonushub365.top
 0.0.0.0 www.bonushub365.top
+0.0.0.0 bonusnewmember50.com
+0.0.0.0 www.bonusnewmember50.com
 0.0.0.0 bonusnewmember50.org
 0.0.0.0 www.bonusnewmember50.org
 0.0.0.0 casualdating-de.com
@@ -682,12 +696,12 @@
 0.0.0.0 www.dateing99.com
 0.0.0.0 datenschutz-check.ch
 0.0.0.0 www.datenschutz-check.ch
-0.0.0.0 dates4now.org
-0.0.0.0 www.dates4now.org
 0.0.0.0 dating-anastasiao.ru
 0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
 0.0.0.0 www.dating-anastasiao.store
+0.0.0.0 dating18.click
+0.0.0.0 www.dating18.click
 0.0.0.0 dating24hour.com
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datingcity3.biz
@@ -712,6 +726,8 @@
 0.0.0.0 www.getdatecity9.biz
 0.0.0.0 godateworld4.biz
 0.0.0.0 www.godateworld4.biz
+0.0.0.0 godatingpro9.biz
+0.0.0.0 www.godatingpro9.biz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-printing.com
@@ -724,6 +740,8 @@
 0.0.0.0 www.hakodatekikyou-kaitori-daikichi.com
 0.0.0.0 hakodatemoto7.com
 0.0.0.0 www.hakodatemoto7.com
+0.0.0.0 id-validate-service-d12.cyou
+0.0.0.0 www.id-validate-service-d12.cyou
 0.0.0.0 id-validate-service-d24.cyou
 0.0.0.0 www.id-validate-service-d24.cyou
 0.0.0.0 id-validate-service-d9.cyou
@@ -732,8 +750,6 @@
 0.0.0.0 www.mandate-targetstorageltd.com
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
-0.0.0.0 playdate-now.com
-0.0.0.0 www.playdate-now.com
 0.0.0.0 proflirtlandiodate6.biz
 0.0.0.0 www.proflirtlandiodate6.biz
 0.0.0.0 quickdatinghu9b.biz
@@ -748,8 +764,6 @@
 0.0.0.0 www.seduniatotobonusss30ribu.cyou
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
-0.0.0.0 smartdatemeetup5.biz
-0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 topdate7.biz
 0.0.0.0 www.topdate7.biz
 0.0.0.0 updating-subscription.com
@@ -758,6 +772,8 @@
 0.0.0.0 www.validate-immediate.app
 0.0.0.0 validate-procedure.com
 0.0.0.0 www.validate-procedure.com
+0.0.0.0 xn--datenintegritt-iib.com
+0.0.0.0 www.xn--datenintegritt-iib.com
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
 0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
 
