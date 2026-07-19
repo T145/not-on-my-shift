@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-07-18T13:10:38Z
+# Last update: 2026-07-19T13:12:37Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -202,15 +202,12 @@ alexwasiwo.com
 
 # 2021-03-02 Fedex phishing
 #  - https://geeklevi.com/fedex/
-ailnoir.com
 cancervants.org
 castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
-dexil.ru
-eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
 guzelbil.com
@@ -220,21 +217,17 @@ kmtks.org.tw
 loanglide.com
 machupicchutraveling.com
 magicboximportados.com.br
-mistc.es
 mouwz.nl
 mucc.com.au
 nbkangxi.com
-nectartrust.org.uk
 nextgearup.com
 nguen.net
-redlog.cl
 sm-projekt.si
 synoviz.com
 tacloban.gov.ph
 teamder.org
 trashstation.com
 twospoonsfleet.co.uk
-ultimatepreneur.com
 vanguardacademy-ng.com
 weboyal.com
 wowfollowers.com
@@ -399,6 +392,7 @@ americanexpress-bonus6649.ink
 americanexpress-bonusnutzen9906.ink
 americanexpress-bonusnutzen9910.ink
 americanexpress-bonusnutzen9912.ink
+americanexpress-bonusnutzen9915.ink
 americanexpress-bonusnutzen9923.ink
 americanexpress-bonusnutzen9929.ink
 americanexpress-bonusnutzen9933.ink
@@ -435,6 +429,9 @@ dating-anastasiao.store
 dating18.click
 dating24hour.com
 datingcity3.biz
+de-daten-bearbeiten-4455.cfd
+de-daten-bearbeiten-f110.sbs
+de-daten-server-8842.sbs
 deneme-bonusu-tr.site
 deneme-bonusu-veren-siteler.biz
 deneme-bonusu-veren-siteler.org
@@ -447,16 +444,17 @@ getdatecity9.biz
 godateworld4.biz
 godatingpro9.biz
 hakodate-bpss.net
+hakodate-juku.com
 hakodate-printing.com
 hakodate-wq.com
 hakodate0104.net
-hakodatekikyou-kaitori-daikichi.com
 hakodatemoto7.com
 id-validate-service-d12.cyou
 id-validate-service-d24.cyou
 id-validate-service-d9.cyou
 mandate-targetstorageltd.com
 no-deposit-bonus-casino-nz.online
+playdate-now.com
 proflirtlandiodate6.biz
 quickdatinghu9b.biz
 quickplusmeetxdating6.biz
@@ -464,6 +462,7 @@ safedatingafter50.online
 savethedate3d.com
 seduniatotobonusss30ribu.cyou
 seniordating-uk.xyz
+smartdatemeetup5.biz
 topdate7.biz
 updating-subscription.com
 validate-immediate.app
