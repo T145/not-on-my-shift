@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-07-19T13:12:37Z
+# Last update: 2026-07-20T14:04:33Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -282,6 +282,8 @@
 #  - https://geeklevi.com/fedex/
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 k.hencoder.com
+0.0.0.0 ailnoir.com
+0.0.0.0 www.ailnoir.com
 0.0.0.0 cancervants.org
 0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
@@ -293,6 +295,8 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 eurosystemsrl.eu
+0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 fraternitykerala.org
 0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
@@ -311,16 +315,22 @@
 0.0.0.0 www.machupicchutraveling.com
 0.0.0.0 magicboximportados.com.br
 0.0.0.0 www.magicboximportados.com.br
+0.0.0.0 mistc.es
+0.0.0.0 www.mistc.es
 0.0.0.0 mouwz.nl
 0.0.0.0 www.mouwz.nl
 0.0.0.0 mucc.com.au
 0.0.0.0 www.mucc.com.au
 0.0.0.0 nbkangxi.com
 0.0.0.0 www.nbkangxi.com
+0.0.0.0 nectartrust.org.uk
+0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 nextgearup.com
 0.0.0.0 www.nextgearup.com
 0.0.0.0 nguen.net
 0.0.0.0 www.nguen.net
+0.0.0.0 redlog.cl
+0.0.0.0 www.redlog.cl
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 synoviz.com
@@ -333,6 +343,8 @@
 0.0.0.0 www.trashstation.com
 0.0.0.0 twospoonsfleet.co.uk
 0.0.0.0 www.twospoonsfleet.co.uk
+0.0.0.0 ultimatepreneur.com
+0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vanguardacademy-ng.com
 0.0.0.0 www.vanguardacademy-ng.com
 0.0.0.0 weboyal.com
@@ -596,8 +608,6 @@
 0.0.0.0 www.americanexpress-bonus5524.ink
 0.0.0.0 americanexpress-bonus5538.ink
 0.0.0.0 www.americanexpress-bonus5538.ink
-0.0.0.0 americanexpress-bonus5552.ink
-0.0.0.0 www.americanexpress-bonus5552.ink
 0.0.0.0 americanexpress-bonus6601.ink
 0.0.0.0 www.americanexpress-bonus6601.ink
 0.0.0.0 americanexpress-bonus6620.ink
@@ -644,12 +654,8 @@
 0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 betnanobonus-günü.icu
 0.0.0.0 www.betnanobonus-günü.icu
-0.0.0.0 betting-bonuses-mongolia.com
-0.0.0.0 www.betting-bonuses-mongolia.com
 0.0.0.0 bonus-bendigo.vip
 0.0.0.0 www.bonus-bendigo.vip
-0.0.0.0 bonus-leumi.com
-0.0.0.0 www.bonus-leumi.com
 0.0.0.0 bonus138link.cloud
 0.0.0.0 www.bonus138link.cloud
 0.0.0.0 bonus138on6.xyz
@@ -694,12 +700,6 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datingcity3.biz
 0.0.0.0 www.datingcity3.biz
-0.0.0.0 de-daten-bearbeiten-4455.cfd
-0.0.0.0 www.de-daten-bearbeiten-4455.cfd
-0.0.0.0 de-daten-bearbeiten-f110.sbs
-0.0.0.0 www.de-daten-bearbeiten-f110.sbs
-0.0.0.0 de-daten-server-8842.sbs
-0.0.0.0 www.de-daten-server-8842.sbs
 0.0.0.0 deneme-bonusu-tr.site
 0.0.0.0 www.deneme-bonusu-tr.site
 0.0.0.0 deneme-bonusu-veren-siteler.biz
@@ -716,8 +716,6 @@
 0.0.0.0 www.easypartnersearchproonedate7.biz
 0.0.0.0 fickdate-de.com
 0.0.0.0 www.fickdate-de.com
-0.0.0.0 getdatecity9.biz
-0.0.0.0 www.getdatecity9.biz
 0.0.0.0 godateworld4.biz
 0.0.0.0 www.godateworld4.biz
 0.0.0.0 godatingpro9.biz
@@ -736,8 +734,6 @@
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 id-validate-service-d12.cyou
 0.0.0.0 www.id-validate-service-d12.cyou
-0.0.0.0 id-validate-service-d24.cyou
-0.0.0.0 www.id-validate-service-d24.cyou
 0.0.0.0 id-validate-service-d9.cyou
 0.0.0.0 www.id-validate-service-d9.cyou
 0.0.0.0 mandate-targetstorageltd.com
@@ -764,8 +760,6 @@
 0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 topdate7.biz
 0.0.0.0 www.topdate7.biz
-0.0.0.0 updating-subscription.com
-0.0.0.0 www.updating-subscription.com
 0.0.0.0 validate-immediate.app
 0.0.0.0 www.validate-immediate.app
 0.0.0.0 validate-procedure.com
