@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-07-20T14:04:33Z
+# Last update: 2026-07-21T13:34:27Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -608,6 +608,8 @@
 0.0.0.0 www.americanexpress-bonus5524.ink
 0.0.0.0 americanexpress-bonus5538.ink
 0.0.0.0 www.americanexpress-bonus5538.ink
+0.0.0.0 americanexpress-bonus5552.ink
+0.0.0.0 www.americanexpress-bonus5552.ink
 0.0.0.0 americanexpress-bonus6601.ink
 0.0.0.0 www.americanexpress-bonus6601.ink
 0.0.0.0 americanexpress-bonus6620.ink
@@ -654,8 +656,10 @@
 0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 betnanobonus-günü.icu
 0.0.0.0 www.betnanobonus-günü.icu
-0.0.0.0 bonus-bendigo.vip
-0.0.0.0 www.bonus-bendigo.vip
+0.0.0.0 betting-bonuses-mongolia.com
+0.0.0.0 www.betting-bonuses-mongolia.com
+0.0.0.0 bonus-leumi.com
+0.0.0.0 www.bonus-leumi.com
 0.0.0.0 bonus138link.cloud
 0.0.0.0 www.bonus138link.cloud
 0.0.0.0 bonus138on6.xyz
@@ -670,8 +674,6 @@
 0.0.0.0 www.bonusnewmember50.com
 0.0.0.0 bonusnewmember50.org
 0.0.0.0 www.bonusnewmember50.org
-0.0.0.0 casualdating-de.com
-0.0.0.0 www.casualdating-de.com
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
@@ -682,8 +684,6 @@
 0.0.0.0 www.date-jason.com
 0.0.0.0 date-nineplay.com
 0.0.0.0 www.date-nineplay.com
-0.0.0.0 date-sweet-day.com
-0.0.0.0 www.date-sweet-day.com
 0.0.0.0 date007.xyz
 0.0.0.0 www.date007.xyz
 0.0.0.0 dateing99.com
@@ -700,12 +700,10 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 datingcity3.biz
 0.0.0.0 www.datingcity3.biz
+0.0.0.0 datingp5ro.biz
+0.0.0.0 www.datingp5ro.biz
 0.0.0.0 deneme-bonusu-tr.site
 0.0.0.0 www.deneme-bonusu-tr.site
-0.0.0.0 deneme-bonusu-veren-siteler.biz
-0.0.0.0 www.deneme-bonusu-veren-siteler.biz
-0.0.0.0 deneme-bonusu-veren-siteler.org
-0.0.0.0 www.deneme-bonusu-veren-siteler.org
 0.0.0.0 dumpster-fire-date-live.click
 0.0.0.0 www.dumpster-fire-date-live.click
 0.0.0.0 easyandromanceonedate3.biz
@@ -714,8 +712,8 @@
 0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 easypartnersearchproonedate7.biz
 0.0.0.0 www.easypartnersearchproonedate7.biz
-0.0.0.0 fickdate-de.com
-0.0.0.0 www.fickdate-de.com
+0.0.0.0 getdatecity9.biz
+0.0.0.0 www.getdatecity9.biz
 0.0.0.0 godateworld4.biz
 0.0.0.0 www.godateworld4.biz
 0.0.0.0 godatingpro9.biz
@@ -734,6 +732,8 @@
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 id-validate-service-d12.cyou
 0.0.0.0 www.id-validate-service-d12.cyou
+0.0.0.0 id-validate-service-d24.cyou
+0.0.0.0 www.id-validate-service-d24.cyou
 0.0.0.0 id-validate-service-d9.cyou
 0.0.0.0 www.id-validate-service-d9.cyou
 0.0.0.0 mandate-targetstorageltd.com
@@ -742,8 +742,12 @@
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
 0.0.0.0 playdate-now.com
 0.0.0.0 www.playdate-now.com
+0.0.0.0 prodating4.biz
+0.0.0.0 www.prodating4.biz
 0.0.0.0 proflirtlandiodate6.biz
 0.0.0.0 www.proflirtlandiodate6.biz
+0.0.0.0 pronowdating7.biz
+0.0.0.0 www.pronowdating7.biz
 0.0.0.0 quickdatinghu9b.biz
 0.0.0.0 www.quickdatinghu9b.biz
 0.0.0.0 quickplusmeetxdating6.biz
@@ -756,14 +760,12 @@
 0.0.0.0 www.seduniatotobonusss30ribu.cyou
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
-0.0.0.0 smartdatemeetup5.biz
-0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 topdate7.biz
 0.0.0.0 www.topdate7.biz
+0.0.0.0 updating-subscription.com
+0.0.0.0 www.updating-subscription.com
 0.0.0.0 validate-immediate.app
 0.0.0.0 www.validate-immediate.app
-0.0.0.0 validate-procedure.com
-0.0.0.0 www.validate-procedure.com
 0.0.0.0 xn--datenintegritt-iib.com
 0.0.0.0 www.xn--datenintegritt-iib.com
 0.0.0.0 xn--sugardatingrdgivning-7zb.se

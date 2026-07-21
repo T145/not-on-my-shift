@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-07-20T14:04:33Z
+! Last update: 2026-07-21T13:34:27Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -395,6 +395,7 @@
 ||americanexpress-bonus5523.ink^
 ||americanexpress-bonus5524.ink^
 ||americanexpress-bonus5538.ink^
+||americanexpress-bonus5552.ink^
 ||americanexpress-bonus6601.ink^
 ||americanexpress-bonus6620.ink^
 ||americanexpress-bonus6623.ink^
@@ -418,7 +419,8 @@
 ||americanexpress-bonusnutzen9950.ink^
 ||bestlinkdate9.biz^
 ||betnanobonus-günü.icu^
-||bonus-bendigo.vip^
+||betting-bonuses-mongolia.com^
+||bonus-leumi.com^
 ||bonus138link.cloud^
 ||bonus138on6.xyz^
 ||bonus724.com^
@@ -426,13 +428,11 @@
 ||bonushub365.top^
 ||bonusnewmember50.com^
 ||bonusnewmember50.org^
-||casualdating-de.com^
 ||clubdatingxconn6ect.biz^
 ||cuidate-skin.com^
 ||date-app.net^
 ||date-jason.com^
 ||date-nineplay.com^
-||date-sweet-day.com^
 ||date007.xyz^
 ||dateing99.com^
 ||datenschutz-check.ch^
@@ -441,14 +441,13 @@
 ||dating18.click^
 ||dating24hour.com^
 ||datingcity3.biz^
+||datingp5ro.biz^
 ||deneme-bonusu-tr.site^
-||deneme-bonusu-veren-siteler.biz^
-||deneme-bonusu-veren-siteler.org^
 ||dumpster-fire-date-live.click^
 ||easyandromanceonedate3.biz^
 ||easydatingpro8.biz^
 ||easypartnersearchproonedate7.biz^
-||fickdate-de.com^
+||getdatecity9.biz^
 ||godateworld4.biz^
 ||godatingpro9.biz^
 ||hakodate-bpss.net^
@@ -458,21 +457,23 @@
 ||hakodate0104.net^
 ||hakodatemoto7.com^
 ||id-validate-service-d12.cyou^
+||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
 ||mandate-targetstorageltd.com^
 ||no-deposit-bonus-casino-nz.online^
 ||playdate-now.com^
+||prodating4.biz^
 ||proflirtlandiodate6.biz^
+||pronowdating7.biz^
 ||quickdatinghu9b.biz^
 ||quickplusmeetxdating6.biz^
 ||safedatingafter50.online^
 ||savethedate3d.com^
 ||seduniatotobonusss30ribu.cyou^
 ||seniordating-uk.xyz^
-||smartdatemeetup5.biz^
 ||topdate7.biz^
+||updating-subscription.com^
 ||validate-immediate.app^
-||validate-procedure.com^
 ||xn--datenintegritt-iib.com^
 ||xn--sugardatingrdgivning-7zb.se^
 
