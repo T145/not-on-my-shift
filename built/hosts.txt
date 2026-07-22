@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-07-21T13:34:27Z
+# Last update: 2026-07-22T13:38:54Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -291,8 +291,6 @@
 0.0.0.0 clickedgesolutions.com
 0.0.0.0 www.clickedgesolutions.com
 0.0.0.0 clone.app.home-cost.com
-0.0.0.0 comptoncymru.com
-0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
 0.0.0.0 eurosystemsrl.eu
@@ -343,8 +341,6 @@
 0.0.0.0 www.trashstation.com
 0.0.0.0 twospoonsfleet.co.uk
 0.0.0.0 www.twospoonsfleet.co.uk
-0.0.0.0 ultimatepreneur.com
-0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vanguardacademy-ng.com
 0.0.0.0 www.vanguardacademy-ng.com
 0.0.0.0 weboyal.com
@@ -592,16 +588,12 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 1win-bonus-code.org
-0.0.0.0 www.1win-bonus-code.org
 0.0.0.0 4matchcitydate3.biz
 0.0.0.0 www.4matchcitydate3.biz
 0.0.0.0 americanexpress-bonus5505.ink
 0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
 0.0.0.0 www.americanexpress-bonus5508.ink
-0.0.0.0 americanexpress-bonus5509.ink
-0.0.0.0 www.americanexpress-bonus5509.ink
 0.0.0.0 americanexpress-bonus5523.ink
 0.0.0.0 www.americanexpress-bonus5523.ink
 0.0.0.0 americanexpress-bonus5524.ink
@@ -642,8 +634,6 @@
 0.0.0.0 www.americanexpress-bonusnutzen9933.ink
 0.0.0.0 americanexpress-bonusnutzen9936.ink
 0.0.0.0 www.americanexpress-bonusnutzen9936.ink
-0.0.0.0 americanexpress-bonusnutzen9937.ink
-0.0.0.0 www.americanexpress-bonusnutzen9937.ink
 0.0.0.0 americanexpress-bonusnutzen9941.ink
 0.0.0.0 www.americanexpress-bonusnutzen9941.ink
 0.0.0.0 americanexpress-bonusnutzen9943.ink
@@ -658,6 +648,8 @@
 0.0.0.0 www.betnanobonus-günü.icu
 0.0.0.0 betting-bonuses-mongolia.com
 0.0.0.0 www.betting-bonuses-mongolia.com
+0.0.0.0 bonus-bendigo.vip
+0.0.0.0 www.bonus-bendigo.vip
 0.0.0.0 bonus-leumi.com
 0.0.0.0 www.bonus-leumi.com
 0.0.0.0 bonus138link.cloud
@@ -670,10 +662,18 @@
 0.0.0.0 www.bonusblas10.site
 0.0.0.0 bonushub365.top
 0.0.0.0 www.bonushub365.top
+0.0.0.0 bonuskong-casino.fr
+0.0.0.0 www.bonuskong-casino.fr
 0.0.0.0 bonusnewmember50.com
 0.0.0.0 www.bonusnewmember50.com
 0.0.0.0 bonusnewmember50.org
 0.0.0.0 www.bonusnewmember50.org
+0.0.0.0 candidates-thetalentedgehq.com
+0.0.0.0 www.candidates-thetalentedgehq.com
+0.0.0.0 candidates-thetalentedgesite.com
+0.0.0.0 www.candidates-thetalentedgesite.com
+0.0.0.0 candidates-thetalentedgeteam.com
+0.0.0.0 www.candidates-thetalentedgeteam.com
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
@@ -712,6 +712,8 @@
 0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 easypartnersearchproonedate7.biz
 0.0.0.0 www.easypartnersearchproonedate7.biz
+0.0.0.0 get-candidates-talentedge-team.com
+0.0.0.0 www.get-candidates-talentedge-team.com
 0.0.0.0 getdatecity9.biz
 0.0.0.0 www.getdatecity9.biz
 0.0.0.0 godateworld4.biz
@@ -750,8 +752,6 @@
 0.0.0.0 www.pronowdating7.biz
 0.0.0.0 quickdatinghu9b.biz
 0.0.0.0 www.quickdatinghu9b.biz
-0.0.0.0 quickplusmeetxdating6.biz
-0.0.0.0 www.quickplusmeetxdating6.biz
 0.0.0.0 safedatingafter50.online
 0.0.0.0 www.safedatingafter50.online
 0.0.0.0 savethedate3d.com
@@ -760,12 +760,26 @@
 0.0.0.0 www.seduniatotobonusss30ribu.cyou
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
+0.0.0.0 smartdatemeetup5.biz
+0.0.0.0 www.smartdatemeetup5.biz
+0.0.0.0 thecandidates-talentedgeteam.com
+0.0.0.0 www.thecandidates-talentedgeteam.com
+0.0.0.0 thecandidates-tegrecruiting.com
+0.0.0.0 www.thecandidates-tegrecruiting.com
 0.0.0.0 topdate7.biz
 0.0.0.0 www.topdate7.biz
+0.0.0.0 trycandidates-talentedge-team.com
+0.0.0.0 www.trycandidates-talentedge-team.com
+0.0.0.0 trycandidates-talentedgeteam.com
+0.0.0.0 www.trycandidates-talentedgeteam.com
 0.0.0.0 updating-subscription.com
 0.0.0.0 www.updating-subscription.com
+0.0.0.0 usecandidates-thetalentedge.com
+0.0.0.0 www.usecandidates-thetalentedge.com
 0.0.0.0 validate-immediate.app
 0.0.0.0 www.validate-immediate.app
+0.0.0.0 validate-procedure.com
+0.0.0.0 www.validate-procedure.com
 0.0.0.0 xn--datenintegritt-iib.com
 0.0.0.0 www.xn--datenintegritt-iib.com
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
