@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-07-22T13:38:54Z
+# Last update: 2026-07-23T13:51:45Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -232,6 +232,7 @@ tacloban.gov.ph
 teamder.org
 trashstation.com
 twospoonsfleet.co.uk
+ultimatepreneur.com
 vanguardacademy-ng.com
 weboyal.com
 wowfollowers.com
@@ -379,6 +380,7 @@ centent.steamplay.me
 4matchcitydate3.biz
 americanexpress-bonus5505.ink
 americanexpress-bonus5508.ink
+americanexpress-bonus5509.ink
 americanexpress-bonus5523.ink
 americanexpress-bonus5524.ink
 americanexpress-bonus5538.ink
@@ -399,6 +401,7 @@ americanexpress-bonusnutzen9923.ink
 americanexpress-bonusnutzen9929.ink
 americanexpress-bonusnutzen9933.ink
 americanexpress-bonusnutzen9936.ink
+americanexpress-bonusnutzen9937.ink
 americanexpress-bonusnutzen9941.ink
 americanexpress-bonusnutzen9943.ink
 americanexpress-bonusnutzen9949.ink
@@ -413,11 +416,10 @@ bonus138on6.xyz
 bonus724.com
 bonusblas10.site
 bonushub365.top
-bonuskong-casino.fr
 bonusnewmember50.com
 bonusnewmember50.org
+candidates-thetalentedge.net
 candidates-thetalentedgehq.com
-candidates-thetalentedgesite.com
 candidates-thetalentedgeteam.com
 clubdatingxconn6ect.biz
 cuidate-skin.com
@@ -428,7 +430,6 @@ date007.xyz
 dateing99.com
 datenschutz-check.ch
 dating-anastasiao.ru
-dating-anastasiao.store
 dating18.click
 dating24hour.com
 datingcity3.biz
@@ -438,7 +439,6 @@ dumpster-fire-date-live.click
 easyandromanceonedate3.biz
 easydatingpro8.biz
 easypartnersearchproonedate7.biz
-get-candidates-talentedge-team.com
 getdatecity9.biz
 godateworld4.biz
 godatingpro9.biz
@@ -458,18 +458,14 @@ prodating4.biz
 proflirtlandiodate6.biz
 pronowdating7.biz
 quickdatinghu9b.biz
+quickplusmeetxdating6.biz
 safedatingafter50.online
 savethedate3d.com
 seduniatotobonusss30ribu.cyou
 seniordating-uk.xyz
 smartdatemeetup5.biz
-thecandidates-talentedgeteam.com
-thecandidates-tegrecruiting.com
 topdate7.biz
-trycandidates-talentedge-team.com
-trycandidates-talentedgeteam.com
 updating-subscription.com
-usecandidates-thetalentedge.com
 validate-immediate.app
 validate-procedure.com
 xn--datenintegritt-iib.com
