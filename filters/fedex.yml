@@ -8,6 +8,7 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
+- dexil.ru
 - eurosystemsrl.eu
 - fraternitykerala.org
 - galaxyfunbowl.gr
@@ -20,16 +21,18 @@ domains:
 - magicboximportados.com.br
 - mistc.es
 - mouwz.nl
-- mucc.com.au
 - nbkangxi.com
 - nectartrust.org.uk
 - nextgearup.com
 - nguen.net
 - redlog.cl
 - sm-projekt.si
+- synoviz.com
 - tacloban.gov.ph
+- trashstation.com
 - twospoonsfleet.co.uk
 - ultimatepreneur.com
+- vanguardacademy-ng.com
 - wowfollowers.com
 - yuanant.com
 fedex_suffixes:
@@ -73,7 +76,6 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
-- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -107,6 +109,7 @@ ignored_domains:
 - mahigifts.com
 - marincr.com
 - mevlutacik.com.tr
+- mucc.com.au
 - myphamnganbinh.com
 - nen.vacad.net
 - new.deso.cz
@@ -136,7 +139,6 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
-- synoviz.com
 - teamder.org
 - testargames.cl
 - thaircy.redcross.or.th
@@ -144,11 +146,9 @@ ignored_domains:
 - thozhilvarthalatest.com
 - toanthaybac.com
 - topblackfridaydealz.com
-- trashstation.com
 - tubies.com
 - tuyennvtb.com
 - update.fbsbx.com
-- vanguardacademy-ng.com
 - veljko.id
 - visotka.in
 - vladimirherzog.org

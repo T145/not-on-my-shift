@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-07-29T14:05:14Z
+! Last update: 2026-08-01T13:14:48Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -218,6 +218,7 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||eurosystemsrl.eu^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
@@ -230,16 +231,18 @@
 ||magicboximportados.com.br^
 ||mistc.es^
 ||mouwz.nl^
-||mucc.com.au^
 ||nbkangxi.com^
 ||nectartrust.org.uk^
 ||nextgearup.com^
 ||nguen.net^
 ||redlog.cl^
 ||sm-projekt.si^
+||synoviz.com^
 ||tacloban.gov.ph^
+||trashstation.com^
 ||twospoonsfleet.co.uk^
 ||ultimatepreneur.com^
+||vanguardacademy-ng.com^
 ||wowfollowers.com^
 ||yuanant.com^
 
@@ -382,6 +385,11 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+||4matchcitydate3.biz^
+||51-bonuskong-57.com^
+||67-bonuskong-58.com^
+||91-bonuskong-36.com^
+||95-bonuskong-12.com^
 ||americanexpress-bonus5505.ink^
 ||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
@@ -399,6 +407,7 @@
 ||americanexpress-bonus6649.ink^
 ||americanexpress-bonusnutzen9906.ink^
 ||americanexpress-bonusnutzen9912.ink^
+||americanexpress-bonusnutzen9915.ink^
 ||americanexpress-bonusnutzen9923.ink^
 ||americanexpress-bonusnutzen9929.ink^
 ||americanexpress-bonusnutzen9933.ink^
@@ -409,19 +418,20 @@
 ||americanexpress-bonusnutzen9949.ink^
 ||americanexpress-bonusnutzen9950.ink^
 ||bestlinkdate9.biz^
-||betnanobonus-günü.icu^
 ||betting-bonuses-mongolia.com^
 ||bonus-bendigo.vip^
 ||bonus138link.cloud^
 ||bonus138on6.xyz^
 ||bonus724.com^
 ||bonusblas10.site^
-||bonusnewmember50.org^
+||bonushub365.top^
+||bonusnewmember50.com^
 ||candidates-thetalentedge.net^
 ||candidates-thetalentedgehq.com^
 ||candidates-thetalentedgeteam.com^
 ||clubdatingxconn6ect.biz^
 ||cuidate-skin.com^
+||date-app.net^
 ||date-jason.com^
 ||date-nineplay.com^
 ||date007.xyz^
@@ -460,11 +470,10 @@
 ||pronowdating7.biz^
 ||quickdatinghu9b.biz^
 ||quickplusmeetxdating6.biz^
-||safedatingafter50.online^
 ||savethedate3d.com^
+||seduniatotobonusss30ribu.cyou^
 ||seniordating-uk.xyz^
 ||smartdatemeetup5.biz^
-||thecandidates-talentedge.com^
 ||topdate7.biz^
 ||updating-subscription.com^
 ||validate-immediate.app^
