@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-08-01T13:14:48Z
+! Last update: 2026-08-02T13:17:02Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -211,16 +211,11 @@
 
 ! 2021-03-02 Fedex phishing
 !  - https://geeklevi.com/fedex/
-||ailnoir.com^
 ||cancervants.org^
 ||castllypay.com^
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
-||comptoncymru.com^
 ||defencelover.in^
-||dexil.ru^
-||eurosystemsrl.eu^
-||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||guzelbil.com^
 ||hongqiqujiu.com^
@@ -229,20 +224,13 @@
 ||loanglide.com^
 ||machupicchutraveling.com^
 ||magicboximportados.com.br^
-||mistc.es^
 ||mouwz.nl^
+||mucc.com.au^
 ||nbkangxi.com^
-||nectartrust.org.uk^
 ||nextgearup.com^
 ||nguen.net^
-||redlog.cl^
 ||sm-projekt.si^
-||synoviz.com^
 ||tacloban.gov.ph^
-||trashstation.com^
-||twospoonsfleet.co.uk^
-||ultimatepreneur.com^
-||vanguardacademy-ng.com^
 ||wowfollowers.com^
 ||yuanant.com^
 
@@ -386,8 +374,6 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||4matchcitydate3.biz^
-||51-bonuskong-57.com^
-||67-bonuskong-58.com^
 ||91-bonuskong-36.com^
 ||95-bonuskong-12.com^
 ||americanexpress-bonus5505.ink^
@@ -418,24 +404,22 @@
 ||americanexpress-bonusnutzen9949.ink^
 ||americanexpress-bonusnutzen9950.ink^
 ||bestlinkdate9.biz^
-||betting-bonuses-mongolia.com^
 ||bonus-bendigo.vip^
+||bonus-bettilt.com^
 ||bonus138link.cloud^
 ||bonus138on6.xyz^
 ||bonus724.com^
 ||bonusblas10.site^
 ||bonushub365.top^
-||bonusnewmember50.com^
+||bonusnewmember50.org^
 ||candidates-thetalentedge.net^
 ||candidates-thetalentedgehq.com^
-||candidates-thetalentedgeteam.com^
 ||clubdatingxconn6ect.biz^
 ||cuidate-skin.com^
 ||date-app.net^
 ||date-jason.com^
 ||date-nineplay.com^
 ||date007.xyz^
-||dateing99.com^
 ||datenschutz-check.ch^
 ||dating-anastasiao.ru^
 ||dating-anastasiao.store^
@@ -448,6 +432,7 @@
 ||easyandromanceonedate3.biz^
 ||easydatingpro8.biz^
 ||easypartnersearchproonedate7.biz^
+||garuda55bonusss30ribu.sbs^
 ||getdatecity9.biz^
 ||godateworld4.biz^
 ||godatingpro9.biz^
@@ -458,13 +443,10 @@
 ||hakodate0104.net^
 ||hakodatemoto7.com^
 ||id-validate-service-d12.cyou^
-||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
-||kasyno-bonus-bezdepozytu.online^
 ||mandate-targetstorageltd.com^
 ||no-deposit-bonus-casino-nz.online^
 ||playdate-now.com^
-||prize-baji.com^
 ||prodating4.biz^
 ||proflirtlandiodate6.biz^
 ||pronowdating7.biz^

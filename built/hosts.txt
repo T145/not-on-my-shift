@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-08-01T13:14:48Z
+# Last update: 2026-08-02T13:17:02Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -282,8 +282,6 @@
 #  - https://geeklevi.com/fedex/
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 k.hencoder.com
-0.0.0.0 ailnoir.com
-0.0.0.0 www.ailnoir.com
 0.0.0.0 cancervants.org
 0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
@@ -291,16 +289,8 @@
 0.0.0.0 clickedgesolutions.com
 0.0.0.0 www.clickedgesolutions.com
 0.0.0.0 clone.app.home-cost.com
-0.0.0.0 comptoncymru.com
-0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
-0.0.0.0 eurosystemsrl.eu
-0.0.0.0 www.eurosystemsrl.eu
-0.0.0.0 fraternitykerala.org
-0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
 0.0.0.0 guzelbil.com
@@ -317,34 +307,20 @@
 0.0.0.0 www.machupicchutraveling.com
 0.0.0.0 magicboximportados.com.br
 0.0.0.0 www.magicboximportados.com.br
-0.0.0.0 mistc.es
-0.0.0.0 www.mistc.es
 0.0.0.0 mouwz.nl
 0.0.0.0 www.mouwz.nl
+0.0.0.0 mucc.com.au
+0.0.0.0 www.mucc.com.au
 0.0.0.0 nbkangxi.com
 0.0.0.0 www.nbkangxi.com
-0.0.0.0 nectartrust.org.uk
-0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 nextgearup.com
 0.0.0.0 www.nextgearup.com
 0.0.0.0 nguen.net
 0.0.0.0 www.nguen.net
-0.0.0.0 redlog.cl
-0.0.0.0 www.redlog.cl
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
-0.0.0.0 synoviz.com
-0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
 0.0.0.0 www.tacloban.gov.ph
-0.0.0.0 trashstation.com
-0.0.0.0 www.trashstation.com
-0.0.0.0 twospoonsfleet.co.uk
-0.0.0.0 www.twospoonsfleet.co.uk
-0.0.0.0 ultimatepreneur.com
-0.0.0.0 www.ultimatepreneur.com
-0.0.0.0 vanguardacademy-ng.com
-0.0.0.0 www.vanguardacademy-ng.com
 0.0.0.0 wowfollowers.com
 0.0.0.0 www.wowfollowers.com
 0.0.0.0 yuanant.com
@@ -590,10 +566,6 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 4matchcitydate3.biz
 0.0.0.0 www.4matchcitydate3.biz
-0.0.0.0 51-bonuskong-57.com
-0.0.0.0 www.51-bonuskong-57.com
-0.0.0.0 67-bonuskong-58.com
-0.0.0.0 www.67-bonuskong-58.com
 0.0.0.0 91-bonuskong-36.com
 0.0.0.0 www.91-bonuskong-36.com
 0.0.0.0 95-bonuskong-12.com
@@ -654,10 +626,10 @@
 0.0.0.0 www.americanexpress-bonusnutzen9950.ink
 0.0.0.0 bestlinkdate9.biz
 0.0.0.0 www.bestlinkdate9.biz
-0.0.0.0 betting-bonuses-mongolia.com
-0.0.0.0 www.betting-bonuses-mongolia.com
 0.0.0.0 bonus-bendigo.vip
 0.0.0.0 www.bonus-bendigo.vip
+0.0.0.0 bonus-bettilt.com
+0.0.0.0 www.bonus-bettilt.com
 0.0.0.0 bonus138link.cloud
 0.0.0.0 www.bonus138link.cloud
 0.0.0.0 bonus138on6.xyz
@@ -668,14 +640,12 @@
 0.0.0.0 www.bonusblas10.site
 0.0.0.0 bonushub365.top
 0.0.0.0 www.bonushub365.top
-0.0.0.0 bonusnewmember50.com
-0.0.0.0 www.bonusnewmember50.com
+0.0.0.0 bonusnewmember50.org
+0.0.0.0 www.bonusnewmember50.org
 0.0.0.0 candidates-thetalentedge.net
 0.0.0.0 www.candidates-thetalentedge.net
 0.0.0.0 candidates-thetalentedgehq.com
 0.0.0.0 www.candidates-thetalentedgehq.com
-0.0.0.0 candidates-thetalentedgeteam.com
-0.0.0.0 www.candidates-thetalentedgeteam.com
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
@@ -688,8 +658,6 @@
 0.0.0.0 www.date-nineplay.com
 0.0.0.0 date007.xyz
 0.0.0.0 www.date007.xyz
-0.0.0.0 dateing99.com
-0.0.0.0 www.dateing99.com
 0.0.0.0 datenschutz-check.ch
 0.0.0.0 www.datenschutz-check.ch
 0.0.0.0 dating-anastasiao.ru
@@ -714,6 +682,8 @@
 0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 easypartnersearchproonedate7.biz
 0.0.0.0 www.easypartnersearchproonedate7.biz
+0.0.0.0 garuda55bonusss30ribu.sbs
+0.0.0.0 www.garuda55bonusss30ribu.sbs
 0.0.0.0 getdatecity9.biz
 0.0.0.0 www.getdatecity9.biz
 0.0.0.0 godateworld4.biz
@@ -734,20 +704,14 @@
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 id-validate-service-d12.cyou
 0.0.0.0 www.id-validate-service-d12.cyou
-0.0.0.0 id-validate-service-d24.cyou
-0.0.0.0 www.id-validate-service-d24.cyou
 0.0.0.0 id-validate-service-d9.cyou
 0.0.0.0 www.id-validate-service-d9.cyou
-0.0.0.0 kasyno-bonus-bezdepozytu.online
-0.0.0.0 www.kasyno-bonus-bezdepozytu.online
 0.0.0.0 mandate-targetstorageltd.com
 0.0.0.0 www.mandate-targetstorageltd.com
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
 0.0.0.0 playdate-now.com
 0.0.0.0 www.playdate-now.com
-0.0.0.0 prize-baji.com
-0.0.0.0 www.prize-baji.com
 0.0.0.0 prodating4.biz
 0.0.0.0 www.prodating4.biz
 0.0.0.0 proflirtlandiodate6.biz
