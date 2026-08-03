@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-08-02T13:17:02Z
+# Last update: 2026-08-03T14:34:49Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -566,6 +566,10 @@
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 0.0.0.0 4matchcitydate3.biz
 0.0.0.0 www.4matchcitydate3.biz
+0.0.0.0 51-bonuskong-57.com
+0.0.0.0 www.51-bonuskong-57.com
+0.0.0.0 67-bonuskong-58.com
+0.0.0.0 www.67-bonuskong-58.com
 0.0.0.0 91-bonuskong-36.com
 0.0.0.0 www.91-bonuskong-36.com
 0.0.0.0 95-bonuskong-12.com
@@ -574,8 +578,6 @@
 0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
 0.0.0.0 www.americanexpress-bonus5508.ink
-0.0.0.0 americanexpress-bonus5509.ink
-0.0.0.0 www.americanexpress-bonus5509.ink
 0.0.0.0 americanexpress-bonus5523.ink
 0.0.0.0 www.americanexpress-bonus5523.ink
 0.0.0.0 americanexpress-bonus5524.ink
@@ -588,8 +590,6 @@
 0.0.0.0 www.americanexpress-bonus6601.ink
 0.0.0.0 americanexpress-bonus6620.ink
 0.0.0.0 www.americanexpress-bonus6620.ink
-0.0.0.0 americanexpress-bonus6623.ink
-0.0.0.0 www.americanexpress-bonus6623.ink
 0.0.0.0 americanexpress-bonus6627.ink
 0.0.0.0 www.americanexpress-bonus6627.ink
 0.0.0.0 americanexpress-bonus6630.ink
@@ -626,8 +626,8 @@
 0.0.0.0 www.americanexpress-bonusnutzen9950.ink
 0.0.0.0 bestlinkdate9.biz
 0.0.0.0 www.bestlinkdate9.biz
-0.0.0.0 bonus-bendigo.vip
-0.0.0.0 www.bonus-bendigo.vip
+0.0.0.0 betting-bonuses-mongolia.com
+0.0.0.0 www.betting-bonuses-mongolia.com
 0.0.0.0 bonus-bettilt.com
 0.0.0.0 www.bonus-bettilt.com
 0.0.0.0 bonus138link.cloud
@@ -638,14 +638,14 @@
 0.0.0.0 www.bonus724.com
 0.0.0.0 bonusblas10.site
 0.0.0.0 www.bonusblas10.site
-0.0.0.0 bonushub365.top
-0.0.0.0 www.bonushub365.top
 0.0.0.0 bonusnewmember50.org
 0.0.0.0 www.bonusnewmember50.org
 0.0.0.0 candidates-thetalentedge.net
 0.0.0.0 www.candidates-thetalentedge.net
 0.0.0.0 candidates-thetalentedgehq.com
 0.0.0.0 www.candidates-thetalentedgehq.com
+0.0.0.0 candidates-thetalentedgeteam.com
+0.0.0.0 www.candidates-thetalentedgeteam.com
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
@@ -658,6 +658,8 @@
 0.0.0.0 www.date-nineplay.com
 0.0.0.0 date007.xyz
 0.0.0.0 www.date007.xyz
+0.0.0.0 dateing99.com
+0.0.0.0 www.dateing99.com
 0.0.0.0 datenschutz-check.ch
 0.0.0.0 www.datenschutz-check.ch
 0.0.0.0 dating-anastasiao.ru
@@ -704,12 +706,20 @@
 0.0.0.0 www.hakodatemoto7.com
 0.0.0.0 id-validate-service-d12.cyou
 0.0.0.0 www.id-validate-service-d12.cyou
+0.0.0.0 id-validate-service-d24.cyou
+0.0.0.0 www.id-validate-service-d24.cyou
 0.0.0.0 id-validate-service-d9.cyou
 0.0.0.0 www.id-validate-service-d9.cyou
+0.0.0.0 kasyno-bonus-bezdepozytu.online
+0.0.0.0 www.kasyno-bonus-bezdepozytu.online
 0.0.0.0 mandate-targetstorageltd.com
 0.0.0.0 www.mandate-targetstorageltd.com
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
+0.0.0.0 opdater-dineoplysninger.com
+0.0.0.0 www.opdater-dineoplysninger.com
+0.0.0.0 opdatering-andelenergi.com
+0.0.0.0 www.opdatering-andelenergi.com
 0.0.0.0 playdate-now.com
 0.0.0.0 www.playdate-now.com
 0.0.0.0 prodating4.biz
@@ -728,8 +738,6 @@
 0.0.0.0 www.seduniatotobonusss30ribu.cyou
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
-0.0.0.0 smartdatemeetup5.biz
-0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 topdate7.biz
 0.0.0.0 www.topdate7.biz
 0.0.0.0 updating-subscription.com
