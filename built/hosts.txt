@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-08-03T14:34:49Z
+# Last update: 2026-08-04T14:05:23Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -282,6 +282,8 @@
 #  - https://geeklevi.com/fedex/
 0.0.0.0 s.update.fbsbx.com
 0.0.0.0 k.hencoder.com
+0.0.0.0 ailnoir.com
+0.0.0.0 www.ailnoir.com
 0.0.0.0 cancervants.org
 0.0.0.0 www.cancervants.org
 0.0.0.0 castllypay.com
@@ -291,6 +293,10 @@
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 eurosystemsrl.eu
+0.0.0.0 www.eurosystemsrl.eu
+0.0.0.0 fraternitykerala.org
+0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
 0.0.0.0 guzelbil.com
@@ -307,20 +313,36 @@
 0.0.0.0 www.machupicchutraveling.com
 0.0.0.0 magicboximportados.com.br
 0.0.0.0 www.magicboximportados.com.br
+0.0.0.0 mistc.es
+0.0.0.0 www.mistc.es
 0.0.0.0 mouwz.nl
 0.0.0.0 www.mouwz.nl
 0.0.0.0 mucc.com.au
 0.0.0.0 www.mucc.com.au
 0.0.0.0 nbkangxi.com
 0.0.0.0 www.nbkangxi.com
+0.0.0.0 nectartrust.org.uk
+0.0.0.0 www.nectartrust.org.uk
 0.0.0.0 nextgearup.com
 0.0.0.0 www.nextgearup.com
 0.0.0.0 nguen.net
 0.0.0.0 www.nguen.net
+0.0.0.0 redlog.cl
+0.0.0.0 www.redlog.cl
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
+0.0.0.0 synoviz.com
+0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
 0.0.0.0 www.tacloban.gov.ph
+0.0.0.0 trashstation.com
+0.0.0.0 www.trashstation.com
+0.0.0.0 twospoonsfleet.co.uk
+0.0.0.0 www.twospoonsfleet.co.uk
+0.0.0.0 ultimatepreneur.com
+0.0.0.0 www.ultimatepreneur.com
+0.0.0.0 vanguardacademy-ng.com
+0.0.0.0 www.vanguardacademy-ng.com
 0.0.0.0 wowfollowers.com
 0.0.0.0 www.wowfollowers.com
 0.0.0.0 yuanant.com
@@ -564,8 +586,6 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 4matchcitydate3.biz
-0.0.0.0 www.4matchcitydate3.biz
 0.0.0.0 51-bonuskong-57.com
 0.0.0.0 www.51-bonuskong-57.com
 0.0.0.0 67-bonuskong-58.com
@@ -578,6 +598,8 @@
 0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
 0.0.0.0 www.americanexpress-bonus5508.ink
+0.0.0.0 americanexpress-bonus5509.ink
+0.0.0.0 www.americanexpress-bonus5509.ink
 0.0.0.0 americanexpress-bonus5523.ink
 0.0.0.0 www.americanexpress-bonus5523.ink
 0.0.0.0 americanexpress-bonus5524.ink
@@ -586,10 +608,10 @@
 0.0.0.0 www.americanexpress-bonus5538.ink
 0.0.0.0 americanexpress-bonus5552.ink
 0.0.0.0 www.americanexpress-bonus5552.ink
-0.0.0.0 americanexpress-bonus6601.ink
-0.0.0.0 www.americanexpress-bonus6601.ink
 0.0.0.0 americanexpress-bonus6620.ink
 0.0.0.0 www.americanexpress-bonus6620.ink
+0.0.0.0 americanexpress-bonus6623.ink
+0.0.0.0 www.americanexpress-bonus6623.ink
 0.0.0.0 americanexpress-bonus6627.ink
 0.0.0.0 www.americanexpress-bonus6627.ink
 0.0.0.0 americanexpress-bonus6630.ink
@@ -604,14 +626,10 @@
 0.0.0.0 www.americanexpress-bonusnutzen9906.ink
 0.0.0.0 americanexpress-bonusnutzen9912.ink
 0.0.0.0 www.americanexpress-bonusnutzen9912.ink
-0.0.0.0 americanexpress-bonusnutzen9915.ink
-0.0.0.0 www.americanexpress-bonusnutzen9915.ink
 0.0.0.0 americanexpress-bonusnutzen9923.ink
 0.0.0.0 www.americanexpress-bonusnutzen9923.ink
 0.0.0.0 americanexpress-bonusnutzen9929.ink
 0.0.0.0 www.americanexpress-bonusnutzen9929.ink
-0.0.0.0 americanexpress-bonusnutzen9933.ink
-0.0.0.0 www.americanexpress-bonusnutzen9933.ink
 0.0.0.0 americanexpress-bonusnutzen9936.ink
 0.0.0.0 www.americanexpress-bonusnutzen9936.ink
 0.0.0.0 americanexpress-bonusnutzen9937.ink
@@ -624,20 +642,20 @@
 0.0.0.0 www.americanexpress-bonusnutzen9949.ink
 0.0.0.0 americanexpress-bonusnutzen9950.ink
 0.0.0.0 www.americanexpress-bonusnutzen9950.ink
-0.0.0.0 bestlinkdate9.biz
-0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 betting-bonuses-mongolia.com
 0.0.0.0 www.betting-bonuses-mongolia.com
+0.0.0.0 bonus-bendigo.vip
+0.0.0.0 www.bonus-bendigo.vip
 0.0.0.0 bonus-bettilt.com
 0.0.0.0 www.bonus-bettilt.com
 0.0.0.0 bonus138link.cloud
 0.0.0.0 www.bonus138link.cloud
 0.0.0.0 bonus138on6.xyz
 0.0.0.0 www.bonus138on6.xyz
-0.0.0.0 bonus724.com
-0.0.0.0 www.bonus724.com
 0.0.0.0 bonusblas10.site
 0.0.0.0 www.bonusblas10.site
+0.0.0.0 bonusnewmember50.com
+0.0.0.0 www.bonusnewmember50.com
 0.0.0.0 bonusnewmember50.org
 0.0.0.0 www.bonusnewmember50.org
 0.0.0.0 candidates-thetalentedge.net
@@ -668,8 +686,6 @@
 0.0.0.0 www.dating-anastasiao.store
 0.0.0.0 dating18.click
 0.0.0.0 www.dating18.click
-0.0.0.0 dating24hour.com
-0.0.0.0 www.dating24hour.com
 0.0.0.0 datingcity3.biz
 0.0.0.0 www.datingcity3.biz
 0.0.0.0 datingp5ro.biz
@@ -678,10 +694,6 @@
 0.0.0.0 www.deneme-bonusu-tr.site
 0.0.0.0 dumpster-fire-date-live.click
 0.0.0.0 www.dumpster-fire-date-live.click
-0.0.0.0 easyandromanceonedate3.biz
-0.0.0.0 www.easyandromanceonedate3.biz
-0.0.0.0 easydatingpro8.biz
-0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 easypartnersearchproonedate7.biz
 0.0.0.0 www.easypartnersearchproonedate7.biz
 0.0.0.0 garuda55bonusss30ribu.sbs
@@ -690,14 +702,10 @@
 0.0.0.0 www.getdatecity9.biz
 0.0.0.0 godateworld4.biz
 0.0.0.0 www.godateworld4.biz
-0.0.0.0 godatingpro9.biz
-0.0.0.0 www.godatingpro9.biz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-juku.com
 0.0.0.0 www.hakodate-juku.com
-0.0.0.0 hakodate-printing.com
-0.0.0.0 www.hakodate-printing.com
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodate0104.net
@@ -710,16 +718,10 @@
 0.0.0.0 www.id-validate-service-d24.cyou
 0.0.0.0 id-validate-service-d9.cyou
 0.0.0.0 www.id-validate-service-d9.cyou
-0.0.0.0 kasyno-bonus-bezdepozytu.online
-0.0.0.0 www.kasyno-bonus-bezdepozytu.online
 0.0.0.0 mandate-targetstorageltd.com
 0.0.0.0 www.mandate-targetstorageltd.com
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
-0.0.0.0 opdater-dineoplysninger.com
-0.0.0.0 www.opdater-dineoplysninger.com
-0.0.0.0 opdatering-andelenergi.com
-0.0.0.0 www.opdatering-andelenergi.com
 0.0.0.0 playdate-now.com
 0.0.0.0 www.playdate-now.com
 0.0.0.0 prodating4.biz
@@ -746,8 +748,6 @@
 0.0.0.0 www.validate-immediate.app
 0.0.0.0 validate-procedure.com
 0.0.0.0 www.validate-procedure.com
-0.0.0.0 xn--datenintegritt-iib.com
-0.0.0.0 www.xn--datenintegritt-iib.com
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
 0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
 
