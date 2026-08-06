@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-08-05T14:02:27Z
+! Last update: 2026-08-06T14:00:14Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -216,7 +216,9 @@
 ||castllypay.com^
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
+||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||eurosystemsrl.eu^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
@@ -384,14 +386,12 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||4matchcitydate3.biz^
 ||51-bonuskong-57.com^
 ||67-bonuskong-58.com^
 ||91-bonuskong-36.com^
 ||95-bonuskong-12.com^
 ||americanexpress-bonus5505.ink^
 ||americanexpress-bonus5508.ink^
-||americanexpress-bonus5509.ink^
 ||americanexpress-bonus5523.ink^
 ||americanexpress-bonus5524.ink^
 ||americanexpress-bonus5538.ink^
@@ -400,11 +400,11 @@
 ||americanexpress-bonus6620.ink^
 ||americanexpress-bonus6623.ink^
 ||americanexpress-bonus6627.ink^
-||americanexpress-bonus6639.ink^
+||americanexpress-bonus6630.ink^
+||americanexpress-bonus6647.ink^
 ||americanexpress-bonus6649.ink^
 ||americanexpress-bonusnutzen9906.ink^
 ||americanexpress-bonusnutzen9912.ink^
-||americanexpress-bonusnutzen9915.ink^
 ||americanexpress-bonusnutzen9923.ink^
 ||americanexpress-bonusnutzen9929.ink^
 ||americanexpress-bonusnutzen9933.ink^
@@ -415,9 +415,9 @@
 ||americanexpress-bonusnutzen9949.ink^
 ||americanexpress-bonusnutzen9950.ink^
 ||bestlinkdate9.biz^
-||betting-bonuses-mongolia.com^
 ||bonus-bendigo.vip^
 ||bonus-bettilt.com^
+||bonus-vodka365.top^
 ||bonus138link.cloud^
 ||bonus138on6.xyz^
 ||bonus724.com^
@@ -433,7 +433,9 @@
 ||date-jason.com^
 ||date-nineplay.com^
 ||date007.xyz^
+||dateing99.com^
 ||datenschutz-check.ch^
+||dating-anastasiao.ru^
 ||dating-anastasiao.store^
 ||dating18.click^
 ||dating24hour.com^
@@ -441,14 +443,11 @@
 ||datingp5ro.biz^
 ||deneme-bonusu-tr.site^
 ||dumpster-fire-date-live.click^
-||easyandromanceonedate3.biz^
-||easydatingpro8.biz^
 ||easypartnersearchproonedate7.biz^
 ||garuda55bonusss30ribu.sbs^
 ||getdatecity9.biz^
 ||godateworld4.biz^
 ||godatingpro9.biz^
-||hakodate-bpss.net^
 ||hakodate-juku.com^
 ||hakodate-printing.com^
 ||hakodate-wq.com^
@@ -457,7 +456,6 @@
 ||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
 ||mandate-targetstorageltd.com^
-||no-deposit-bonus-casino-nz.online^
 ||playdate-now.com^
 ||prodating4.biz^
 ||proflirtlandiodate6.biz^
