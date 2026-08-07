@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-08-06T14:00:14Z
+# Last update: 2026-08-07T12:57:40Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -602,6 +602,8 @@
 0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
 0.0.0.0 www.americanexpress-bonus5508.ink
+0.0.0.0 americanexpress-bonus5509.ink
+0.0.0.0 www.americanexpress-bonus5509.ink
 0.0.0.0 americanexpress-bonus5523.ink
 0.0.0.0 www.americanexpress-bonus5523.ink
 0.0.0.0 americanexpress-bonus5524.ink
@@ -620,6 +622,8 @@
 0.0.0.0 www.americanexpress-bonus6627.ink
 0.0.0.0 americanexpress-bonus6630.ink
 0.0.0.0 www.americanexpress-bonus6630.ink
+0.0.0.0 americanexpress-bonus6639.ink
+0.0.0.0 www.americanexpress-bonus6639.ink
 0.0.0.0 americanexpress-bonus6647.ink
 0.0.0.0 www.americanexpress-bonus6647.ink
 0.0.0.0 americanexpress-bonus6649.ink
@@ -628,6 +632,8 @@
 0.0.0.0 www.americanexpress-bonusnutzen9906.ink
 0.0.0.0 americanexpress-bonusnutzen9912.ink
 0.0.0.0 www.americanexpress-bonusnutzen9912.ink
+0.0.0.0 americanexpress-bonusnutzen9915.ink
+0.0.0.0 www.americanexpress-bonusnutzen9915.ink
 0.0.0.0 americanexpress-bonusnutzen9923.ink
 0.0.0.0 www.americanexpress-bonusnutzen9923.ink
 0.0.0.0 americanexpress-bonusnutzen9929.ink
@@ -638,8 +644,6 @@
 0.0.0.0 www.americanexpress-bonusnutzen9936.ink
 0.0.0.0 americanexpress-bonusnutzen9937.ink
 0.0.0.0 www.americanexpress-bonusnutzen9937.ink
-0.0.0.0 americanexpress-bonusnutzen9941.ink
-0.0.0.0 www.americanexpress-bonusnutzen9941.ink
 0.0.0.0 americanexpress-bonusnutzen9943.ink
 0.0.0.0 www.americanexpress-bonusnutzen9943.ink
 0.0.0.0 americanexpress-bonusnutzen9949.ink
@@ -648,16 +652,14 @@
 0.0.0.0 www.americanexpress-bonusnutzen9950.ink
 0.0.0.0 bestlinkdate9.biz
 0.0.0.0 www.bestlinkdate9.biz
+0.0.0.0 betting-bonuses-mongolia.com
+0.0.0.0 www.betting-bonuses-mongolia.com
 0.0.0.0 bonus-bendigo.vip
 0.0.0.0 www.bonus-bendigo.vip
 0.0.0.0 bonus-bettilt.com
 0.0.0.0 www.bonus-bettilt.com
-0.0.0.0 bonus-vodka365.top
-0.0.0.0 www.bonus-vodka365.top
 0.0.0.0 bonus138link.cloud
 0.0.0.0 www.bonus138link.cloud
-0.0.0.0 bonus138on6.xyz
-0.0.0.0 www.bonus138on6.xyz
 0.0.0.0 bonus724.com
 0.0.0.0 www.bonus724.com
 0.0.0.0 bonusblas10.site
@@ -710,10 +712,10 @@
 0.0.0.0 www.garuda55bonusss30ribu.sbs
 0.0.0.0 getdatecity9.biz
 0.0.0.0 www.getdatecity9.biz
-0.0.0.0 godateworld4.biz
-0.0.0.0 www.godateworld4.biz
 0.0.0.0 godatingpro9.biz
 0.0.0.0 www.godatingpro9.biz
+0.0.0.0 hakodate-bpss.net
+0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-juku.com
 0.0.0.0 www.hakodate-juku.com
 0.0.0.0 hakodate-printing.com
@@ -730,6 +732,8 @@
 0.0.0.0 www.id-validate-service-d9.cyou
 0.0.0.0 mandate-targetstorageltd.com
 0.0.0.0 www.mandate-targetstorageltd.com
+0.0.0.0 no-deposit-bonus-casino-nz.online
+0.0.0.0 www.no-deposit-bonus-casino-nz.online
 0.0.0.0 playdate-now.com
 0.0.0.0 www.playdate-now.com
 0.0.0.0 prodating4.biz
@@ -758,6 +762,8 @@
 0.0.0.0 www.xn--datenintegritt-iib.com
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
 0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
+0.0.0.0 yt31bonus31.net
+0.0.0.0 www.yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
