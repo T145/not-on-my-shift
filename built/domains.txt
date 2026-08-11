@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-08-09T12:46:49Z
+# Last update: 2026-08-11T13:00:02Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -202,12 +202,15 @@ alexwasiwo.com
 
 # 2021-03-02 Fedex phishing
 #  - https://geeklevi.com/fedex/
+ailnoir.com
 cancervants.org
 castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
+eurosystemsrl.eu
+fraternitykerala.org
 galaxyfunbowl.gr
 guzelbil.com
 hongqiqujiu.com
@@ -216,14 +219,20 @@ kmtks.org.tw
 loanglide.com
 machupicchutraveling.com
 magicboximportados.com.br
+mistc.es
 mouwz.nl
 mucc.com.au
 nbkangxi.com
+nectartrust.org.uk
 nextgearup.com
 nguen.net
+redlog.cl
 sm-projekt.si
+synoviz.com
 tacloban.gov.ph
-trashstation.com
+twospoonsfleet.co.uk
+ultimatepreneur.com
+vanguardacademy-ng.com
 wowfollowers.com
 yuanant.com
 
@@ -394,11 +403,15 @@ americanexpress-bonusnutzen9943.ink
 americanexpress-bonusnutzen9949.ink
 americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
+betting-bonuses-mongolia.com
 bonus-bendigo.vip
 bonus-vodka365.top
 bonus138link.cloud
 bonus138on6.xyz
 bonus724.com
+bonus99.click
+bonus99.wine
+bonus999.bet
 bonusblas10.site
 bonusnewmember50.com
 bonusnewmember50.org
@@ -424,11 +437,9 @@ dumpster-fire-date-live.click
 easyandromanceonedate3.biz
 easypartnersearchproonedate7.biz
 garuda55bonusss30ribu.sbs
-getdatecity9.biz
 godateworld4.biz
 godatingpro9.biz
 hakodate-bpss.net
-hakodate-juku.com
 hakodate-printing.com
 hakodate-wq.com
 hakodate0104.net
@@ -449,6 +460,7 @@ seniordating-uk.xyz
 topdate7.biz
 updating-subscription.com
 validate-immediate.app
+vkdating-app.ru
 xn--datenintegritt-iib.com
 xn--sugardatingrdgivning-7zb.se
 yt31bonus31.net
