@@ -2,11 +2,11 @@
 # It is automatically updated with the tools/update-fedex-list.py script.
 domains:
 - ailnoir.com
+- blog.sidmach.com
 - cancervants.org
 - castllypay.com
 - clickedgesolutions.com
 - clone.app.home-cost.com
-- comptoncymru.com
 - courseunlock.org
 - defencelover.in
 - dexil.ru
@@ -25,16 +25,12 @@ domains:
 - mucc.com.au
 - nbkangxi.com
 - nectartrust.org.uk
-- nextgearup.com
 - nguen.net
 - redlog.cl
 - sm-projekt.si
-- synoviz.com
 - tacloban.gov.ph
-- trashstation.com
 - twospoonsfleet.co.uk
 - ultimatepreneur.com
-- vanguardacademy-ng.com
 - wowfollowers.com
 - yuanant.com
 fedex_suffixes:
@@ -67,13 +63,13 @@ ignored_domains:
 - bestgoldenretrieverbreeder.com
 - bks.tv
 - blog.envision.agency
-- blog.sidmach.com
 - canopusbd.com
 - cashboxcafe.ru
 - cbd-and-epilepsy.com
 - cbd-and-seizures.com
 - celestinfreinet.mx
 - cgassociates.pk
+- comptoncymru.com
 - contornosdesign.pt
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
@@ -113,6 +109,7 @@ ignored_domains:
 - myphamnganbinh.com
 - nen.vacad.net
 - new.deso.cz
+- nextgearup.com
 - njzmfcls.com
 - nogdec.com
 - nqtxk.com
@@ -139,6 +136,7 @@ ignored_domains:
 - sourmet.com
 - spave.com.pk
 - superztechnoz.com
+- synoviz.com
 - teamder.org
 - testargames.cl
 - thaircy.redcross.or.th
@@ -146,9 +144,11 @@ ignored_domains:
 - thozhilvarthalatest.com
 - toanthaybac.com
 - topblackfridaydealz.com
+- trashstation.com
 - tubies.com
 - tuyennvtb.com
 - update.fbsbx.com
+- vanguardacademy-ng.com
 - veljko.id
 - visotka.in
 - vladimirherzog.org
