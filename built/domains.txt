@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-08-13T13:06:01Z
+# Last update: 2026-08-14T13:01:52Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -203,7 +203,6 @@ alexwasiwo.com
 # 2021-03-02 Fedex phishing
 #  - https://geeklevi.com/fedex/
 ailnoir.com
-blog.sidmach.com
 cancervants.org
 castllypay.com
 clickedgesolutions.com
@@ -226,12 +225,16 @@ mouwz.nl
 mucc.com.au
 nbkangxi.com
 nectartrust.org.uk
+nextgearup.com
 nguen.net
 redlog.cl
 sm-projekt.si
+synoviz.com
 tacloban.gov.ph
+trashstation.com
 twospoonsfleet.co.uk
 ultimatepreneur.com
+vanguardacademy-ng.com
 wowfollowers.com
 yuanant.com
 
@@ -374,12 +377,13 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+4matchcitydate3.biz
 americanexpress-bonus5505.ink
 americanexpress-bonus5508.ink
 americanexpress-bonus5509.ink
-americanexpress-bonus5523.ink
 americanexpress-bonus5524.ink
 americanexpress-bonus5538.ink
+americanexpress-bonus5552.ink
 americanexpress-bonus6601.ink
 americanexpress-bonus6620.ink
 americanexpress-bonus6623.ink
@@ -390,7 +394,6 @@ americanexpress-bonus6647.ink
 americanexpress-bonus6649.ink
 americanexpress-bonusnutzen9906.ink
 americanexpress-bonusnutzen9912.ink
-americanexpress-bonusnutzen9915.ink
 americanexpress-bonusnutzen9923.ink
 americanexpress-bonusnutzen9929.ink
 americanexpress-bonusnutzen9933.ink
@@ -403,18 +406,17 @@ americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
 betting-bonuses-mongolia.com
 bonus-bendigo.vip
+bonus-fara-depunere-casino.com
 bonus-vodka365.top
-bonus138link.cloud
 bonus138on6.xyz
 bonus724.com
-bonus7app.com
-bonus7in.co.in
 bonusblas10.site
 bonusnewmember50.com
 bonusnewmember50.org
+bonusuri-fara-depunere.com
 candidates-thetalentedge.net
-candidates-thetalentedgehq.com
 candidates-thetalentedgeteam.com
+clubdatingxconn6ect.biz
 cuidate-skin.com
 date-app.net
 date-jason.com
@@ -422,42 +424,51 @@ date-nineplay.com
 date007.xyz
 dateing99.com
 datenschutz-check.ch
+dateonelove9.biz
 dating-anastasiao.ru
 dating-anastasiao.store
+dating-wow.com
 dating18.click
 dating24hour.com
 datingcity3.biz
+datingclub3.biz
 datingp5ro.biz
 deneme-bonusu-tr.site
 dumpster-fire-date-live.click
+easyandromanceonedate3.biz
+easydatingpro8.biz
 easypartnersearchproonedate7.biz
 garuda55bonusss30ribu.sbs
+getdatecity9.biz
 godateworld4.biz
-godatingpro9.biz
 hakodate-bpss.net
 hakodate-juku.com
 hakodate-printing.com
 hakodate-wq.com
-hakodate0104.net
 id-validate-service-d12.cyou
 id-validate-service-d24.cyou
 id-validate-service-d9.cyou
 mandate-targetstorageltd.com
+mydatehub6.biz
+nakladatelstvi-mlyn.cz
 no-deposit-bonus-casino-nz.online
 playdate-now.com
 prodating4.biz
 proflirtlandiodate6.biz
+pronowdating7.biz
 quickdatinghu9b.biz
 quickplusmeetxdating6.biz
 savethedate3d.com
 seduniatotobonusss30ribu.cyou
 seniordating-uk.xyz
+smart4datingworld5.biz
 smartdatemeetup5.biz
-topdate7.biz
+topdatecity4.biz
+topdating6.biz
 updating-subscription.com
 validate-immediate.app
+vkdating-app.ru
 xn--datenintegritt-iib.com
-xn--sugardatingrdgivning-7zb.se
 yt31bonus31.net
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
