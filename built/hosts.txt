@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-08-15T12:34:23Z
+# Last update: 2026-08-16T12:36:02Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -608,8 +608,6 @@
 0.0.0.0 www.americanexpress-bonus5538.ink
 0.0.0.0 americanexpress-bonus5552.ink
 0.0.0.0 www.americanexpress-bonus5552.ink
-0.0.0.0 americanexpress-bonus6601.ink
-0.0.0.0 www.americanexpress-bonus6601.ink
 0.0.0.0 americanexpress-bonus6620.ink
 0.0.0.0 www.americanexpress-bonus6620.ink
 0.0.0.0 americanexpress-bonus6623.ink
@@ -622,8 +620,6 @@
 0.0.0.0 www.americanexpress-bonus6639.ink
 0.0.0.0 americanexpress-bonus6647.ink
 0.0.0.0 www.americanexpress-bonus6647.ink
-0.0.0.0 americanexpress-bonus6649.ink
-0.0.0.0 www.americanexpress-bonus6649.ink
 0.0.0.0 americanexpress-bonusnutzen9906.ink
 0.0.0.0 www.americanexpress-bonusnutzen9906.ink
 0.0.0.0 americanexpress-bonusnutzen9912.ink
@@ -648,6 +644,8 @@
 0.0.0.0 www.americanexpress-bonusnutzen9949.ink
 0.0.0.0 americanexpress-bonusnutzen9950.ink
 0.0.0.0 www.americanexpress-bonusnutzen9950.ink
+0.0.0.0 bestlinkdate9.biz
+0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 betting-bonuses-mongolia.com
 0.0.0.0 www.betting-bonuses-mongolia.com
 0.0.0.0 bonus-bendigo.vip
@@ -668,10 +666,16 @@
 0.0.0.0 www.bonusnewmember50.com
 0.0.0.0 bonusnewmember50.org
 0.0.0.0 www.bonusnewmember50.org
+0.0.0.0 bonuspointsystem4.ru
+0.0.0.0 www.bonuspointsystem4.ru
+0.0.0.0 bonusuri-fara-depunere.com
+0.0.0.0 www.bonusuri-fara-depunere.com
 0.0.0.0 candidates-thetalentedge.net
 0.0.0.0 www.candidates-thetalentedge.net
 0.0.0.0 candidates-thetalentedgehq.com
 0.0.0.0 www.candidates-thetalentedgehq.com
+0.0.0.0 candidates-thetalentedgeteam.com
+0.0.0.0 www.candidates-thetalentedgeteam.com
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 cuidate-skin.com
@@ -680,10 +684,6 @@
 0.0.0.0 www.daddykazino-bonus2024.online
 0.0.0.0 date-app.net
 0.0.0.0 www.date-app.net
-0.0.0.0 date-jason.com
-0.0.0.0 www.date-jason.com
-0.0.0.0 date-nineplay.com
-0.0.0.0 www.date-nineplay.com
 0.0.0.0 date007.xyz
 0.0.0.0 www.date007.xyz
 0.0.0.0 dateing99.com
@@ -704,22 +704,18 @@
 0.0.0.0 www.dating-wow.com
 0.0.0.0 dating18.click
 0.0.0.0 www.dating18.click
-0.0.0.0 dating24hour.com
-0.0.0.0 www.dating24hour.com
 0.0.0.0 datingcity3.biz
 0.0.0.0 www.datingcity3.biz
 0.0.0.0 datingclub3.biz
 0.0.0.0 www.datingclub3.biz
+0.0.0.0 datingp5ro.biz
+0.0.0.0 www.datingp5ro.biz
 0.0.0.0 deneme-bonusu-tr.site
 0.0.0.0 www.deneme-bonusu-tr.site
 0.0.0.0 dumpster-fire-date-live.click
 0.0.0.0 www.dumpster-fire-date-live.click
-0.0.0.0 easyandromanceonedate3.biz
-0.0.0.0 www.easyandromanceonedate3.biz
 0.0.0.0 easydatingpro8.biz
 0.0.0.0 www.easydatingpro8.biz
-0.0.0.0 easypartnersearchproonedate7.biz
-0.0.0.0 www.easypartnersearchproonedate7.biz
 0.0.0.0 garuda55bonusss30ribu.sbs
 0.0.0.0 www.garuda55bonusss30ribu.sbs
 0.0.0.0 getdatecity9.biz
@@ -732,8 +728,8 @@
 0.0.0.0 www.godatingpro9.biz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
-0.0.0.0 hakodate-juku.com
-0.0.0.0 www.hakodate-juku.com
+0.0.0.0 hakodate-printing.com
+0.0.0.0 www.hakodate-printing.com
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodate0104.net
@@ -766,6 +762,8 @@
 0.0.0.0 www.quickdatinghu9b.biz
 0.0.0.0 quickplusmeetxdating6.biz
 0.0.0.0 www.quickplusmeetxdating6.biz
+0.0.0.0 savethedate3d.com
+0.0.0.0 www.savethedate3d.com
 0.0.0.0 seduniatotobonusss30ribu.cyou
 0.0.0.0 www.seduniatotobonusss30ribu.cyou
 0.0.0.0 seniordating-uk.xyz
@@ -774,6 +772,10 @@
 0.0.0.0 www.smart4datingworld5.biz
 0.0.0.0 smartdatemeetup5.biz
 0.0.0.0 www.smartdatemeetup5.biz
+0.0.0.0 smartdating03.biz
+0.0.0.0 www.smartdating03.biz
+0.0.0.0 smartdating18.biz
+0.0.0.0 www.smartdating18.biz
 0.0.0.0 topdate7.biz
 0.0.0.0 www.topdate7.biz
 0.0.0.0 topdatecity4.biz
@@ -782,8 +784,6 @@
 0.0.0.0 www.topdating6.biz
 0.0.0.0 updating-subscription.com
 0.0.0.0 www.updating-subscription.com
-0.0.0.0 validate-immediate.app
-0.0.0.0 www.validate-immediate.app
 0.0.0.0 vkdating-app.ru
 0.0.0.0 www.vkdating-app.ru
 0.0.0.0 xn--datenintegritt-iib.com

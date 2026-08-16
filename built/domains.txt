@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-08-15T12:34:23Z
+# Last update: 2026-08-16T12:36:02Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -386,14 +386,12 @@ americanexpress-bonus5523.ink
 americanexpress-bonus5524.ink
 americanexpress-bonus5538.ink
 americanexpress-bonus5552.ink
-americanexpress-bonus6601.ink
 americanexpress-bonus6620.ink
 americanexpress-bonus6623.ink
 americanexpress-bonus6627.ink
 americanexpress-bonus6630.ink
 americanexpress-bonus6639.ink
 americanexpress-bonus6647.ink
-americanexpress-bonus6649.ink
 americanexpress-bonusnutzen9906.ink
 americanexpress-bonusnutzen9912.ink
 americanexpress-bonusnutzen9915.ink
@@ -406,6 +404,7 @@ americanexpress-bonusnutzen9941.ink
 americanexpress-bonusnutzen9943.ink
 americanexpress-bonusnutzen9949.ink
 americanexpress-bonusnutzen9950.ink
+bestlinkdate9.biz
 betting-bonuses-mongolia.com
 bonus-bendigo.vip
 bonus-fara-depunere-casino.com
@@ -416,14 +415,15 @@ bonus724.com
 bonusblas10.site
 bonusnewmember50.com
 bonusnewmember50.org
+bonuspointsystem4.ru
+bonusuri-fara-depunere.com
 candidates-thetalentedge.net
 candidates-thetalentedgehq.com
+candidates-thetalentedgeteam.com
 clubdatingxconn6ect.biz
 cuidate-skin.com
 daddykazino-bonus2024.online
 date-app.net
-date-jason.com
-date-nineplay.com
 date007.xyz
 dateing99.com
 dateiomat1ch.biz
@@ -434,21 +434,19 @@ dating-anastasiao.ru
 dating-anastasiao.store
 dating-wow.com
 dating18.click
-dating24hour.com
 datingcity3.biz
 datingclub3.biz
+datingp5ro.biz
 deneme-bonusu-tr.site
 dumpster-fire-date-live.click
-easyandromanceonedate3.biz
 easydatingpro8.biz
-easypartnersearchproonedate7.biz
 garuda55bonusss30ribu.sbs
 getdatecity9.biz
 godateworld4.biz
 godatingp3ro.biz
 godatingpro9.biz
 hakodate-bpss.net
-hakodate-juku.com
+hakodate-printing.com
 hakodate-wq.com
 hakodate0104.net
 id-validate-service-d12.cyou
@@ -465,15 +463,17 @@ proflirtlandiodate6.biz
 pronowdating7.biz
 quickdatinghu9b.biz
 quickplusmeetxdating6.biz
+savethedate3d.com
 seduniatotobonusss30ribu.cyou
 seniordating-uk.xyz
 smart4datingworld5.biz
 smartdatemeetup5.biz
+smartdating03.biz
+smartdating18.biz
 topdate7.biz
 topdatecity4.biz
 topdating6.biz
 updating-subscription.com
-validate-immediate.app
 vkdating-app.ru
 xn--datenintegritt-iib.com
 xn--sugardatingrdgivning-7zb.se
