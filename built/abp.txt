@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-08-21T12:44:20Z
+! Last update: 2026-08-22T12:35:49Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -217,9 +217,9 @@
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
-||courseunlock.org^
 ||defencelover.in^
 ||eurosystemsrl.eu^
+||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||guzelbil.com^
 ||hongqiqujiu.com^
@@ -237,10 +237,14 @@
 ||nguen.net^
 ||redlog.cl^
 ||sm-projekt.si^
+||soundwavesprodjs.com^
+||synoviz.com^
 ||tacloban.gov.ph^
+||thozhilvarthalatest.com^
 ||trashstation.com^
 ||twospoonsfleet.co.uk^
 ||ultimatepreneur.com^
+||vanguardacademy-ng.com^
 ||wowfollowers.com^
 ||yuanant.com^
 
@@ -384,7 +388,6 @@
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
 ||americanexpress-bonus5505.ink^
-||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
 ||americanexpress-bonus5523.ink^
 ||americanexpress-bonus5524.ink^
@@ -398,8 +401,6 @@
 ||americanexpress-bonus6647.ink^
 ||americanexpress-bonus6649.ink^
 ||americanexpress-bonusnutzen9912.ink^
-||americanexpress-bonusnutzen9915.ink^
-||americanexpress-bonusnutzen9923.ink^
 ||americanexpress-bonusnutzen9929.ink^
 ||americanexpress-bonusnutzen9933.ink^
 ||americanexpress-bonusnutzen9936.ink^
@@ -412,14 +413,17 @@
 ||betting-bonuses-mongolia.com^
 ||bonus-bendigo.vip^
 ||bonus-survey-online.sbs^
+||bonus138link.cloud^
 ||bonus138on6.xyz^
-||bonus724.com^
 ||bonusblas10.site^
 ||bonusnewmember50.com^
-||bonusslot888.com^
+||bonusnewmember50.org^
+||brand-bonusthree7-core.top^
 ||candidates-thetalentedge.net^
 ||candidates-thetalentedgehq.com^
 ||candidates-thetalentedgeteam.com^
+||casinobonus2025.se^
+||casinobonus2026.se^
 ||clubdatingxconn6ect.biz^
 ||cuidate-skin.com^
 ||daddykazino-bonus2024.online^
@@ -456,8 +460,8 @@
 ||holiganbet-bonus12agustos.icu^
 ||id-validate-service-d12.cyou^
 ||id-validate-service-d24.cyou^
+||id-validate-service-d9.cyou^
 ||mandate-targetstorageltd.com^
-||mandate24.com^
 ||mydatehub6.biz^
 ||myzonedatingworld1.biz^
 ||nakladatelstvi-mlyn.cz^
@@ -471,7 +475,7 @@
 ||savethedate3d.com^
 ||seniordating-uk.xyz^
 ||smart4datingworld5.biz^
-||smartdating03.biz^
+||smartdatemeetup5.biz^
 ||smartdating18.biz^
 ||topdate7.biz^
 ||topdatecity4.biz^

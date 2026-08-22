@@ -2,7 +2,6 @@
 # It is automatically updated with the tools/update-prizes-list.py script.
 domains:
 - americanexpress-bonus5505.ink
-- americanexpress-bonus5508.ink
 - americanexpress-bonus5509.ink
 - americanexpress-bonus5523.ink
 - americanexpress-bonus5524.ink
@@ -16,8 +15,6 @@ domains:
 - americanexpress-bonus6647.ink
 - americanexpress-bonus6649.ink
 - americanexpress-bonusnutzen9912.ink
-- americanexpress-bonusnutzen9915.ink
-- americanexpress-bonusnutzen9923.ink
 - americanexpress-bonusnutzen9929.ink
 - americanexpress-bonusnutzen9933.ink
 - americanexpress-bonusnutzen9936.ink
@@ -30,14 +27,17 @@ domains:
 - betting-bonuses-mongolia.com
 - bonus-bendigo.vip
 - bonus-survey-online.sbs
+- bonus138link.cloud
 - bonus138on6.xyz
-- bonus724.com
 - bonusblas10.site
 - bonusnewmember50.com
-- bonusslot888.com
+- bonusnewmember50.org
+- brand-bonusthree7-core.top
 - candidates-thetalentedge.net
 - candidates-thetalentedgehq.com
 - candidates-thetalentedgeteam.com
+- casinobonus2025.se
+- casinobonus2026.se
 - clubdatingxconn6ect.biz
 - cuidate-skin.com
 - daddykazino-bonus2024.online
@@ -74,8 +74,8 @@ domains:
 - holiganbet-bonus12agustos.icu
 - id-validate-service-d12.cyou
 - id-validate-service-d24.cyou
+- id-validate-service-d9.cyou
 - mandate-targetstorageltd.com
-- mandate24.com
 - mydatehub6.biz
 - myzonedatingworld1.biz
 - nakladatelstvi-mlyn.cz
@@ -89,7 +89,7 @@ domains:
 - savethedate3d.com
 - seniordating-uk.xyz
 - smart4datingworld5.biz
-- smartdating03.biz
+- smartdatemeetup5.biz
 - smartdating18.biz
 - topdate7.biz
 - topdatecity4.biz
@@ -151,6 +151,9 @@ inactive_domains:
 - all-best-prizes2020.com
 - all-prizes-2020.com
 - amazingthings2020.store
+- americanexpress-bonus5508.ink
+- americanexpress-bonusnutzen9915.ink
+- americanexpress-bonusnutzen9923.ink
 - americanexpress-bonusnutzen9955.ink
 - americanexpress-bonusnutzen9959.ink
 - amorebig.space
@@ -382,7 +385,6 @@ inactive_domains:
 - bonus-zg.sbs
 - bonus-zh.cyou
 - bonus-zo.cyou
-- bonus138link.cloud
 - bonus2.ru
 - bonus2024-empiricus.online
 - bonus2024-empiricus.site
@@ -405,6 +407,7 @@ inactive_domains:
 - bonus610.site
 - bonus632.site
 - bonus68.site
+- bonus724.com
 - bonus77.club
 - bonus777slots.com
 - bonus8888.vip
@@ -442,19 +445,16 @@ inactive_domains:
 - bonuskong-el.com
 - bonuskongcasino-au.com
 - bonuslab4.com
-- bonuslang1.com
 - bonuslarr2026tr.vip
 - bonusligaforum103.com
 - bonusligaforum107.com
 - bonusligaforum110.com
 - bonuslugiriis2025.com
 - bonusmpo1221.net
-- bonusnewmember50.org
 - bonusnewregestration1.digital
 - bonusplay24.com
 - bonuspointsystem4.ru
 - bonuspointsystem5.ru
-- bonusrehber4.site
 - bonusrehberi-27b92c.icu
 - bonussgarant1firsati.com
 - bonussiteleri1.com
@@ -472,7 +472,6 @@ inactive_domains:
 - box-prize-you.life
 - boxiredarkreg.tk
 - braindate2049.com
-- brand-bonusthree7-core.top
 - britgehanutvo.ga
 - brynsk-dating.website
 - bucket-of-bonus-bass.com
@@ -548,7 +547,6 @@ inactive_domains:
 - culmaconhocor.ml
 - cute-menfinders.com
 - daily-adulthookup.com
-- daily-bonus-zone.com
 - daily-profitmethod1.life
 - datasidneyprize4d.com
 - date-4-u-today4.com
@@ -585,7 +583,6 @@ inactive_domains:
 - datefortimenow23.click
 - dateing99.com
 - dateken-jukou.com
-- datemakioishi17.shop
 - datemi363.xyz
 - datemyage-o.lat
 - daten-aktualisieren24.online
@@ -758,6 +755,7 @@ inactive_domains:
 - denemebonusu-anindakarahizmet.vip
 - denemebonusu-anindakarahizmett.vip
 - denemebonusu-anindakarahizmetw.vip
+- denemebonusu-fixbonusiteler.top
 - denemebonusu-guncel.icu
 - denemebonusu-guncel2026.vip
 - denemebonusu-hitmetleri.vip
@@ -797,6 +795,7 @@ inactive_domains:
 - denemebonusuwv34.xyz
 - denemebonusuyeniadresleri-karan.vip
 - denemebonusverensiteleri-kara.vip
+- denemebonusverensitelerq-kara.vip
 - deposit25bonus25.shop
 - derbigirisibonus2026.com
 - detinrocondsand.ml
@@ -828,6 +827,7 @@ inactive_domains:
 - ekaterinburgdating.site
 - elitehookupshere3.com
 - emily-dates.host
+- emma-chris-save-the-date-4-04-2027.com
 - enhancement-methods4.com
 - ethbonus-macos.com
 - etikettdatenk72.website
@@ -1023,7 +1023,6 @@ inactive_domains:
 - id-validate-service-c1.cyou
 - id-validate-service-c2.cyou
 - id-validate-service-c5.cyou
-- id-validate-service-d9.cyou
 - idanrehualib.ga
 - ideal-prizezone.life
 - igeraplocma.ga
@@ -1457,7 +1456,7 @@ inactive_domains:
 - smart-instantwin-prize-real.top
 - smart-prize-draw-search.autos
 - smart-prize-instantwin-giveaway.autos
-- smartdatemeetup5.biz
+- smartdating03.biz
 - snaphell.fun
 - soldatenkov-top.ru
 - soprize1.com
