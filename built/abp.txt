@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-08-22T12:35:49Z
+! Last update: 2026-08-26T12:48:43Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -387,9 +387,10 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+||4matchcitydate3.biz^
 ||americanexpress-bonus5505.ink^
+||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
-||americanexpress-bonus5523.ink^
 ||americanexpress-bonus5524.ink^
 ||americanexpress-bonus5538.ink^
 ||americanexpress-bonus5552.ink^
@@ -397,13 +398,12 @@
 ||americanexpress-bonus6620.ink^
 ||americanexpress-bonus6623.ink^
 ||americanexpress-bonus6630.ink^
-||americanexpress-bonus6639.ink^
 ||americanexpress-bonus6647.ink^
 ||americanexpress-bonus6649.ink^
 ||americanexpress-bonusnutzen9912.ink^
+||americanexpress-bonusnutzen9923.ink^
 ||americanexpress-bonusnutzen9929.ink^
 ||americanexpress-bonusnutzen9933.ink^
-||americanexpress-bonusnutzen9936.ink^
 ||americanexpress-bonusnutzen9937.ink^
 ||americanexpress-bonusnutzen9941.ink^
 ||americanexpress-bonusnutzen9943.ink^
@@ -412,25 +412,25 @@
 ||bestlinkdate9.biz^
 ||betting-bonuses-mongolia.com^
 ||bonus-bendigo.vip^
-||bonus-survey-online.sbs^
 ||bonus138link.cloud^
 ||bonus138on6.xyz^
+||bonus724.com^
 ||bonusblas10.site^
 ||bonusnewmember50.com^
 ||bonusnewmember50.org^
+||bonuswinrate777.click^
 ||brand-bonusthree7-core.top^
 ||candidates-thetalentedge.net^
 ||candidates-thetalentedgehq.com^
 ||candidates-thetalentedgeteam.com^
-||casinobonus2025.se^
-||casinobonus2026.se^
 ||clubdatingxconn6ect.biz^
 ||cuidate-skin.com^
 ||daddykazino-bonus2024.online^
 ||date-app.net^
 ||date-jason.com^
 ||date-nineplay.com^
-||date007.xyz^
+||date2keep.com^
+||dateing99.com^
 ||dateiomat1ch.biz^
 ||datemeetup4.biz^
 ||datenschutz-check.ch^
@@ -438,14 +438,11 @@
 ||dating-anastasiao.ru^
 ||dating-anastasiao.store^
 ||dating18.click^
-||dating24hour.com^
-||datingcity3.biz^
 ||datingclub3.biz^
 ||datingp5ro.biz^
 ||deneme-bonusu-tr.site^
 ||dumpster-fire-date-live.click^
 ||easyandromanceonedate3.biz^
-||easydatingpro8.biz^
 ||easypartnersearchproonedate7.biz^
 ||garuda55bonusss30ribu.sbs^
 ||getdatecity9.biz^
@@ -456,11 +453,11 @@
 ||hakodate-juku.com^
 ||hakodate-printing.com^
 ||hakodate-wq.com^
-||hakodate0104.net^
 ||holiganbet-bonus12agustos.icu^
 ||id-validate-service-d12.cyou^
 ||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
+||lotto-bonus-code.com^
 ||mandate-targetstorageltd.com^
 ||mydatehub6.biz^
 ||myzonedatingworld1.biz^
@@ -470,19 +467,19 @@
 ||prodating4.biz^
 ||proflirtlandiodate6.biz^
 ||pronowdating7.biz^
+||quickdate5.biz^
 ||quickdatinghu9b.biz^
 ||quickplusmeetxdating6.biz^
 ||savethedate3d.com^
 ||seniordating-uk.xyz^
 ||smart4datingworld5.biz^
 ||smartdatemeetup5.biz^
-||smartdating18.biz^
-||topdate7.biz^
+||smartdating03.biz^
 ||topdatecity4.biz^
+||topdateclub1.biz^
 ||topdating6.biz^
 ||updating-subscription.com^
 ||validate-immediate.app^
-||vkdating-app.ru^
 ||xn--datenintegritt-iib.com^
 ||xn--sugardatingrdgivning-7zb.se^
 ||yt31bonus31.net^
