@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-08-28T21:49:31Z
+! Last update: 2026-08-30T16:02:18Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -216,9 +216,10 @@
 ||castllypay.com^
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
+||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||eurosystemsrl.eu^
-||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||guzelbil.com^
 ||hongqiqujiu.com^
@@ -237,13 +238,9 @@
 ||redlog.cl^
 ||sm-projekt.si^
 ||soundwavesprodjs.com^
-||synoviz.com^
 ||tacloban.gov.ph^
-||thozhilvarthalatest.com^
-||trashstation.com^
 ||twospoonsfleet.co.uk^
 ||ultimatepreneur.com^
-||vanguardacademy-ng.com^
 ||wowfollowers.com^
 ||yuanant.com^
 
@@ -386,16 +383,15 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||4matchcitydate3.biz^
 ||americanexpress-bonus5505.ink^
 ||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
 ||americanexpress-bonus5523.ink^
 ||americanexpress-bonus5524.ink^
+||americanexpress-bonus5538.ink^
 ||americanexpress-bonus5552.ink^
 ||americanexpress-bonus6601.ink^
 ||americanexpress-bonus6620.ink^
-||americanexpress-bonus6623.ink^
 ||americanexpress-bonus6630.ink^
 ||americanexpress-bonus6639.ink^
 ||americanexpress-bonus6647.ink^
@@ -417,7 +413,6 @@
 ||bonus-survey-online.sbs^
 ||bonus138link.cloud^
 ||bonus138on6.xyz^
-||bonus724.com^
 ||bonusblas10.site^
 ||bonusnewmember50.com^
 ||bonusnewmember50.org^
@@ -429,7 +424,6 @@
 ||casinobonus1.se^
 ||clubdatingxconn6ect.biz^
 ||cuidate-skin.com^
-||date-app.net^
 ||date-free.date^
 ||date-free.gay^
 ||date-free.lgbt^
@@ -442,7 +436,6 @@
 ||date4free.lgbt^
 ||dateiomat1ch.biz^
 ||datemeetup4.biz^
-||datenschutz-check.ch^
 ||dateonelove9.biz^
 ||dating-anastasiao.ru^
 ||dating-anastasiao.store^
@@ -455,25 +448,22 @@
 ||deneme-bonusu-tr.site^
 ||dumpster-fire-date-live.click^
 ||easyandromanceonedate3.biz^
-||easydatingpro8.biz^
 ||easypartnersearchproonedate7.biz^
 ||garuda55bonusss30ribu.sbs^
 ||getdatecity9.biz^
 ||godateworld4.biz^
 ||godatingp3ro.biz^
+||godatingpro9.biz^
 ||hakodate-bpss.net^
 ||hakodate-juku.com^
-||hakodate-printing.com^
 ||hakodate-wq.com^
 ||hakodate0104.net^
-||holiganbet-bonus12agustos.icu^
 ||id-validate-service-d12.cyou^
 ||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
 ||lotto-bonus-code.com^
 ||mandate-targetstorageltd.com^
 ||mydatehub6.biz^
-||myzonedatingworld1.biz^
 ||nakladatelstvi-mlyn.cz^
 ||no-deposit-bonus-casino-nz.online^
 ||playdate-now.com^
@@ -486,6 +476,7 @@
 ||savethedate3d.com^
 ||seniordating-uk.xyz^
 ||smart4datingworld5.biz^
+||smartdatemeetup5.biz^
 ||smartdating03.biz^
 ||smartdating18.biz^
 ||topdate7.biz^
