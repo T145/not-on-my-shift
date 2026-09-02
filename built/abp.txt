@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-09-01T16:05:22Z
+! Last update: 2026-09-02T15:58:14Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -386,7 +386,6 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||4matchcitydate3.biz^
 ||americanexpress-bonus5505.ink^
 ||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
@@ -405,6 +404,7 @@
 ||americanexpress-bonusnutzen9915.ink^
 ||americanexpress-bonusnutzen9923.ink^
 ||americanexpress-bonusnutzen9929.ink^
+||americanexpress-bonusnutzen9933.ink^
 ||americanexpress-bonusnutzen9936.ink^
 ||americanexpress-bonusnutzen9937.ink^
 ||americanexpress-bonusnutzen9941.ink^
@@ -456,7 +456,7 @@
 ||denemebonusucv-zeus.cfd^
 ||denemebonusux-zeus.cfd^
 ||dumpster-fire-date-live.click^
-||easydatingpro8.biz^
+||easyandromanceonedate3.biz^
 ||easypartnersearchproonedate7.biz^
 ||garuda55bonusss30ribu.sbs^
 ||getdatecity9.biz^
@@ -467,6 +467,7 @@
 ||hakodate-juku.com^
 ||hakodate-printing.com^
 ||hakodate-wq.com^
+||hakodate0104.net^
 ||holiganbet-bonus12agustos.icu^
 ||id-validate-service-d12.cyou^
 ||id-validate-service-d24.cyou^
@@ -477,6 +478,7 @@
 ||nakladatelstvi-mlyn.cz^
 ||no-deposit-bonus-casino-nz.online^
 ||playdate-now.com^
+||prodating4.biz^
 ||proflirtlandiodate6.biz^
 ||pronowdating7.biz^
 ||quickdate5.biz^
@@ -495,6 +497,7 @@
 ||updating-subscription.com^
 ||validate-immediate.app^
 ||xn--datenintegritt-iib.com^
+||xn--sugardatingrdgivning-7zb.se^
 ||yt31bonus31.net^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".

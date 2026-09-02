@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-09-01T16:05:22Z
+# Last update: 2026-09-02T15:58:14Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -590,8 +590,6 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 4matchcitydate3.biz
-0.0.0.0 www.4matchcitydate3.biz
 0.0.0.0 americanexpress-bonus5505.ink
 0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
@@ -628,6 +626,8 @@
 0.0.0.0 www.americanexpress-bonusnutzen9923.ink
 0.0.0.0 americanexpress-bonusnutzen9929.ink
 0.0.0.0 www.americanexpress-bonusnutzen9929.ink
+0.0.0.0 americanexpress-bonusnutzen9933.ink
+0.0.0.0 www.americanexpress-bonusnutzen9933.ink
 0.0.0.0 americanexpress-bonusnutzen9936.ink
 0.0.0.0 www.americanexpress-bonusnutzen9936.ink
 0.0.0.0 americanexpress-bonusnutzen9937.ink
@@ -730,8 +730,8 @@
 0.0.0.0 www.denemebonusux-zeus.cfd
 0.0.0.0 dumpster-fire-date-live.click
 0.0.0.0 www.dumpster-fire-date-live.click
-0.0.0.0 easydatingpro8.biz
-0.0.0.0 www.easydatingpro8.biz
+0.0.0.0 easyandromanceonedate3.biz
+0.0.0.0 www.easyandromanceonedate3.biz
 0.0.0.0 easypartnersearchproonedate7.biz
 0.0.0.0 www.easypartnersearchproonedate7.biz
 0.0.0.0 garuda55bonusss30ribu.sbs
@@ -752,6 +752,8 @@
 0.0.0.0 www.hakodate-printing.com
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
+0.0.0.0 hakodate0104.net
+0.0.0.0 www.hakodate0104.net
 0.0.0.0 holiganbet-bonus12agustos.icu
 0.0.0.0 www.holiganbet-bonus12agustos.icu
 0.0.0.0 id-validate-service-d12.cyou
@@ -772,6 +774,8 @@
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
 0.0.0.0 playdate-now.com
 0.0.0.0 www.playdate-now.com
+0.0.0.0 prodating4.biz
+0.0.0.0 www.prodating4.biz
 0.0.0.0 proflirtlandiodate6.biz
 0.0.0.0 www.proflirtlandiodate6.biz
 0.0.0.0 pronowdating7.biz
@@ -808,6 +812,8 @@
 0.0.0.0 www.validate-immediate.app
 0.0.0.0 xn--datenintegritt-iib.com
 0.0.0.0 www.xn--datenintegritt-iib.com
+0.0.0.0 xn--sugardatingrdgivning-7zb.se
+0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
 0.0.0.0 yt31bonus31.net
 0.0.0.0 www.yt31bonus31.net
 
