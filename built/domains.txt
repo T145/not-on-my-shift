@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-09-02T15:58:14Z
+# Last update: 2026-09-03T15:47:07Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -207,8 +207,8 @@ cancervants.org
 castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
-comptoncymru.com
 defencelover.in
+dexil.ru
 eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
@@ -236,7 +236,6 @@ twospoonsfleet.co.uk
 ultimatepreneur.com
 vanguardacademy-ng.com
 wowfollowers.com
-yuanant.com
 
 # === SCAMS ===
 # These filters block pages which are known to scam people for money or gift cards
@@ -408,17 +407,16 @@ bonus-bendigo.vip
 bonus-survey-online.sbs
 bonus138link.cloud
 bonus138on6.xyz
+bonus7618.top
 bonusblas10.site
 bonusnewmember50.com
 bonusnewmember50.org
-bonuswinrate777.click
 brand-bonusthree7-core.top
 candidates-thetalentedge.net
 candidates-thetalentedgehq.com
 candidates-thetalentedgeteam.com
 casinobonus1.se
 clubdatingxconn6ect.biz
-cuidate-skin.com
 date-app.net
 date-free.date
 date-free.gay
@@ -447,7 +445,6 @@ deneme-bonusu-tr.site
 denemebonusucv-zeus.cfd
 denemebonusux-zeus.cfd
 dumpster-fire-date-live.click
-easyandromanceonedate3.biz
 easypartnersearchproonedate7.biz
 garuda55bonusss30ribu.sbs
 getdatecity9.biz
@@ -487,6 +484,7 @@ topdateclub1.biz
 topdating6.biz
 updating-subscription.com
 validate-immediate.app
+xn--bonusvrlden-q8a.se
 xn--datenintegritt-iib.com
 xn--sugardatingrdgivning-7zb.se
 yt31bonus31.net
