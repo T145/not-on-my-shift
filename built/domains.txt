@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-09-03T15:47:07Z
+# Last update: 2026-09-04T15:45:55Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -208,7 +208,6 @@ castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
 defencelover.in
-dexil.ru
 eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
@@ -226,6 +225,7 @@ nbkangxi.com
 nectartrust.org.uk
 nextgearup.com
 nguen.net
+parikhinfosolutions.in
 redlog.cl
 sm-projekt.si
 synoviz.com
@@ -386,7 +386,6 @@ americanexpress-bonus5552.ink
 americanexpress-bonus6601.ink
 americanexpress-bonus6620.ink
 americanexpress-bonus6623.ink
-americanexpress-bonus6630.ink
 americanexpress-bonus6639.ink
 americanexpress-bonus6647.ink
 americanexpress-bonus6649.ink
@@ -397,7 +396,6 @@ americanexpress-bonusnutzen9929.ink
 americanexpress-bonusnutzen9933.ink
 americanexpress-bonusnutzen9936.ink
 americanexpress-bonusnutzen9937.ink
-americanexpress-bonusnutzen9941.ink
 americanexpress-bonusnutzen9943.ink
 americanexpress-bonusnutzen9949.ink
 americanexpress-bonusnutzen9950.ink
@@ -407,16 +405,17 @@ bonus-bendigo.vip
 bonus-survey-online.sbs
 bonus138link.cloud
 bonus138on6.xyz
-bonus7618.top
 bonusblas10.site
 bonusnewmember50.com
 bonusnewmember50.org
+bonuswinrate777.click
 brand-bonusthree7-core.top
 candidates-thetalentedge.net
 candidates-thetalentedgehq.com
 candidates-thetalentedgeteam.com
 casinobonus1.se
 clubdatingxconn6ect.biz
+cuidate-skin.com
 date-app.net
 date-free.date
 date-free.gay
@@ -453,9 +452,7 @@ godatingp3ro.biz
 godatingpro9.biz
 hakodate-bpss.net
 hakodate-juku.com
-hakodate-printing.com
 hakodate-wq.com
-hakodate0104.net
 holiganbet-bonus12agustos.icu
 id-validate-service-d12.cyou
 id-validate-service-d24.cyou
@@ -475,7 +472,6 @@ quickplusmeetxdating6.biz
 savethedate3d.com
 seniordating-uk.xyz
 smart4datingworld5.biz
-smartdatemeetup5.biz
 smartdating03.biz
 smartdating18.biz
 topdate7.biz
@@ -486,6 +482,7 @@ updating-subscription.com
 validate-immediate.app
 xn--bonusvrlden-q8a.se
 xn--datenintegritt-iib.com
+xn--insttningsfribonus-ntb.se
 xn--sugardatingrdgivning-7zb.se
 yt31bonus31.net
 
