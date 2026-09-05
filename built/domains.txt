@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-09-04T15:45:55Z
+# Last update: 2026-09-05T14:34:27Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -208,6 +208,7 @@ castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
 defencelover.in
+dexil.ru
 eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
@@ -225,7 +226,6 @@ nbkangxi.com
 nectartrust.org.uk
 nextgearup.com
 nguen.net
-parikhinfosolutions.in
 redlog.cl
 sm-projekt.si
 synoviz.com
@@ -386,6 +386,7 @@ americanexpress-bonus5552.ink
 americanexpress-bonus6601.ink
 americanexpress-bonus6620.ink
 americanexpress-bonus6623.ink
+americanexpress-bonus6630.ink
 americanexpress-bonus6639.ink
 americanexpress-bonus6647.ink
 americanexpress-bonus6649.ink
@@ -396,6 +397,7 @@ americanexpress-bonusnutzen9929.ink
 americanexpress-bonusnutzen9933.ink
 americanexpress-bonusnutzen9936.ink
 americanexpress-bonusnutzen9937.ink
+americanexpress-bonusnutzen9941.ink
 americanexpress-bonusnutzen9943.ink
 americanexpress-bonusnutzen9949.ink
 americanexpress-bonusnutzen9950.ink
@@ -435,8 +437,6 @@ dateonelove9.biz
 dating-anastasiao.ru
 dating-anastasiao.store
 dating18.click
-dating24hour.com
-dating4free.co
 datingcity3.biz
 datingclub3.biz
 datingp5ro.biz
@@ -451,8 +451,8 @@ godateworld4.biz
 godatingp3ro.biz
 godatingpro9.biz
 hakodate-bpss.net
-hakodate-juku.com
 hakodate-wq.com
+hakodate0104.net
 holiganbet-bonus12agustos.icu
 id-validate-service-d12.cyou
 id-validate-service-d24.cyou

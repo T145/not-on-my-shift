@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-09-04T15:45:55Z
+# Last update: 2026-09-05T14:34:27Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -293,6 +293,8 @@
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
+0.0.0.0 dexil.ru
+0.0.0.0 www.dexil.ru
 0.0.0.0 eurosystemsrl.eu
 0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 fraternitykerala.org
@@ -327,8 +329,6 @@
 0.0.0.0 www.nextgearup.com
 0.0.0.0 nguen.net
 0.0.0.0 www.nguen.net
-0.0.0.0 parikhinfosolutions.in
-0.0.0.0 www.parikhinfosolutions.in
 0.0.0.0 redlog.cl
 0.0.0.0 www.redlog.cl
 0.0.0.0 sm-projekt.si
@@ -608,6 +608,8 @@
 0.0.0.0 www.americanexpress-bonus6620.ink
 0.0.0.0 americanexpress-bonus6623.ink
 0.0.0.0 www.americanexpress-bonus6623.ink
+0.0.0.0 americanexpress-bonus6630.ink
+0.0.0.0 www.americanexpress-bonus6630.ink
 0.0.0.0 americanexpress-bonus6639.ink
 0.0.0.0 www.americanexpress-bonus6639.ink
 0.0.0.0 americanexpress-bonus6647.ink
@@ -628,6 +630,8 @@
 0.0.0.0 www.americanexpress-bonusnutzen9936.ink
 0.0.0.0 americanexpress-bonusnutzen9937.ink
 0.0.0.0 www.americanexpress-bonusnutzen9937.ink
+0.0.0.0 americanexpress-bonusnutzen9941.ink
+0.0.0.0 www.americanexpress-bonusnutzen9941.ink
 0.0.0.0 americanexpress-bonusnutzen9943.ink
 0.0.0.0 www.americanexpress-bonusnutzen9943.ink
 0.0.0.0 americanexpress-bonusnutzen9949.ink
@@ -706,10 +710,6 @@
 0.0.0.0 www.dating-anastasiao.store
 0.0.0.0 dating18.click
 0.0.0.0 www.dating18.click
-0.0.0.0 dating24hour.com
-0.0.0.0 www.dating24hour.com
-0.0.0.0 dating4free.co
-0.0.0.0 www.dating4free.co
 0.0.0.0 datingcity3.biz
 0.0.0.0 www.datingcity3.biz
 0.0.0.0 datingclub3.biz
@@ -738,10 +738,10 @@
 0.0.0.0 www.godatingpro9.biz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
-0.0.0.0 hakodate-juku.com
-0.0.0.0 www.hakodate-juku.com
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
+0.0.0.0 hakodate0104.net
+0.0.0.0 www.hakodate0104.net
 0.0.0.0 holiganbet-bonus12agustos.icu
 0.0.0.0 www.holiganbet-bonus12agustos.icu
 0.0.0.0 id-validate-service-d12.cyou
