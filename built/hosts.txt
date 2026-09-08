@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-09-05T14:34:27Z
+# Last update: 2026-09-08T15:59:19Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -291,10 +291,10 @@
 0.0.0.0 clickedgesolutions.com
 0.0.0.0 www.clickedgesolutions.com
 0.0.0.0 clone.app.home-cost.com
+0.0.0.0 comptoncymru.com
+0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 eurosystemsrl.eu
 0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 fraternitykerala.org
@@ -588,6 +588,8 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+0.0.0.0 4matchcitydate3.biz
+0.0.0.0 www.4matchcitydate3.biz
 0.0.0.0 americanexpress-bonus5505.ink
 0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
@@ -606,8 +608,6 @@
 0.0.0.0 www.americanexpress-bonus6601.ink
 0.0.0.0 americanexpress-bonus6620.ink
 0.0.0.0 www.americanexpress-bonus6620.ink
-0.0.0.0 americanexpress-bonus6623.ink
-0.0.0.0 www.americanexpress-bonus6623.ink
 0.0.0.0 americanexpress-bonus6630.ink
 0.0.0.0 www.americanexpress-bonus6630.ink
 0.0.0.0 americanexpress-bonus6639.ink
@@ -652,6 +652,8 @@
 0.0.0.0 www.bonus138on6.xyz
 0.0.0.0 bonusblas10.site
 0.0.0.0 www.bonusblas10.site
+0.0.0.0 bonusgiris4.icu
+0.0.0.0 www.bonusgiris4.icu
 0.0.0.0 bonusnewmember50.com
 0.0.0.0 www.bonusnewmember50.com
 0.0.0.0 bonusnewmember50.org
@@ -670,8 +672,6 @@
 0.0.0.0 www.casinobonus1.se
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
-0.0.0.0 cuidate-skin.com
-0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
 0.0.0.0 www.date-app.net
 0.0.0.0 date-free.date
@@ -682,10 +682,6 @@
 0.0.0.0 www.date-free.lgbt
 0.0.0.0 date-free.org
 0.0.0.0 www.date-free.org
-0.0.0.0 date-jason.com
-0.0.0.0 www.date-jason.com
-0.0.0.0 date-nineplay.com
-0.0.0.0 www.date-nineplay.com
 0.0.0.0 date007.xyz
 0.0.0.0 www.date007.xyz
 0.0.0.0 date2keep.com
@@ -708,8 +704,10 @@
 0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
 0.0.0.0 www.dating-anastasiao.store
-0.0.0.0 dating18.click
-0.0.0.0 www.dating18.click
+0.0.0.0 dating24hour.com
+0.0.0.0 www.dating24hour.com
+0.0.0.0 dating4free.co
+0.0.0.0 www.dating4free.co
 0.0.0.0 datingcity3.biz
 0.0.0.0 www.datingcity3.biz
 0.0.0.0 datingclub3.biz
@@ -724,10 +722,10 @@
 0.0.0.0 www.denemebonusux-zeus.cfd
 0.0.0.0 dumpster-fire-date-live.click
 0.0.0.0 www.dumpster-fire-date-live.click
+0.0.0.0 easydatingpro8.biz
+0.0.0.0 www.easydatingpro8.biz
 0.0.0.0 easypartnersearchproonedate7.biz
 0.0.0.0 www.easypartnersearchproonedate7.biz
-0.0.0.0 garuda55bonusss30ribu.sbs
-0.0.0.0 www.garuda55bonusss30ribu.sbs
 0.0.0.0 getdatecity9.biz
 0.0.0.0 www.getdatecity9.biz
 0.0.0.0 godateworld4.biz
@@ -738,6 +736,10 @@
 0.0.0.0 www.godatingpro9.biz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
+0.0.0.0 hakodate-juku.com
+0.0.0.0 www.hakodate-juku.com
+0.0.0.0 hakodate-printing.com
+0.0.0.0 www.hakodate-printing.com
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodate0104.net
@@ -780,6 +782,8 @@
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smart4datingworld5.biz
 0.0.0.0 www.smart4datingworld5.biz
+0.0.0.0 smartdatemeetup5.biz
+0.0.0.0 www.smartdatemeetup5.biz
 0.0.0.0 smartdating03.biz
 0.0.0.0 www.smartdating03.biz
 0.0.0.0 smartdating18.biz
@@ -790,8 +794,6 @@
 0.0.0.0 www.topdatecity4.biz
 0.0.0.0 topdateclub1.biz
 0.0.0.0 www.topdateclub1.biz
-0.0.0.0 topdating6.biz
-0.0.0.0 www.topdating6.biz
 0.0.0.0 updating-subscription.com
 0.0.0.0 www.updating-subscription.com
 0.0.0.0 validate-immediate.app

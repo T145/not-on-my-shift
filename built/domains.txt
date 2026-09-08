@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-09-05T14:34:27Z
+# Last update: 2026-09-08T15:59:19Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -207,8 +207,8 @@ cancervants.org
 castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
+comptoncymru.com
 defencelover.in
-dexil.ru
 eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
@@ -376,6 +376,7 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+4matchcitydate3.biz
 americanexpress-bonus5505.ink
 americanexpress-bonus5508.ink
 americanexpress-bonus5509.ink
@@ -385,7 +386,6 @@ americanexpress-bonus5538.ink
 americanexpress-bonus5552.ink
 americanexpress-bonus6601.ink
 americanexpress-bonus6620.ink
-americanexpress-bonus6623.ink
 americanexpress-bonus6630.ink
 americanexpress-bonus6639.ink
 americanexpress-bonus6647.ink
@@ -408,6 +408,7 @@ bonus-survey-online.sbs
 bonus138link.cloud
 bonus138on6.xyz
 bonusblas10.site
+bonusgiris4.icu
 bonusnewmember50.com
 bonusnewmember50.org
 bonuswinrate777.click
@@ -417,14 +418,11 @@ candidates-thetalentedgehq.com
 candidates-thetalentedgeteam.com
 casinobonus1.se
 clubdatingxconn6ect.biz
-cuidate-skin.com
 date-app.net
 date-free.date
 date-free.gay
 date-free.lgbt
 date-free.org
-date-jason.com
-date-nineplay.com
 date007.xyz
 date2keep.com
 date4free.cheap
@@ -436,7 +434,8 @@ datenschutz-check.ch
 dateonelove9.biz
 dating-anastasiao.ru
 dating-anastasiao.store
-dating18.click
+dating24hour.com
+dating4free.co
 datingcity3.biz
 datingclub3.biz
 datingp5ro.biz
@@ -444,13 +443,15 @@ deneme-bonusu-tr.site
 denemebonusucv-zeus.cfd
 denemebonusux-zeus.cfd
 dumpster-fire-date-live.click
+easydatingpro8.biz
 easypartnersearchproonedate7.biz
-garuda55bonusss30ribu.sbs
 getdatecity9.biz
 godateworld4.biz
 godatingp3ro.biz
 godatingpro9.biz
 hakodate-bpss.net
+hakodate-juku.com
+hakodate-printing.com
 hakodate-wq.com
 hakodate0104.net
 holiganbet-bonus12agustos.icu
@@ -472,12 +473,12 @@ quickplusmeetxdating6.biz
 savethedate3d.com
 seniordating-uk.xyz
 smart4datingworld5.biz
+smartdatemeetup5.biz
 smartdating03.biz
 smartdating18.biz
 topdate7.biz
 topdatecity4.biz
 topdateclub1.biz
-topdating6.biz
 updating-subscription.com
 validate-immediate.app
 xn--bonusvrlden-q8a.se
