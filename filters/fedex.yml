@@ -8,7 +8,6 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
-- dexil.ru
 - eurosystemsrl.eu
 - fraternitykerala.org
 - galaxyfunbowl.gr
@@ -27,11 +26,11 @@ domains:
 - nextgearup.com
 - nguen.net
 - redlog.cl
+- ryansa.com
 - sm-projekt.si
 - synoviz.com
 - tacloban.gov.ph
 - thozhilvarthalatest.com
-- trashstation.com
 - twospoonsfleet.co.uk
 - ultimatepreneur.com
 - vanguardacademy-ng.com
@@ -77,6 +76,7 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
+- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -128,7 +128,6 @@ ignored_domains:
 - rishipes.co.nz
 - robbreport.com.my
 - runyixs.com
-- ryansa.com
 - sekolahalmunasemarang.sch.id
 - share-bnb.com
 - sky-scout.com
@@ -145,6 +144,7 @@ ignored_domains:
 - thietkelq.com
 - toanthaybac.com
 - topblackfridaydealz.com
+- trashstation.com
 - tubies.com
 - tuyennvtb.com
 - update.fbsbx.com
