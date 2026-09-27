@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-09-26T15:43:59Z
+! Last update: 2026-09-27T16:22:59Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -216,9 +216,10 @@
 ||castllypay.com^
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
+||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||eurosystemsrl.eu^
-||fraternitykerala.org^
 ||galaxyfunbowl.gr^
 ||guzelbil.com^
 ||hongqiqujiu.com^
@@ -234,16 +235,13 @@
 ||nectartrust.org.uk^
 ||nextgearup.com^
 ||nguen.net^
-||parikhinfosolutions.in^
 ||redlog.cl^
 ||ryansa.com^
 ||sm-projekt.si^
 ||tacloban.gov.ph^
-||thozhilvarthalatest.com^
 ||trashstation.com^
 ||twospoonsfleet.co.uk^
 ||ultimatepreneur.com^
-||vanguardacademy-ng.com^
 ||wowfollowers.com^
 
 ! === SCAMS ===
@@ -385,30 +383,33 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+||22-12-2.fun^
 ||americanexpress-bonus5505.ink^
 ||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
-||americanexpress-bonus5523.ink^
 ||americanexpress-bonus5524.ink^
+||americanexpress-bonus5538.ink^
 ||americanexpress-bonus5552.ink^
 ||americanexpress-bonus6601.ink^
 ||americanexpress-bonus6620.ink^
 ||americanexpress-bonus6623.ink^
-||americanexpress-bonus6630.ink^
 ||americanexpress-bonus6639.ink^
 ||americanexpress-bonus6647.ink^
 ||americanexpress-bonus6649.ink^
 ||americanexpress-bonusnutzen9912.ink^
 ||americanexpress-bonusnutzen9915.ink^
-||americanexpress-bonusnutzen9923.ink^
 ||americanexpress-bonusnutzen9929.ink^
+||americanexpress-bonusnutzen9933.ink^
 ||americanexpress-bonusnutzen9936.ink^
+||americanexpress-bonusnutzen9937.ink^
 ||americanexpress-bonusnutzen9941.ink^
 ||americanexpress-bonusnutzen9943.ink^
+||americanexpress-bonusnutzen9949.ink^
 ||americanexpress-bonusnutzen9950.ink^
+||bestlinkdate9.biz^
 ||betting-bonuses-mongolia.com^
+||bigprize-4you1.life^
 ||bonus-bendigo.vip^
-||bonus-survey-online.sbs^
 ||bonus138link.cloud^
 ||bonus138on6.xyz^
 ||bonus168.pro^
@@ -430,7 +431,6 @@
 ||clubdatingxconn6ect.biz^
 ||commerzbankbonusprogramms64.ink^
 ||commerzbankbonusprogramms82.ink^
-||commerzbankbonusprogramms88.ink^
 ||cuidate-skin.com^
 ||date-app.net^
 ||date-free.date^
@@ -448,6 +448,7 @@
 ||datemeetup4.biz^
 ||datenschutz-check.ch^
 ||dateonelove9.biz^
+||dating-anastasiao.ru^
 ||dating-anastasiao.store^
 ||dating18.click^
 ||dating24hour.com^
@@ -479,10 +480,13 @@
 ||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
 ||kazino-bonus-za-depozit.info^
+||mandate-targetstorageltd.com^
 ||mydatehub6.biz^
+||mysinglesradars.com^
 ||myzonedatingworld1.biz^
 ||nakladatelstvi-mlyn.cz^
 ||no-deposit-bonus-casino-nz.online^
+||no-deposit-bonus-casinos.club^
 ||pagamentosbonuseguro2.shop^
 ||pagamentosbonuseguro3.shop^
 ||playdate-now.com^
@@ -501,6 +505,8 @@
 ||topdatecity4.biz^
 ||topdateclub1.biz^
 ||topdating6.biz^
+||validate-immediate.app^
+||vippark-bonus-kazan1.icu^
 ||xn--bonusvrlden-q8a.se^
 ||xn--datenintegritt-iib.com^
 ||xn--insttningsfribonus-ntb.se^
