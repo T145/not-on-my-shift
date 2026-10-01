@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-09-27T16:22:59Z
+# Last update: 2026-10-01T18:02:01Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -295,10 +295,10 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 eurosystemsrl.eu
 0.0.0.0 www.eurosystemsrl.eu
+0.0.0.0 fraternitykerala.org
+0.0.0.0 www.fraternitykerala.org
 0.0.0.0 galaxyfunbowl.gr
 0.0.0.0 www.galaxyfunbowl.gr
 0.0.0.0 guzelbil.com
@@ -309,8 +309,6 @@
 0.0.0.0 www.imrt.ac.in
 0.0.0.0 kmtks.org.tw
 0.0.0.0 www.kmtks.org.tw
-0.0.0.0 loanglide.com
-0.0.0.0 www.loanglide.com
 0.0.0.0 machupicchutraveling.com
 0.0.0.0 www.machupicchutraveling.com
 0.0.0.0 magicboximportados.com.br
@@ -331,18 +329,20 @@
 0.0.0.0 www.nguen.net
 0.0.0.0 redlog.cl
 0.0.0.0 www.redlog.cl
-0.0.0.0 ryansa.com
-0.0.0.0 www.ryansa.com
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 tacloban.gov.ph
 0.0.0.0 www.tacloban.gov.ph
+0.0.0.0 thozhilvarthalatest.com
+0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
 0.0.0.0 www.trashstation.com
 0.0.0.0 twospoonsfleet.co.uk
 0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
+0.0.0.0 vanguardacademy-ng.com
+0.0.0.0 www.vanguardacademy-ng.com
 0.0.0.0 wowfollowers.com
 0.0.0.0 www.wowfollowers.com
 
@@ -584,14 +584,14 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 22-12-2.fun
-0.0.0.0 www.22-12-2.fun
 0.0.0.0 americanexpress-bonus5505.ink
 0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
 0.0.0.0 www.americanexpress-bonus5508.ink
 0.0.0.0 americanexpress-bonus5509.ink
 0.0.0.0 www.americanexpress-bonus5509.ink
+0.0.0.0 americanexpress-bonus5523.ink
+0.0.0.0 www.americanexpress-bonus5523.ink
 0.0.0.0 americanexpress-bonus5524.ink
 0.0.0.0 www.americanexpress-bonus5524.ink
 0.0.0.0 americanexpress-bonus5538.ink
@@ -604,6 +604,8 @@
 0.0.0.0 www.americanexpress-bonus6620.ink
 0.0.0.0 americanexpress-bonus6623.ink
 0.0.0.0 www.americanexpress-bonus6623.ink
+0.0.0.0 americanexpress-bonus6630.ink
+0.0.0.0 www.americanexpress-bonus6630.ink
 0.0.0.0 americanexpress-bonus6639.ink
 0.0.0.0 www.americanexpress-bonus6639.ink
 0.0.0.0 americanexpress-bonus6647.ink
@@ -614,6 +616,8 @@
 0.0.0.0 www.americanexpress-bonusnutzen9912.ink
 0.0.0.0 americanexpress-bonusnutzen9915.ink
 0.0.0.0 www.americanexpress-bonusnutzen9915.ink
+0.0.0.0 americanexpress-bonusnutzen9923.ink
+0.0.0.0 www.americanexpress-bonusnutzen9923.ink
 0.0.0.0 americanexpress-bonusnutzen9929.ink
 0.0.0.0 www.americanexpress-bonusnutzen9929.ink
 0.0.0.0 americanexpress-bonusnutzen9933.ink
@@ -634,18 +638,12 @@
 0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 betting-bonuses-mongolia.com
 0.0.0.0 www.betting-bonuses-mongolia.com
-0.0.0.0 bigprize-4you1.life
-0.0.0.0 www.bigprize-4you1.life
 0.0.0.0 bonus-bendigo.vip
 0.0.0.0 www.bonus-bendigo.vip
 0.0.0.0 bonus138link.cloud
 0.0.0.0 www.bonus138link.cloud
 0.0.0.0 bonus138on6.xyz
 0.0.0.0 www.bonus138on6.xyz
-0.0.0.0 bonus168.pro
-0.0.0.0 www.bonus168.pro
-0.0.0.0 bonus4d.win
-0.0.0.0 www.bonus4d.win
 0.0.0.0 bonusblas10.site
 0.0.0.0 www.bonusblas10.site
 0.0.0.0 bonusgiris4.icu
@@ -658,8 +656,6 @@
 0.0.0.0 www.bonusrehberi-27b92c.icu
 0.0.0.0 bonuswinrate777.click
 0.0.0.0 www.bonuswinrate777.click
-0.0.0.0 brand-bonusthree7-core.top
-0.0.0.0 www.brand-bonusthree7-core.top
 0.0.0.0 candidates-thetalentedge.net
 0.0.0.0 www.candidates-thetalentedge.net
 0.0.0.0 candidates-thetalentedgehq.com
@@ -680,6 +676,8 @@
 0.0.0.0 www.commerzbankbonusprogramms64.ink
 0.0.0.0 commerzbankbonusprogramms82.ink
 0.0.0.0 www.commerzbankbonusprogramms82.ink
+0.0.0.0 commerzbankbonusprogramms88.ink
+0.0.0.0 www.commerzbankbonusprogramms88.ink
 0.0.0.0 cuidate-skin.com
 0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
@@ -732,8 +730,6 @@
 0.0.0.0 www.datingiopartnersearch5.biz
 0.0.0.0 datingmat3ch.biz
 0.0.0.0 www.datingmat3ch.biz
-0.0.0.0 datingp5ro.biz
-0.0.0.0 www.datingp5ro.biz
 0.0.0.0 datingzonegoflirt2.biz
 0.0.0.0 www.datingzonegoflirt2.biz
 0.0.0.0 deneme-bonusu-tr.site
@@ -752,8 +748,6 @@
 0.0.0.0 www.godateworld4.biz
 0.0.0.0 godatingp3ro.biz
 0.0.0.0 www.godatingp3ro.biz
-0.0.0.0 godatingpro9.biz
-0.0.0.0 www.godatingpro9.biz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-juku.com
@@ -764,8 +758,6 @@
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodate0104.net
 0.0.0.0 www.hakodate0104.net
-0.0.0.0 hokibonush5.com
-0.0.0.0 www.hokibonush5.com
 0.0.0.0 holiganbet-bonus-site.icu
 0.0.0.0 www.holiganbet-bonus-site.icu
 0.0.0.0 holiganbet-bonus12agustos.icu
@@ -782,16 +774,12 @@
 0.0.0.0 www.mandate-targetstorageltd.com
 0.0.0.0 mydatehub6.biz
 0.0.0.0 www.mydatehub6.biz
-0.0.0.0 mysinglesradars.com
-0.0.0.0 www.mysinglesradars.com
 0.0.0.0 myzonedatingworld1.biz
 0.0.0.0 www.myzonedatingworld1.biz
 0.0.0.0 nakladatelstvi-mlyn.cz
 0.0.0.0 www.nakladatelstvi-mlyn.cz
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
-0.0.0.0 no-deposit-bonus-casinos.club
-0.0.0.0 www.no-deposit-bonus-casinos.club
 0.0.0.0 pagamentosbonuseguro2.shop
 0.0.0.0 www.pagamentosbonuseguro2.shop
 0.0.0.0 pagamentosbonuseguro3.shop
@@ -808,8 +796,6 @@
 0.0.0.0 www.qqslot777bonusss30ribu.cyou
 0.0.0.0 quickdate5.biz
 0.0.0.0 www.quickdate5.biz
-0.0.0.0 quickdatinghu9b.biz
-0.0.0.0 www.quickdatinghu9b.biz
 0.0.0.0 quickplusmeetxdating6.biz
 0.0.0.0 www.quickplusmeetxdating6.biz
 0.0.0.0 savethedate3d.com
@@ -820,10 +806,10 @@
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smart4datingworld5.biz
 0.0.0.0 www.smart4datingworld5.biz
+0.0.0.0 start-your-lucky-bonus-jililbdt111.shop
+0.0.0.0 www.start-your-lucky-bonus-jililbdt111.shop
 0.0.0.0 topdate7.biz
 0.0.0.0 www.topdate7.biz
-0.0.0.0 topdatecity4.biz
-0.0.0.0 www.topdatecity4.biz
 0.0.0.0 topdateclub1.biz
 0.0.0.0 www.topdateclub1.biz
 0.0.0.0 topdating6.biz
