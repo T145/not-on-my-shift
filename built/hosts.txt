@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-10-02T17:24:41Z
+# Last update: 2026-10-03T15:44:30Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -323,12 +323,12 @@
 0.0.0.0 www.nbkangxi.com
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
+0.0.0.0 nextgearup.com
+0.0.0.0 www.nextgearup.com
 0.0.0.0 nguen.net
 0.0.0.0 www.nguen.net
 0.0.0.0 redlog.cl
 0.0.0.0 www.redlog.cl
-0.0.0.0 share-bnb.com
-0.0.0.0 www.share-bnb.com
 0.0.0.0 sm-projekt.si
 0.0.0.0 www.sm-projekt.si
 0.0.0.0 tacloban.gov.ph
@@ -610,8 +610,6 @@
 0.0.0.0 www.americanexpress-bonus6630.ink
 0.0.0.0 americanexpress-bonus6639.ink
 0.0.0.0 www.americanexpress-bonus6639.ink
-0.0.0.0 americanexpress-bonus6647.ink
-0.0.0.0 www.americanexpress-bonus6647.ink
 0.0.0.0 americanexpress-bonus6649.ink
 0.0.0.0 www.americanexpress-bonus6649.ink
 0.0.0.0 americanexpress-bonusnutzen9912.ink
@@ -624,10 +622,14 @@
 0.0.0.0 www.americanexpress-bonusnutzen9929.ink
 0.0.0.0 americanexpress-bonusnutzen9933.ink
 0.0.0.0 www.americanexpress-bonusnutzen9933.ink
+0.0.0.0 americanexpress-bonusnutzen9936.ink
+0.0.0.0 www.americanexpress-bonusnutzen9936.ink
 0.0.0.0 americanexpress-bonusnutzen9937.ink
 0.0.0.0 www.americanexpress-bonusnutzen9937.ink
 0.0.0.0 americanexpress-bonusnutzen9941.ink
 0.0.0.0 www.americanexpress-bonusnutzen9941.ink
+0.0.0.0 americanexpress-bonusnutzen9943.ink
+0.0.0.0 www.americanexpress-bonusnutzen9943.ink
 0.0.0.0 americanexpress-bonusnutzen9949.ink
 0.0.0.0 www.americanexpress-bonusnutzen9949.ink
 0.0.0.0 americanexpress-bonusnutzen9950.ink
@@ -648,8 +650,6 @@
 0.0.0.0 www.bonusgiris4.icu
 0.0.0.0 bonusnewmember50.com
 0.0.0.0 www.bonusnewmember50.com
-0.0.0.0 bonusnewmember50.org
-0.0.0.0 www.bonusnewmember50.org
 0.0.0.0 bonusrehberi-27b92c.icu
 0.0.0.0 www.bonusrehberi-27b92c.icu
 0.0.0.0 bonuswinrate777.click
@@ -676,6 +676,8 @@
 0.0.0.0 www.commerzbankbonusprogramms82.ink
 0.0.0.0 commerzbankbonusprogramms88.ink
 0.0.0.0 www.commerzbankbonusprogramms88.ink
+0.0.0.0 cuidate-skin.com
+0.0.0.0 www.cuidate-skin.com
 0.0.0.0 date-app.net
 0.0.0.0 www.date-app.net
 0.0.0.0 date-free.date
@@ -688,16 +690,12 @@
 0.0.0.0 www.date-free.org
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
-0.0.0.0 date-nineplay.com
-0.0.0.0 www.date-nineplay.com
 0.0.0.0 date007.xyz
 0.0.0.0 www.date007.xyz
 0.0.0.0 date2keep.com
 0.0.0.0 www.date2keep.com
 0.0.0.0 date4free.cheap
 0.0.0.0 www.date4free.cheap
-0.0.0.0 date4free.lgbt
-0.0.0.0 www.date4free.lgbt
 0.0.0.0 dateing99.com
 0.0.0.0 www.dateing99.com
 0.0.0.0 dateiomat1ch.biz
@@ -706,6 +704,8 @@
 0.0.0.0 www.datemeetup4.biz
 0.0.0.0 datenschutz-check.ch
 0.0.0.0 www.datenschutz-check.ch
+0.0.0.0 dateonelove9.biz
+0.0.0.0 www.dateonelove9.biz
 0.0.0.0 dating-anastasiao.ru
 0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
@@ -724,8 +724,6 @@
 0.0.0.0 www.datingiopartnersearch5.biz
 0.0.0.0 datingmat3ch.biz
 0.0.0.0 www.datingmat3ch.biz
-0.0.0.0 datingp5ro.biz
-0.0.0.0 www.datingp5ro.biz
 0.0.0.0 datingzonegoflirt2.biz
 0.0.0.0 www.datingzonegoflirt2.biz
 0.0.0.0 deneme-bonusu-tr.site
@@ -738,14 +736,10 @@
 0.0.0.0 www.denemebonusux-zeus.cfd
 0.0.0.0 dumpster-fire-date-live.click
 0.0.0.0 www.dumpster-fire-date-live.click
-0.0.0.0 garuda55bonusss30ribu.sbs
-0.0.0.0 www.garuda55bonusss30ribu.sbs
 0.0.0.0 godateworld4.biz
 0.0.0.0 www.godateworld4.biz
 0.0.0.0 godatingp3ro.biz
 0.0.0.0 www.godatingp3ro.biz
-0.0.0.0 godatingpro9.biz
-0.0.0.0 www.godatingpro9.biz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-juku.com
@@ -754,6 +748,8 @@
 0.0.0.0 www.hakodate-printing.com
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
+0.0.0.0 hakodate0104.net
+0.0.0.0 www.hakodate0104.net
 0.0.0.0 holiganbet-bonus-site.icu
 0.0.0.0 www.holiganbet-bonus-site.icu
 0.0.0.0 holiganbet-bonus12agustos.icu
@@ -772,8 +768,6 @@
 0.0.0.0 www.mydatehub6.biz
 0.0.0.0 myzonedatingworld1.biz
 0.0.0.0 www.myzonedatingworld1.biz
-0.0.0.0 nakladatelstvi-mlyn.cz
-0.0.0.0 www.nakladatelstvi-mlyn.cz
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
 0.0.0.0 pagamentosbonuseguro2.shop
@@ -802,6 +796,8 @@
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smart4datingworld5.biz
 0.0.0.0 www.smart4datingworld5.biz
+0.0.0.0 start-your-lucky-bonus-jililbdt111.shop
+0.0.0.0 www.start-your-lucky-bonus-jililbdt111.shop
 0.0.0.0 topdate7.biz
 0.0.0.0 www.topdate7.biz
 0.0.0.0 topdatecity4.biz
@@ -820,8 +816,6 @@
 0.0.0.0 www.xn--insttningsfribonus-ntb.se
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
 0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
-0.0.0.0 zonedate8goflirt.biz
-0.0.0.0 www.zonedate8goflirt.biz
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 0.0.0.0 0.1mono.biz
