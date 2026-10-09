@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-10-07T18:26:54Z
+! Last update: 2026-10-09T18:01:09Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -216,7 +216,9 @@
 ||castllypay.com^
 ||clickedgesolutions.com^
 ||clone.app.home-cost.com^
+||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||eurosystemsrl.eu^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
@@ -232,6 +234,7 @@
 ||mucc.com.au^
 ||nbkangxi.com^
 ||nectartrust.org.uk^
+||nextgearup.com^
 ||nguen.net^
 ||redlog.cl^
 ||sm-projekt.si^
@@ -383,7 +386,6 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||4matchcitydate3.biz^
 ||americanexpress-bonus5505.ink^
 ||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
@@ -392,11 +394,9 @@
 ||americanexpress-bonus5538.ink^
 ||americanexpress-bonus5552.ink^
 ||americanexpress-bonus6601.ink^
-||americanexpress-bonus6620.ink^
 ||americanexpress-bonus6623.ink^
 ||americanexpress-bonus6630.ink^
 ||americanexpress-bonus6639.ink^
-||americanexpress-bonus6647.ink^
 ||americanexpress-bonus6649.ink^
 ||americanexpress-bonusnutzen9912.ink^
 ||americanexpress-bonusnutzen9915.ink^
@@ -405,6 +405,7 @@
 ||americanexpress-bonusnutzen9933.ink^
 ||americanexpress-bonusnutzen9936.ink^
 ||americanexpress-bonusnutzen9937.ink^
+||americanexpress-bonusnutzen9941.ink^
 ||americanexpress-bonusnutzen9943.ink^
 ||americanexpress-bonusnutzen9949.ink^
 ||americanexpress-bonusnutzen9950.ink^
@@ -422,7 +423,6 @@
 ||candidates-thetalentedgehq.com^
 ||candidates-thetalentedgeteam.com^
 ||casinobonus1.se^
-||casinobonusnodeposit58.com^
 ||clubdatingxconn6ect.biz^
 ||commerzbankbonusprogramms64.ink^
 ||commerzbankbonusprogramms82.ink^
@@ -433,6 +433,7 @@
 ||date-free.gay^
 ||date-free.lgbt^
 ||date-free.org^
+||date-jason.com^
 ||date007.xyz^
 ||date2keep.com^
 ||date4free.cheap^
@@ -457,15 +458,16 @@
 ||denemebonusucv-zeus.cfd^
 ||denemebonusuveren-güncelsiteler.icu^
 ||denemebonusux-zeus.cfd^
-||dumpster-fire-date-live.click^
-||easyandromanceonedate3.biz^
 ||garuda55bonusss30ribu.sbs^
 ||godateworld4.biz^
 ||godatingp3ro.biz^
+||godatingpro9.biz^
 ||hakodate-bpss.net^
 ||hakodate-juku.com^
+||hakodate-printing.com^
 ||hakodate-wq.com^
 ||hakodate0104.net^
+||holiganbet-bonus-site.icu^
 ||holiganbet-bonus12agustos.icu^
 ||id-validate-service-d12.cyou^
 ||id-validate-service-d24.cyou^
@@ -487,14 +489,16 @@
 ||quickplusmeetxdating6.biz^
 ||savethedate3d.com^
 ||seduniatotobonusss30ribu.cyou^
+||seniordating-uk.xyz^
 ||smart4datingworld5.biz^
 ||start-your-lucky-bonus-jililbdt111.shop^
 ||topdate7.biz^
-||topdatecity4.biz^
 ||topdateclub1.biz^
 ||topdating6.biz^
 ||validate-immediate.app^
+||volnakazino-bonus2.top^
 ||xn--bonusvrlden-q8a.se^
+||xn--datenintegritt-iib.com^
 ||xn--insttningsfribonus-ntb.se^
 ||xn--sugardatingrdgivning-7zb.se^
 ||zonedate8goflirt.biz^
