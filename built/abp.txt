@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-10-10T16:56:37Z
+! Last update: 2026-10-11T17:21:57Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -218,6 +218,7 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||eurosystemsrl.eu^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
@@ -396,6 +397,7 @@
 ||americanexpress-bonus6601.ink^
 ||americanexpress-bonus6623.ink^
 ||americanexpress-bonus6630.ink^
+||americanexpress-bonus6639.ink^
 ||americanexpress-bonus6647.ink^
 ||americanexpress-bonus6649.ink^
 ||americanexpress-bonusnutzen9912.ink^
@@ -407,6 +409,7 @@
 ||americanexpress-bonusnutzen9937.ink^
 ||americanexpress-bonusnutzen9943.ink^
 ||americanexpress-bonusnutzen9949.ink^
+||americanexpress-bonusnutzen9950.ink^
 ||bestlinkdate9.biz^
 ||betting-bonuses-mongolia.com^
 ||bonus138link.cloud^
@@ -431,10 +434,12 @@
 ||date-free.date^
 ||date-free.gay^
 ||date-free.lgbt^
+||date-free.org^
 ||date-jason.com^
 ||date007.xyz^
 ||date2keep.com^
 ||date4free.cheap^
+||date4free.lgbt^
 ||dateing99.com^
 ||dateiomat1ch.biz^
 ||datemeetup4.biz^
@@ -456,11 +461,16 @@
 ||denemebonusuveren-güncelsiteler.icu^
 ||denemebonusux-zeus.cfd^
 ||garuda55bonusss30ribu.sbs^
-||godatingpro9.biz^
+||godateworld4.biz^
+||godatingp3ro.biz^
 ||hakodate-bpss.net^
 ||hakodate-juku.com^
+||hakodate-printing.com^
+||hakodate-wq.com^
+||hakodate0104.net^
 ||holiganbet-bonus-site.icu^
 ||holiganbet-bonus12agustos.icu^
+||id-validate-service-d12.cyou^
 ||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
 ||kazino-bonus-za-depozit.info^
@@ -475,12 +485,12 @@
 ||prodating4.biz^
 ||proflirtlandiodate6.biz^
 ||pronowdating7.biz^
+||qqslot777bonusss30ribu.cyou^
 ||quickdate5.biz^
 ||quickdatinghu9b.biz^
 ||quickplusmeetxdating6.biz^
 ||savethedate3d.com^
 ||seduniatotobonusss30ribu.cyou^
-||seniordating-uk.xyz^
 ||smart4datingworld5.biz^
 ||start-your-lucky-bonus-jililbdt111.shop^
 ||topdate7.biz^
