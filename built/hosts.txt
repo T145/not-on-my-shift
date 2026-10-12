@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-10-11T17:21:57Z
+# Last update: 2026-10-12T20:54:07Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -291,12 +291,8 @@
 0.0.0.0 clickedgesolutions.com
 0.0.0.0 www.clickedgesolutions.com
 0.0.0.0 clone.app.home-cost.com
-0.0.0.0 comptoncymru.com
-0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 eurosystemsrl.eu
 0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 fraternitykerala.org
@@ -632,8 +628,6 @@
 0.0.0.0 www.americanexpress-bonusnutzen9936.ink
 0.0.0.0 americanexpress-bonusnutzen9937.ink
 0.0.0.0 www.americanexpress-bonusnutzen9937.ink
-0.0.0.0 americanexpress-bonusnutzen9943.ink
-0.0.0.0 www.americanexpress-bonusnutzen9943.ink
 0.0.0.0 americanexpress-bonusnutzen9949.ink
 0.0.0.0 www.americanexpress-bonusnutzen9949.ink
 0.0.0.0 americanexpress-bonusnutzen9950.ink
@@ -648,6 +642,8 @@
 0.0.0.0 www.bonus138on6.xyz
 0.0.0.0 bonusblas10.site
 0.0.0.0 www.bonusblas10.site
+0.0.0.0 bonuses-uk.com
+0.0.0.0 www.bonuses-uk.com
 0.0.0.0 bonusgiris4.icu
 0.0.0.0 www.bonusgiris4.icu
 0.0.0.0 bonusnewmember50.com
@@ -668,8 +664,6 @@
 0.0.0.0 www.casinobonus1.se
 0.0.0.0 casinolevant-bonus2026.icu
 0.0.0.0 www.casinolevant-bonus2026.icu
-0.0.0.0 clubdatingxconn6ect.biz
-0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 commerzbankbonusprogramms64.ink
 0.0.0.0 www.commerzbankbonusprogramms64.ink
 0.0.0.0 commerzbankbonusprogramms82.ink
@@ -682,8 +676,6 @@
 0.0.0.0 www.date-app.net
 0.0.0.0 date-free.date
 0.0.0.0 www.date-free.date
-0.0.0.0 date-free.gay
-0.0.0.0 www.date-free.gay
 0.0.0.0 date-free.lgbt
 0.0.0.0 www.date-free.lgbt
 0.0.0.0 date-free.org
@@ -708,8 +700,6 @@
 0.0.0.0 www.datenschutz-check.ch
 0.0.0.0 dateonelove9.biz
 0.0.0.0 www.dateonelove9.biz
-0.0.0.0 dating-anastasiao.ru
-0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
 0.0.0.0 www.dating-anastasiao.store
 0.0.0.0 dating18.click
@@ -744,12 +734,8 @@
 0.0.0.0 www.godateworld4.biz
 0.0.0.0 godatingp3ro.biz
 0.0.0.0 www.godatingp3ro.biz
-0.0.0.0 hakodate-bpss.net
-0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-juku.com
 0.0.0.0 www.hakodate-juku.com
-0.0.0.0 hakodate-printing.com
-0.0.0.0 www.hakodate-printing.com
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodate0104.net
@@ -764,8 +750,6 @@
 0.0.0.0 www.id-validate-service-d24.cyou
 0.0.0.0 id-validate-service-d9.cyou
 0.0.0.0 www.id-validate-service-d9.cyou
-0.0.0.0 kazino-bonus-za-depozit.info
-0.0.0.0 www.kazino-bonus-za-depozit.info
 0.0.0.0 mandate-targetstorageltd.com
 0.0.0.0 www.mandate-targetstorageltd.com
 0.0.0.0 mydatehub6.biz
@@ -774,8 +758,6 @@
 0.0.0.0 www.myzonedatingworld1.biz
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
-0.0.0.0 no-deposit-bonus-casinos.work
-0.0.0.0 www.no-deposit-bonus-casinos.work
 0.0.0.0 pagamentosbonuseguro2.shop
 0.0.0.0 www.pagamentosbonuseguro2.shop
 0.0.0.0 pagamentosbonuseguro3.shop

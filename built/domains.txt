@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-10-11T17:21:57Z
+# Last update: 2026-10-12T20:54:07Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -207,9 +207,7 @@ cancervants.org
 castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
-comptoncymru.com
 defencelover.in
-dexil.ru
 eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
@@ -398,7 +396,6 @@ americanexpress-bonusnutzen9929.ink
 americanexpress-bonusnutzen9933.ink
 americanexpress-bonusnutzen9936.ink
 americanexpress-bonusnutzen9937.ink
-americanexpress-bonusnutzen9943.ink
 americanexpress-bonusnutzen9949.ink
 americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
@@ -406,6 +403,7 @@ betting-bonuses-mongolia.com
 bonus138link.cloud
 bonus138on6.xyz
 bonusblas10.site
+bonuses-uk.com
 bonusgiris4.icu
 bonusnewmember50.com
 bonusnewmember50.org
@@ -416,14 +414,12 @@ candidates-thetalentedgehq.com
 candidates-thetalentedgeteam.com
 casinobonus1.se
 casinolevant-bonus2026.icu
-clubdatingxconn6ect.biz
 commerzbankbonusprogramms64.ink
 commerzbankbonusprogramms82.ink
 commerzbankbonusprogramms88.ink
 cuidate-skin.com
 date-app.net
 date-free.date
-date-free.gay
 date-free.lgbt
 date-free.org
 date-jason.com
@@ -436,7 +432,6 @@ dateiomat1ch.biz
 datemeetup4.biz
 datenschutz-check.ch
 dateonelove9.biz
-dating-anastasiao.ru
 dating-anastasiao.store
 dating18.click
 dating24hour.com
@@ -454,9 +449,7 @@ denemebonusux-zeus.cfd
 garuda55bonusss30ribu.sbs
 godateworld4.biz
 godatingp3ro.biz
-hakodate-bpss.net
 hakodate-juku.com
-hakodate-printing.com
 hakodate-wq.com
 hakodate0104.net
 holiganbet-bonus-site.icu
@@ -464,12 +457,10 @@ holiganbet-bonus12agustos.icu
 id-validate-service-d12.cyou
 id-validate-service-d24.cyou
 id-validate-service-d9.cyou
-kazino-bonus-za-depozit.info
 mandate-targetstorageltd.com
 mydatehub6.biz
 myzonedatingworld1.biz
 no-deposit-bonus-casino-nz.online
-no-deposit-bonus-casinos.work
 pagamentosbonuseguro2.shop
 pagamentosbonuseguro3.shop
 playdate-now.com
