@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-10-13T18:55:45Z
+# Last update: 2026-10-14T16:29:22Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -230,6 +230,7 @@ synoviz.com
 tacloban.gov.ph
 thozhilvarthalatest.com
 trashstation.com
+twospoonsfleet.co.uk
 ultimatepreneur.com
 vanguardacademy-ng.com
 wowfollowers.com
@@ -399,12 +400,9 @@ americanexpress-bonusnutzen9949.ink
 americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
 betting-bonuses-mongolia.com
-boggddecadizas.ml
-bonus-flas-garant.icu
 bonus-pgsports.com.cn
 bonus138link.cloud
 bonus138on6.xyz
-bonus500btc.com
 bonusblas10.site
 bonuses-uk.com
 bonusgiris4.icu
@@ -416,7 +414,6 @@ candidates-thetalentedge.net
 candidates-thetalentedgehq.com
 candidates-thetalentedgeteam.com
 casinobonus1.se
-casinolevant-bonus2026.icu
 clubdatingxconn6ect.biz
 commerzbankbonusprogramms64.ink
 commerzbankbonusprogramms82.ink
@@ -437,7 +434,6 @@ dateiomat1ch.biz
 datemeetup4.biz
 datenschutz-check.ch
 dateonelove9.biz
-dating-24.club
 dating-anastasiao.ru
 dating-anastasiao.store
 dating18.click
@@ -451,18 +447,14 @@ datingp5ro.biz
 datingzonegoflirt2.biz
 deneme-bonusu-tr.site
 denemebonusucv-zeus.cfd
-denemebonusuveren-güncelsiteler.icu
 denemebonusux-zeus.cfd
 easyandromanceonedate3.biz
 garuda55bonusss30ribu.sbs
 godateworld4.biz
 godatingp3ro.biz
-godatingpro9.biz
 hakodate-juku.com
 hakodate-printing.com
 hakodate-wq.com
-hakodate0104.net
-highprofit-foryou.life
 holiganbet-bonus-site.icu
 holiganbet-bonus12agustos.icu
 id-validate-service-d12.cyou
@@ -470,9 +462,6 @@ id-validate-service-d24.cyou
 id-validate-service-d9.cyou
 kazino-bonus-za-depozit.info
 mandate-targetstorageltd.com
-mandatecomms-glo.cyou
-meet-me-here2.com
-miogrog.space
 mydatehub6.biz
 myzonedatingworld1.biz
 no-deposit-bonus-casino-nz.online
@@ -482,16 +471,14 @@ playdate-now.com
 prodating4.biz
 proflirtlandiodate6.biz
 pronowdating7.biz
-qqslot777bonusss30ribu.cyou
 quickdate5.biz
 quickdatinghu9b.biz
 quickplusmeetxdating6.biz
-save-the-date-erstellen.de
 savethedate3d.com
 seduniatotobonusss30ribu.cyou
+seniordating-uk.xyz
 smart4datingworld5.biz
 start-your-lucky-bonus-jililbdt111.shop
-thebest-dating-here.com
 topdate7.biz
 topdatecity4.biz
 topdateclub1.biz

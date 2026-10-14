@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-10-13T18:55:45Z
+# Last update: 2026-10-14T16:29:22Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -337,6 +337,8 @@
 0.0.0.0 www.thozhilvarthalatest.com
 0.0.0.0 trashstation.com
 0.0.0.0 www.trashstation.com
+0.0.0.0 twospoonsfleet.co.uk
+0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
 0.0.0.0 vanguardacademy-ng.com
@@ -634,18 +636,12 @@
 0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 betting-bonuses-mongolia.com
 0.0.0.0 www.betting-bonuses-mongolia.com
-0.0.0.0 boggddecadizas.ml
-0.0.0.0 www.boggddecadizas.ml
-0.0.0.0 bonus-flas-garant.icu
-0.0.0.0 www.bonus-flas-garant.icu
 0.0.0.0 bonus-pgsports.com.cn
 0.0.0.0 www.bonus-pgsports.com.cn
 0.0.0.0 bonus138link.cloud
 0.0.0.0 www.bonus138link.cloud
 0.0.0.0 bonus138on6.xyz
 0.0.0.0 www.bonus138on6.xyz
-0.0.0.0 bonus500btc.com
-0.0.0.0 www.bonus500btc.com
 0.0.0.0 bonusblas10.site
 0.0.0.0 www.bonusblas10.site
 0.0.0.0 bonuses-uk.com
@@ -668,8 +664,6 @@
 0.0.0.0 www.candidates-thetalentedgeteam.com
 0.0.0.0 casinobonus1.se
 0.0.0.0 www.casinobonus1.se
-0.0.0.0 casinolevant-bonus2026.icu
-0.0.0.0 www.casinolevant-bonus2026.icu
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 commerzbankbonusprogramms64.ink
@@ -710,8 +704,6 @@
 0.0.0.0 www.datenschutz-check.ch
 0.0.0.0 dateonelove9.biz
 0.0.0.0 www.dateonelove9.biz
-0.0.0.0 dating-24.club
-0.0.0.0 www.dating-24.club
 0.0.0.0 dating-anastasiao.ru
 0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
@@ -738,8 +730,6 @@
 0.0.0.0 www.deneme-bonusu-tr.site
 0.0.0.0 denemebonusucv-zeus.cfd
 0.0.0.0 www.denemebonusucv-zeus.cfd
-0.0.0.0 denemebonusuveren-güncelsiteler.icu
-0.0.0.0 www.denemebonusuveren-güncelsiteler.icu
 0.0.0.0 denemebonusux-zeus.cfd
 0.0.0.0 www.denemebonusux-zeus.cfd
 0.0.0.0 easyandromanceonedate3.biz
@@ -750,18 +740,12 @@
 0.0.0.0 www.godateworld4.biz
 0.0.0.0 godatingp3ro.biz
 0.0.0.0 www.godatingp3ro.biz
-0.0.0.0 godatingpro9.biz
-0.0.0.0 www.godatingpro9.biz
 0.0.0.0 hakodate-juku.com
 0.0.0.0 www.hakodate-juku.com
 0.0.0.0 hakodate-printing.com
 0.0.0.0 www.hakodate-printing.com
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
-0.0.0.0 hakodate0104.net
-0.0.0.0 www.hakodate0104.net
-0.0.0.0 highprofit-foryou.life
-0.0.0.0 www.highprofit-foryou.life
 0.0.0.0 holiganbet-bonus-site.icu
 0.0.0.0 www.holiganbet-bonus-site.icu
 0.0.0.0 holiganbet-bonus12agustos.icu
@@ -776,12 +760,6 @@
 0.0.0.0 www.kazino-bonus-za-depozit.info
 0.0.0.0 mandate-targetstorageltd.com
 0.0.0.0 www.mandate-targetstorageltd.com
-0.0.0.0 mandatecomms-glo.cyou
-0.0.0.0 www.mandatecomms-glo.cyou
-0.0.0.0 meet-me-here2.com
-0.0.0.0 www.meet-me-here2.com
-0.0.0.0 miogrog.space
-0.0.0.0 www.miogrog.space
 0.0.0.0 mydatehub6.biz
 0.0.0.0 www.mydatehub6.biz
 0.0.0.0 myzonedatingworld1.biz
@@ -800,26 +778,22 @@
 0.0.0.0 www.proflirtlandiodate6.biz
 0.0.0.0 pronowdating7.biz
 0.0.0.0 www.pronowdating7.biz
-0.0.0.0 qqslot777bonusss30ribu.cyou
-0.0.0.0 www.qqslot777bonusss30ribu.cyou
 0.0.0.0 quickdate5.biz
 0.0.0.0 www.quickdate5.biz
 0.0.0.0 quickdatinghu9b.biz
 0.0.0.0 www.quickdatinghu9b.biz
 0.0.0.0 quickplusmeetxdating6.biz
 0.0.0.0 www.quickplusmeetxdating6.biz
-0.0.0.0 save-the-date-erstellen.de
-0.0.0.0 www.save-the-date-erstellen.de
 0.0.0.0 savethedate3d.com
 0.0.0.0 www.savethedate3d.com
 0.0.0.0 seduniatotobonusss30ribu.cyou
 0.0.0.0 www.seduniatotobonusss30ribu.cyou
+0.0.0.0 seniordating-uk.xyz
+0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smart4datingworld5.biz
 0.0.0.0 www.smart4datingworld5.biz
 0.0.0.0 start-your-lucky-bonus-jililbdt111.shop
 0.0.0.0 www.start-your-lucky-bonus-jililbdt111.shop
-0.0.0.0 thebest-dating-here.com
-0.0.0.0 www.thebest-dating-here.com
 0.0.0.0 topdate7.biz
 0.0.0.0 www.topdate7.biz
 0.0.0.0 topdatecity4.biz
