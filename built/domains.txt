@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-10-14T16:29:22Z
+# Last update: 2026-10-16T16:05:27Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -207,7 +207,9 @@ cancervants.org
 castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
+comptoncymru.com
 defencelover.in
+dexil.ru
 eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
@@ -223,6 +225,7 @@ mouwz.nl
 mucc.com.au
 nbkangxi.com
 nectartrust.org.uk
+nextgearup.com
 nguen.net
 redlog.cl
 sm-projekt.si
@@ -374,7 +377,6 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-4matchcitydate3.biz
 americanexpress-bonus5505.ink
 americanexpress-bonus5508.ink
 americanexpress-bonus5509.ink
@@ -387,8 +389,6 @@ americanexpress-bonus6623.ink
 americanexpress-bonus6630.ink
 americanexpress-bonus6639.ink
 americanexpress-bonus6647.ink
-americanexpress-bonus6649.ink
-americanexpress-bonusnutzen9912.ink
 americanexpress-bonusnutzen9915.ink
 americanexpress-bonusnutzen9923.ink
 americanexpress-bonusnutzen9929.ink
@@ -398,9 +398,7 @@ americanexpress-bonusnutzen9937.ink
 americanexpress-bonusnutzen9943.ink
 americanexpress-bonusnutzen9949.ink
 americanexpress-bonusnutzen9950.ink
-bestlinkdate9.biz
 betting-bonuses-mongolia.com
-bonus-pgsports.com.cn
 bonus138link.cloud
 bonus138on6.xyz
 bonusblas10.site
@@ -408,7 +406,6 @@ bonuses-uk.com
 bonusgiris4.icu
 bonusnewmember50.com
 bonusnewmember50.org
-bonusrehberi-27b92c.icu
 bonuswinrate777.click
 candidates-thetalentedge.net
 candidates-thetalentedgehq.com
@@ -424,7 +421,6 @@ date-free.date
 date-free.gay
 date-free.lgbt
 date-free.org
-date-jason.com
 date007.xyz
 date2keep.com
 date4free.cheap
@@ -447,11 +443,11 @@ datingp5ro.biz
 datingzonegoflirt2.biz
 deneme-bonusu-tr.site
 denemebonusucv-zeus.cfd
-denemebonusux-zeus.cfd
 easyandromanceonedate3.biz
-garuda55bonusss30ribu.sbs
 godateworld4.biz
 godatingp3ro.biz
+godatingpro9.biz
+hakodate-bpss.net
 hakodate-juku.com
 hakodate-printing.com
 hakodate-wq.com
@@ -465,8 +461,6 @@ mandate-targetstorageltd.com
 mydatehub6.biz
 myzonedatingworld1.biz
 no-deposit-bonus-casino-nz.online
-pagamentosbonuseguro2.shop
-pagamentosbonuseguro3.shop
 playdate-now.com
 prodating4.biz
 proflirtlandiodate6.biz
@@ -474,8 +468,6 @@ pronowdating7.biz
 quickdate5.biz
 quickdatinghu9b.biz
 quickplusmeetxdating6.biz
-savethedate3d.com
-seduniatotobonusss30ribu.cyou
 seniordating-uk.xyz
 smart4datingworld5.biz
 start-your-lucky-bonus-jililbdt111.shop
