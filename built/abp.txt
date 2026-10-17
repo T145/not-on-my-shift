@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-10-16T16:05:27Z
+! Last update: 2026-10-17T14:58:21Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -386,6 +386,7 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+||4matchcitydate3.biz^
 ||americanexpress-bonus5505.ink^
 ||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
@@ -398,7 +399,8 @@
 ||americanexpress-bonus6630.ink^
 ||americanexpress-bonus6639.ink^
 ||americanexpress-bonus6647.ink^
-||americanexpress-bonusnutzen9915.ink^
+||americanexpress-bonus6649.ink^
+||americanexpress-bonusnutzen9912.ink^
 ||americanexpress-bonusnutzen9923.ink^
 ||americanexpress-bonusnutzen9929.ink^
 ||americanexpress-bonusnutzen9933.ink^
@@ -407,6 +409,7 @@
 ||americanexpress-bonusnutzen9943.ink^
 ||americanexpress-bonusnutzen9949.ink^
 ||americanexpress-bonusnutzen9950.ink^
+||bestlinkdate9.biz^
 ||betting-bonuses-mongolia.com^
 ||bonus138link.cloud^
 ||bonus138on6.xyz^
@@ -420,6 +423,7 @@
 ||candidates-thetalentedgehq.com^
 ||candidates-thetalentedgeteam.com^
 ||casinobonus1.se^
+||casinolevant-bonus2026.icu^
 ||clubdatingxconn6ect.biz^
 ||commerzbankbonusprogramms64.ink^
 ||commerzbankbonusprogramms82.ink^
@@ -430,6 +434,7 @@
 ||date-free.gay^
 ||date-free.lgbt^
 ||date-free.org^
+||date-jason.com^
 ||date007.xyz^
 ||date2keep.com^
 ||date4free.cheap^
@@ -452,14 +457,11 @@
 ||datingzonegoflirt2.biz^
 ||deneme-bonusu-tr.site^
 ||denemebonusucv-zeus.cfd^
-||easyandromanceonedate3.biz^
+||denemebonusux-zeus.cfd^
 ||godateworld4.biz^
-||godatingp3ro.biz^
-||godatingpro9.biz^
-||hakodate-bpss.net^
 ||hakodate-juku.com^
 ||hakodate-printing.com^
-||hakodate-wq.com^
+||hakodate0104.net^
 ||holiganbet-bonus-site.icu^
 ||holiganbet-bonus12agustos.icu^
 ||id-validate-service-d12.cyou^
