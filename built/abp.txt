@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-10-17T14:58:21Z
+! Last update: 2026-10-19T18:18:53Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -218,7 +218,6 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
-||dexil.ru^
 ||eurosystemsrl.eu^
 ||fraternitykerala.org^
 ||galaxyfunbowl.gr^
@@ -386,7 +385,6 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-||4matchcitydate3.biz^
 ||americanexpress-bonus5505.ink^
 ||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
@@ -405,13 +403,10 @@
 ||americanexpress-bonusnutzen9929.ink^
 ||americanexpress-bonusnutzen9933.ink^
 ||americanexpress-bonusnutzen9936.ink^
-||americanexpress-bonusnutzen9937.ink^
 ||americanexpress-bonusnutzen9943.ink^
-||americanexpress-bonusnutzen9949.ink^
 ||americanexpress-bonusnutzen9950.ink^
 ||bestlinkdate9.biz^
 ||betting-bonuses-mongolia.com^
-||bonus138link.cloud^
 ||bonus138on6.xyz^
 ||bonusblas10.site^
 ||bonuses-uk.com^
@@ -432,8 +427,6 @@
 ||date-app.net^
 ||date-free.date^
 ||date-free.gay^
-||date-free.lgbt^
-||date-free.org^
 ||date-jason.com^
 ||date007.xyz^
 ||date2keep.com^
@@ -459,15 +452,17 @@
 ||denemebonusucv-zeus.cfd^
 ||denemebonusux-zeus.cfd^
 ||godateworld4.biz^
+||godatingp3ro.biz^
+||hakodate-bpss.net^
 ||hakodate-juku.com^
 ||hakodate-printing.com^
+||hakodate-wq.com^
 ||hakodate0104.net^
 ||holiganbet-bonus-site.icu^
 ||holiganbet-bonus12agustos.icu^
 ||id-validate-service-d12.cyou^
 ||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
-||kazino-bonus-za-depozit.info^
 ||mandate-targetstorageltd.com^
 ||mydatehub6.biz^
 ||myzonedatingworld1.biz^
@@ -489,7 +484,6 @@
 ||validate-immediate.app^
 ||volnakazino-bonus2.top^
 ||xn--bonusvrlden-q8a.se^
-||xn--datenintegritt-iib.com^
 ||xn--insttningsfribonus-ntb.se^
 ||xn--sugardatingrdgivning-7zb.se^
 ||zonedate8goflirt.biz^

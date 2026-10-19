@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-10-17T14:58:21Z
+# Last update: 2026-10-19T18:18:53Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -295,8 +295,6 @@
 0.0.0.0 www.comptoncymru.com
 0.0.0.0 defencelover.in
 0.0.0.0 www.defencelover.in
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 eurosystemsrl.eu
 0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 fraternitykerala.org
@@ -590,8 +588,6 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 4matchcitydate3.biz
-0.0.0.0 www.4matchcitydate3.biz
 0.0.0.0 americanexpress-bonus5505.ink
 0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
@@ -628,20 +624,14 @@
 0.0.0.0 www.americanexpress-bonusnutzen9933.ink
 0.0.0.0 americanexpress-bonusnutzen9936.ink
 0.0.0.0 www.americanexpress-bonusnutzen9936.ink
-0.0.0.0 americanexpress-bonusnutzen9937.ink
-0.0.0.0 www.americanexpress-bonusnutzen9937.ink
 0.0.0.0 americanexpress-bonusnutzen9943.ink
 0.0.0.0 www.americanexpress-bonusnutzen9943.ink
-0.0.0.0 americanexpress-bonusnutzen9949.ink
-0.0.0.0 www.americanexpress-bonusnutzen9949.ink
 0.0.0.0 americanexpress-bonusnutzen9950.ink
 0.0.0.0 www.americanexpress-bonusnutzen9950.ink
 0.0.0.0 bestlinkdate9.biz
 0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 betting-bonuses-mongolia.com
 0.0.0.0 www.betting-bonuses-mongolia.com
-0.0.0.0 bonus138link.cloud
-0.0.0.0 www.bonus138link.cloud
 0.0.0.0 bonus138on6.xyz
 0.0.0.0 www.bonus138on6.xyz
 0.0.0.0 bonusblas10.site
@@ -682,10 +672,6 @@
 0.0.0.0 www.date-free.date
 0.0.0.0 date-free.gay
 0.0.0.0 www.date-free.gay
-0.0.0.0 date-free.lgbt
-0.0.0.0 www.date-free.lgbt
-0.0.0.0 date-free.org
-0.0.0.0 www.date-free.org
 0.0.0.0 date-jason.com
 0.0.0.0 www.date-jason.com
 0.0.0.0 date007.xyz
@@ -736,10 +722,16 @@
 0.0.0.0 www.denemebonusux-zeus.cfd
 0.0.0.0 godateworld4.biz
 0.0.0.0 www.godateworld4.biz
+0.0.0.0 godatingp3ro.biz
+0.0.0.0 www.godatingp3ro.biz
+0.0.0.0 hakodate-bpss.net
+0.0.0.0 www.hakodate-bpss.net
 0.0.0.0 hakodate-juku.com
 0.0.0.0 www.hakodate-juku.com
 0.0.0.0 hakodate-printing.com
 0.0.0.0 www.hakodate-printing.com
+0.0.0.0 hakodate-wq.com
+0.0.0.0 www.hakodate-wq.com
 0.0.0.0 hakodate0104.net
 0.0.0.0 www.hakodate0104.net
 0.0.0.0 holiganbet-bonus-site.icu
@@ -752,8 +744,6 @@
 0.0.0.0 www.id-validate-service-d24.cyou
 0.0.0.0 id-validate-service-d9.cyou
 0.0.0.0 www.id-validate-service-d9.cyou
-0.0.0.0 kazino-bonus-za-depozit.info
-0.0.0.0 www.kazino-bonus-za-depozit.info
 0.0.0.0 mandate-targetstorageltd.com
 0.0.0.0 www.mandate-targetstorageltd.com
 0.0.0.0 mydatehub6.biz
@@ -796,8 +786,6 @@
 0.0.0.0 www.volnakazino-bonus2.top
 0.0.0.0 xn--bonusvrlden-q8a.se
 0.0.0.0 www.xn--bonusvrlden-q8a.se
-0.0.0.0 xn--datenintegritt-iib.com
-0.0.0.0 www.xn--datenintegritt-iib.com
 0.0.0.0 xn--insttningsfribonus-ntb.se
 0.0.0.0 www.xn--insttningsfribonus-ntb.se
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
