@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-10-19T18:18:53Z
+# Last update: 2026-10-20T16:21:21Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -207,7 +207,6 @@ cancervants.org
 castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
-comptoncymru.com
 defencelover.in
 eurosystemsrl.eu
 fraternitykerala.org
@@ -224,7 +223,6 @@ mouwz.nl
 mucc.com.au
 nbkangxi.com
 nectartrust.org.uk
-nextgearup.com
 nguen.net
 redlog.cl
 sm-projekt.si
@@ -385,19 +383,19 @@ americanexpress-bonus5538.ink
 americanexpress-bonus5552.ink
 americanexpress-bonus6601.ink
 americanexpress-bonus6623.ink
-americanexpress-bonus6630.ink
 americanexpress-bonus6639.ink
 americanexpress-bonus6647.ink
 americanexpress-bonus6649.ink
 americanexpress-bonusnutzen9912.ink
-americanexpress-bonusnutzen9923.ink
+americanexpress-bonusnutzen9915.ink
 americanexpress-bonusnutzen9929.ink
 americanexpress-bonusnutzen9933.ink
 americanexpress-bonusnutzen9936.ink
-americanexpress-bonusnutzen9943.ink
+americanexpress-bonusnutzen9937.ink
 americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
 betting-bonuses-mongolia.com
+bonus138link.cloud
 bonus138on6.xyz
 bonusblas10.site
 bonuses-uk.com
@@ -410,7 +408,6 @@ candidates-thetalentedgehq.com
 candidates-thetalentedgeteam.com
 casinobonus1.se
 casinolevant-bonus2026.icu
-clubdatingxconn6ect.biz
 commerzbankbonusprogramms64.ink
 commerzbankbonusprogramms82.ink
 commerzbankbonusprogramms88.ink
@@ -418,6 +415,8 @@ cuidate-skin.com
 date-app.net
 date-free.date
 date-free.gay
+date-free.lgbt
+date-free.org
 date-jason.com
 date007.xyz
 date2keep.com
@@ -433,15 +432,14 @@ dating-anastasiao.store
 dating18.click
 dating24hour.com
 dating4free.co
-datingcity3.biz
 datingclub3.biz
 datingiopartnersearch5.biz
-datingmat3ch.biz
 datingp5ro.biz
 datingzonegoflirt2.biz
 deneme-bonusu-tr.site
 denemebonusucv-zeus.cfd
 denemebonusux-zeus.cfd
+easyandromanceonedate3.biz
 godateworld4.biz
 godatingp3ro.biz
 hakodate-bpss.net
@@ -455,26 +453,24 @@ id-validate-service-d12.cyou
 id-validate-service-d24.cyou
 id-validate-service-d9.cyou
 mandate-targetstorageltd.com
-mydatehub6.biz
 myzonedatingworld1.biz
-no-deposit-bonus-casino-nz.online
 playdate-now.com
 prodating4.biz
 proflirtlandiodate6.biz
 pronowdating7.biz
-quickdate5.biz
 quickdatinghu9b.biz
 quickplusmeetxdating6.biz
 seniordating-uk.xyz
 smart4datingworld5.biz
+smartdating03.biz
 start-your-lucky-bonus-jililbdt111.shop
-topdate7.biz
 topdatecity4.biz
 topdateclub1.biz
 topdating6.biz
 validate-immediate.app
 volnakazino-bonus2.top
 xn--bonusvrlden-q8a.se
+xn--datenintegritt-iib.com
 xn--insttningsfribonus-ntb.se
 xn--sugardatingrdgivning-7zb.se
 zonedate8goflirt.biz
