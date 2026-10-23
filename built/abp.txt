@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-10-21T16:36:18Z
+! Last update: 2026-10-23T16:27:08Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -226,7 +226,6 @@
 ||imrt.ac.in^
 ||kmtks.org.tw^
 ||loanglide.com^
-||machupicchutraveling.com^
 ||magicboximportados.com.br^
 ||mistc.es^
 ||mouwz.nl^
@@ -236,12 +235,12 @@
 ||nextgearup.com^
 ||nguen.net^
 ||redlog.cl^
-||sm-projekt.si^
 ||tacloban.gov.ph^
 ||thozhilvarthalatest.com^
 ||trashstation.com^
 ||twospoonsfleet.co.uk^
 ||ultimatepreneur.com^
+||vanguardacademy-ng.com^
 ||wowfollowers.com^
 
 ! === SCAMS ===
@@ -392,7 +391,6 @@
 ||americanexpress-bonus5552.ink^
 ||americanexpress-bonus6601.ink^
 ||americanexpress-bonus6623.ink^
-||americanexpress-bonus6630.ink^
 ||americanexpress-bonus6639.ink^
 ||americanexpress-bonus6647.ink^
 ||americanexpress-bonus6649.ink^
@@ -413,7 +411,6 @@
 ||bonuses-uk.com^
 ||bonusgiris4.icu^
 ||bonusnewmember50.com^
-||bonusnewmember50.org^
 ||bonuswinrate777.click^
 ||candidates-thetalentedge.net^
 ||candidates-thetalentedgehq.com^
@@ -427,20 +424,17 @@
 ||date-app.net^
 ||date-free.date^
 ||date-free.gay^
-||date-free.lgbt^
 ||date-free.org^
 ||date-jason.com^
 ||date007.xyz^
 ||date2keep.com^
 ||date4free.cheap^
 ||date4free.lgbt^
-||dateing99.com^
 ||dateiomat1ch.biz^
 ||datemeetup4.biz^
 ||datenschutz-check.ch^
 ||dateonelove9.biz^
 ||dating-anastasiao.ru^
-||dating-anastasiao.store^
 ||dating18.click^
 ||dating24hour.com^
 ||dating4free.co^
@@ -451,31 +445,25 @@
 ||datingzonegoflirt2.biz^
 ||deneme-bonusu-tr.site^
 ||denemebonusucv-zeus.cfd^
-||denemebonusux-zeus.cfd^
-||easyandromanceonedate3.biz^
-||godateworld4.biz^
 ||godatingp3ro.biz^
-||godatingpro9.biz^
 ||hakodate-bpss.net^
 ||hakodate-juku.com^
 ||hakodate-printing.com^
 ||hakodate-wq.com^
+||hakodate0104.net^
 ||holiganbet-bonus-site.icu^
 ||holiganbet-bonus12agustos.icu^
 ||id-validate-service-d12.cyou^
 ||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
-||kazino-bonus-za-depozit.info^
 ||mandate-targetstorageltd.com^
 ||myzonedatingworld1.biz^
 ||no-deposit-bonus-casino-nz.online^
 ||playdate-now.com^
-||prodating4.biz^
 ||proflirtlandiodate6.biz^
 ||pronowdating7.biz^
-||quickplusmeetxdating6.biz^
+||quickdatinghu9b.biz^
 ||seniordating-uk.xyz^
-||smart4datingworld5.biz^
 ||smartdating03.biz^
 ||smartdating18.biz^
 ||start-your-lucky-bonus-jililbdt111.shop^
@@ -488,7 +476,6 @@
 ||xn--datenintegritt-iib.com^
 ||xn--insttningsfribonus-ntb.se^
 ||xn--sugardatingrdgivning-7zb.se^
-||zonedate8goflirt.biz^
 
 ! 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
 ||1mono.biz^
