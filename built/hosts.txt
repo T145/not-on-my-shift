@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-10-29T18:04:32Z
+# Last update: 2026-10-30T17:46:43Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -291,8 +291,6 @@
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 comptoncymru.com
 0.0.0.0 www.comptoncymru.com
-0.0.0.0 dexil.ru
-0.0.0.0 www.dexil.ru
 0.0.0.0 eurosystemsrl.eu
 0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 fraternitykerala.org
@@ -321,6 +319,8 @@
 0.0.0.0 www.nbkangxi.com
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
+0.0.0.0 nextgearup.com
+0.0.0.0 www.nextgearup.com
 0.0.0.0 nguen.net
 0.0.0.0 www.nguen.net
 0.0.0.0 redlog.cl
@@ -337,8 +337,6 @@
 0.0.0.0 www.twospoonsfleet.co.uk
 0.0.0.0 ultimatepreneur.com
 0.0.0.0 www.ultimatepreneur.com
-0.0.0.0 vanguardacademy-ng.com
-0.0.0.0 www.vanguardacademy-ng.com
 0.0.0.0 wowfollowers.com
 0.0.0.0 www.wowfollowers.com
 
@@ -586,12 +584,14 @@
 0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
 0.0.0.0 www.americanexpress-bonus5508.ink
+0.0.0.0 americanexpress-bonus5509.ink
+0.0.0.0 www.americanexpress-bonus5509.ink
 0.0.0.0 americanexpress-bonus5523.ink
 0.0.0.0 www.americanexpress-bonus5523.ink
+0.0.0.0 americanexpress-bonus5524.ink
+0.0.0.0 www.americanexpress-bonus5524.ink
 0.0.0.0 americanexpress-bonus5538.ink
 0.0.0.0 www.americanexpress-bonus5538.ink
-0.0.0.0 americanexpress-bonus5552.ink
-0.0.0.0 www.americanexpress-bonus5552.ink
 0.0.0.0 americanexpress-bonus6601.ink
 0.0.0.0 www.americanexpress-bonus6601.ink
 0.0.0.0 americanexpress-bonus6623.ink
@@ -606,12 +606,18 @@
 0.0.0.0 www.americanexpress-bonus6649.ink
 0.0.0.0 americanexpress-bonusnutzen9912.ink
 0.0.0.0 www.americanexpress-bonusnutzen9912.ink
+0.0.0.0 americanexpress-bonusnutzen9915.ink
+0.0.0.0 www.americanexpress-bonusnutzen9915.ink
+0.0.0.0 americanexpress-bonusnutzen9923.ink
+0.0.0.0 www.americanexpress-bonusnutzen9923.ink
 0.0.0.0 americanexpress-bonusnutzen9929.ink
 0.0.0.0 www.americanexpress-bonusnutzen9929.ink
 0.0.0.0 americanexpress-bonusnutzen9933.ink
 0.0.0.0 www.americanexpress-bonusnutzen9933.ink
 0.0.0.0 americanexpress-bonusnutzen9936.ink
 0.0.0.0 www.americanexpress-bonusnutzen9936.ink
+0.0.0.0 americanexpress-bonusnutzen9937.ink
+0.0.0.0 www.americanexpress-bonusnutzen9937.ink
 0.0.0.0 americanexpress-bonusnutzen9943.ink
 0.0.0.0 www.americanexpress-bonusnutzen9943.ink
 0.0.0.0 americanexpress-bonusnutzen9950.ink
@@ -644,6 +650,8 @@
 0.0.0.0 www.candidates-thetalentedgeteam.com
 0.0.0.0 casinobonus1.se
 0.0.0.0 www.casinobonus1.se
+0.0.0.0 casinolevant-bonus2026.icu
+0.0.0.0 www.casinolevant-bonus2026.icu
 0.0.0.0 commerzbankbonusprogramms64.ink
 0.0.0.0 www.commerzbankbonusprogramms64.ink
 0.0.0.0 commerzbankbonusprogramms82.ink
@@ -688,6 +696,8 @@
 0.0.0.0 www.dating-anastasiao.store
 0.0.0.0 dating18.click
 0.0.0.0 www.dating18.click
+0.0.0.0 dating24hour.com
+0.0.0.0 www.dating24hour.com
 0.0.0.0 dating4free.co
 0.0.0.0 www.dating4free.co
 0.0.0.0 datingclub3.biz
@@ -706,6 +716,8 @@
 0.0.0.0 www.denemebonusucv-zeus.cfd
 0.0.0.0 denemebonusux-zeus.cfd
 0.0.0.0 www.denemebonusux-zeus.cfd
+0.0.0.0 easypartnersearchproonedate7.biz
+0.0.0.0 www.easypartnersearchproonedate7.biz
 0.0.0.0 godateworld4.biz
 0.0.0.0 www.godateworld4.biz
 0.0.0.0 godatingp3ro.biz
@@ -740,6 +752,8 @@
 0.0.0.0 www.myzonedatingworld1.biz
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
+0.0.0.0 playdate-now.com
+0.0.0.0 www.playdate-now.com
 0.0.0.0 prodating4.biz
 0.0.0.0 www.prodating4.biz
 0.0.0.0 proflirtlandiodate6.biz
@@ -748,6 +762,8 @@
 0.0.0.0 www.pronowdating7.biz
 0.0.0.0 quickdatinghu9b.biz
 0.0.0.0 www.quickdatinghu9b.biz
+0.0.0.0 quickplusmeetxdating6.biz
+0.0.0.0 www.quickplusmeetxdating6.biz
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smart4datingworld5.biz
@@ -758,6 +774,8 @@
 0.0.0.0 www.smartdating18.biz
 0.0.0.0 start-your-lucky-bonus-jililbdt111.shop
 0.0.0.0 www.start-your-lucky-bonus-jililbdt111.shop
+0.0.0.0 topdatecity4.biz
+0.0.0.0 www.topdatecity4.biz
 0.0.0.0 topdateclub1.biz
 0.0.0.0 www.topdateclub1.biz
 0.0.0.0 topdating6.biz

@@ -6,7 +6,6 @@ domains:
 - clickedgesolutions.com
 - clone.app.home-cost.com
 - comptoncymru.com
-- dexil.ru
 - eurosystemsrl.eu
 - fraternitykerala.org
 - galaxyfunbowl.gr
@@ -21,6 +20,7 @@ domains:
 - mucc.com.au
 - nbkangxi.com
 - nectartrust.org.uk
+- nextgearup.com
 - nguen.net
 - redlog.cl
 - synoviz.com
@@ -29,7 +29,6 @@ domains:
 - trashstation.com
 - twospoonsfleet.co.uk
 - ultimatepreneur.com
-- vanguardacademy-ng.com
 - wowfollowers.com
 fedex_suffixes:
 - app
@@ -74,6 +73,7 @@ ignored_domains:
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
 - defencelover.in
+- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -111,7 +111,6 @@ ignored_domains:
 - myphamnganbinh.com
 - nen.vacad.net
 - new.deso.cz
-- nextgearup.com
 - njzmfcls.com
 - nogdec.com
 - nqtxk.com
@@ -148,6 +147,7 @@ ignored_domains:
 - tubies.com
 - tuyennvtb.com
 - update.fbsbx.com
+- vanguardacademy-ng.com
 - veljko.id
 - visotka.in
 - vladimirherzog.org
