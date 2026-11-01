@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-10-30T17:46:43Z
+# Last update: 2026-11-01T17:40:31Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -291,6 +291,8 @@
 0.0.0.0 clone.app.home-cost.com
 0.0.0.0 comptoncymru.com
 0.0.0.0 www.comptoncymru.com
+0.0.0.0 defencelover.in
+0.0.0.0 www.defencelover.in
 0.0.0.0 eurosystemsrl.eu
 0.0.0.0 www.eurosystemsrl.eu
 0.0.0.0 fraternitykerala.org
@@ -319,8 +321,6 @@
 0.0.0.0 www.nbkangxi.com
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
-0.0.0.0 nextgearup.com
-0.0.0.0 www.nextgearup.com
 0.0.0.0 nguen.net
 0.0.0.0 www.nguen.net
 0.0.0.0 redlog.cl
@@ -578,10 +578,6 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-0.0.0.0 aktifbonus-girisleri.com
-0.0.0.0 www.aktifbonus-girisleri.com
-0.0.0.0 americanexpress-bonus5505.ink
-0.0.0.0 www.americanexpress-bonus5505.ink
 0.0.0.0 americanexpress-bonus5508.ink
 0.0.0.0 www.americanexpress-bonus5508.ink
 0.0.0.0 americanexpress-bonus5509.ink
@@ -592,6 +588,8 @@
 0.0.0.0 www.americanexpress-bonus5524.ink
 0.0.0.0 americanexpress-bonus5538.ink
 0.0.0.0 www.americanexpress-bonus5538.ink
+0.0.0.0 americanexpress-bonus5552.ink
+0.0.0.0 www.americanexpress-bonus5552.ink
 0.0.0.0 americanexpress-bonus6601.ink
 0.0.0.0 www.americanexpress-bonus6601.ink
 0.0.0.0 americanexpress-bonus6623.ink
@@ -640,6 +638,10 @@
 0.0.0.0 www.bonusnewmember50.com
 0.0.0.0 bonusnewmember50.org
 0.0.0.0 www.bonusnewmember50.org
+0.0.0.0 bonuspointsystem4.ru
+0.0.0.0 www.bonuspointsystem4.ru
+0.0.0.0 bonuspointsystem5.ru
+0.0.0.0 www.bonuspointsystem5.ru
 0.0.0.0 bonuswinrate777.click
 0.0.0.0 www.bonuswinrate777.click
 0.0.0.0 candidates-thetalentedge.net
@@ -652,6 +654,8 @@
 0.0.0.0 www.casinobonus1.se
 0.0.0.0 casinolevant-bonus2026.icu
 0.0.0.0 www.casinolevant-bonus2026.icu
+0.0.0.0 clubdatingxconn6ect.biz
+0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 commerzbankbonusprogramms64.ink
 0.0.0.0 www.commerzbankbonusprogramms64.ink
 0.0.0.0 commerzbankbonusprogramms82.ink
@@ -718,6 +722,10 @@
 0.0.0.0 www.denemebonusux-zeus.cfd
 0.0.0.0 easypartnersearchproonedate7.biz
 0.0.0.0 www.easypartnersearchproonedate7.biz
+0.0.0.0 gesundheitsdaten360.com
+0.0.0.0 www.gesundheitsdaten360.com
+0.0.0.0 getdatecity9.biz
+0.0.0.0 www.getdatecity9.biz
 0.0.0.0 godateworld4.biz
 0.0.0.0 www.godateworld4.biz
 0.0.0.0 godatingp3ro.biz
@@ -752,6 +760,8 @@
 0.0.0.0 www.myzonedatingworld1.biz
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
+0.0.0.0 partnersearchcitydate8.biz
+0.0.0.0 www.partnersearchcitydate8.biz
 0.0.0.0 playdate-now.com
 0.0.0.0 www.playdate-now.com
 0.0.0.0 prodating4.biz
@@ -760,6 +770,8 @@
 0.0.0.0 www.proflirtlandiodate6.biz
 0.0.0.0 pronowdating7.biz
 0.0.0.0 www.pronowdating7.biz
+0.0.0.0 quickdate5.biz
+0.0.0.0 www.quickdate5.biz
 0.0.0.0 quickdatinghu9b.biz
 0.0.0.0 www.quickdatinghu9b.biz
 0.0.0.0 quickplusmeetxdating6.biz
@@ -784,8 +796,6 @@
 0.0.0.0 www.validate-immediate.app
 0.0.0.0 volnakazino-bonus2.top
 0.0.0.0 www.volnakazino-bonus2.top
-0.0.0.0 xn--bonusvrlden-q8a.se
-0.0.0.0 www.xn--bonusvrlden-q8a.se
 0.0.0.0 xn--datenintegritt-iib.com
 0.0.0.0 www.xn--datenintegritt-iib.com
 0.0.0.0 xn--insttningsfribonus-ntb.se

@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-10-30T17:46:43Z
+# Last update: 2026-11-01T17:40:31Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -207,6 +207,7 @@ castllypay.com
 clickedgesolutions.com
 clone.app.home-cost.com
 comptoncymru.com
+defencelover.in
 eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
@@ -221,7 +222,6 @@ mouwz.nl
 mucc.com.au
 nbkangxi.com
 nectartrust.org.uk
-nextgearup.com
 nguen.net
 redlog.cl
 synoviz.com
@@ -371,13 +371,12 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-aktifbonus-girisleri.com
-americanexpress-bonus5505.ink
 americanexpress-bonus5508.ink
 americanexpress-bonus5509.ink
 americanexpress-bonus5523.ink
 americanexpress-bonus5524.ink
 americanexpress-bonus5538.ink
+americanexpress-bonus5552.ink
 americanexpress-bonus6601.ink
 americanexpress-bonus6623.ink
 americanexpress-bonus6630.ink
@@ -402,12 +401,15 @@ bonuses-uk.com
 bonusgiris4.icu
 bonusnewmember50.com
 bonusnewmember50.org
+bonuspointsystem4.ru
+bonuspointsystem5.ru
 bonuswinrate777.click
 candidates-thetalentedge.net
 candidates-thetalentedgehq.com
 candidates-thetalentedgeteam.com
 casinobonus1.se
 casinolevant-bonus2026.icu
+clubdatingxconn6ect.biz
 commerzbankbonusprogramms64.ink
 commerzbankbonusprogramms82.ink
 commerzbankbonusprogramms88.ink
@@ -441,6 +443,8 @@ deneme-bonusu-tr.site
 denemebonusucv-zeus.cfd
 denemebonusux-zeus.cfd
 easypartnersearchproonedate7.biz
+gesundheitsdaten360.com
+getdatecity9.biz
 godateworld4.biz
 godatingp3ro.biz
 hakodate-bpss.net
@@ -458,10 +462,12 @@ mandate-targetstorageltd.com
 mydatehub6.biz
 myzonedatingworld1.biz
 no-deposit-bonus-casino-nz.online
+partnersearchcitydate8.biz
 playdate-now.com
 prodating4.biz
 proflirtlandiodate6.biz
 pronowdating7.biz
+quickdate5.biz
 quickdatinghu9b.biz
 quickplusmeetxdating6.biz
 seniordating-uk.xyz
@@ -474,7 +480,6 @@ topdateclub1.biz
 topdating6.biz
 validate-immediate.app
 volnakazino-bonus2.top
-xn--bonusvrlden-q8a.se
 xn--datenintegritt-iib.com
 xn--insttningsfribonus-ntb.se
 xn--sugardatingrdgivning-7zb.se
