@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-11-01T17:40:31Z
+# Last update: 2026-11-02T21:27:05Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -321,6 +321,8 @@
 0.0.0.0 www.nbkangxi.com
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
+0.0.0.0 nextgearup.com
+0.0.0.0 www.nextgearup.com
 0.0.0.0 nguen.net
 0.0.0.0 www.nguen.net
 0.0.0.0 redlog.cl
@@ -578,6 +580,8 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+0.0.0.0 aktifbonus-girisleri.com
+0.0.0.0 www.aktifbonus-girisleri.com
 0.0.0.0 americanexpress-bonus5508.ink
 0.0.0.0 www.americanexpress-bonus5508.ink
 0.0.0.0 americanexpress-bonus5509.ink
@@ -704,6 +708,8 @@
 0.0.0.0 www.dating24hour.com
 0.0.0.0 dating4free.co
 0.0.0.0 www.dating4free.co
+0.0.0.0 datingcity3.biz
+0.0.0.0 www.datingcity3.biz
 0.0.0.0 datingclub3.biz
 0.0.0.0 www.datingclub3.biz
 0.0.0.0 datingiopartnersearch5.biz
@@ -720,6 +726,8 @@
 0.0.0.0 www.denemebonusucv-zeus.cfd
 0.0.0.0 denemebonusux-zeus.cfd
 0.0.0.0 www.denemebonusux-zeus.cfd
+0.0.0.0 easyandromanceonedate3.biz
+0.0.0.0 www.easyandromanceonedate3.biz
 0.0.0.0 easypartnersearchproonedate7.biz
 0.0.0.0 www.easypartnersearchproonedate7.biz
 0.0.0.0 gesundheitsdaten360.com
@@ -738,8 +746,6 @@
 0.0.0.0 www.hakodate-printing.com
 0.0.0.0 hakodate-wq.com
 0.0.0.0 www.hakodate-wq.com
-0.0.0.0 hakodate0104.net
-0.0.0.0 www.hakodate0104.net
 0.0.0.0 holiganbet-bonus-site.icu
 0.0.0.0 www.holiganbet-bonus-site.icu
 0.0.0.0 holiganbet-bonus12agustos.icu
@@ -774,18 +780,16 @@
 0.0.0.0 www.quickdate5.biz
 0.0.0.0 quickdatinghu9b.biz
 0.0.0.0 www.quickdatinghu9b.biz
-0.0.0.0 quickplusmeetxdating6.biz
-0.0.0.0 www.quickplusmeetxdating6.biz
 0.0.0.0 seniordating-uk.xyz
 0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smart4datingworld5.biz
 0.0.0.0 www.smart4datingworld5.biz
-0.0.0.0 smartdating03.biz
-0.0.0.0 www.smartdating03.biz
 0.0.0.0 smartdating18.biz
 0.0.0.0 www.smartdating18.biz
 0.0.0.0 start-your-lucky-bonus-jililbdt111.shop
 0.0.0.0 www.start-your-lucky-bonus-jililbdt111.shop
+0.0.0.0 topdate7.biz
+0.0.0.0 www.topdate7.biz
 0.0.0.0 topdatecity4.biz
 0.0.0.0 www.topdatecity4.biz
 0.0.0.0 topdateclub1.biz
@@ -794,12 +798,10 @@
 0.0.0.0 www.topdating6.biz
 0.0.0.0 validate-immediate.app
 0.0.0.0 www.validate-immediate.app
-0.0.0.0 volnakazino-bonus2.top
-0.0.0.0 www.volnakazino-bonus2.top
+0.0.0.0 xn--bonusvrlden-q8a.se
+0.0.0.0 www.xn--bonusvrlden-q8a.se
 0.0.0.0 xn--datenintegritt-iib.com
 0.0.0.0 www.xn--datenintegritt-iib.com
-0.0.0.0 xn--insttningsfribonus-ntb.se
-0.0.0.0 www.xn--insttningsfribonus-ntb.se
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
 0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
 0.0.0.0 zonedate8goflirt.biz
