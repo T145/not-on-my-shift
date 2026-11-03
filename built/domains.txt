@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-11-02T21:27:05Z
+# Last update: 2026-11-03T19:06:17Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -209,7 +209,6 @@ clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
 eurosystemsrl.eu
-fraternitykerala.org
 galaxyfunbowl.gr
 guzelbil.com
 hongqiqujiu.com
@@ -372,7 +371,6 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-aktifbonus-girisleri.com
 americanexpress-bonus5508.ink
 americanexpress-bonus5509.ink
 americanexpress-bonus5523.ink
@@ -380,7 +378,6 @@ americanexpress-bonus5524.ink
 americanexpress-bonus5538.ink
 americanexpress-bonus5552.ink
 americanexpress-bonus6601.ink
-americanexpress-bonus6623.ink
 americanexpress-bonus6630.ink
 americanexpress-bonus6639.ink
 americanexpress-bonus6647.ink
@@ -399,7 +396,6 @@ betting-bonuses-mongolia.com
 bonus138link.cloud
 bonus138on6.xyz
 bonusblas10.site
-bonuses-uk.com
 bonusgiris4.icu
 bonusnewmember50.com
 bonusnewmember50.org
@@ -423,7 +419,6 @@ date-free.lgbt
 date-free.org
 date-jason.com
 date007.xyz
-date2keep.com
 date4free.cheap
 date4free.lgbt
 dateing99.com
@@ -431,7 +426,6 @@ dateiomat1ch.biz
 datemeetup4.biz
 datenschutz-check.ch
 dateonelove9.biz
-dating-anastasiao.ru
 dating-anastasiao.store
 dating18.click
 dating24hour.com
@@ -455,12 +449,12 @@ hakodate-bpss.net
 hakodate-juku.com
 hakodate-printing.com
 hakodate-wq.com
+hakodate0104.net
 holiganbet-bonus-site.icu
 holiganbet-bonus12agustos.icu
 id-validate-service-d12.cyou
 id-validate-service-d24.cyou
 id-validate-service-d9.cyou
-kazino-bonus-za-depozit.info
 mandate-targetstorageltd.com
 mydatehub6.biz
 myzonedatingworld1.biz
@@ -470,10 +464,11 @@ playdate-now.com
 prodating4.biz
 proflirtlandiodate6.biz
 pronowdating7.biz
-quickdate5.biz
 quickdatinghu9b.biz
+quickplusmeetxdating6.biz
 seniordating-uk.xyz
 smart4datingworld5.biz
+smartdating03.biz
 smartdating18.biz
 start-your-lucky-bonus-jililbdt111.shop
 topdate7.biz
