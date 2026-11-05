@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-11-03T19:06:17Z
+# Last update: 2026-11-05T19:30:00Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -319,8 +319,6 @@
 0.0.0.0 www.nbkangxi.com
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
-0.0.0.0 nextgearup.com
-0.0.0.0 www.nextgearup.com
 0.0.0.0 nguen.net
 0.0.0.0 www.nguen.net
 0.0.0.0 redlog.cl
@@ -578,6 +576,8 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+0.0.0.0 aktifbonus-girisleri.com
+0.0.0.0 www.aktifbonus-girisleri.com
 0.0.0.0 americanexpress-bonus5508.ink
 0.0.0.0 www.americanexpress-bonus5508.ink
 0.0.0.0 americanexpress-bonus5509.ink
@@ -592,6 +592,8 @@
 0.0.0.0 www.americanexpress-bonus5552.ink
 0.0.0.0 americanexpress-bonus6601.ink
 0.0.0.0 www.americanexpress-bonus6601.ink
+0.0.0.0 americanexpress-bonus6623.ink
+0.0.0.0 www.americanexpress-bonus6623.ink
 0.0.0.0 americanexpress-bonus6630.ink
 0.0.0.0 www.americanexpress-bonus6630.ink
 0.0.0.0 americanexpress-bonus6639.ink
@@ -622,12 +624,30 @@
 0.0.0.0 www.bestlinkdate9.biz
 0.0.0.0 betting-bonuses-mongolia.com
 0.0.0.0 www.betting-bonuses-mongolia.com
+0.0.0.0 bonus-casino097.buzz
+0.0.0.0 www.bonus-casino097.buzz
+0.0.0.0 bonus-casino161.buzz
+0.0.0.0 www.bonus-casino161.buzz
+0.0.0.0 bonus-casino300.buzz
+0.0.0.0 www.bonus-casino300.buzz
+0.0.0.0 bonus-casino640.buzz
+0.0.0.0 www.bonus-casino640.buzz
+0.0.0.0 bonus-casino693.buzz
+0.0.0.0 www.bonus-casino693.buzz
+0.0.0.0 bonus-casino821.buzz
+0.0.0.0 www.bonus-casino821.buzz
+0.0.0.0 bonus-casino832.buzz
+0.0.0.0 www.bonus-casino832.buzz
+0.0.0.0 bonus-casino938.buzz
+0.0.0.0 www.bonus-casino938.buzz
 0.0.0.0 bonus138link.cloud
 0.0.0.0 www.bonus138link.cloud
 0.0.0.0 bonus138on6.xyz
 0.0.0.0 www.bonus138on6.xyz
 0.0.0.0 bonusblas10.site
 0.0.0.0 www.bonusblas10.site
+0.0.0.0 bonuses-uk.com
+0.0.0.0 www.bonuses-uk.com
 0.0.0.0 bonusgiris4.icu
 0.0.0.0 www.bonusgiris4.icu
 0.0.0.0 bonusnewmember50.com
@@ -674,6 +694,8 @@
 0.0.0.0 www.date-jason.com
 0.0.0.0 date007.xyz
 0.0.0.0 www.date007.xyz
+0.0.0.0 date2keep.com
+0.0.0.0 www.date2keep.com
 0.0.0.0 date4free.cheap
 0.0.0.0 www.date4free.cheap
 0.0.0.0 date4free.lgbt
@@ -688,6 +710,8 @@
 0.0.0.0 www.datenschutz-check.ch
 0.0.0.0 dateonelove9.biz
 0.0.0.0 www.dateonelove9.biz
+0.0.0.0 dating-anastasiao.ru
+0.0.0.0 www.dating-anastasiao.ru
 0.0.0.0 dating-anastasiao.store
 0.0.0.0 www.dating-anastasiao.store
 0.0.0.0 dating18.click
@@ -712,10 +736,10 @@
 0.0.0.0 www.deneme-bonusu-tr.site
 0.0.0.0 denemebonusucv-zeus.cfd
 0.0.0.0 www.denemebonusucv-zeus.cfd
+0.0.0.0 denemebonususiteleri2025.org
+0.0.0.0 www.denemebonususiteleri2025.org
 0.0.0.0 denemebonusux-zeus.cfd
 0.0.0.0 www.denemebonusux-zeus.cfd
-0.0.0.0 easyandromanceonedate3.biz
-0.0.0.0 www.easyandromanceonedate3.biz
 0.0.0.0 easypartnersearchproonedate7.biz
 0.0.0.0 www.easypartnersearchproonedate7.biz
 0.0.0.0 gesundheitsdaten360.com
@@ -728,8 +752,6 @@
 0.0.0.0 www.godatingp3ro.biz
 0.0.0.0 hakodate-bpss.net
 0.0.0.0 www.hakodate-bpss.net
-0.0.0.0 hakodate-juku.com
-0.0.0.0 www.hakodate-juku.com
 0.0.0.0 hakodate-printing.com
 0.0.0.0 www.hakodate-printing.com
 0.0.0.0 hakodate-wq.com
@@ -746,6 +768,8 @@
 0.0.0.0 www.id-validate-service-d24.cyou
 0.0.0.0 id-validate-service-d9.cyou
 0.0.0.0 www.id-validate-service-d9.cyou
+0.0.0.0 kazino-bonus-za-depozit.info
+0.0.0.0 www.kazino-bonus-za-depozit.info
 0.0.0.0 mandate-targetstorageltd.com
 0.0.0.0 www.mandate-targetstorageltd.com
 0.0.0.0 mydatehub6.biz
@@ -764,6 +788,8 @@
 0.0.0.0 www.proflirtlandiodate6.biz
 0.0.0.0 pronowdating7.biz
 0.0.0.0 www.pronowdating7.biz
+0.0.0.0 quickdate5.biz
+0.0.0.0 www.quickdate5.biz
 0.0.0.0 quickdatinghu9b.biz
 0.0.0.0 www.quickdatinghu9b.biz
 0.0.0.0 quickplusmeetxdating6.biz
@@ -788,10 +814,14 @@
 0.0.0.0 www.topdating6.biz
 0.0.0.0 validate-immediate.app
 0.0.0.0 www.validate-immediate.app
+0.0.0.0 verde-bonus-code.pl
+0.0.0.0 www.verde-bonus-code.pl
 0.0.0.0 xn--bonusvrlden-q8a.se
 0.0.0.0 www.xn--bonusvrlden-q8a.se
 0.0.0.0 xn--datenintegritt-iib.com
 0.0.0.0 www.xn--datenintegritt-iib.com
+0.0.0.0 xn--insttningsfribonus-ntb.se
+0.0.0.0 www.xn--insttningsfribonus-ntb.se
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
 0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
 0.0.0.0 zonedate8goflirt.biz

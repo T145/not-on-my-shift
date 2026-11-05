@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-11-03T19:06:17Z
+! Last update: 2026-11-05T19:30:00Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -230,7 +230,6 @@
 ||mucc.com.au^
 ||nbkangxi.com^
 ||nectartrust.org.uk^
-||nextgearup.com^
 ||nguen.net^
 ||redlog.cl^
 ||synoviz.com^
@@ -380,6 +379,7 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+||aktifbonus-girisleri.com^
 ||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
 ||americanexpress-bonus5523.ink^
@@ -387,6 +387,7 @@
 ||americanexpress-bonus5538.ink^
 ||americanexpress-bonus5552.ink^
 ||americanexpress-bonus6601.ink^
+||americanexpress-bonus6623.ink^
 ||americanexpress-bonus6630.ink^
 ||americanexpress-bonus6639.ink^
 ||americanexpress-bonus6647.ink^
@@ -402,9 +403,18 @@
 ||americanexpress-bonusnutzen9950.ink^
 ||bestlinkdate9.biz^
 ||betting-bonuses-mongolia.com^
+||bonus-casino097.buzz^
+||bonus-casino161.buzz^
+||bonus-casino300.buzz^
+||bonus-casino640.buzz^
+||bonus-casino693.buzz^
+||bonus-casino821.buzz^
+||bonus-casino832.buzz^
+||bonus-casino938.buzz^
 ||bonus138link.cloud^
 ||bonus138on6.xyz^
 ||bonusblas10.site^
+||bonuses-uk.com^
 ||bonusgiris4.icu^
 ||bonusnewmember50.com^
 ||bonusnewmember50.org^
@@ -428,6 +438,7 @@
 ||date-free.org^
 ||date-jason.com^
 ||date007.xyz^
+||date2keep.com^
 ||date4free.cheap^
 ||date4free.lgbt^
 ||dateing99.com^
@@ -435,6 +446,7 @@
 ||datemeetup4.biz^
 ||datenschutz-check.ch^
 ||dateonelove9.biz^
+||dating-anastasiao.ru^
 ||dating-anastasiao.store^
 ||dating18.click^
 ||dating24hour.com^
@@ -447,15 +459,14 @@
 ||datingzonegoflirt2.biz^
 ||deneme-bonusu-tr.site^
 ||denemebonusucv-zeus.cfd^
+||denemebonususiteleri2025.org^
 ||denemebonusux-zeus.cfd^
-||easyandromanceonedate3.biz^
 ||easypartnersearchproonedate7.biz^
 ||gesundheitsdaten360.com^
 ||getdatecity9.biz^
 ||godateworld4.biz^
 ||godatingp3ro.biz^
 ||hakodate-bpss.net^
-||hakodate-juku.com^
 ||hakodate-printing.com^
 ||hakodate-wq.com^
 ||hakodate0104.net^
@@ -464,6 +475,7 @@
 ||id-validate-service-d12.cyou^
 ||id-validate-service-d24.cyou^
 ||id-validate-service-d9.cyou^
+||kazino-bonus-za-depozit.info^
 ||mandate-targetstorageltd.com^
 ||mydatehub6.biz^
 ||myzonedatingworld1.biz^
@@ -473,6 +485,7 @@
 ||prodating4.biz^
 ||proflirtlandiodate6.biz^
 ||pronowdating7.biz^
+||quickdate5.biz^
 ||quickdatinghu9b.biz^
 ||quickplusmeetxdating6.biz^
 ||seniordating-uk.xyz^
@@ -485,8 +498,10 @@
 ||topdateclub1.biz^
 ||topdating6.biz^
 ||validate-immediate.app^
+||verde-bonus-code.pl^
 ||xn--bonusvrlden-q8a.se^
 ||xn--datenintegritt-iib.com^
+||xn--insttningsfribonus-ntb.se^
 ||xn--sugardatingrdgivning-7zb.se^
 ||zonedate8goflirt.biz^
 
