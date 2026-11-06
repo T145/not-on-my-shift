@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-11-05T19:30:00Z
+! Last update: 2026-11-06T18:56:25Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -217,6 +217,7 @@
 ||clone.app.home-cost.com^
 ||comptoncymru.com^
 ||defencelover.in^
+||dexil.ru^
 ||eurosystemsrl.eu^
 ||galaxyfunbowl.gr^
 ||guzelbil.com^
@@ -230,6 +231,7 @@
 ||mucc.com.au^
 ||nbkangxi.com^
 ||nectartrust.org.uk^
+||nextgearup.com^
 ||nguen.net^
 ||redlog.cl^
 ||synoviz.com^
@@ -238,7 +240,6 @@
 ||trashstation.com^
 ||twospoonsfleet.co.uk^
 ||ultimatepreneur.com^
-||wowfollowers.com^
 
 ! === SCAMS ===
 ! These filters block pages which are known to scam people for money or gift cards
@@ -379,11 +380,11 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+||4matchcitydate3.biz^
 ||aktifbonus-girisleri.com^
 ||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
 ||americanexpress-bonus5523.ink^
-||americanexpress-bonus5524.ink^
 ||americanexpress-bonus5538.ink^
 ||americanexpress-bonus5552.ink^
 ||americanexpress-bonus6601.ink^
@@ -461,12 +462,14 @@
 ||denemebonusucv-zeus.cfd^
 ||denemebonususiteleri2025.org^
 ||denemebonusux-zeus.cfd^
+||easyandromanceonedate3.biz^
 ||easypartnersearchproonedate7.biz^
 ||gesundheitsdaten360.com^
 ||getdatecity9.biz^
 ||godateworld4.biz^
 ||godatingp3ro.biz^
 ||hakodate-bpss.net^
+||hakodate-juku.com^
 ||hakodate-printing.com^
 ||hakodate-wq.com^
 ||hakodate0104.net^
