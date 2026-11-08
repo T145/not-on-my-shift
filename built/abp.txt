@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-11-07T17:27:14Z
+! Last update: 2026-11-08T17:39:24Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -378,6 +378,7 @@
 ! because the pages are hacked or what, but I really want these gone.
 
 !  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+||aktifbonus-girisleri.com^
 ||americanexpress-bonus5508.ink^
 ||americanexpress-bonus5509.ink^
 ||americanexpress-bonus5523.ink^
@@ -399,8 +400,10 @@
 ||americanexpress-bonusnutzen9937.ink^
 ||americanexpress-bonusnutzen9943.ink^
 ||americanexpress-bonusnutzen9950.ink^
+||bestlinkdate9.biz^
 ||betting-bonuses-mongolia.com^
 ||bonus-casino097.buzz^
+||bonus-casino161.buzz^
 ||bonus-casino300.buzz^
 ||bonus-casino640.buzz^
 ||bonus-casino693.buzz^
@@ -413,6 +416,7 @@
 ||bonuses-uk.com^
 ||bonusgiris4.icu^
 ||bonusnewmember50.com^
+||bonusnewmember50.org^
 ||bonuspointsystem4.ru^
 ||bonuspointsystem5.ru^
 ||bonuswinrate777.click^
@@ -420,7 +424,6 @@
 ||candidates-thetalentedgehq.com^
 ||candidates-thetalentedgeteam.com^
 ||casinobonus1.se^
-||casinolevant-bonus2026.icu^
 ||clubdatingxconn6ect.biz^
 ||commerzbankbonusprogramms64.ink^
 ||commerzbankbonusprogramms82.ink^
@@ -428,7 +431,6 @@
 ||cuidate-skin.com^
 ||date-app.net^
 ||date-free.date^
-||date-free.gay^
 ||date-free.lgbt^
 ||date-free.org^
 ||date-jason.com^
@@ -455,7 +457,6 @@
 ||deneme-bonusu-tr.site^
 ||denemebonusucv-zeus.cfd^
 ||denemebonususiteleri2025.org^
-||denemebonusux-zeus.cfd^
 ||easyandromanceonedate3.biz^
 ||easypartnersearchproonedate7.biz^
 ||gesundheitsdaten360.com^
@@ -474,7 +475,8 @@
 ||id-validate-service-d9.cyou^
 ||kazino-bonus-za-depozit.info^
 ||mandate-targetstorageltd.com^
-||myzonedatingworld1.biz^
+||mydatehub6.biz^
+||no-deposit-bonus-casino-nz.online^
 ||partnersearchcitydate8.biz^
 ||playdate-now.com^
 ||prodating4.biz^
@@ -482,6 +484,7 @@
 ||pronowdating7.biz^
 ||quickdate5.biz^
 ||quickdatinghu9b.biz^
+||quickplusmeetxdating6.biz^
 ||seniordating-uk.xyz^
 ||smart4datingworld5.biz^
 ||smartdating03.biz^
@@ -493,7 +496,7 @@
 ||topdating6.biz^
 ||validate-immediate.app^
 ||xn--bonusvrlden-q8a.se^
-||xn--insttningsfribonus-ntb.se^
+||xn--datenintegritt-iib.com^
 ||xn--sugardatingrdgivning-7zb.se^
 ||zonedate8goflirt.biz^
 
