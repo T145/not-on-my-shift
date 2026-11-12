@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-11-08T17:39:24Z
+! Last update: 2026-11-12T19:35:44Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -230,8 +230,10 @@
 ||mucc.com.au^
 ||nbkangxi.com^
 ||nectartrust.org.uk^
+||nextgearup.com^
 ||nguen.net^
 ||redlog.cl^
+||robbreport.com.my^
 ||synoviz.com^
 ||tacloban.gov.ph^
 ||thozhilvarthalatest.com^
@@ -386,7 +388,6 @@
 ||americanexpress-bonus5538.ink^
 ||americanexpress-bonus5552.ink^
 ||americanexpress-bonus6601.ink^
-||americanexpress-bonus6623.ink^
 ||americanexpress-bonus6630.ink^
 ||americanexpress-bonus6639.ink^
 ||americanexpress-bonus6647.ink^
@@ -417,13 +418,12 @@
 ||bonusgiris4.icu^
 ||bonusnewmember50.com^
 ||bonusnewmember50.org^
-||bonuspointsystem4.ru^
-||bonuspointsystem5.ru^
 ||bonuswinrate777.click^
 ||candidates-thetalentedge.net^
 ||candidates-thetalentedgehq.com^
 ||candidates-thetalentedgeteam.com^
 ||casinobonus1.se^
+||casinolevant-bonus2026.icu^
 ||clubdatingxconn6ect.biz^
 ||commerzbankbonusprogramms64.ink^
 ||commerzbankbonusprogramms82.ink^
@@ -431,6 +431,7 @@
 ||cuidate-skin.com^
 ||date-app.net^
 ||date-free.date^
+||date-free.gay^
 ||date-free.lgbt^
 ||date-free.org^
 ||date-jason.com^
@@ -457,7 +458,7 @@
 ||deneme-bonusu-tr.site^
 ||denemebonusucv-zeus.cfd^
 ||denemebonususiteleri2025.org^
-||easyandromanceonedate3.biz^
+||denemebonusux-zeus.cfd^
 ||easypartnersearchproonedate7.biz^
 ||gesundheitsdaten360.com^
 ||getdatecity9.biz^
@@ -476,6 +477,7 @@
 ||kazino-bonus-za-depozit.info^
 ||mandate-targetstorageltd.com^
 ||mydatehub6.biz^
+||myzonedatingworld1.biz^
 ||no-deposit-bonus-casino-nz.online^
 ||partnersearchcitydate8.biz^
 ||playdate-now.com^
@@ -497,6 +499,7 @@
 ||validate-immediate.app^
 ||xn--bonusvrlden-q8a.se^
 ||xn--datenintegritt-iib.com^
+||xn--insttningsfribonus-ntb.se^
 ||xn--sugardatingrdgivning-7zb.se^
 ||zonedate8goflirt.biz^
 

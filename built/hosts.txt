@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-11-08T17:39:24Z
+# Last update: 2026-11-12T19:35:44Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -319,10 +319,14 @@
 0.0.0.0 www.nbkangxi.com
 0.0.0.0 nectartrust.org.uk
 0.0.0.0 www.nectartrust.org.uk
+0.0.0.0 nextgearup.com
+0.0.0.0 www.nextgearup.com
 0.0.0.0 nguen.net
 0.0.0.0 www.nguen.net
 0.0.0.0 redlog.cl
 0.0.0.0 www.redlog.cl
+0.0.0.0 robbreport.com.my
+0.0.0.0 www.robbreport.com.my
 0.0.0.0 synoviz.com
 0.0.0.0 www.synoviz.com
 0.0.0.0 tacloban.gov.ph
@@ -590,8 +594,6 @@
 0.0.0.0 www.americanexpress-bonus5552.ink
 0.0.0.0 americanexpress-bonus6601.ink
 0.0.0.0 www.americanexpress-bonus6601.ink
-0.0.0.0 americanexpress-bonus6623.ink
-0.0.0.0 www.americanexpress-bonus6623.ink
 0.0.0.0 americanexpress-bonus6630.ink
 0.0.0.0 www.americanexpress-bonus6630.ink
 0.0.0.0 americanexpress-bonus6639.ink
@@ -652,10 +654,6 @@
 0.0.0.0 www.bonusnewmember50.com
 0.0.0.0 bonusnewmember50.org
 0.0.0.0 www.bonusnewmember50.org
-0.0.0.0 bonuspointsystem4.ru
-0.0.0.0 www.bonuspointsystem4.ru
-0.0.0.0 bonuspointsystem5.ru
-0.0.0.0 www.bonuspointsystem5.ru
 0.0.0.0 bonuswinrate777.click
 0.0.0.0 www.bonuswinrate777.click
 0.0.0.0 candidates-thetalentedge.net
@@ -666,6 +664,8 @@
 0.0.0.0 www.candidates-thetalentedgeteam.com
 0.0.0.0 casinobonus1.se
 0.0.0.0 www.casinobonus1.se
+0.0.0.0 casinolevant-bonus2026.icu
+0.0.0.0 www.casinolevant-bonus2026.icu
 0.0.0.0 clubdatingxconn6ect.biz
 0.0.0.0 www.clubdatingxconn6ect.biz
 0.0.0.0 commerzbankbonusprogramms64.ink
@@ -680,6 +680,8 @@
 0.0.0.0 www.date-app.net
 0.0.0.0 date-free.date
 0.0.0.0 www.date-free.date
+0.0.0.0 date-free.gay
+0.0.0.0 www.date-free.gay
 0.0.0.0 date-free.lgbt
 0.0.0.0 www.date-free.lgbt
 0.0.0.0 date-free.org
@@ -732,8 +734,8 @@
 0.0.0.0 www.denemebonusucv-zeus.cfd
 0.0.0.0 denemebonususiteleri2025.org
 0.0.0.0 www.denemebonususiteleri2025.org
-0.0.0.0 easyandromanceonedate3.biz
-0.0.0.0 www.easyandromanceonedate3.biz
+0.0.0.0 denemebonusux-zeus.cfd
+0.0.0.0 www.denemebonusux-zeus.cfd
 0.0.0.0 easypartnersearchproonedate7.biz
 0.0.0.0 www.easypartnersearchproonedate7.biz
 0.0.0.0 gesundheitsdaten360.com
@@ -770,6 +772,8 @@
 0.0.0.0 www.mandate-targetstorageltd.com
 0.0.0.0 mydatehub6.biz
 0.0.0.0 www.mydatehub6.biz
+0.0.0.0 myzonedatingworld1.biz
+0.0.0.0 www.myzonedatingworld1.biz
 0.0.0.0 no-deposit-bonus-casino-nz.online
 0.0.0.0 www.no-deposit-bonus-casino-nz.online
 0.0.0.0 partnersearchcitydate8.biz
@@ -812,6 +816,8 @@
 0.0.0.0 www.xn--bonusvrlden-q8a.se
 0.0.0.0 xn--datenintegritt-iib.com
 0.0.0.0 www.xn--datenintegritt-iib.com
+0.0.0.0 xn--insttningsfribonus-ntb.se
+0.0.0.0 www.xn--insttningsfribonus-ntb.se
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
 0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
 0.0.0.0 zonedate8goflirt.biz
