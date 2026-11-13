@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/T145/not-on-my-shift/
 ! License: https://orca.pet/#license
 ! Expires: 24h
-! Last update: 2026-11-12T19:35:44Z
+! Last update: 2026-11-13T19:13:13Z
 
 ! === PHISING ===
 ! These filters block pages that are not yet blocked by Google Safe Search
@@ -388,6 +388,7 @@
 ||americanexpress-bonus5538.ink^
 ||americanexpress-bonus5552.ink^
 ||americanexpress-bonus6601.ink^
+||americanexpress-bonus6623.ink^
 ||americanexpress-bonus6630.ink^
 ||americanexpress-bonus6639.ink^
 ||americanexpress-bonus6647.ink^
@@ -397,14 +398,12 @@
 ||americanexpress-bonusnutzen9923.ink^
 ||americanexpress-bonusnutzen9929.ink^
 ||americanexpress-bonusnutzen9933.ink^
-||americanexpress-bonusnutzen9936.ink^
 ||americanexpress-bonusnutzen9937.ink^
 ||americanexpress-bonusnutzen9943.ink^
 ||americanexpress-bonusnutzen9950.ink^
 ||bestlinkdate9.biz^
 ||betting-bonuses-mongolia.com^
 ||bonus-casino097.buzz^
-||bonus-casino161.buzz^
 ||bonus-casino300.buzz^
 ||bonus-casino640.buzz^
 ||bonus-casino693.buzz^
@@ -440,8 +439,6 @@
 ||date4free.cheap^
 ||date4free.lgbt^
 ||dateing99.com^
-||dateiomat1ch.biz^
-||datemeetup4.biz^
 ||datenschutz-check.ch^
 ||dateonelove9.biz^
 ||dating-anastasiao.ru^
@@ -455,10 +452,10 @@
 ||datingmat3ch.biz^
 ||datingp5ro.biz^
 ||datingzonegoflirt2.biz^
-||deneme-bonusu-tr.site^
 ||denemebonusucv-zeus.cfd^
 ||denemebonususiteleri2025.org^
 ||denemebonusux-zeus.cfd^
+||easyandromanceonedate3.biz^
 ||easypartnersearchproonedate7.biz^
 ||gesundheitsdaten360.com^
 ||getdatecity9.biz^
@@ -468,7 +465,6 @@
 ||hakodate-juku.com^
 ||hakodate-printing.com^
 ||hakodate-wq.com^
-||hakodate0104.net^
 ||holiganbet-bonus-site.icu^
 ||holiganbet-bonus12agustos.icu^
 ||id-validate-service-d12.cyou^
@@ -483,7 +479,6 @@
 ||playdate-now.com^
 ||prodating4.biz^
 ||proflirtlandiodate6.biz^
-||pronowdating7.biz^
 ||quickdate5.biz^
 ||quickdatinghu9b.biz^
 ||quickplusmeetxdating6.biz^
@@ -494,12 +489,9 @@
 ||start-your-lucky-bonus-jililbdt111.shop^
 ||topdate7.biz^
 ||topdatecity4.biz^
-||topdateclub1.biz^
 ||topdating6.biz^
-||validate-immediate.app^
 ||xn--bonusvrlden-q8a.se^
 ||xn--datenintegritt-iib.com^
-||xn--insttningsfribonus-ntb.se^
 ||xn--sugardatingrdgivning-7zb.se^
 ||zonedate8goflirt.biz^
 
