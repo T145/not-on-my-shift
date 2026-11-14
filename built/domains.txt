@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-11-13T19:13:13Z
+# Last update: 2026-11-14T17:43:33Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -219,15 +219,12 @@ magicboximportados.com.br
 mistc.es
 mouwz.nl
 mucc.com.au
-nbkangxi.com
 nectartrust.org.uk
 nextgearup.com
 nguen.net
 redlog.cl
 robbreport.com.my
-synoviz.com
 tacloban.gov.ph
-thozhilvarthalatest.com
 trashstation.com
 twospoonsfleet.co.uk
 ultimatepreneur.com
@@ -389,12 +386,13 @@ americanexpress-bonusnutzen9915.ink
 americanexpress-bonusnutzen9923.ink
 americanexpress-bonusnutzen9929.ink
 americanexpress-bonusnutzen9933.ink
+americanexpress-bonusnutzen9936.ink
 americanexpress-bonusnutzen9937.ink
 americanexpress-bonusnutzen9943.ink
 americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
 betting-bonuses-mongolia.com
-bonus-casino097.buzz
+bonus-casino161.buzz
 bonus-casino300.buzz
 bonus-casino640.buzz
 bonus-casino693.buzz
@@ -402,10 +400,10 @@ bonus-casino821.buzz
 bonus-casino832.buzz
 bonus-casino938.buzz
 bonus138link.cloud
-bonus138on6.xyz
 bonusblas10.site
 bonuses-uk.com
 bonusgiris4.icu
+bonuslugiriis2025.com
 bonusnewmember50.com
 bonusnewmember50.org
 bonuswinrate777.click
@@ -419,9 +417,7 @@ commerzbankbonusprogramms64.ink
 commerzbankbonusprogramms82.ink
 commerzbankbonusprogramms88.ink
 cuidate-skin.com
-date-app.net
 date-free.date
-date-free.gay
 date-free.lgbt
 date-free.org
 date-jason.com
@@ -439,14 +435,13 @@ dating24hour.com
 dating4free.co
 datingcity3.biz
 datingclub3.biz
-datingiopartnersearch5.biz
 datingmat3ch.biz
 datingp5ro.biz
 datingzonegoflirt2.biz
+deneme-bonusu-tr.site
 denemebonusucv-zeus.cfd
 denemebonususiteleri2025.org
 denemebonusux-zeus.cfd
-easyandromanceonedate3.biz
 easypartnersearchproonedate7.biz
 gesundheitsdaten360.com
 getdatecity9.biz
@@ -456,6 +451,7 @@ hakodate-bpss.net
 hakodate-juku.com
 hakodate-printing.com
 hakodate-wq.com
+hakodate0104.net
 holiganbet-bonus-site.icu
 holiganbet-bonus12agustos.icu
 id-validate-service-d12.cyou
@@ -470,6 +466,7 @@ partnersearchcitydate8.biz
 playdate-now.com
 prodating4.biz
 proflirtlandiodate6.biz
+pronowdating7.biz
 quickdate5.biz
 quickdatinghu9b.biz
 quickplusmeetxdating6.biz
@@ -480,9 +477,11 @@ smartdating18.biz
 start-your-lucky-bonus-jililbdt111.shop
 topdate7.biz
 topdatecity4.biz
+topdateclub1.biz
 topdating6.biz
 xn--bonusvrlden-q8a.se
 xn--datenintegritt-iib.com
+xn--insttningsfribonus-ntb.se
 xn--sugardatingrdgivning-7zb.se
 zonedate8goflirt.biz
 
