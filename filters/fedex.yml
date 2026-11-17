@@ -7,14 +7,12 @@ domains:
 - clone.app.home-cost.com
 - comptoncymru.com
 - defencelover.in
-- dexil.ru
 - eurosystemsrl.eu
 - fraternitykerala.org
 - galaxyfunbowl.gr
 - guzelbil.com
 - hongqiqujiu.com
 - imrt.ac.in
-- klinikmetamorf.com
 - kmtks.org.tw
 - loanglide.com
 - magicboximportados.com.br
@@ -74,6 +72,7 @@ ignored_domains:
 - courseunlock.org
 - covid19.url.edu.gt
 - cssincronbucuresti.ro
+- dexil.ru
 - dgeneration.in
 - divam.ir
 - escuelaargentina.cl
@@ -101,6 +100,7 @@ ignored_domains:
 - joliveer.com
 - justparty.com.br
 - kidimy.org
+- klinikmetamorf.com
 - latesttechnologyz.com
 - lova.network
 - machupicchutraveling.com
