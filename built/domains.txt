@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-11-18T20:01:09Z
+# Last update: 2026-11-19T20:01:17Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -208,7 +208,6 @@ clickedgesolutions.com
 clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
-dexil.ru
 eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
@@ -217,6 +216,7 @@ hongqiqujiu.com
 imrt.ac.in
 kmtks.org.tw
 loanglide.com
+machupicchutraveling.com
 magicboximportados.com.br
 mistc.es
 mouwz.nl
@@ -372,6 +372,7 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+4matchcitydate3.biz
 aktifbonus-girisleri.com
 americanexpress-bonus5508.ink
 americanexpress-bonus5509.ink
@@ -395,9 +396,11 @@ americanexpress-bonusnutzen9937.ink
 americanexpress-bonusnutzen9943.ink
 americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
+betting-bonuses-mongolia.com
 bonus-casino097.buzz
 bonus-casino161.buzz
 bonus-casino300.buzz
+bonus-casino640.buzz
 bonus-casino693.buzz
 bonus-casino821.buzz
 bonus-casino832.buzz
@@ -407,6 +410,7 @@ bonus138on6.xyz
 bonusblas10.site
 bonuses-uk.com
 bonusgiris4.icu
+bonushub2026.top
 bonuslugiriis2025.com
 bonusnewmember50.com
 bonusnewmember50.org
@@ -415,6 +419,7 @@ bonuswinrate777.click
 candidates-thetalentedge.net
 candidates-thetalentedgehq.com
 candidates-thetalentedgeteam.com
+casinobonus1.se
 casinolevant-bonus2026.icu
 clubdatingxconn6ect.biz
 commerzbankbonusprogramms64.ink
@@ -424,11 +429,13 @@ cuidate-skin.com
 date-app.net
 date-free.date
 date-free.gay
+date-free.lgbt
 date-free.org
 date-jason.com
 date007.xyz
 date2keep.com
 date4free.cheap
+date4free.lgbt
 dateing99.com
 datenschutz-check.ch
 dateonelove9.biz
@@ -436,7 +443,6 @@ dating-anastasiao.ru
 dating-anastasiao.store
 dating18.click
 dating24hour.com
-dating4free.co
 datingcity3.biz
 datingclub3.biz
 datingiopartnersearch5.biz
@@ -447,13 +453,13 @@ deneme-bonusu-tr.site
 denemebonusucv-zeus.cfd
 denemebonususiteleri2025.org
 denemebonusux-zeus.cfd
+easyandromanceonedate3.biz
 easypartnersearchproonedate7.biz
 gesundheitsdaten360.com
 getdatecity9.biz
 godateworld4.biz
 godatingp3ro.biz
 hakodate-bpss.net
-hakodate-juku.com
 hakodate-printing.com
 hakodate-wq.com
 hakodate0104.net
