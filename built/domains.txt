@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-11-19T20:01:17Z
+# Last update: 2026-11-22T19:05:58Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -208,6 +208,7 @@ clickedgesolutions.com
 clone.app.home-cost.com
 comptoncymru.com
 defencelover.in
+dexil.ru
 eurosystemsrl.eu
 fraternitykerala.org
 galaxyfunbowl.gr
@@ -372,8 +373,6 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
-4matchcitydate3.biz
-aktifbonus-girisleri.com
 americanexpress-bonus5508.ink
 americanexpress-bonus5509.ink
 americanexpress-bonus5523.ink
@@ -410,8 +409,6 @@ bonus138on6.xyz
 bonusblas10.site
 bonuses-uk.com
 bonusgiris4.icu
-bonushub2026.top
-bonuslugiriis2025.com
 bonusnewmember50.com
 bonusnewmember50.org
 bonuspointsystem4.ru
@@ -439,10 +436,8 @@ date4free.lgbt
 dateing99.com
 datenschutz-check.ch
 dateonelove9.biz
-dating-anastasiao.ru
 dating-anastasiao.store
-dating18.click
-dating24hour.com
+dating4free.co
 datingcity3.biz
 datingclub3.biz
 datingiopartnersearch5.biz
@@ -453,24 +448,21 @@ deneme-bonusu-tr.site
 denemebonusucv-zeus.cfd
 denemebonususiteleri2025.org
 denemebonusux-zeus.cfd
-easyandromanceonedate3.biz
 easypartnersearchproonedate7.biz
 gesundheitsdaten360.com
 getdatecity9.biz
 godateworld4.biz
 godatingp3ro.biz
 hakodate-bpss.net
+hakodate-juku.com
 hakodate-printing.com
 hakodate-wq.com
-hakodate0104.net
-holiganbet-bonus-site.icu
 holiganbet-bonus12agustos.icu
 id-validate-service-d12.cyou
 id-validate-service-d24.cyou
 id-validate-service-d9.cyou
 kazino-bonus-za-depozit.info
 mandate-targetstorageltd.com
-matbetbonus2025.net
 mydatehub6.biz
 myzonedatingworld1.biz
 no-deposit-bonus-casino-nz.online
@@ -483,7 +475,6 @@ quickdate5.biz
 quickdatinghu9b.biz
 quickplusmeetxdating6.biz
 seniordating-uk.xyz
-smart4datingworld5.biz
 smartdating03.biz
 smartdating18.biz
 start-your-lucky-bonus-jililbdt111.shop
@@ -491,10 +482,10 @@ topdate7.biz
 topdatecity4.biz
 topdateclub1.biz
 topdating6.biz
-xn--bonusvrlden-q8a.se
 xn--datenintegritt-iib.com
 xn--insttningsfribonus-ntb.se
 xn--sugardatingrdgivning-7zb.se
+yepcasinobonus5.com
 zonedate8goflirt.biz
 
 # 2021-02-17 An advertising company that tricks users into allowing notifications "for confirming they are not robots".
