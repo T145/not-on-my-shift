@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-11-24T22:00:19Z
+# Last update: 2026-11-27T20:43:40Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -305,8 +305,6 @@
 0.0.0.0 www.hongqiqujiu.com
 0.0.0.0 imrt.ac.in
 0.0.0.0 www.imrt.ac.in
-0.0.0.0 kmtks.org.tw
-0.0.0.0 www.kmtks.org.tw
 0.0.0.0 loanglide.com
 0.0.0.0 www.loanglide.com
 0.0.0.0 machupicchutraveling.com
@@ -582,10 +580,14 @@
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+0.0.0.0 4matchcitydate3.biz
+0.0.0.0 www.4matchcitydate3.biz
 0.0.0.0 aktifbonus-girisleri.com
 0.0.0.0 www.aktifbonus-girisleri.com
 0.0.0.0 americanexpress-bonus5508.ink
 0.0.0.0 www.americanexpress-bonus5508.ink
+0.0.0.0 americanexpress-bonus5509.ink
+0.0.0.0 www.americanexpress-bonus5509.ink
 0.0.0.0 americanexpress-bonus5523.ink
 0.0.0.0 www.americanexpress-bonus5523.ink
 0.0.0.0 americanexpress-bonus5524.ink
@@ -614,6 +616,8 @@
 0.0.0.0 www.americanexpress-bonusnutzen9923.ink
 0.0.0.0 americanexpress-bonusnutzen9929.ink
 0.0.0.0 www.americanexpress-bonusnutzen9929.ink
+0.0.0.0 americanexpress-bonusnutzen9933.ink
+0.0.0.0 www.americanexpress-bonusnutzen9933.ink
 0.0.0.0 americanexpress-bonusnutzen9936.ink
 0.0.0.0 www.americanexpress-bonusnutzen9936.ink
 0.0.0.0 americanexpress-bonusnutzen9937.ink
@@ -624,8 +628,6 @@
 0.0.0.0 www.americanexpress-bonusnutzen9950.ink
 0.0.0.0 bestlinkdate9.biz
 0.0.0.0 www.bestlinkdate9.biz
-0.0.0.0 bet7k-bonus-brazil.com
-0.0.0.0 www.bet7k-bonus-brazil.com
 0.0.0.0 betting-bonuses-mongolia.com
 0.0.0.0 www.betting-bonuses-mongolia.com
 0.0.0.0 bonus-casino097.buzz
@@ -654,12 +656,12 @@
 0.0.0.0 www.bonuses-uk.com
 0.0.0.0 bonusgiris4.icu
 0.0.0.0 www.bonusgiris4.icu
+0.0.0.0 bonuslugiriis2025.com
+0.0.0.0 www.bonuslugiriis2025.com
 0.0.0.0 bonusnewmember50.com
 0.0.0.0 www.bonusnewmember50.com
 0.0.0.0 bonusnewmember50.org
 0.0.0.0 www.bonusnewmember50.org
-0.0.0.0 bonuswinrate777.click
-0.0.0.0 www.bonuswinrate777.click
 0.0.0.0 candidates-thetalentedge.net
 0.0.0.0 www.candidates-thetalentedge.net
 0.0.0.0 candidates-thetalentedgehq.com
@@ -694,22 +696,18 @@
 0.0.0.0 www.date-jason.com
 0.0.0.0 date007.xyz
 0.0.0.0 www.date007.xyz
-0.0.0.0 date2keep.com
-0.0.0.0 www.date2keep.com
 0.0.0.0 date4free.cheap
 0.0.0.0 www.date4free.cheap
 0.0.0.0 date4free.lgbt
 0.0.0.0 www.date4free.lgbt
-0.0.0.0 dateing99.com
-0.0.0.0 www.dateing99.com
 0.0.0.0 datenschutz-check.ch
 0.0.0.0 www.datenschutz-check.ch
+0.0.0.0 datenzentrale24.ch
+0.0.0.0 www.datenzentrale24.ch
 0.0.0.0 dateonelove9.biz
 0.0.0.0 www.dateonelove9.biz
 0.0.0.0 dating-anastasiao.ru
 0.0.0.0 www.dating-anastasiao.ru
-0.0.0.0 dating-anastasiao.store
-0.0.0.0 www.dating-anastasiao.store
 0.0.0.0 dating18.click
 0.0.0.0 www.dating18.click
 0.0.0.0 dating4free.co
@@ -728,14 +726,12 @@
 0.0.0.0 www.datingzonegoflirt2.biz
 0.0.0.0 deneme-bonusu-tr.site
 0.0.0.0 www.deneme-bonusu-tr.site
-0.0.0.0 denemebonusucv-zeus.cfd
-0.0.0.0 www.denemebonusucv-zeus.cfd
 0.0.0.0 denemebonususiteleri2025.org
 0.0.0.0 www.denemebonususiteleri2025.org
-0.0.0.0 denemebonusux-zeus.cfd
-0.0.0.0 www.denemebonusux-zeus.cfd
 0.0.0.0 gesundheitsdaten360.com
 0.0.0.0 www.gesundheitsdaten360.com
+0.0.0.0 getdatecity9.biz
+0.0.0.0 www.getdatecity9.biz
 0.0.0.0 godateworld4.biz
 0.0.0.0 www.godateworld4.biz
 0.0.0.0 godatingp3ro.biz
@@ -746,10 +742,6 @@
 0.0.0.0 www.hakodate-juku.com
 0.0.0.0 hakodate-printing.com
 0.0.0.0 www.hakodate-printing.com
-0.0.0.0 hakodate-wq.com
-0.0.0.0 www.hakodate-wq.com
-0.0.0.0 hakodate0104.net
-0.0.0.0 www.hakodate0104.net
 0.0.0.0 holiganbet-bonus-site.icu
 0.0.0.0 www.holiganbet-bonus-site.icu
 0.0.0.0 holiganbet-bonus12agustos.icu
@@ -764,8 +756,6 @@
 0.0.0.0 www.kazino-bonus-za-depozit.info
 0.0.0.0 mandate-targetstorageltd.com
 0.0.0.0 www.mandate-targetstorageltd.com
-0.0.0.0 matbetbonus2025.net
-0.0.0.0 www.matbetbonus2025.net
 0.0.0.0 mydatehub6.biz
 0.0.0.0 www.mydatehub6.biz
 0.0.0.0 myzonedatingworld1.biz
@@ -776,6 +766,8 @@
 0.0.0.0 www.partnersearchcitydate8.biz
 0.0.0.0 playdate-now.com
 0.0.0.0 www.playdate-now.com
+0.0.0.0 prize-link.work
+0.0.0.0 www.prize-link.work
 0.0.0.0 prodating4.biz
 0.0.0.0 www.prodating4.biz
 0.0.0.0 proflirtlandiodate6.biz
@@ -788,8 +780,6 @@
 0.0.0.0 www.quickdatinghu9b.biz
 0.0.0.0 quickplusmeetxdating6.biz
 0.0.0.0 www.quickplusmeetxdating6.biz
-0.0.0.0 seniordating-uk.xyz
-0.0.0.0 www.seniordating-uk.xyz
 0.0.0.0 smart4datingworld5.biz
 0.0.0.0 www.smart4datingworld5.biz
 0.0.0.0 smartdating03.biz
@@ -810,8 +800,6 @@
 0.0.0.0 www.xn--bonusvrlden-q8a.se
 0.0.0.0 xn--datenintegritt-iib.com
 0.0.0.0 www.xn--datenintegritt-iib.com
-0.0.0.0 xn--insttningsfribonus-ntb.se
-0.0.0.0 www.xn--insttningsfribonus-ntb.se
 0.0.0.0 xn--sugardatingrdgivning-7zb.se
 0.0.0.0 www.xn--sugardatingrdgivning-7zb.se
 0.0.0.0 yepcasinobonus5.com

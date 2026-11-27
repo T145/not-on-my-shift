@@ -3,7 +3,7 @@
 # Homepage: https://github.com/T145/not-on-my-shift/
 # License: https://orca.pet/#license
 # Expires: 24h
-# Last update: 2026-11-24T22:00:19Z
+# Last update: 2026-11-27T20:43:40Z
 
 # === PHISING ===
 # These filters block pages that are not yet blocked by Google Safe Search
@@ -214,7 +214,6 @@ galaxyfunbowl.gr
 guzelbil.com
 hongqiqujiu.com
 imrt.ac.in
-kmtks.org.tw
 loanglide.com
 machupicchutraveling.com
 magicboximportados.com.br
@@ -373,8 +372,10 @@ centent.steamplay.me
 # because the pages are hacked or what, but I really want these gone.
 
 #  - https://bestprizesday2.life/?u=tqck80z&o=zdqr96x&t=DESKuniqANDsearch
+4matchcitydate3.biz
 aktifbonus-girisleri.com
 americanexpress-bonus5508.ink
+americanexpress-bonus5509.ink
 americanexpress-bonus5523.ink
 americanexpress-bonus5524.ink
 americanexpress-bonus5538.ink
@@ -389,12 +390,12 @@ americanexpress-bonusnutzen9912.ink
 americanexpress-bonusnutzen9915.ink
 americanexpress-bonusnutzen9923.ink
 americanexpress-bonusnutzen9929.ink
+americanexpress-bonusnutzen9933.ink
 americanexpress-bonusnutzen9936.ink
 americanexpress-bonusnutzen9937.ink
 americanexpress-bonusnutzen9943.ink
 americanexpress-bonusnutzen9950.ink
 bestlinkdate9.biz
-bet7k-bonus-brazil.com
 betting-bonuses-mongolia.com
 bonus-casino097.buzz
 bonus-casino161.buzz
@@ -409,9 +410,9 @@ bonus138on6.xyz
 bonusblas10.site
 bonuses-uk.com
 bonusgiris4.icu
+bonuslugiriis2025.com
 bonusnewmember50.com
 bonusnewmember50.org
-bonuswinrate777.click
 candidates-thetalentedge.net
 candidates-thetalentedgehq.com
 candidates-thetalentedgeteam.com
@@ -429,14 +430,12 @@ date-free.lgbt
 date-free.org
 date-jason.com
 date007.xyz
-date2keep.com
 date4free.cheap
 date4free.lgbt
-dateing99.com
 datenschutz-check.ch
+datenzentrale24.ch
 dateonelove9.biz
 dating-anastasiao.ru
-dating-anastasiao.store
 dating18.click
 dating4free.co
 datingcity3.biz
@@ -446,17 +445,14 @@ datingmat3ch.biz
 datingp5ro.biz
 datingzonegoflirt2.biz
 deneme-bonusu-tr.site
-denemebonusucv-zeus.cfd
 denemebonususiteleri2025.org
-denemebonusux-zeus.cfd
 gesundheitsdaten360.com
+getdatecity9.biz
 godateworld4.biz
 godatingp3ro.biz
 hakodate-bpss.net
 hakodate-juku.com
 hakodate-printing.com
-hakodate-wq.com
-hakodate0104.net
 holiganbet-bonus-site.icu
 holiganbet-bonus12agustos.icu
 id-validate-service-d12.cyou
@@ -464,19 +460,18 @@ id-validate-service-d24.cyou
 id-validate-service-d9.cyou
 kazino-bonus-za-depozit.info
 mandate-targetstorageltd.com
-matbetbonus2025.net
 mydatehub6.biz
 myzonedatingworld1.biz
 no-deposit-bonus-casino-nz.online
 partnersearchcitydate8.biz
 playdate-now.com
+prize-link.work
 prodating4.biz
 proflirtlandiodate6.biz
 pronowdating7.biz
 quickdate5.biz
 quickdatinghu9b.biz
 quickplusmeetxdating6.biz
-seniordating-uk.xyz
 smart4datingworld5.biz
 smartdating03.biz
 smartdating18.biz
@@ -487,7 +482,6 @@ topdateclub1.biz
 topdating6.biz
 xn--bonusvrlden-q8a.se
 xn--datenintegritt-iib.com
-xn--insttningsfribonus-ntb.se
 xn--sugardatingrdgivning-7zb.se
 yepcasinobonus5.com
 zonedate8goflirt.biz
